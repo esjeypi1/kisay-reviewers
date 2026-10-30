@@ -389,6 +389,156 @@
     "verified": true
   },
   {
+    "id": "G9-DNA-025",
+    "domain": "grade-9",
+    "subtopic": "DNA replication and mutations",
+    "difficulty": "easy",
+    "question": "Which statement correctly describes how DNA, genes, and chromosomes are related?",
+    "choices": [
+      "A chromosome is a long, coiled DNA molecule that contains many genes",
+      "A gene contains many chromosomes",
+      "DNA is made of chromosomes, which are made of genes",
+      "Genes are found outside the nucleus, while chromosomes are inside"
+    ],
+    "answerIndex": 0,
+    "explanation": "**DNA** is the molecule that carries genetic information. A **gene** is a short segment of DNA that codes for a trait, and a **chromosome** is a long DNA molecule, tightly coiled, that carries **many genes**. So the order from smallest to largest is gene, then DNA molecule, then chromosome, all inside the nucleus."
+  },
+  {
+    "id": "G9-DNA-026",
+    "domain": "grade-9",
+    "subtopic": "DNA replication and mutations",
+    "difficulty": "easy",
+    "question": "How many chromosomes are found in a normal human body cell?",
+    "choices": [
+      "23",
+      "48",
+      "46, in 23 pairs",
+      "92"
+    ],
+    "answerIndex": 2,
+    "explanation": "Human body cells have **46 chromosomes** arranged in **23 pairs**, one of each pair from each parent. Egg and sperm cells have 23, and 92 is double the normal number."
+  },
+  {
+    "id": "G9-DNA-027",
+    "domain": "grade-9",
+    "subtopic": "DNA replication and mutations",
+    "difficulty": "easy",
+    "question": "In the twisted-ladder model of DNA, what forms the two sides of the ladder?",
+    "choices": [
+      "Pairs of nitrogenous bases",
+      "Alternating sugar and phosphate groups",
+      "Amino acids",
+      "Whole chromosomes"
+    ],
+    "answerIndex": 1,
+    "explanation": "The **sides** (backbone) of the DNA ladder are made of **alternating deoxyribose sugar and phosphate** groups. The **rungs** are the paired nitrogenous bases (A with T, G with C). Amino acids make up proteins, not DNA."
+  },
+  {
+    "id": "G9-DNA-028",
+    "domain": "grade-9",
+    "subtopic": "DNA replication and mutations",
+    "difficulty": "easy",
+    "question": "Mutations can be caused by radiation, chemicals, and infectious agents. Which of these is an infectious agent that can cause mutations?",
+    "choices": [
+      "Ultraviolet light",
+      "Tobacco smoke",
+      "X-rays",
+      "Human papillomavirus (HPV)"
+    ],
+    "answerIndex": 3,
+    "explanation": "Some **viruses**, such as **HPV**, insert their genetic material into human cells and can cause mutations that lead to cancer. Ultraviolet light and X-rays are forms of **radiation**, and tobacco smoke contains harmful **chemicals**."
+  },
+  {
+    "id": "G9-DNA-029",
+    "domain": "grade-9",
+    "subtopic": "DNA replication and mutations",
+    "difficulty": "medium",
+    "question": "Which is an example of a beneficial mutation?",
+    "choices": [
+      "A mutation that lets some adults keep digesting the sugar in milk",
+      "A mutation that causes sickle-shaped red blood cells in a person with two copies",
+      "A mutation that causes skin cancer",
+      "A mutation that changes one base but does not change the protein"
+    ],
+    "answerIndex": 0,
+    "explanation": "Being able to digest **lactose** (milk sugar) as an adult gives a **benefit** where milk is an important food. Sickle cell disease and skin cancer are **harmful** effects, and a base change that does not change the protein is a **neutral** mutation."
+  },
+  {
+    "id": "G9-DNA-030",
+    "domain": "grade-9",
+    "subtopic": "DNA replication and mutations",
+    "difficulty": "medium",
+    "question": "Why do X-ray technicians stand behind a protective wall or wear lead aprons?",
+    "choices": [
+      "X-rays make the body produce too many red blood cells",
+      "Lead helps the body copy DNA faster",
+      "Repeated exposure to radiation can damage DNA and cause mutations",
+      "X-rays only affect metal objects"
+    ],
+    "answerIndex": 2,
+    "explanation": "X-rays are high-energy **radiation** that can break or change **DNA**. One medical X-ray is a small dose, but technicians work with X-rays every day, so they use **lead shielding** to limit their total exposure and lower the risk of mutations and cancer."
+  },
+  {
+    "id": "G9-DNA-031",
+    "domain": "grade-9",
+    "subtopic": "DNA replication and mutations",
+    "difficulty": "medium",
+    "question": "Which change is a chromosomal mutation rather than a gene mutation?",
+    "choices": [
+      "One base in a gene is replaced by another",
+      "A large piece of a chromosome breaks off and is lost",
+      "One base is added to a gene",
+      "One base is removed from a gene"
+    ],
+    "answerIndex": 1,
+    "explanation": "A **chromosomal mutation** changes the **structure or number of whole chromosomes**, such as losing a large piece (deletion). Replacing, adding, or removing a single base is a **gene (point) mutation** because it affects only a small part of one gene."
+  },
+  {
+    "id": "G9-DNA-032",
+    "domain": "grade-9",
+    "subtopic": "DNA replication and mutations",
+    "difficulty": "medium",
+    "question": "A mutation in the cells of one branch of a mango tree makes that branch produce sweeter fruit. Can this trait be passed on to new trees?",
+    "choices": [
+      "No, mutations in plants can never be passed on",
+      "Yes, but only through the tree's roots",
+      "No, because mutations only happen in animals",
+      "Yes, if new trees are grown from cuttings or grafts taken from that branch"
+    ],
+    "answerIndex": 3,
+    "explanation": "The mutation is in **body cells** of the branch, not in seeds. Plants can be reproduced **asexually** by grafting or cuttings, and the new tree grows from those mutated cells, so it keeps the trait. Many fruit varieties started this way. Mutations happen in all living things."
+  },
+  {
+    "id": "G9-DNA-033",
+    "domain": "grade-9",
+    "subtopic": "DNA replication and mutations",
+    "difficulty": "medium",
+    "question": "Chemicals in tobacco smoke are linked to lung cancer. How do they cause it?",
+    "choices": [
+      "They are mutagens that damage the DNA of lung cells, which may then divide out of control",
+      "They block oxygen so lung cells stop dividing",
+      "They add new chromosomes to lung cells",
+      "They change the lungs into a different organ"
+    ],
+    "answerIndex": 0,
+    "explanation": "Many chemicals in tobacco smoke are **mutagens**. They change the **DNA** of lung cells, and if mutations affect the genes that control cell division, the cells can **divide uncontrollably** and form a tumor. That is the opposite of cells stopping division."
+  },
+  {
+    "id": "G9-DNA-034",
+    "domain": "grade-9",
+    "subtopic": "DNA replication and mutations",
+    "difficulty": "hard",
+    "question": "A change happens near the start of a gene. Which change is least likely to alter every amino acid that comes after it?",
+    "choices": [
+      "Inserting one base",
+      "Deleting one base",
+      "Inserting three bases in a row",
+      "Deleting two bases"
+    ],
+    "answerIndex": 2,
+    "explanation": "DNA is read in groups of **three bases** (codons). Adding or removing one or two bases **shifts the reading frame**, so every codon after it is read wrongly. **Inserting three bases** adds one extra codon (one amino acid) but keeps the rest of the frame, so the following amino acids stay the same."
+  },
+  {
     "id": "G9-BIO-001",
     "domain": "grade-9",
     "subtopic": "Biodiversity and endangered species",
@@ -758,6 +908,156 @@
     "answerIndex": 3,
     "explanation": "Species with **slow reproduction** cannot quickly replace individuals lost to hunting or accidents. Species needing **large territories** lose many pairs when forests are cut. Together, these traits make large predators like the Philippine eagle especially vulnerable.",
     "verified": true
+  },
+  {
+    "id": "G9-BIO-024",
+    "domain": "grade-9",
+    "subtopic": "Biodiversity and endangered species",
+    "difficulty": "easy",
+    "question": "In the IUCN Red List, which category shows the highest risk of extinction in the wild?",
+    "choices": [
+      "Vulnerable",
+      "Critically Endangered",
+      "Endangered",
+      "Near Threatened"
+    ],
+    "answerIndex": 1,
+    "explanation": "From lowest to highest risk, the threatened categories are **Vulnerable**, **Endangered**, and **Critically Endangered**. Critically Endangered species, such as the Philippine eagle and the tamaraw, face an extremely high risk of extinction. Near Threatened is below Vulnerable."
+  },
+  {
+    "id": "G9-BIO-025",
+    "domain": "grade-9",
+    "subtopic": "Biodiversity and endangered species",
+    "difficulty": "easy",
+    "question": "What does overharvesting mean?",
+    "choices": [
+      "Planting more trees than an area can hold",
+      "Moving a species to a new habitat",
+      "Protecting a species in a zoo",
+      "Catching or collecting a species faster than it can reproduce"
+    ],
+    "answerIndex": 3,
+    "explanation": "**Overharvesting** happens when people hunt, fish, or collect a species **faster than its population can replace itself**, so its numbers keep falling. Overfishing and the illegal collection of orchids and wildlife are examples."
+  },
+  {
+    "id": "G9-BIO-026",
+    "domain": "grade-9",
+    "subtopic": "Biodiversity and endangered species",
+    "difficulty": "easy",
+    "question": "The Philippine pangolin, found mainly in Palawan, is critically endangered. What is the main reason?",
+    "choices": [
+      "It is illegally hunted and traded for its scales and meat",
+      "It is killed by pesticides sprayed on rice",
+      "It competes with carabaos for grass",
+      "It is eaten by Philippine eagles"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pangolins are among the most **illegally traded** mammals in the world. They are caught for their **scales**, used in traditional medicine, and for their **meat**. Pangolins eat ants and termites, so they do not compete with carabaos."
+  },
+  {
+    "id": "G9-BIO-027",
+    "domain": "grade-9",
+    "subtopic": "Biodiversity and endangered species",
+    "difficulty": "easy",
+    "question": "Biodiversity includes genetic, species, and ecosystem diversity. Which is an example of genetic diversity?",
+    "choices": [
+      "A forest with many kinds of birds, trees, and insects",
+      "A country with forests, coral reefs, and grasslands",
+      "The many varieties of rice, each with different grain color and size",
+      "A rice field where only one variety is planted"
+    ],
+    "answerIndex": 2,
+    "explanation": "**Genetic diversity** is variety **within one species**, such as the many rice varieties. Many different kinds of organisms in a forest is **species** diversity, and many kinds of habitats in a country is **ecosystem** diversity. A single variety has very little genetic diversity."
+  },
+  {
+    "id": "G9-BIO-028",
+    "domain": "grade-9",
+    "subtopic": "Biodiversity and endangered species",
+    "difficulty": "medium",
+    "question": "Seeds of many traditional rice varieties are stored in a seed bank. Why is this important?",
+    "choices": [
+      "It allows farmers to stop planting rice",
+      "It preserves genetic diversity that may be needed if new diseases or climate conditions threaten current varieties",
+      "It makes all rice varieties grow faster",
+      "It removes the need to protect rice fields"
+    ],
+    "answerIndex": 1,
+    "explanation": "A **seed bank** is a form of **ex-situ** conservation. It keeps the **genes** of many varieties safe, so scientists and farmers can later breed rice that resists a new pest, disease, flood, or drought. It does not replace farming or protecting fields."
+  },
+  {
+    "id": "G9-BIO-029",
+    "domain": "grade-9",
+    "subtopic": "Biodiversity and endangered species",
+    "difficulty": "medium",
+    "question": "As temperatures rise, some species that live only on the cool tops of Philippine mountains are at risk. Why?",
+    "choices": [
+      "Warmer air makes the mountains grow taller",
+      "They can easily move to the warm lowlands instead",
+      "Higher temperatures always give them more food",
+      "They cannot move any higher once they reach the top, so their cool habitat shrinks"
+    ],
+    "answerIndex": 3,
+    "explanation": "As it gets warmer, cool-adapted species move **uphill** to stay in the right temperature. On a mountaintop there is **nowhere higher to go**, so their habitat shrinks and they may disappear. This is one way **climate change** threatens biodiversity."
+  },
+  {
+    "id": "G9-BIO-030",
+    "domain": "grade-9",
+    "subtopic": "Biodiversity and endangered species",
+    "difficulty": "medium",
+    "question": "Every year, sardine fishing in parts of the Zamboanga Peninsula is stopped for about three months. What is the main purpose of this closed season?",
+    "choices": [
+      "To let sardines spawn so the population can recover",
+      "To let fishers repair their boats",
+      "To keep sardine prices low",
+      "To allow foreign boats to fish instead"
+    ],
+    "answerIndex": 0,
+    "explanation": "A **closed fishing season** protects fish during their **spawning** period, so more young fish are produced and the population can **recover** from fishing. This helps conserve an **economically important species** that many families depend on."
+  },
+  {
+    "id": "G9-BIO-031",
+    "domain": "grade-9",
+    "subtopic": "Biodiversity and endangered species",
+    "difficulty": "medium",
+    "question": "A town wants to protect endemic hornbills in its forest while helping local families earn income. Which plan does both best?",
+    "choices": [
+      "Allow hunting of hornbills on weekends only",
+      "Cut the old forest and plant fast-growing trees for timber",
+      "Train residents as forest rangers and ecotourism guides, and protect the hornbills' nesting trees",
+      "Capture the hornbills and sell them as pets"
+    ],
+    "answerIndex": 2,
+    "explanation": "Hornbills nest in **holes of large old trees**, so protecting those trees is key. Paying residents as **rangers and guides** gives them income from a **living** forest, which encourages them to protect it. Hunting, logging the old forest, and selling birds as pets all reduce the population."
+  },
+  {
+    "id": "G9-BIO-032",
+    "domain": "grade-9",
+    "subtopic": "Biodiversity and endangered species",
+    "difficulty": "medium",
+    "question": "Which human activity most directly causes habitat fragmentation?",
+    "choices": [
+      "Planting native trees to connect two forests",
+      "Building roads and farms that cut a forest into small, separated patches",
+      "Setting up a protected area",
+      "Banning the wildlife trade"
+    ],
+    "answerIndex": 1,
+    "explanation": "**Habitat fragmentation** breaks one large habitat into **small, isolated patches**, often because of roads, farms, and settlements. Animals in small patches may not find enough food or mates. Planting trees to connect forests does the opposite and reduces fragmentation."
+  },
+  {
+    "id": "G9-BIO-033",
+    "domain": "grade-9",
+    "subtopic": "Biodiversity and endangered species",
+    "difficulty": "hard",
+    "question": "Why can protecting one large forest be better for wildlife than protecting several small, separated forest patches with the same total area?",
+    "choices": [
+      "Small patches always have more species because they are closer to towns",
+      "Large forests have no predators, so no species can go extinct",
+      "Total area is all that matters, so the two choices are always equal",
+      "Large animals with wide ranges need big connected areas, and small patches have more edges exposed to disturbance"
+    ],
+    "answerIndex": 3,
+    "explanation": "Animals such as the **Philippine eagle** need **large, connected territories**. Small patches also have more **edge** exposed to wind, heat, people, and invasive species, and animals in separate patches cannot easily move to find food or mates. So the **arrangement** of habitat matters, not only its total area."
   },
   {
     "id": "G9-ECO-001",
@@ -1130,5 +1430,156 @@
     "answerIndex": 1,
     "explanation": "Reefs are harmed by **sediment** from deforested uplands, **loss of mangrove nurseries**, **overfishing**, and **destructive fishing**. A **ridge-to-reef** plan that addresses land, coast, and sea together covers the most causes. A single measure leaves other threats in place.",
     "verified": true
+  },
+  {
+    "id": "G9-ECO-024",
+    "domain": "grade-9",
+    "subtopic": "Types of ecosystems in the Philippines",
+    "difficulty": "easy",
+    "question": "What is an estuary?",
+    "choices": [
+      "A place where a river meets the sea, so fresh water mixes with salt water",
+      "A lake high in the mountains",
+      "A deep part of the ocean far from shore",
+      "A dry area with very little rain"
+    ],
+    "answerIndex": 0,
+    "explanation": "An **estuary** forms where a **river flows into the sea**. Its water is **brackish**, a mix of fresh and salt water, and it is rich in nutrients, so it is an important nursery for fish, shrimp, and crabs."
+  },
+  {
+    "id": "G9-ECO-025",
+    "domain": "grade-9",
+    "subtopic": "Types of ecosystems in the Philippines",
+    "difficulty": "easy",
+    "question": "Agusan Marsh in Mindanao is one of the largest wetlands in the Philippines. What type of ecosystem is it?",
+    "choices": [
+      "A coral reef",
+      "A tropical grassland",
+      "A freshwater swamp and marsh",
+      "A deep-sea trench"
+    ],
+    "answerIndex": 2,
+    "explanation": "The **Agusan Marsh** is a large **freshwater wetland** of swamp forests, marshes, and small lakes. Swamps are areas of land that stay **flooded** with water and are home to plants and animals adapted to waterlogged soil."
+  },
+  {
+    "id": "G9-ECO-026",
+    "domain": "grade-9",
+    "subtopic": "Types of ecosystems in the Philippines",
+    "difficulty": "easy",
+    "question": "Which is an abiotic factor in a coral reef ecosystem?",
+    "choices": [
+      "Parrotfish",
+      "Water temperature",
+      "Seaweed",
+      "Sea urchins"
+    ],
+    "answerIndex": 1,
+    "explanation": "**Abiotic** factors are the **nonliving** parts of an ecosystem, such as temperature, sunlight, and salinity. Parrotfish, seaweed, and sea urchins are all living, or **biotic**, factors."
+  },
+  {
+    "id": "G9-ECO-027",
+    "domain": "grade-9",
+    "subtopic": "Types of ecosystems in the Philippines",
+    "difficulty": "easy",
+    "question": "Some mangrove trees have roots that stick up out of the mud. What is the main function of these roots?",
+    "choices": [
+      "To catch insects for food",
+      "To store salt for the tree",
+      "To attract pollinators",
+      "To take in air, because the waterlogged mud has little oxygen"
+    ],
+    "answerIndex": 3,
+    "explanation": "These upright roots, called **pneumatophores**, act like snorkels. The mud in mangrove forests is **waterlogged and low in oxygen**, so the roots take in **air** above the mud for the root cells."
+  },
+  {
+    "id": "G9-ECO-028",
+    "domain": "grade-9",
+    "subtopic": "Types of ecosystems in the Philippines",
+    "difficulty": "medium",
+    "question": "Reef-building corals usually grow only in clear, shallow, sunlit water. Why?",
+    "choices": [
+      "Algae living inside the coral need sunlight for photosynthesis, which supplies food to the coral",
+      "Corals need to dry out in the sun every day",
+      "Deep water is too salty for corals",
+      "Corals take in sunlight directly through their skeletons"
+    ],
+    "answerIndex": 0,
+    "explanation": "Reef-building corals have tiny **algae (zooxanthellae)** living in their tissues. The algae **photosynthesize** and share food with the coral, so they need **light**. Muddy or deep water blocks the light. Corals must stay underwater and do not absorb light through their skeletons."
+  },
+  {
+    "id": "G9-ECO-029",
+    "domain": "grade-9",
+    "subtopic": "Types of ecosystems in the Philippines",
+    "difficulty": "medium",
+    "question": "Organisms in an estuary must survive large changes in which abiotic factor as the tides come in and go out?",
+    "choices": [
+      "Gravity",
+      "Day length",
+      "Salinity",
+      "Altitude"
+    ],
+    "answerIndex": 2,
+    "explanation": "As the tide rises, **salt water** pushes into the estuary; as it falls, **fresh river water** dominates. So the **salinity** (saltiness) of the water changes every day, and estuary organisms must tolerate this. Gravity, day length, and altitude do not change with the tides."
+  },
+  {
+    "id": "G9-ECO-030",
+    "domain": "grade-9",
+    "subtopic": "Types of ecosystems in the Philippines",
+    "difficulty": "medium",
+    "question": "The knifefish, an invasive species, spread through Laguna de Bay. How do invasive species like this harm the lake's ecosystem?",
+    "choices": [
+      "They increase the number of native fish by adding food",
+      "They eat native fish and their eggs and compete for food, and they have few natural predators",
+      "They clean the water so native species grow faster",
+      "They have no effect because they live in the same water"
+    ],
+    "answerIndex": 1,
+    "explanation": "**Invasive species** are introduced from other places and often have **no natural predators** in their new home, so their numbers grow quickly. The knifefish **preys on native and farmed fish** and their eggs and competes with them for food, reducing fish catches."
+  },
+  {
+    "id": "G9-ECO-031",
+    "domain": "grade-9",
+    "subtopic": "Types of ecosystems in the Philippines",
+    "difficulty": "medium",
+    "question": "Plastic bags floating in the sea are a serious threat to sea turtles. Why?",
+    "choices": [
+      "Plastic releases oxygen that turtles cannot breathe",
+      "Turtles use plastic to build nests that collapse",
+      "Plastic makes seawater too cold for turtles",
+      "Turtles mistake them for jellyfish, eat them, and can choke or starve"
+    ],
+    "answerIndex": 3,
+    "explanation": "Floating plastic bags look like **jellyfish**, a common turtle food. Swallowed plastic can **block the gut**, so the turtle feels full and **starves**, or it can choke. This is an example of how **pollution** harms living things in an ecosystem."
+  },
+  {
+    "id": "G9-ECO-032",
+    "domain": "grade-9",
+    "subtopic": "Types of ecosystems in the Philippines",
+    "difficulty": "hard",
+    "question": "Students surveyed a river at three sites. Which conclusion best fits their data?",
+    "figure": "<table><thead><tr><th>Site</th><th>Location</th><th>Dissolved oxygen (mg/L)</th><th>Kinds of insect larvae</th></tr></thead><tbody><tr><td>1</td><td>Upstream, in a forest</td><td>8</td><td>12</td></tr><tr><td>2</td><td>Just below a piggery's waste pipe</td><td>2</td><td>2</td></tr><tr><td>3</td><td>5 km downstream of the piggery</td><td>6</td><td>8</td></tr></tbody></table>",
+    "choices": [
+      "Waste from the piggery lowers dissolved oxygen and reduces the kinds of organisms, and the river partly recovers downstream",
+      "The forest upstream is the main source of pollution",
+      "Dissolved oxygen has no effect on living things in the river",
+      "The river is cleanest just below the piggery"
+    ],
+    "answerIndex": 0,
+    "explanation": "Dissolved oxygen drops from **8 to 2 mg/L** right below the piggery, and the kinds of insect larvae drop from **12 to 2**, so the waste is harming the river. Farther downstream, oxygen (6 mg/L) and larvae (8 kinds) partly recover. The forest site is the healthiest, and the site below the piggery is the most polluted."
+  },
+  {
+    "id": "G9-ECO-033",
+    "domain": "grade-9",
+    "subtopic": "Types of ecosystems in the Philippines",
+    "difficulty": "hard",
+    "question": "Water hyacinth spreads until it covers most of the surface of a lake. Which chain of effects is most likely?",
+    "choices": [
+      "More sunlight reaches the bottom, so underwater plants grow faster",
+      "The lake becomes saltier, so freshwater fish move to the sea",
+      "Less sunlight reaches underwater plants and algae, so they make less oxygen, and fish begin to die",
+      "The hyacinth roots give fish extra oxygen, so the fish population grows quickly"
+    ],
+    "answerIndex": 2,
+    "explanation": "A thick mat of water hyacinth **blocks sunlight**. Underwater plants and algae then **photosynthesize less** and release less **oxygen** into the water, and as the plants die and decompose, even more oxygen is used up. Fish and other animals may **die from lack of oxygen**. Hyacinth does not make the lake salty."
   }
 ]

@@ -227,6 +227,96 @@
     "verified": true
   },
   {
+    "id": "G7-MIC-015",
+    "domain": "grade-7",
+    "subtopic": "Science equipment: the compound microscope",
+    "difficulty": "easy",
+    "question": "Which part of the compound microscope is the lens you look through at the top of the body tube?",
+    "choices": [
+      "Eyepiece (ocular lens)",
+      "Objective lens",
+      "Diaphragm",
+      "Stage"
+    ],
+    "answerIndex": 0,
+    "explanation": "The **eyepiece**, or **ocular lens**, is the lens you look into, and it usually magnifies 10×. The objective lenses are close to the specimen, the diaphragm controls light, and the stage holds the slide."
+  },
+  {
+    "id": "G7-MIC-016",
+    "domain": "grade-7",
+    "subtopic": "Science equipment: the compound microscope",
+    "difficulty": "easy",
+    "question": "Which knob should be used to sharpen the image when viewing under the high-power objective?",
+    "choices": [
+      "Coarse adjustment knob",
+      "Revolving nosepiece",
+      "Fine adjustment knob",
+      "Diaphragm"
+    ],
+    "answerIndex": 2,
+    "explanation": "Under high power the objective is very close to the slide, so only the **fine adjustment knob** should be used; it moves the lens or stage just slightly. The coarse knob moves too far and can crack the slide or damage the lens. The nosepiece changes objectives, and the diaphragm controls light."
+  },
+  {
+    "id": "G7-MIC-017",
+    "domain": "grade-7",
+    "subtopic": "Science equipment: the compound microscope",
+    "difficulty": "easy",
+    "question": "What should be used to clean the lenses of a microscope?",
+    "choices": [
+      "Tissue paper or a handkerchief",
+      "Lens paper",
+      "A cloth dipped in soapy water",
+      "A clean fingertip"
+    ],
+    "answerIndex": 1,
+    "explanation": "Only **lens paper** should touch the lenses because it is soft and lint-free. Tissue and handkerchiefs can scratch the glass and leave fibers, fingers leave oil, and soapy water can damage the lens coating."
+  },
+  {
+    "id": "G7-MIC-018",
+    "domain": "grade-7",
+    "subtopic": "Science equipment: the compound microscope",
+    "difficulty": "medium",
+    "question": "Why should a student always begin observing a slide with the low-power objective?",
+    "choices": [
+      "It gives the most detailed view of the cell parts",
+      "It makes the image appear upright instead of reversed",
+      "It is the only objective that needs light",
+      "It shows a wider field of view, so the specimen is easier to find and center"
+    ],
+    "answerIndex": 3,
+    "explanation": "The low-power objective has the **widest field of view** and the most space between the lens and the slide, so it is easiest to find and center the specimen. Fine detail is seen at high power, every objective shows a reversed image, and all objectives need light."
+  },
+  {
+    "id": "G7-MIC-019",
+    "domain": "grade-7",
+    "subtopic": "Science equipment: the compound microscope",
+    "difficulty": "medium",
+    "question": "When a student switches from low power to high power, the image becomes darker. Which adjustment will make it brighter?",
+    "choices": [
+      "Open the diaphragm wider to let more light through",
+      "Close the diaphragm to a smaller opening",
+      "Turn the coarse adjustment knob",
+      "Move the slide toward the edge of the stage"
+    ],
+    "answerIndex": 0,
+    "explanation": "At high power less light reaches the eye, so the view looks darker. Opening the **diaphragm** lets more light pass through the specimen. Closing it makes the view even darker, and the focusing knob and moving the slide do not change brightness."
+  },
+  {
+    "id": "G7-MIC-020",
+    "domain": "grade-7",
+    "subtopic": "Science equipment: the compound microscope",
+    "difficulty": "hard",
+    "question": "Using the 10× objective (100× total), a student sees about 20 cells lined up across the field of view. About how many cells will fit across the field when she switches to the 40× objective (400× total)?",
+    "choices": [
+      "80",
+      "20",
+      "5",
+      "10"
+    ],
+    "answerIndex": 2,
+    "explanation": "The total magnification becomes 4 times greater (100× to 400×), so the field of view becomes about **4 times narrower**. Only about $20 \\div 4 = 5$ cells fit across. The answer 80 would mean the field got wider, which only happens when magnification decreases."
+  },
+  {
     "id": "G7-CELL-001",
     "domain": "grade-7",
     "subtopic": "Plant and animal cells",
@@ -452,6 +542,96 @@
     "answerIndex": 3,
     "explanation": "The amoeba could still move for a while because its cytoplasm and mitochondria still worked using what was already there. Without the **nucleus**, it could no longer direct new activities such as **cell division** and making new materials, so it died. This shows the nucleus is the **control center**. Energy release is done by mitochondria.",
     "verified": true
+  },
+  {
+    "id": "G7-CELL-015",
+    "domain": "grade-7",
+    "subtopic": "Plant and animal cells",
+    "difficulty": "easy",
+    "question": "Which jelly-like substance fills the cell and surrounds the organelles?",
+    "choices": [
+      "Cell wall",
+      "Cytoplasm",
+      "Nucleus",
+      "Vacuole"
+    ],
+    "answerIndex": 1,
+    "explanation": "The **cytoplasm** is the jelly-like material inside the cell membrane where the organelles are found and many chemical reactions happen. The cell wall is a rigid outer layer, the nucleus holds the DNA, and a vacuole is a storage sac."
+  },
+  {
+    "id": "G7-CELL-016",
+    "domain": "grade-7",
+    "subtopic": "Plant and animal cells",
+    "difficulty": "easy",
+    "question": "In plant cells, which organelle stores water and helps keep the cell firm?",
+    "choices": [
+      "Ribosome",
+      "Mitochondrion",
+      "Nucleus",
+      "Large central vacuole"
+    ],
+    "answerIndex": 3,
+    "explanation": "The **large central vacuole** stores water and dissolved materials. When it is full, it pushes against the cell wall and keeps the plant firm; when it loses water, the plant wilts. Ribosomes make proteins, mitochondria release energy, and the nucleus controls the cell."
+  },
+  {
+    "id": "G7-CELL-017",
+    "domain": "grade-7",
+    "subtopic": "Plant and animal cells",
+    "difficulty": "medium",
+    "question": "A Paramecium is made of only one cell. Which statement about it is true?",
+    "choices": [
+      "Its single cell carries out all life processes, such as feeding, moving, and reproducing",
+      "It cannot reproduce because it has no reproductive organs",
+      "It is a tissue that is part of a larger organism",
+      "It has no cell membrane because it lives in water"
+    ],
+    "answerIndex": 0,
+    "explanation": "A **unicellular** organism such as Paramecium does everything needed for life within **one cell**: it takes in food, moves with tiny hairs called cilia, gets rid of wastes, and reproduces by dividing. It is a whole organism, not part of a tissue, and like every cell it has a cell membrane."
+  },
+  {
+    "id": "G7-CELL-018",
+    "domain": "grade-7",
+    "subtopic": "Plant and animal cells",
+    "difficulty": "medium",
+    "question": "Plant cells usually look boxy and regular in shape, while animal cells are more rounded and varied. Which structure explains this difference?",
+    "choices": [
+      "The nucleus of plant cells",
+      "The ribosomes of animal cells",
+      "The rigid cell wall around plant cells",
+      "The mitochondria of plant cells"
+    ],
+    "answerIndex": 2,
+    "explanation": "Plant cells have a **rigid cell wall** made of cellulose outside the cell membrane, which gives them a fixed, boxy shape. Animal cells have only a flexible membrane, so their shape varies. Both kinds of cells have a nucleus, ribosomes, and mitochondria."
+  },
+  {
+    "id": "G7-CELL-019",
+    "domain": "grade-7",
+    "subtopic": "Plant and animal cells",
+    "difficulty": "medium",
+    "question": "Before observing cheek cells, a student adds a drop of methylene blue stain to the slide. Why?",
+    "choices": [
+      "The stain kills bacteria so the slide stays clean",
+      "The stain colors cell parts such as the nucleus so they are easier to see",
+      "The stain makes the cells grow larger",
+      "The stain makes the cells divide so mitosis can be seen"
+    ],
+    "answerIndex": 1,
+    "explanation": "Most cell parts are nearly clear, so a **stain** such as methylene blue or iodine is added to give them color and contrast. It makes the nucleus stand out. Stains do not enlarge cells or make them divide."
+  },
+  {
+    "id": "G7-CELL-020",
+    "domain": "grade-7",
+    "subtopic": "Plant and animal cells",
+    "difficulty": "hard",
+    "question": "A cell has a cell membrane, cytoplasm, ribosomes, and a cell wall, but no nucleus and no mitochondria. Which organism did it most likely come from?",
+    "choices": [
+      "A mango leaf",
+      "A human cheek",
+      "An onion bulb",
+      "A bacterium"
+    ],
+    "answerIndex": 3,
+    "explanation": "**Bacteria** have no nucleus and no membrane-bound organelles such as mitochondria, but they do have a cell membrane, cytoplasm, ribosomes, and usually a cell wall. Mango leaf and onion cells have nuclei and mitochondria, and human cheek cells have a nucleus but no cell wall."
   },
   {
     "id": "G7-CREP-001",
@@ -680,6 +860,96 @@
     "verified": true
   },
   {
+    "id": "G7-CREP-015",
+    "domain": "grade-7",
+    "subtopic": "Cellular reproduction",
+    "difficulty": "easy",
+    "question": "What do you call the cell formed when a sperm cell fuses with an egg cell?",
+    "choices": [
+      "Zygote",
+      "Gamete",
+      "Embryo",
+      "Tissue"
+    ],
+    "answerIndex": 0,
+    "explanation": "**Fertilization** joins a sperm and an egg to form a single cell called a **zygote**. Sperm and egg are the gametes. The zygote then divides by mitosis and later develops into an embryo."
+  },
+  {
+    "id": "G7-CREP-016",
+    "domain": "grade-7",
+    "subtopic": "Cellular reproduction",
+    "difficulty": "easy",
+    "question": "Human egg and sperm cells each have 23 chromosomes. Which process produces these cells?",
+    "choices": [
+      "Mitosis",
+      "Fertilization",
+      "Meiosis",
+      "Binary fission"
+    ],
+    "answerIndex": 2,
+    "explanation": "**Meiosis** produces gametes (egg and sperm) with **half** the chromosome number, 23 instead of 46. Mitosis keeps the number the same, fertilization joins gametes instead of making them, and binary fission is how bacteria divide."
+  },
+  {
+    "id": "G7-CREP-017",
+    "domain": "grade-7",
+    "subtopic": "Cellular reproduction",
+    "difficulty": "medium",
+    "question": "Bacteria reproduce by splitting into two identical cells. What is this type of reproduction called?",
+    "choices": [
+      "Fertilization",
+      "Binary fission",
+      "Budding",
+      "Meiosis"
+    ],
+    "answerIndex": 1,
+    "explanation": "In **binary fission**, one bacterial cell copies its DNA and splits into two identical cells. It is a form of asexual reproduction. Budding is a different asexual method in which a small bud grows out of the parent, as in yeast and hydra. Fertilization and meiosis are part of sexual reproduction."
+  },
+  {
+    "id": "G7-CREP-018",
+    "domain": "grade-7",
+    "subtopic": "Cellular reproduction",
+    "difficulty": "medium",
+    "question": "During fertilization, the egg gives 23 chromosomes and the sperm gives 23 chromosomes. Why does the child show traits from both parents?",
+    "choices": [
+      "The child receives all genes from the mother and only its appearance from the father",
+      "The genes from both parents blend together into brand-new genes",
+      "The child's traits are decided by whichever parent is stronger",
+      "The child receives one set of chromosomes, with their genes, from each parent"
+    ],
+    "answerIndex": 3,
+    "explanation": "Meiosis puts one set of chromosomes into each gamete, and fertilization combines them, so the child has **one set from the mother and one set from the father**. Each set carries genes for traits, which is why children share traits with both parents. Genes do not blend, and strength does not decide traits."
+  },
+  {
+    "id": "G7-CREP-019",
+    "domain": "grade-7",
+    "subtopic": "Cellular reproduction",
+    "difficulty": "medium",
+    "question": "Which comparison of sexual and asexual reproduction is correct?",
+    "choices": [
+      "Sexual reproduction produces offspring with more variation",
+      "Asexual reproduction needs gametes from two parents",
+      "Sexual reproduction always produces offspring faster",
+      "Asexual reproduction produces offspring that differ greatly from the parent"
+    ],
+    "answerIndex": 0,
+    "explanation": "Sexual reproduction combines genes from **two parents**, so the offspring **vary**. Asexual reproduction involves **one parent** and produces offspring that are nearly identical to it, and it is usually faster, not slower. It does not use gametes from two parents."
+  },
+  {
+    "id": "G7-CREP-020",
+    "domain": "grade-7",
+    "subtopic": "Cellular reproduction",
+    "difficulty": "hard",
+    "question": "Suppose human gametes were made by mitosis instead of meiosis, so each sperm and egg had 46 chromosomes. How many chromosomes would the body cells of the grandchildren have?",
+    "choices": [
+      "46",
+      "92",
+      "184",
+      "23"
+    ],
+    "answerIndex": 2,
+    "explanation": "Without meiosis, the number would **double every generation**. The children would get $46 + 46 = 92$ chromosomes, and the grandchildren would get $92 + 92 = 184$. This is why meiosis halving the chromosome number is necessary; with meiosis the number stays at 46."
+  },
+  {
     "id": "G7-LBO-001",
     "domain": "grade-7",
     "subtopic": "Levels of biological organization",
@@ -906,6 +1176,96 @@
     "verified": true
   },
   {
+    "id": "G7-LBO-015",
+    "domain": "grade-7",
+    "subtopic": "Levels of biological organization",
+    "difficulty": "easy",
+    "question": "A single nerve cell (neuron) belongs to which level of biological organization?",
+    "choices": [
+      "Tissue",
+      "Cell",
+      "Organ",
+      "Organism"
+    ],
+    "answerIndex": 1,
+    "explanation": "One neuron is a **cell**, the basic unit of life. Many nerve cells together form nerve tissue, the brain is an organ, and the whole person is an organism."
+  },
+  {
+    "id": "G7-LBO-016",
+    "domain": "grade-7",
+    "subtopic": "Levels of biological organization",
+    "difficulty": "easy",
+    "question": "The mouth, stomach, and intestines work together to digest food. What level of organization do they form together?",
+    "choices": [
+      "Tissue",
+      "Organ",
+      "Population",
+      "Organ system"
+    ],
+    "answerIndex": 3,
+    "explanation": "Several organs that work together for one main job form an **organ system**, here the digestive system. Each of them alone is an organ, a tissue is a group of similar cells, and a population is a group of organisms of one species."
+  },
+  {
+    "id": "G7-LBO-017",
+    "domain": "grade-7",
+    "subtopic": "Levels of biological organization",
+    "difficulty": "easy",
+    "question": "What is the biosphere?",
+    "choices": [
+      "All the parts of Earth where life exists, including land, water, and air",
+      "All the organisms of one species in an area",
+      "A group of tissues that work together",
+      "Only the living things in one forest"
+    ],
+    "answerIndex": 0,
+    "explanation": "The **biosphere** is the largest level of organization: every place on Earth where living things are found. One species in an area is a population, tissues working together form an organ, and the living things of one forest form a community."
+  },
+  {
+    "id": "G7-LBO-018",
+    "domain": "grade-7",
+    "subtopic": "Levels of biological organization",
+    "difficulty": "medium",
+    "question": "Heart muscle, nerves, blood vessel walls, and connective tissue together make up the heart. What does this show?",
+    "choices": [
+      "A tissue is made of different organs",
+      "An organ system is made of a single tissue",
+      "An organ is made of different tissues working together",
+      "A population is made of different organs"
+    ],
+    "answerIndex": 2,
+    "explanation": "An **organ** such as the heart is built from **several kinds of tissue** that work together. Tissues are made of cells, not organs; organ systems contain several organs; and a population is a group of organisms."
+  },
+  {
+    "id": "G7-LBO-019",
+    "domain": "grade-7",
+    "subtopic": "Levels of biological organization",
+    "difficulty": "medium",
+    "question": "Which list is arranged from the most inclusive level to the least inclusive?",
+    "choices": [
+      "Population, community, ecosystem, biosphere",
+      "Biosphere, ecosystem, community, population",
+      "Ecosystem, biosphere, population, community",
+      "Community, population, biosphere, ecosystem"
+    ],
+    "answerIndex": 1,
+    "explanation": "The **biosphere** contains all ecosystems, an **ecosystem** contains a community plus its nonliving surroundings, a **community** contains several populations, and a **population** is one species. The list starting with population is in the reverse order."
+  },
+  {
+    "id": "G7-LBO-020",
+    "domain": "grade-7",
+    "subtopic": "Levels of biological organization",
+    "difficulty": "medium",
+    "question": "In a mango tree, the xylem is a group of similar cells that carries water up from the roots. At which level of organization is the xylem?",
+    "choices": [
+      "Cell",
+      "Organ",
+      "Organ system",
+      "Tissue"
+    ],
+    "answerIndex": 3,
+    "explanation": "A group of similar cells doing one job is a **tissue**, so xylem is a tissue. A single xylem cell is at the cell level, a leaf or a root is an organ, and the whole shoot system is an organ system."
+  },
+  {
     "id": "G7-TRO-001",
     "domain": "grade-7",
     "subtopic": "Trophic levels and the transfer of energy",
@@ -1130,5 +1490,95 @@
     "answerIndex": 2,
     "explanation": "Percent transferred = (energy at higher level ÷ energy at lower level) × 100\n\n$\\dfrac{150}{2{,}000} \\times 100 = 7.5\\%$\n\nThe 10% rule is only an **average**; real transfers vary. 0.75% compares 150 kJ to the producers (20,000 kJ), and 13.3% divides the wrong way ($2{,}000 \\div 150$ gives 13.3, not a percentage of energy passed on).",
     "verified": true
+  },
+  {
+    "id": "G7-TRO-015",
+    "domain": "grade-7",
+    "subtopic": "Trophic levels and the transfer of energy",
+    "difficulty": "easy",
+    "question": "Which organism is an omnivore?",
+    "choices": [
+      "A human who eats rice, vegetables, and fish",
+      "A carabao that eats grass",
+      "A snake that eats frogs",
+      "A mushroom that feeds on dead leaves"
+    ],
+    "answerIndex": 0,
+    "explanation": "An **omnivore** eats both plants and animals, like a person who eats rice, vegetables, and fish. The carabao is a herbivore, the snake is a carnivore, and the mushroom is a decomposer."
+  },
+  {
+    "id": "G7-TRO-016",
+    "domain": "grade-7",
+    "subtopic": "Trophic levels and the transfer of energy",
+    "difficulty": "easy",
+    "question": "What is a food web?",
+    "choices": [
+      "A single straight line showing who eats whom",
+      "A diagram of the layers of a forest",
+      "Many connected food chains in an ecosystem",
+      "The path of water through an ecosystem"
+    ],
+    "answerIndex": 2,
+    "explanation": "A **food web** shows many **food chains linked together**, because most organisms eat, and are eaten by, more than one kind of organism. A single straight line is a food chain, and the path of water is the water cycle."
+  },
+  {
+    "id": "G7-TRO-017",
+    "domain": "grade-7",
+    "subtopic": "Trophic levels and the transfer of energy",
+    "difficulty": "medium",
+    "question": "In the food chain rice plant → rat → snake → hawk, at which trophic level is the hawk?",
+    "choices": [
+      "Third trophic level (secondary consumer)",
+      "Fourth trophic level (tertiary consumer)",
+      "Second trophic level (primary consumer)",
+      "First trophic level (producer)"
+    ],
+    "answerIndex": 1,
+    "explanation": "Count from the producer: rice is the **first** level, the rat is the second (primary consumer), the snake is the third (secondary consumer), and the hawk is the **fourth** level, a **tertiary consumer**."
+  },
+  {
+    "id": "G7-TRO-018",
+    "domain": "grade-7",
+    "subtopic": "Trophic levels and the transfer of energy",
+    "difficulty": "medium",
+    "question": "The producers in a pond store 50,000 kJ of energy. Using the 10% rule, how much energy reaches the secondary consumers?",
+    "choices": [
+      "5,000 kJ",
+      "50 kJ",
+      "45,000 kJ",
+      "500 kJ"
+    ],
+    "answerIndex": 3,
+    "explanation": "About 10% passes to each higher level. Primary consumers get $50{,}000 \\times 0.1 = 5{,}000$ kJ, and secondary consumers get $5{,}000 \\times 0.1 = 500$ kJ. The value 5,000 kJ is the primary consumer level, and 50 kJ is one level too far."
+  },
+  {
+    "id": "G7-TRO-019",
+    "domain": "grade-7",
+    "subtopic": "Trophic levels and the transfer of energy",
+    "difficulty": "medium",
+    "question": "In a rice field, farmers kill most of the snakes. What is the most likely short-term effect?",
+    "choices": [
+      "The rat population increases, and more rice is eaten",
+      "The rice plants grow better because there are fewer consumers",
+      "Hawks increase because they have less competition",
+      "The rat population decreases because snakes no longer control it"
+    ],
+    "answerIndex": 0,
+    "explanation": "Snakes eat rats. With fewer snakes, **more rats survive**, and the larger rat population eats **more rice**. Hawks that eat snakes would lose food rather than gain, and fewer predators means more rats, not fewer."
+  },
+  {
+    "id": "G7-TRO-020",
+    "domain": "grade-7",
+    "subtopic": "Trophic levels and the transfer of energy",
+    "difficulty": "hard",
+    "question": "The producers in a forest store 1,000,000 kJ of energy per year. Eagles feed at the fourth trophic level, and each eagle needs 100 kJ per year from its food. Using the 10% rule, about how many eagles can the forest support?",
+    "choices": [
+      "100",
+      "1,000",
+      "10",
+      "1"
+    ],
+    "answerIndex": 2,
+    "explanation": "Energy drops by 10 times at each step: 1,000,000 kJ (producers), 100,000 kJ (second level), 10,000 kJ (third level), and **1,000 kJ** at the fourth level. Then $1{,}000 \\div 100 = 10$ eagles. This is why top predators are always few in number."
   }
 ]

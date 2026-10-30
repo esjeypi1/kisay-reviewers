@@ -291,6 +291,111 @@
     "verified": true
   },
   {
+    "id": "G8-ORG-019",
+    "domain": "grade-8",
+    "subtopic": "Organ systems working together",
+    "difficulty": "easy",
+    "question": "Which sequence shows the path of food through the digestive tract?",
+    "choices": [
+      "Mouth, esophagus, stomach, small intestine, large intestine",
+      "Mouth, stomach, esophagus, large intestine, small intestine",
+      "Mouth, esophagus, small intestine, stomach, large intestine",
+      "Mouth, liver, stomach, small intestine, large intestine"
+    ],
+    "answerIndex": 0,
+    "explanation": "Food goes from the **mouth** down the **esophagus** to the **stomach**, then to the **small intestine** (digestion and absorption) and the **large intestine** (water absorption) before elimination. Food never passes through the liver; the liver helps digestion by making bile."
+  },
+  {
+    "id": "G8-ORG-020",
+    "domain": "grade-8",
+    "subtopic": "Organ systems working together",
+    "difficulty": "easy",
+    "question": "Chewing food into smaller pieces is an example of which digestive process?",
+    "choices": [
+      "Chemical digestion",
+      "Absorption",
+      "Mechanical digestion",
+      "Elimination"
+    ],
+    "answerIndex": 2,
+    "explanation": "**Mechanical digestion** breaks food into smaller pieces physically, by chewing and by the churning of the stomach. Chemical digestion uses enzymes to break molecules apart, absorption moves nutrients into the blood, and elimination removes undigested waste."
+  },
+  {
+    "id": "G8-ORG-021",
+    "domain": "grade-8",
+    "subtopic": "Organ systems working together",
+    "difficulty": "easy",
+    "question": "Which plant tissue carries water and minerals from the roots up to the leaves?",
+    "choices": [
+      "Phloem",
+      "Xylem",
+      "Epidermis",
+      "Cuticle"
+    ],
+    "answerIndex": 1,
+    "explanation": "**Xylem** is made of tube-like cells that carry water and minerals upward from the roots. Phloem carries sugar made in the leaves, the epidermis is the outer covering, and the cuticle is a waxy layer that reduces water loss."
+  },
+  {
+    "id": "G8-ORG-022",
+    "domain": "grade-8",
+    "subtopic": "Organ systems working together",
+    "difficulty": "medium",
+    "question": "Sugar made in the leaves of a camote plant is stored in its roots. Which tissue carries the sugar down to the roots?",
+    "choices": [
+      "Xylem",
+      "Root hairs",
+      "Stomata",
+      "Phloem"
+    ],
+    "answerIndex": 3,
+    "explanation": "**Phloem** carries food (sugar) from the leaves to other parts of the plant, including roots where it is stored as starch. Xylem carries water up, root hairs absorb water, and stomata are leaf openings for gas exchange."
+  },
+  {
+    "id": "G8-ORG-023",
+    "domain": "grade-8",
+    "subtopic": "Organ systems working together",
+    "difficulty": "medium",
+    "question": "The liver makes bile, which is stored in the gallbladder and released into the small intestine. What does bile do?",
+    "choices": [
+      "It breaks fats into tiny droplets so enzymes can digest them faster",
+      "It digests proteins into amino acids",
+      "It absorbs water from undigested food",
+      "It kills all bacteria in the food"
+    ],
+    "answerIndex": 0,
+    "explanation": "Bile **emulsifies fats**: it breaks large fat drops into many tiny droplets, giving enzymes more surface to work on. Proteins are digested by enzymes from the stomach and pancreas, and water is absorbed mainly in the large intestine."
+  },
+  {
+    "id": "G8-ORG-024",
+    "domain": "grade-8",
+    "subtopic": "Organ systems working together",
+    "difficulty": "medium",
+    "question": "Which statement correctly compares how the digestive and excretory systems remove materials from the body?",
+    "choices": [
+      "Feces and urine are both made by the kidneys",
+      "Urine carries undigested food, while feces carry urea",
+      "Feces are mostly undigested food that never entered body cells, while urine carries wastes such as urea made by cells",
+      "Only the digestive system removes wastes; the excretory system only stores water"
+    ],
+    "answerIndex": 2,
+    "explanation": "The digestive system **eliminates** undigested food as feces. The excretory system, mainly the **kidneys**, **excretes** wastes made by cells, such as urea, in urine. The two systems work together to keep the body clean of unneeded materials."
+  },
+  {
+    "id": "G8-ORG-025",
+    "domain": "grade-8",
+    "subtopic": "Organ systems working together",
+    "difficulty": "hard",
+    "question": "A ring of bark, including the phloem, is removed all the way around the trunk of a tree. The xylem inside is not damaged. Weeks later the leaves are still green, but the roots begin to die. Why?",
+    "choices": [
+      "Water can no longer reach the leaves, so the roots dry out",
+      "Sugar from the leaves can no longer reach the roots, but water can still move up through the xylem",
+      "The roots can no longer absorb minerals because the bark was removed",
+      "The leaves stop photosynthesis because the bark carried carbon dioxide"
+    ],
+    "answerIndex": 1,
+    "explanation": "The **phloem** in the bark carries sugar **down** to the roots, so cutting it starves the roots. The **xylem** is intact, so water still moves **up** and the leaves stay green for a while. Leaves take in carbon dioxide through stomata, not through bark."
+  },
+  {
     "id": "G8-HER-001",
     "domain": "grade-8",
     "subtopic": "Heredity",
@@ -583,6 +688,111 @@
     "verified": true
   },
   {
+    "id": "G8-HER-019",
+    "domain": "grade-8",
+    "subtopic": "Heredity",
+    "difficulty": "easy",
+    "question": "What is a Punnett square used for?",
+    "choices": [
+      "Measuring the height of pea plants",
+      "Showing the order of taxonomic ranks",
+      "Counting the chromosomes in a cell",
+      "Predicting the possible genotypes of offspring from a cross"
+    ],
+    "answerIndex": 3,
+    "explanation": "A **Punnett square** shows every way the parents' alleles can combine, so it predicts the **possible genotypes and phenotypes** of offspring and their ratios."
+  },
+  {
+    "id": "G8-HER-020",
+    "domain": "grade-8",
+    "subtopic": "Heredity",
+    "difficulty": "easy",
+    "question": "What does heterozygous mean?",
+    "choices": [
+      "Having two different alleles for a trait, such as Tt",
+      "Having two dominant alleles, such as TT",
+      "Having two recessive alleles, such as tt",
+      "Having only one allele for a trait"
+    ],
+    "answerIndex": 0,
+    "explanation": "**Heterozygous** means the two alleles are **different** (Tt). TT and tt are both homozygous (two identical alleles). Body cells normally have two alleles for each gene, one from each parent."
+  },
+  {
+    "id": "G8-HER-021",
+    "domain": "grade-8",
+    "subtopic": "Heredity",
+    "difficulty": "easy",
+    "question": "When does a recessive trait appear in an organism's phenotype?",
+    "choices": [
+      "Whenever at least one recessive allele is present",
+      "Only when the organism also has a dominant allele",
+      "Only when the organism has two recessive alleles",
+      "Never, because recessive traits are always hidden"
+    ],
+    "answerIndex": 2,
+    "explanation": "A recessive trait shows only in a **homozygous recessive** organism (such as tt). If a dominant allele is present, it masks the recessive one. Recessive traits are not always hidden; they appear when two recessive alleles meet."
+  },
+  {
+    "id": "G8-HER-022",
+    "domain": "grade-8",
+    "subtopic": "Heredity",
+    "difficulty": "medium",
+    "question": "A homozygous tall pea plant (TT) is crossed with a heterozygous tall plant (Tt). What offspring are expected?",
+    "choices": [
+      "3 tall to 1 short",
+      "All tall; half TT and half Tt",
+      "1 tall to 1 short",
+      "All tall; all Tt"
+    ],
+    "answerIndex": 1,
+    "explanation": "The TT parent gives only T; the Tt parent gives T or t. The offspring are **TT and Tt in equal numbers**, and every one has at least one T, so **all are tall**. A 3 to 1 ratio comes from Tt × Tt, and 1 to 1 tall to short comes from Tt × tt."
+  },
+  {
+    "id": "G8-HER-023",
+    "domain": "grade-8",
+    "subtopic": "Heredity",
+    "difficulty": "medium",
+    "question": "Two short pea plants (tt) are crossed. What percentage of their offspring is expected to be short?",
+    "choices": [
+      "75%",
+      "50%",
+      "25%",
+      "100%"
+    ],
+    "answerIndex": 3,
+    "explanation": "Both parents can give only the **t** allele, so every offspring is **tt** and short. The 75% and 25% values come from a Tt × Tt cross, and 50% comes from Tt × tt."
+  },
+  {
+    "id": "G8-HER-024",
+    "domain": "grade-8",
+    "subtopic": "Heredity",
+    "difficulty": "medium",
+    "question": "In a family, two parents who do not show a certain trait have a child who does show it. If the trait is controlled by one gene with two alleles, what does this tell us?",
+    "choices": [
+      "The trait is recessive, and both parents are carriers (heterozygous)",
+      "The trait is dominant, and one parent is homozygous dominant",
+      "The trait came from a mutation in the parents' skin cells",
+      "The trait is recessive, and both parents are homozygous recessive"
+    ],
+    "answerIndex": 0,
+    "explanation": "If neither parent shows the trait but the child does, the child must have received a **hidden recessive allele from each parent**. So the trait is **recessive** and both parents are **heterozygous carriers**. If the parents were homozygous recessive, they would show the trait themselves, and skin-cell mutations are not passed to children."
+  },
+  {
+    "id": "G8-HER-025",
+    "domain": "grade-8",
+    "subtopic": "Heredity",
+    "difficulty": "hard",
+    "question": "Two heterozygous tall pea plants (Tt × Tt) are crossed. Among the tall offspring only, what fraction is expected to be heterozygous?",
+    "choices": [
+      "$\\frac{1}{2}$",
+      "$\\frac{3}{4}$",
+      "$\\frac{2}{3}$",
+      "$\\frac{1}{4}$"
+    ],
+    "answerIndex": 2,
+    "explanation": "The cross gives **TT : Tt : tt = 1 : 2 : 1**. The tall offspring are TT and Tt, which is 3 parts, and 2 of those parts are Tt. So $\\frac{2}{3}$ of the tall plants are heterozygous. The value $\\frac{1}{2}$ is the fraction of **all** offspring that are Tt, and $\\frac{3}{4}$ is the fraction that are tall."
+  },
+  {
     "id": "G8-TAX-001",
     "domain": "grade-8",
     "subtopic": "Taxonomic classification",
@@ -855,6 +1065,126 @@
     "answerIndex": 1,
     "explanation": "Sharing a **family** means sharing more ranks (kingdom to family) than sharing only a **class**. So **A and C** are more closely related. Since C is in A's order and B is not, **B and C** are in **different** orders. Nothing tells us A, B, and C share a genus.",
     "verified": true
+  },
+  {
+    "id": "G8-TAX-018",
+    "domain": "grade-8",
+    "subtopic": "Taxonomic classification",
+    "difficulty": "easy",
+    "question": "Which list names the three domains of life?",
+    "choices": [
+      "Plants, Animals, Fungi",
+      "Bacteria, Archaea, Eukarya",
+      "Bacteria, Protists, Fungi",
+      "Kingdom, Phylum, Class"
+    ],
+    "answerIndex": 1,
+    "explanation": "The **three-domain system** groups all life into **Bacteria**, **Archaea**, and **Eukarya** (organisms whose cells have a nucleus). Plants, animals, and fungi are kingdoms inside Eukarya, and kingdom, phylum, and class are ranks."
+  },
+  {
+    "id": "G8-TAX-019",
+    "domain": "grade-8",
+    "subtopic": "Taxonomic classification",
+    "difficulty": "easy",
+    "question": "To which class do humans belong?",
+    "choices": [
+      "Aves",
+      "Reptilia",
+      "Amphibia",
+      "Mammalia"
+    ],
+    "answerIndex": 3,
+    "explanation": "Humans are in **Class Mammalia**, the mammals. Aves is the class of birds, Reptilia of reptiles, and Amphibia of amphibians such as frogs."
+  },
+  {
+    "id": "G8-TAX-020",
+    "domain": "grade-8",
+    "subtopic": "Taxonomic classification",
+    "difficulty": "easy",
+    "question": "In the six-kingdom system, which two kingdoms contain organisms whose cells have no nucleus?",
+    "choices": [
+      "Archaebacteria and Eubacteria",
+      "Protista and Fungi",
+      "Plantae and Animalia",
+      "Fungi and Archaebacteria"
+    ],
+    "answerIndex": 0,
+    "explanation": "The six kingdoms are Archaebacteria, Eubacteria, Protista, Fungi, Plantae, and Animalia. Only the two bacterial kingdoms, **Archaebacteria** and **Eubacteria**, have cells **without a nucleus**. Protists, fungi, plants, and animals all have nuclei."
+  },
+  {
+    "id": "G8-TAX-021",
+    "domain": "grade-8",
+    "subtopic": "Taxonomic classification",
+    "difficulty": "medium",
+    "question": "Why are humans classified under Class Mammalia?",
+    "choices": [
+      "They walk upright on two legs",
+      "They have a backbone",
+      "They have hair and feed their young with milk from mammary glands",
+      "They breathe air using lungs"
+    ],
+    "answerIndex": 2,
+    "explanation": "Mammals are defined by **hair or fur** and **mammary glands** that produce milk for the young. Having a backbone is shared by all vertebrates, lungs are also found in reptiles, birds, and adult amphibians, and walking upright is not what defines the class."
+  },
+  {
+    "id": "G8-TAX-022",
+    "domain": "grade-8",
+    "subtopic": "Taxonomic classification",
+    "difficulty": "medium",
+    "question": "Which set of traits places humans in the Order Primates?",
+    "choices": [
+      "Hooves, horns, and a stomach with several chambers",
+      "Grasping hands with opposable thumbs, forward-facing eyes, and a large brain",
+      "Feathers, a beak, and hollow bones",
+      "Scales, gills, and fins"
+    ],
+    "answerIndex": 1,
+    "explanation": "**Primates**, such as monkeys, apes, and humans, have **grasping hands with opposable thumbs**, **forward-facing eyes** for judging depth, and **large brains** for their body size. Hooves and horns describe animals like cows, feathers describe birds, and gills describe fish."
+  },
+  {
+    "id": "G8-TAX-023",
+    "domain": "grade-8",
+    "subtopic": "Taxonomic classification",
+    "difficulty": "medium",
+    "question": "A microorganism with no nucleus is discovered living in a boiling hot spring. In which group is it most likely classified?",
+    "choices": [
+      "Fungi",
+      "Protista",
+      "Plantae",
+      "Archaea (Archaebacteria)"
+    ],
+    "answerIndex": 3,
+    "explanation": "**Archaea** have no nucleus and are famous for living in **extreme environments** such as hot springs, very salty water, and places without oxygen. Fungi, protists, and plants all have cells with a nucleus."
+  },
+  {
+    "id": "G8-TAX-024",
+    "domain": "grade-8",
+    "subtopic": "Taxonomic classification",
+    "difficulty": "medium",
+    "question": "Why is the three-domain system important in classifying living things?",
+    "choices": [
+      "It groups organisms by basic differences in their cells, showing that archaea are very different from bacteria",
+      "It replaces scientific names with common names",
+      "It groups organisms only by where they live",
+      "It shows that all microorganisms belong to one kingdom"
+    ],
+    "answerIndex": 0,
+    "explanation": "The three-domain system is based on **basic cell differences**, including whether there is a nucleus and the makeup of the cell's molecules. It showed that **archaea and bacteria are very different** even though both lack a nucleus. It keeps scientific names and does not sort organisms by habitat."
+  },
+  {
+    "id": "G8-TAX-025",
+    "domain": "grade-8",
+    "subtopic": "Taxonomic classification",
+    "difficulty": "hard",
+    "question": "Humans (*Homo sapiens*) and chimpanzees (*Pan troglodytes*) are both in the family Hominidae. Which statement is correct?",
+    "choices": [
+      "They belong to the same genus but different species",
+      "They share only the same kingdom",
+      "They share the same kingdom, phylum, class, order, and family, but belong to different genera",
+      "They belong to the same species because their DNA is very similar"
+    ],
+    "answerIndex": 2,
+    "explanation": "Organisms in the same family share **every higher rank**: kingdom Animalia, phylum Chordata, class Mammalia, order Primates, and family Hominidae. Their first names, *Homo* and *Pan*, are **different genera**, so they are not the same genus or species."
   },
   {
     "id": "G8-PRC-001",
@@ -1130,5 +1460,125 @@
     "answerIndex": 3,
     "explanation": "In light, the plant's **photosynthesis** produces oxygen and uses the carbon dioxide made by both organisms' **respiration**, so the gases stay balanced. In darkness, photosynthesis **stops** but **both still respire**, so oxygen runs out and carbon dioxide builds up.",
     "verified": true
+  },
+  {
+    "id": "G8-PRC-018",
+    "domain": "grade-8",
+    "subtopic": "Photosynthesis, respiration, and cycles in nature",
+    "difficulty": "easy",
+    "question": "In which organelle does cellular respiration mainly take place?",
+    "choices": [
+      "Chloroplast",
+      "Mitochondrion",
+      "Nucleus",
+      "Cell wall"
+    ],
+    "answerIndex": 1,
+    "explanation": "Cellular respiration mainly happens in the **mitochondria**, which release energy from glucose. Photosynthesis happens in chloroplasts, the nucleus holds DNA, and the cell wall gives support."
+  },
+  {
+    "id": "G8-PRC-019",
+    "domain": "grade-8",
+    "subtopic": "Photosynthesis, respiration, and cycles in nature",
+    "difficulty": "easy",
+    "question": "What are the raw materials of cellular respiration?",
+    "choices": [
+      "Carbon dioxide and water",
+      "Sunlight and chlorophyll",
+      "Starch and nitrogen",
+      "Glucose and oxygen"
+    ],
+    "answerIndex": 3,
+    "explanation": "Respiration uses **glucose and oxygen** to release energy, producing carbon dioxide and water. Carbon dioxide and water are the raw materials of **photosynthesis**, and sunlight and chlorophyll are what photosynthesis needs to capture energy."
+  },
+  {
+    "id": "G8-PRC-020",
+    "domain": "grade-8",
+    "subtopic": "Photosynthesis, respiration, and cycles in nature",
+    "difficulty": "easy",
+    "question": "In the water cycle, what is the process in which liquid water from oceans and lakes changes into water vapor?",
+    "choices": [
+      "Evaporation",
+      "Condensation",
+      "Precipitation",
+      "Infiltration"
+    ],
+    "answerIndex": 0,
+    "explanation": "**Evaporation** changes liquid water into water vapor using heat from the Sun. Condensation is vapor turning back into droplets, precipitation is water falling as rain, and infiltration is water soaking into the ground."
+  },
+  {
+    "id": "G8-PRC-021",
+    "domain": "grade-8",
+    "subtopic": "Photosynthesis, respiration, and cycles in nature",
+    "difficulty": "medium",
+    "question": "A potted plant is kept in the dark for two days. Then one of its leaves is tested with iodine solution, and the leaf does not turn blue-black. What does this show?",
+    "choices": [
+      "The leaf has lost all its chlorophyll",
+      "Iodine only works on leaves kept in light",
+      "The leaf has no starch, because photosynthesis needs light",
+      "The plant used up all its water"
+    ],
+    "answerIndex": 2,
+    "explanation": "Iodine turns **blue-black** when **starch** is present. In the dark the plant cannot photosynthesize, so it uses up its stored starch and makes no new starch. This shows that **light is needed** for photosynthesis. Two days in the dark does not remove chlorophyll."
+  },
+  {
+    "id": "G8-PRC-022",
+    "domain": "grade-8",
+    "subtopic": "Photosynthesis, respiration, and cycles in nature",
+    "difficulty": "medium",
+    "question": "A variegated leaf has green parts and white parts. After it is kept in sunlight, only the green parts turn blue-black in the iodine test. What does this show is needed for photosynthesis?",
+    "choices": [
+      "Carbon dioxide",
+      "Chlorophyll",
+      "Water",
+      "Oxygen"
+    ],
+    "answerIndex": 1,
+    "explanation": "The white parts have **no chlorophyll**, and only the green parts made starch, even though the whole leaf had the same light, water, and air. This shows **chlorophyll** is needed. Oxygen is a product of photosynthesis, not a raw material."
+  },
+  {
+    "id": "G8-PRC-023",
+    "domain": "grade-8",
+    "subtopic": "Photosynthesis, respiration, and cycles in nature",
+    "difficulty": "medium",
+    "question": "How do plants and animals together keep the amount of oxygen in the air balanced?",
+    "choices": [
+      "Animals release oxygen when they breathe out, and plants use it",
+      "Only animals use oxygen, so plants never need it",
+      "Decomposers make all the oxygen in the air",
+      "Plants release oxygen in photosynthesis, and both plants and animals use oxygen in respiration"
+    ],
+    "answerIndex": 3,
+    "explanation": "In the **oxygen cycle**, plants and algae **release oxygen** during photosynthesis, and **all** living things, including plants, **use oxygen** in respiration. Animals breathe out carbon dioxide, not extra oxygen, and decomposers use oxygen rather than make it."
+  },
+  {
+    "id": "G8-PRC-024",
+    "domain": "grade-8",
+    "subtopic": "Photosynthesis, respiration, and cycles in nature",
+    "difficulty": "medium",
+    "question": "A leaf is sealed in a flask with soda lime, a chemical that absorbs carbon dioxide. A similar leaf is sealed in a flask without soda lime. Both are kept in light, and only the leaf without soda lime makes starch. What does the experiment show?",
+    "choices": [
+      "Carbon dioxide is needed for photosynthesis",
+      "Light is needed for photosynthesis",
+      "Soda lime is a raw material of photosynthesis",
+      "Oxygen is needed for photosynthesis"
+    ],
+    "answerIndex": 0,
+    "explanation": "The only difference between the two setups is **carbon dioxide**: soda lime removed it from one flask. Only the leaf with carbon dioxide made starch, so **carbon dioxide is a raw material** of photosynthesis. Both leaves had light, so light was not tested."
+  },
+  {
+    "id": "G8-PRC-025",
+    "domain": "grade-8",
+    "subtopic": "Photosynthesis, respiration, and cycles in nature",
+    "difficulty": "hard",
+    "question": "A student tests whether light intensity affects the rate of photosynthesis by counting the bubbles from Hydrilla with a lamp at different distances. Which must be kept the same in every trial?",
+    "choices": [
+      "The distance of the lamp from the plant",
+      "The number of bubbles produced",
+      "The water temperature and the type and size of the plant",
+      "Nothing, because only light affects photosynthesis"
+    ],
+    "answerIndex": 2,
+    "explanation": "In a fair test, only the factor being tested changes. Here the **lamp distance** is changed on purpose, and the **number of bubbles** is what is measured. Other factors that also affect photosynthesis, such as **temperature** and the **plant used**, must stay the same."
   }
 ]

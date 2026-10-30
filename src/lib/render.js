@@ -5,11 +5,15 @@ import { splitMath } from './mathsplit.js';
 const ESC = { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' };
 export const escapeHtml = (s) => String(s).replace(/[&<>"']/g, (c) => ESC[c]);
 
-// Plain text formatting: `code`, **bold**, line breaks.
+// Plain text formatting: `code`, **bold**, *italic* (scientific names), line breaks.
+// Bold and italic are skipped inside code, where * means multiplication.
 function formatPlain(s) {
   return escapeHtml(s)
-    .replace(/`([^`]+)`/g, '<code>$1</code>')
-    .replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>')
+    .split(/(`[^`]+`)/)
+    .map((part, i) => (i % 2
+      ? `<code>${part.slice(1, -1)}</code>`
+      : part.replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>').replace(/\*([^*\s][^*]*?)\*/g, '<em>$1</em>')))
+    .join('')
     .replace(/\n/g, '<br>');
 }
 

@@ -5,7 +5,7 @@ A free, public practice website with one tab per subject:
 | Tab | Link | Items | Modes |
 | --- | --- | --- | --- |
 | Dagitab 2026 | `/` or `/#dagitab` | 470 | Practice, Mock Exam |
-| Brainiac 2026 (Biology, Grades 7 to 10) | `/#brainiac` | 280 | Practice |
+| Brainiac 2026 (Biology, Grades 7 to 10) | `/#brainiac` | 400 | Practice |
 
 The Dagitab tab is for senior high school students preparing for the **Dagitab 2026 qualifying exam**.
 It is an unofficial reviewer and is not affiliated with or endorsed by the UP Engineering Radio Guild.
@@ -13,7 +13,7 @@ It is an unofficial reviewer and is not affiliated with or endorsed by the UP En
 - **Practice mode:** untimed, filter by domain and subtopic, instant feedback with a worked explanation, score breakdown at the end.
 - **Mock exam mode:** 50 items, 60-minute countdown, auto-submits at 00:00, skip/flag/jump between items, full review at the end.
 - **Dagitab:** 470 questions in four domains (Mathematics and Logic, Physics and Circuits, Technical Knowledge, Abstract Reasoning). All are solvable without a calculator.
-- **Brainiac 2026:** 280 Biology questions, 70 per grade (Grades 7 to 10), practice by grade and topic.
+- **Brainiac 2026:** 400 Biology questions, 100 per grade (Grades 7 to 10), practice by grade and topic.
 - Static site: no backend, no accounts, no cookies, no localStorage. Every visit starts fresh.
 
 Built with [Vite](https://vite.dev) and plain JavaScript (no framework), with [KaTeX](https://katex.org) for math.
@@ -161,7 +161,7 @@ Because of this:
 - In JSON every backslash is doubled: write `"$\\frac{1}{2}$"` to get $\frac{1}{2}$.
 - Units: `$4.7\\text{ k}\\Omega$`, `$9.8\\text{ m/s}^2$`.
 - A literal dollar sign is `\\$`. Keep the peso sign `₱` **outside** math (KaTeX cannot draw it).
-- Text formatting outside math: `**bold**` and `` `code` ``.
+- Text formatting outside math: `**bold**`, `*italic*` (for scientific names), and `` `code` ``.
 - Do not use em dashes (the validator checks).
 - Dagitab students may **not** use calculators: keep numbers friendly (exact trig angles, perfect squares, simple fractions).
 
@@ -230,7 +230,7 @@ in their current order; for a new checker you can skip the wrapper and use posit
 If you change a question's numbers or choices, update or delete its checker. Questions without a checker
 (reading passages, concepts, most abstract figures) are listed as "checked by hand".
 
-Current bank: 750 items (470 Dagitab, 280 Brainiac), 333 with computed checks.
+Current bank: 870 items (470 Dagitab, 400 Brainiac), 340 with computed checks.
 
 ---
 

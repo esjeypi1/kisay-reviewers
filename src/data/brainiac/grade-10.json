@@ -291,6 +291,111 @@
     "verified": true
   },
   {
+    "id": "G10-HOM-019",
+    "domain": "grade-10",
+    "subtopic": "Homeostasis",
+    "difficulty": "easy",
+    "question": "Which is an example of positive feedback in the body?",
+    "choices": [
+      "Blood clotting, where each step causes more clotting until the cut is sealed",
+      "Sweating when body temperature rises",
+      "Shivering when body temperature falls",
+      "Insulin release when blood glucose rises"
+    ],
+    "answerIndex": 0,
+    "explanation": "In **positive feedback**, a change causes **more of the same change** until an end point is reached. In blood clotting, platelets at a cut release chemicals that attract more platelets until the wound is sealed. Sweating, shivering, and insulin release all **reverse** a change, so they are negative feedback."
+  },
+  {
+    "id": "G10-HOM-020",
+    "domain": "grade-10",
+    "subtopic": "Homeostasis",
+    "difficulty": "easy",
+    "question": "Besides body temperature and blood glucose, which is another indicator of homeostasis in humans?",
+    "choices": [
+      "Hair color",
+      "Height",
+      "Blood pressure",
+      "Eye color"
+    ],
+    "answerIndex": 2,
+    "explanation": "**Blood pressure** is kept within a normal range by the heart, blood vessels, kidneys, and nervous system, so it is an indicator of homeostasis. Hair color, height, and eye color are traits, not conditions the body keeps balancing from moment to moment."
+  },
+  {
+    "id": "G10-HOM-021",
+    "domain": "grade-10",
+    "subtopic": "Homeostasis",
+    "difficulty": "easy",
+    "question": "In a feedback loop, which part detects a change in the body, such as a rise in temperature?",
+    "choices": [
+      "Effector",
+      "Receptor",
+      "Control center",
+      "Stimulus"
+    ],
+    "answerIndex": 1,
+    "explanation": "A **receptor** (sensor) **detects** the change. It sends information to the **control center**, such as the brain, which signals an **effector**, such as sweat glands or muscles, to respond. The stimulus is the change itself."
+  },
+  {
+    "id": "G10-HOM-022",
+    "domain": "grade-10",
+    "subtopic": "Homeostasis",
+    "difficulty": "medium",
+    "question": "A person's blood pressure suddenly rises. Which response would help bring it back to normal?",
+    "choices": [
+      "The heart beats faster and blood vessels narrow",
+      "Breathing stops for a while",
+      "The kidneys keep more water in the blood",
+      "The heart beats more slowly and blood vessels widen"
+    ],
+    "answerIndex": 3,
+    "explanation": "To lower blood pressure, the body makes the **heart beat more slowly** and **widens blood vessels**, so blood pushes less on the vessel walls. This is negative feedback. A faster heartbeat, narrower vessels, and keeping more water in the blood would all **raise** blood pressure further."
+  },
+  {
+    "id": "G10-HOM-023",
+    "domain": "grade-10",
+    "subtopic": "Homeostasis",
+    "difficulty": "medium",
+    "question": "After drinking several glasses of water, a person produces a large amount of pale, dilute urine. What does this show?",
+    "choices": [
+      "The kidneys remove the extra water to keep the body's water balance stable",
+      "The kidneys have stopped working",
+      "The body is losing too much salt and needs even more water",
+      "Water goes directly from the stomach to the bladder"
+    ],
+    "answerIndex": 0,
+    "explanation": "When there is **extra water** in the blood, the kidneys **reabsorb less** of it, so more water leaves as **dilute urine**. This keeps the body's water balance steady, an example of homeostasis. Water is absorbed into the blood first; it does not go straight to the bladder."
+  },
+  {
+    "id": "G10-HOM-024",
+    "domain": "grade-10",
+    "subtopic": "Homeostasis",
+    "difficulty": "medium",
+    "question": "An air-conditioner thermostat turns the cooling off when a room reaches 24 °C and turns it on again when the room gets warmer. Which body process works the same way?",
+    "choices": [
+      "Contractions that grow stronger during childbirth",
+      "Blood clotting at a wound",
+      "Control of body temperature by the hypothalamus",
+      "Growth in height over many years"
+    ],
+    "answerIndex": 2,
+    "explanation": "A thermostat is **negative feedback**: it switches on or off to keep temperature near a **set point**. The **hypothalamus** does the same for body temperature, starting sweating when you are too hot and shivering when you are too cold. Childbirth contractions and clotting are positive feedback."
+  },
+  {
+    "id": "G10-HOM-025",
+    "domain": "grade-10",
+    "subtopic": "Homeostasis",
+    "difficulty": "hard",
+    "question": "A person with diabetes accidentally injects too much insulin and begins to feel shaky, sweaty, and weak. What is happening, and what is the best quick help?",
+    "choices": [
+      "Blood glucose is too high, so the person should inject more insulin",
+      "Blood glucose has dropped too low, so the person should eat or drink something sugary",
+      "Body temperature is too high, so the person should drink cold water",
+      "Blood pressure is too low, so the person should lie down and skip meals"
+    ],
+    "answerIndex": 1,
+    "explanation": "Insulin **lowers blood glucose**. Too much insulin makes blood glucose fall **too low** (hypoglycemia), and the brain does not get enough fuel, causing shakiness and weakness. Taking **sugar** quickly raises blood glucose. More insulin would make the problem worse."
+  },
+  {
     "id": "G10-EVO-001",
     "domain": "grade-10",
     "subtopic": "Mechanisms of evolution",
@@ -582,6 +687,111 @@
     "verified": true
   },
   {
+    "id": "G10-EVO-019",
+    "domain": "grade-10",
+    "subtopic": "Mechanisms of evolution",
+    "difficulty": "easy",
+    "question": "Which scientist proposed that organisms change by using or not using body parts, and then pass these changes to their offspring?",
+    "choices": [
+      "Charles Darwin",
+      "Gregor Mendel",
+      "Carolus Linnaeus",
+      "Jean-Baptiste Lamarck"
+    ],
+    "answerIndex": 3,
+    "explanation": "**Lamarck** proposed the idea of **use and disuse** and the inheritance of acquired traits. Darwin proposed natural selection, Mendel studied inheritance in peas, and Linnaeus developed binomial nomenclature. Lamarck's idea is not accepted today because traits gained during a lifetime are not passed on through genes."
+  },
+  {
+    "id": "G10-EVO-020",
+    "domain": "grade-10",
+    "subtopic": "Mechanisms of evolution",
+    "difficulty": "easy",
+    "question": "What is biogeography?",
+    "choices": [
+      "The study of where species live and how they are spread across Earth",
+      "The study of rock layers",
+      "The study of the structure of DNA",
+      "The study of how body temperature is controlled"
+    ],
+    "answerIndex": 0,
+    "explanation": "**Biogeography** studies the **distribution of species** across places, such as continents and islands. Patterns in where species live are one line of evidence for evolution. The study of rock layers is stratigraphy."
+  },
+  {
+    "id": "G10-EVO-021",
+    "domain": "grade-10",
+    "subtopic": "Mechanisms of evolution",
+    "difficulty": "easy",
+    "question": "Which is the best example of variation within a species?",
+    "choices": [
+      "A dog and a cat have different fur",
+      "A mango tree grows taller each year",
+      "Students in a class have different heights, skin tones, and blood types",
+      "A fish lives in water while a bird flies"
+    ],
+    "answerIndex": 2,
+    "explanation": "**Variation** means differences among individuals of the **same species**, such as students in one class. Natural selection acts on this variation. Dogs and cats, or fish and birds, are different species, and a tree growing taller is growth, not variation."
+  },
+  {
+    "id": "G10-EVO-022",
+    "domain": "grade-10",
+    "subtopic": "Mechanisms of evolution",
+    "difficulty": "medium",
+    "question": "Different Philippine islands have their own species of cloud rats that are found nowhere else. Which mechanism best explains this?",
+    "choices": [
+      "The animals decided to change to match each island",
+      "Isolation on separate islands let each population change separately over many generations",
+      "All the species were brought by humans recently",
+      "The species formed by mixing with animals from other islands"
+    ],
+    "answerIndex": 1,
+    "explanation": "When populations are **isolated** by the sea, they cannot interbreed. Over many generations, **mutations, natural selection, and chance** change each population differently until they become separate species. Mixing between islands would make the populations more alike, and animals cannot decide to change."
+  },
+  {
+    "id": "G10-EVO-023",
+    "domain": "grade-10",
+    "subtopic": "Mechanisms of evolution",
+    "difficulty": "medium",
+    "question": "Fossils of Archaeopteryx show feathers and wings like a bird, but also teeth, claws, and a long bony tail like a reptile. What does this fossil suggest?",
+    "choices": [
+      "Birds evolved directly from fish",
+      "Reptiles evolved from modern birds",
+      "Fossils cannot tell us anything about the past",
+      "Birds and reptiles share a common ancestor"
+    ],
+    "answerIndex": 3,
+    "explanation": "Archaeopteryx is a **transitional fossil** with a mix of bird and reptile features. It supports the idea that **birds evolved from reptile-like ancestors**, so they share a common ancestor. It is much older than modern birds, so reptiles could not have come from them."
+  },
+  {
+    "id": "G10-EVO-024",
+    "domain": "grade-10",
+    "subtopic": "Mechanisms of evolution",
+    "difficulty": "medium",
+    "question": "Species on islands near a continent are often most similar to species on that continent, even when the island's climate is quite different. What best explains this?",
+    "choices": [
+      "The island species descended from ancestors that came from the nearby continent",
+      "Similar climates always produce identical species",
+      "The island species were formed separately with no ancestors",
+      "Animals on islands never change over time"
+    ],
+    "answerIndex": 0,
+    "explanation": "This is **biogeographic evidence** for evolution. Island species are most like those of the **nearest mainland** because their **ancestors came from there** and then changed over time. If climate alone decided which species lived there, island species would match places with similar climates instead."
+  },
+  {
+    "id": "G10-EVO-025",
+    "domain": "grade-10",
+    "subtopic": "Mechanisms of evolution",
+    "difficulty": "hard",
+    "question": "Which statement is NOT part of Darwin's theory of natural selection?",
+    "choices": [
+      "Individuals in a population vary in their traits",
+      "Many traits are inherited from parents",
+      "Individuals change their traits during their lifetime because they need to, and pass these changes to their offspring",
+      "Individuals with helpful traits tend to survive and reproduce more"
+    ],
+    "answerIndex": 2,
+    "explanation": "Natural selection depends on **variation**, **inheritance**, and **differential survival and reproduction**. Changing traits because of need and passing them on is **Lamarck's** idea, not Darwin's. Populations evolve because individuals already differ, not because individuals change on purpose."
+  },
+  {
     "id": "G10-BTEC-001",
     "domain": "grade-10",
     "subtopic": "Biotechnology",
@@ -854,6 +1064,126 @@
     "answerIndex": 1,
     "explanation": "Bands 1 and 3 came from the mother, so the father must provide **bands 2 and 4**. **Man X** has both 2 and 4. Man Y has band 2 but **not band 4**, so he cannot be the father.",
     "verified": true
+  },
+  {
+    "id": "G10-BTEC-018",
+    "domain": "grade-10",
+    "subtopic": "Biotechnology",
+    "difficulty": "easy",
+    "question": "Which microorganism is used to make bread dough rise?",
+    "choices": [
+      "Algae",
+      "Yeast",
+      "Viruses",
+      "Protozoa"
+    ],
+    "answerIndex": 1,
+    "explanation": "**Yeast** ferments the sugar in dough and gives off **carbon dioxide** gas, which forms bubbles that make the bread rise. This is an example of traditional biotechnology."
+  },
+  {
+    "id": "G10-BTEC-019",
+    "domain": "grade-10",
+    "subtopic": "Biotechnology",
+    "difficulty": "easy",
+    "question": "What is in vitro fertilization (IVF)?",
+    "choices": [
+      "Inserting a gene from bacteria into a plant",
+      "Making an identical copy of an adult animal from one of its cells",
+      "Fermenting fruit juice to make vinegar",
+      "Joining an egg and a sperm in a laboratory dish, then placing the embryo in the mother's uterus"
+    ],
+    "answerIndex": 3,
+    "explanation": "*In vitro* means \"in glass\". In **IVF**, fertilization happens **outside the body** in a lab, and the early embryo is placed in the uterus to develop. Inserting genes is genetic engineering, copying an adult animal is cloning, and making vinegar is fermentation."
+  },
+  {
+    "id": "G10-BTEC-020",
+    "domain": "grade-10",
+    "subtopic": "Biotechnology",
+    "difficulty": "easy",
+    "question": "Which product is made by fermenting soybeans and wheat with a mold and salt?",
+    "choices": [
+      "Soy sauce",
+      "Nata de coco",
+      "Vinegar",
+      "Cheese"
+    ],
+    "answerIndex": 0,
+    "explanation": "**Soy sauce** is made by fermenting soybeans and wheat with a mold and salt for months. Nata de coco is made from coconut water by bacteria, vinegar comes from alcohol turned into acid by bacteria, and cheese is made from milk."
+  },
+  {
+    "id": "G10-BTEC-021",
+    "domain": "grade-10",
+    "subtopic": "Biotechnology",
+    "difficulty": "medium",
+    "question": "How is cheese made using biotechnology?",
+    "choices": [
+      "Milk is boiled until it turns solid",
+      "Genes from cows are inserted into the milk",
+      "Bacteria and enzymes curdle the milk, then the curds are pressed and ripened",
+      "Milk is mixed with sugar and dried in the sun"
+    ],
+    "answerIndex": 2,
+    "explanation": "Cheese making uses **lactic acid bacteria** and **enzymes** (such as rennet) to make milk proteins clump into **curds**. The curds are separated, pressed, and often **ripened** by microorganisms that add flavor. This is traditional biotechnology through fermentation."
+  },
+  {
+    "id": "G10-BTEC-022",
+    "domain": "grade-10",
+    "subtopic": "Biotechnology",
+    "difficulty": "medium",
+    "question": "Which comparison of traditional and modern biotechnology is correct?",
+    "choices": [
+      "Traditional biotechnology always uses genetic engineering",
+      "Traditional biotechnology uses whole organisms such as microbes for fermentation, while modern biotechnology can change an organism's DNA directly",
+      "Modern biotechnology does not use living things at all",
+      "Both use only chemicals and never living cells"
+    ],
+    "answerIndex": 1,
+    "explanation": "**Traditional biotechnology** uses living things as they are, such as yeast for bread or bacteria for vinegar. **Modern biotechnology** works with **DNA** directly, as in genetic engineering, GMOs, and DNA fingerprinting. Both use living cells or their parts."
+  },
+  {
+    "id": "G10-BTEC-023",
+    "domain": "grade-10",
+    "subtopic": "Biotechnology",
+    "difficulty": "medium",
+    "question": "Bt eggplant (Bt talong) was developed in the Philippines. Which problem was it designed to solve?",
+    "choices": [
+      "Low vitamin A in Filipino diets",
+      "Eggplants that spoil too quickly after harvest",
+      "Eggplants that cannot grow in salty soil",
+      "Damage by the eggplant fruit and shoot borer, while reducing insecticide spraying"
+    ],
+    "answerIndex": 3,
+    "explanation": "Bt eggplant carries a gene from the bacterium *Bacillus thuringiensis* that makes a protein toxic to the **fruit and shoot borer**, the eggplant's worst pest. Farmers can then spray **less insecticide**. Vitamin A deficiency is the target of Golden Rice, not Bt eggplant."
+  },
+  {
+    "id": "G10-BTEC-024",
+    "domain": "grade-10",
+    "subtopic": "Biotechnology",
+    "difficulty": "medium",
+    "question": "Vinegar from coconut sap (sukang tuba) is made in two fermentation steps. What happens in each step?",
+    "choices": [
+      "Yeast turns sugar into alcohol, then bacteria turn the alcohol into acetic acid",
+      "Bacteria turn sugar into protein, then yeast turns the protein into acid",
+      "Mold turns water into sugar, then yeast turns the sugar into salt",
+      "Heat alone turns sugar into acid with no microorganisms"
+    ],
+    "answerIndex": 0,
+    "explanation": "First, **yeast** ferments the sugar in the sap into **alcohol**. Then **acetic acid bacteria** change the alcohol into **acetic acid**, which gives vinegar its sour taste. Both steps depend on microorganisms, so vinegar making is traditional biotechnology."
+  },
+  {
+    "id": "G10-BTEC-025",
+    "domain": "grade-10",
+    "subtopic": "Biotechnology",
+    "difficulty": "hard",
+    "question": "Scientists want a high-yield rice that survives flooding. Method 1 crosses a flood-tolerant wild rice with the high-yield variety over many generations. Method 2 inserts the flood-tolerance gene directly into the high-yield variety. Which statement is correct?",
+    "choices": [
+      "Both methods are genetic engineering because both change the rice's genes",
+      "Method 1 produces a GMO, while Method 2 is traditional breeding",
+      "Method 1 is selective breeding, while Method 2 is genetic engineering that produces a GMO",
+      "Neither method can change the traits of rice"
+    ],
+    "answerIndex": 2,
+    "explanation": "**Selective breeding** combines traits by **crossing** plants and choosing the best offspring over generations. **Genetic engineering** moves a specific **gene directly** into an organism's DNA, producing a **genetically modified organism**. Both can change traits, but only the direct gene transfer makes a GMO."
   },
   {
     "id": "G10-POP-001",
@@ -1130,5 +1460,126 @@
     "answerIndex": 3,
     "explanation": "1. Growth rate: $\\dfrac{300 - 100}{2{,}000} = \\dfrac{200}{2{,}000} = 0.10 = 10\\%$ per year.\n2. After year 1: $2{,}000 \\times 1.10 = 2{,}200$.\n3. After year 2: $2{,}200 \\times 1.10 = 2{,}420$.\n\nAdding 200 each year gives 2,400, but the same **rate** applied to a larger population produces more new individuals each year.",
     "verified": true
+  },
+  {
+    "id": "G10-POP-018",
+    "domain": "grade-10",
+    "subtopic": "Ecosystem's carrying capacity and population growth",
+    "difficulty": "easy",
+    "question": "What shape does a graph of population size usually make when growth slows and levels off at the carrying capacity?",
+    "choices": [
+      "J-shaped curve",
+      "S-shaped curve",
+      "Straight line going down",
+      "U-shaped curve"
+    ],
+    "answerIndex": 1,
+    "explanation": "When resources are limited, a population grows quickly at first, then **slows**, and **levels off** at the carrying capacity, making an **S-shaped (logistic)** curve. A J-shaped curve shows growth with unlimited resources."
+  },
+  {
+    "id": "G10-POP-019",
+    "domain": "grade-10",
+    "subtopic": "Ecosystem's carrying capacity and population growth",
+    "difficulty": "easy",
+    "question": "Hermit crabs live in empty snail shells and must find larger shells as they grow. Which limiting factor does this show?",
+    "choices": [
+      "Water",
+      "Mates",
+      "Sunlight",
+      "Shelter"
+    ],
+    "answerIndex": 3,
+    "explanation": "Empty shells are the hermit crab's **shelter**. If there are not enough shells of the right size, fewer crabs can survive, so the supply of shells limits the population. Food, water, shelter, and mates are the main limiting factors."
+  },
+  {
+    "id": "G10-POP-020",
+    "domain": "grade-10",
+    "subtopic": "Ecosystem's carrying capacity and population growth",
+    "difficulty": "easy",
+    "question": "Which of the following limits the carrying capacity of an ecosystem for a deer population?",
+    "choices": [
+      "The amount of food, water, shelter, and mates available",
+      "The color of the deer's fur",
+      "The number of hours in a day",
+      "The shape of the deer's antlers"
+    ],
+    "answerIndex": 0,
+    "explanation": "**Carrying capacity** is the largest population an environment can support. It is limited by **resources**: food, water, shelter, and mates. Fur color and antler shape are traits of the deer, not resources."
+  },
+  {
+    "id": "G10-POP-021",
+    "domain": "grade-10",
+    "subtopic": "Ecosystem's carrying capacity and population growth",
+    "difficulty": "medium",
+    "question": "Why does a population's growth slow down as it gets close to the carrying capacity?",
+    "choices": [
+      "Individuals stop needing food as the population grows",
+      "Births always stop completely at half the carrying capacity",
+      "Each individual gets fewer resources, so fewer survive and reproduce",
+      "Predators always leave when a population grows"
+    ],
+    "answerIndex": 2,
+    "explanation": "As the population nears carrying capacity, **competition** for food, water, shelter, and mates increases. **Fewer individuals survive and reproduce**, so the birth rate falls and the death rate rises until they balance and growth stops."
+  },
+  {
+    "id": "G10-POP-022",
+    "domain": "grade-10",
+    "subtopic": "Ecosystem's carrying capacity and population growth",
+    "difficulty": "medium",
+    "question": "The table shows the number of goats on an island over 14 years. What is the island's carrying capacity for goats closest to?",
+    "figure": "<table><thead><tr><th>Year</th><th>Number of goats</th></tr></thead><tbody><tr><td>0</td><td>20</td></tr><tr><td>2</td><td>60</td></tr><tr><td>4</td><td>180</td></tr><tr><td>6</td><td>300</td></tr><tr><td>8</td><td>340</td></tr><tr><td>10</td><td>350</td></tr><tr><td>12</td><td>345</td></tr><tr><td>14</td><td>352</td></tr></tbody></table>",
+    "choices": [
+      "180",
+      "350",
+      "20",
+      "700"
+    ],
+    "answerIndex": 1,
+    "explanation": "The population grows quickly at first, then **levels off** at about **350** goats from year 8 onward, staying between 340 and 352. The level where the population stops growing is the **carrying capacity**. The value 180 was only a point during the fast-growth phase."
+  },
+  {
+    "id": "G10-POP-023",
+    "domain": "grade-10",
+    "subtopic": "Ecosystem's carrying capacity and population growth",
+    "difficulty": "medium",
+    "question": "A population of 400 frogs has 60 births and 20 deaths in one year, with no migration. What is its growth rate for that year?",
+    "choices": [
+      "15%",
+      "5%",
+      "20%",
+      "10%"
+    ],
+    "answerIndex": 3,
+    "explanation": "Growth = births minus deaths $= 60 - 20 = 40$ frogs. The growth rate is $\\frac{40}{400} = 0.10 = 10\\%$. The value 15% uses only births $\\left(\\frac{60}{400}\\right)$, and 5% uses only deaths $\\left(\\frac{20}{400}\\right)$."
+  },
+  {
+    "id": "G10-POP-024",
+    "domain": "grade-10",
+    "subtopic": "Ecosystem's carrying capacity and population growth",
+    "difficulty": "medium",
+    "question": "A new predator is introduced to an island where a rabbit population was stable at its carrying capacity. Which change is most likely?",
+    "choices": [
+      "The rabbit population drops and then levels off at a lower size",
+      "The rabbit population grows faster than before",
+      "The rabbit population stays exactly the same",
+      "The rabbits stop needing food"
+    ],
+    "answerIndex": 0,
+    "explanation": "A predator increases the **death rate** of rabbits, so the population **decreases**. In time, births and deaths balance again, and the population **levels off at a lower size** than before."
+  },
+  {
+    "id": "G10-POP-025",
+    "domain": "grade-10",
+    "subtopic": "Ecosystem's carrying capacity and population growth",
+    "difficulty": "hard",
+    "question": "A fish population in a pond follows an S-shaped growth curve, and the pond's carrying capacity is 800 fish. At about what population size is the number of fish added each month greatest?",
+    "choices": [
+      "800",
+      "100",
+      "400",
+      "1,600"
+    ],
+    "answerIndex": 2,
+    "explanation": "In S-shaped growth, the population grows **fastest at about half the carrying capacity**: $800 \\div 2 = 400$. When the population is small there are few parents, and near 800 resources run short, so growth is slow at both ends. A population of 1,600 is above the carrying capacity."
   }
 ]
