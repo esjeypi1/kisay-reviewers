@@ -301,7 +301,7 @@ Verdict pills (Pass and Fail) carry an inset 1px ring in their own text color at
 
 **The Flag-As-Data Rule.** Amber marks a flagged item and nothing else (plus the timer's warning step). It replaces the leaderboard's medal tints; there are no medals here.
 
-**The Two-Theme Parity Rule.** Every color token has a light and a dark value in `:root`; components consume tokens only. The favicon uses light values as literals because it cannot follow a media query. Inherited.
+**The Two-Theme Parity Rule.** Every color token has a light and a dark value in `:root`; components consume tokens only. Inherited.
 
 ## Typography
 
@@ -359,7 +359,7 @@ Flat by default, as in the inherited world. Depth comes from the tonal step from
 
 ## Shapes
 
-Three radii by role. 8px on everything you tap or scan as a token: buttons, chips, choices, choice letters, item numbers, navigator chips, the pass or fail tag, passages and code blocks, the brand mark and mode icons. 12px on everything that contains: panels, question cards, the explanation block, the checkbox list, the navigator, the dialog, the toast, and the sheet's top corners. 6px on the small inline marks: review badges, checkbox squares, and inline code. Borders are always 1px, except the 2px amber ring on an answered and flagged navigator chip and the 2px focus and current-item outlines. Rows in a panel are full-bleed and divided by hairlines, never individually rounded. Icons are 24px-grid strokes at 2px, drawn at 20px; the favicon is a cobalt 8px-radius tile with a light bolt.
+Three radii by role. 8px on everything you tap or scan as a token: buttons, chips, choices, choice letters, item numbers, navigator chips, the pass or fail tag, passages and code blocks, the brand mark and mode icons. 12px on everything that contains: panels, question cards, the explanation block, the checkbox list, the navigator, the dialog, the toast, and the sheet's top corners. 6px on the small inline marks: review badges, checkbox squares, and inline code. Borders are always 1px, except the 2px amber ring on an answered and flagged navigator chip and the 2px focus and current-item outlines. Rows in a panel are full-bleed and divided by hairlines, never individually rounded. Icons are 24px-grid strokes at 2px, drawn at 20px; the favicon is a photo of a white cat (public/favicon-32.png, icon-192.png, apple-touch-icon.png).
 
 ## Components
 
