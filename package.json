@@ -1,9 +1,9 @@
 {
-  "name": "dagitab-2026-reviewer",
+  "name": "kisay-reviewers",
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "description": "Free practice reviewer for the Dagitab 2026 qualifying exam (unofficial).",
+  "description": "Free practice reviewers by subject: Dagitab 2026 (unofficial) and Biology.",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
