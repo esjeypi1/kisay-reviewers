@@ -1,7 +1,6 @@
 import { go } from '../lib/router.js';
 import { tally, pct } from '../lib/session.js';
-import { DOMAINS } from '../lib/bank.js';
-import { PASS_RATE } from '../config.js';
+import { subject } from '../lib/bank.js';
 import { reviewHtml, bindReviewFilters, breakdownPanel } from './parts.js';
 import { mockIntro } from './mock-intro.js';
 import { home } from './home.js';
@@ -10,15 +9,16 @@ export function mockResults(root, { items, answers, flags, usedMs, timeUp }) {
   const n = items.length;
   const correct = items.filter((it, i) => answers[i] === it.correct).length;
   const p = pct(correct, n);
-  const pass = correct / n >= PASS_RATE;
-  const need = Math.ceil(n * PASS_RATE);
+  const { domains, passRate } = subject();
+  const pass = correct / n >= passRate;
+  const need = Math.ceil(n * passRate);
   const skipped = answers.filter((a) => a == null).length;
   const mins = Math.floor(usedMs / 60000);
   const secs = Math.floor((usedMs % 60000) / 1000);
 
   const rows = items.map((item, i) => ({ item, pick: answers[i], flagged: flags.has(i) }));
   const byDomain = tally(rows, (r) => r.item.q.domain, (r) => r.pick === r.item.correct);
-  const groups = DOMAINS.map((d) => {
+  const groups = domains.map((d) => {
     const t = byDomain.find((g) => g.key === d.id) || { correct: 0, total: 0 };
     return { label: d.name, correct: t.correct, total: t.total };
   }).filter((g) => g.total);

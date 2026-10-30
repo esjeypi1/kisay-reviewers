@@ -1,0 +1,1134 @@
+[
+  {
+    "id": "G7-MIC-001",
+    "domain": "grade-7",
+    "subtopic": "Science equipment: the compound microscope",
+    "difficulty": "easy",
+    "question": "Which labeled part of the microscope holds the glass slide in place for viewing?",
+    "figure": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 320 320\" width=\"320\" height=\"320\" role=\"img\" aria-label=\"Diagram of a compound microscope with six parts labeled A to F.\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"90\" y=\"285\" width=\"150\" height=\"22\" rx=\"6\" fill=\"currentColor\" fill-opacity=\"0.15\"/><path d=\"M210 285 V130 Q210 82 150 78\" stroke-width=\"12\"/><rect x=\"115\" y=\"40\" width=\"34\" height=\"100\" rx=\"3\" fill=\"currentColor\" fill-opacity=\"0.1\"/><rect x=\"121\" y=\"16\" width=\"22\" height=\"26\" rx=\"3\" fill=\"currentColor\" fill-opacity=\"0.2\"/><rect x=\"108\" y=\"138\" width=\"48\" height=\"10\" rx=\"4\" fill=\"currentColor\" fill-opacity=\"0.25\"/><rect x=\"114\" y=\"148\" width=\"9\" height=\"22\" fill=\"currentColor\" fill-opacity=\"0.2\"/><rect x=\"127\" y=\"148\" width=\"9\" height=\"30\" fill=\"currentColor\" fill-opacity=\"0.2\"/><rect x=\"140\" y=\"148\" width=\"9\" height=\"16\" fill=\"currentColor\" fill-opacity=\"0.2\"/><rect x=\"80\" y=\"195\" width=\"140\" height=\"9\" fill=\"currentColor\" fill-opacity=\"0.3\"/><line x1=\"95\" y1=\"191\" x2=\"120\" y2=\"191\" stroke-width=\"3\"/><rect x=\"115\" y=\"206\" width=\"34\" height=\"6\" fill=\"currentColor\" fill-opacity=\"0.4\"/><circle cx=\"132\" cy=\"245\" r=\"13\" fill=\"currentColor\" fill-opacity=\"0.15\"/><line x1=\"132\" y1=\"258\" x2=\"132\" y2=\"285\"/><circle cx=\"222\" cy=\"170\" r=\"13\" fill=\"currentColor\" fill-opacity=\"0.15\"/><circle cx=\"222\" cy=\"205\" r=\"7\" fill=\"currentColor\" fill-opacity=\"0.3\"/><line x1=\"52\" y1=\"29\" x2=\"121\" y2=\"29\" stroke-width=\"1\"/><text x=\"42\" y=\"34\" font-size=\"14\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\" font-weight=\"bold\">A</text><line x1=\"52\" y1=\"165\" x2=\"114\" y2=\"165\" stroke-width=\"1\"/><text x=\"42\" y=\"170\" font-size=\"14\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\" font-weight=\"bold\">B</text><line x1=\"52\" y1=\"200\" x2=\"80\" y2=\"200\" stroke-width=\"1\"/><text x=\"42\" y=\"205\" font-size=\"14\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\" font-weight=\"bold\">C</text><line x1=\"52\" y1=\"245\" x2=\"119\" y2=\"245\" stroke-width=\"1\"/><text x=\"42\" y=\"250\" font-size=\"14\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\" font-weight=\"bold\">E</text><line x1=\"278\" y1=\"170\" x2=\"235\" y2=\"170\" stroke-width=\"1\"/><text x=\"290\" y=\"175\" font-size=\"14\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\" font-weight=\"bold\">D</text><line x1=\"278\" y1=\"205\" x2=\"229\" y2=\"205\" stroke-width=\"1\"/><text x=\"290\" y=\"210\" font-size=\"14\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\" font-weight=\"bold\">F</text></svg>",
+    "choices": [
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "answerIndex": 1,
+    "explanation": "Part **C** is the **stage**, the flat platform where the slide is placed and held by stage clips. B is an objective lens, D is the coarse adjustment knob, and E is the light source.",
+    "verified": true
+  },
+  {
+    "id": "G7-MIC-002",
+    "domain": "grade-7",
+    "subtopic": "Science equipment: the compound microscope",
+    "difficulty": "medium",
+    "question": "Part D moves the stage up and down quickly over a large distance. When should a student use part D to focus?",
+    "figure": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 320 320\" width=\"320\" height=\"320\" role=\"img\" aria-label=\"Diagram of a compound microscope with six parts labeled A to F.\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"90\" y=\"285\" width=\"150\" height=\"22\" rx=\"6\" fill=\"currentColor\" fill-opacity=\"0.15\"/><path d=\"M210 285 V130 Q210 82 150 78\" stroke-width=\"12\"/><rect x=\"115\" y=\"40\" width=\"34\" height=\"100\" rx=\"3\" fill=\"currentColor\" fill-opacity=\"0.1\"/><rect x=\"121\" y=\"16\" width=\"22\" height=\"26\" rx=\"3\" fill=\"currentColor\" fill-opacity=\"0.2\"/><rect x=\"108\" y=\"138\" width=\"48\" height=\"10\" rx=\"4\" fill=\"currentColor\" fill-opacity=\"0.25\"/><rect x=\"114\" y=\"148\" width=\"9\" height=\"22\" fill=\"currentColor\" fill-opacity=\"0.2\"/><rect x=\"127\" y=\"148\" width=\"9\" height=\"30\" fill=\"currentColor\" fill-opacity=\"0.2\"/><rect x=\"140\" y=\"148\" width=\"9\" height=\"16\" fill=\"currentColor\" fill-opacity=\"0.2\"/><rect x=\"80\" y=\"195\" width=\"140\" height=\"9\" fill=\"currentColor\" fill-opacity=\"0.3\"/><line x1=\"95\" y1=\"191\" x2=\"120\" y2=\"191\" stroke-width=\"3\"/><rect x=\"115\" y=\"206\" width=\"34\" height=\"6\" fill=\"currentColor\" fill-opacity=\"0.4\"/><circle cx=\"132\" cy=\"245\" r=\"13\" fill=\"currentColor\" fill-opacity=\"0.15\"/><line x1=\"132\" y1=\"258\" x2=\"132\" y2=\"285\"/><circle cx=\"222\" cy=\"170\" r=\"13\" fill=\"currentColor\" fill-opacity=\"0.15\"/><circle cx=\"222\" cy=\"205\" r=\"7\" fill=\"currentColor\" fill-opacity=\"0.3\"/><line x1=\"52\" y1=\"29\" x2=\"121\" y2=\"29\" stroke-width=\"1\"/><text x=\"42\" y=\"34\" font-size=\"14\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\" font-weight=\"bold\">A</text><line x1=\"52\" y1=\"165\" x2=\"114\" y2=\"165\" stroke-width=\"1\"/><text x=\"42\" y=\"170\" font-size=\"14\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\" font-weight=\"bold\">B</text><line x1=\"52\" y1=\"200\" x2=\"80\" y2=\"200\" stroke-width=\"1\"/><text x=\"42\" y=\"205\" font-size=\"14\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\" font-weight=\"bold\">C</text><line x1=\"52\" y1=\"245\" x2=\"119\" y2=\"245\" stroke-width=\"1\"/><text x=\"42\" y=\"250\" font-size=\"14\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\" font-weight=\"bold\">E</text><line x1=\"278\" y1=\"170\" x2=\"235\" y2=\"170\" stroke-width=\"1\"/><text x=\"290\" y=\"175\" font-size=\"14\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\" font-weight=\"bold\">D</text><line x1=\"278\" y1=\"205\" x2=\"229\" y2=\"205\" stroke-width=\"1\"/><text x=\"290\" y=\"210\" font-size=\"14\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\" font-weight=\"bold\">F</text></svg>",
+    "choices": [
+      "Only while the low-power objective is in place",
+      "Only while the high-power objective is in place",
+      "Only after the cover slip has been removed",
+      "Only after the light source has been turned off"
+    ],
+    "answerIndex": 0,
+    "explanation": "Part D is the **coarse adjustment knob**. It should be used only with the low-power (or scanning) objective. Under high power the objective is very close to the slide, so a large movement can crack the slide or damage the lens; the **fine adjustment knob** is used instead.",
+    "verified": true
+  },
+  {
+    "id": "G7-MIC-003",
+    "domain": "grade-7",
+    "subtopic": "Science equipment: the compound microscope",
+    "difficulty": "medium",
+    "question": "A student places a slide with the printed letter 'e' on the stage so that she can read it normally. How does the letter appear when she looks through the eyepiece?",
+    "choices": [
+      "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 100 100\" width=\"100\" height=\"100\" role=\"img\" aria-label=\"Field of view showing the letter e upright and readable\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"50\" cy=\"50\" r=\"44\" fill=\"currentColor\" fill-opacity=\"0.05\"/><text x=\"50\" y=\"68\" font-size=\"54\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\">e</text></svg>",
+      "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 100 100\" width=\"100\" height=\"100\" role=\"img\" aria-label=\"Field of view showing the letter e turned upside down and reversed\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"50\" cy=\"50\" r=\"44\" fill=\"currentColor\" fill-opacity=\"0.05\"/><text x=\"50\" y=\"68\" font-size=\"54\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\" transform=\"rotate(180 50 50)\">e</text></svg>",
+      "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 100 100\" width=\"100\" height=\"100\" role=\"img\" aria-label=\"Field of view showing the letter e reversed left to right only\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"50\" cy=\"50\" r=\"44\" fill=\"currentColor\" fill-opacity=\"0.05\"/><text x=\"50\" y=\"68\" font-size=\"54\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\" transform=\"translate(100 0) scale(-1 1)\">e</text></svg>",
+      "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 100 100\" width=\"100\" height=\"100\" role=\"img\" aria-label=\"Field of view showing the letter e flipped top to bottom only\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"50\" cy=\"50\" r=\"44\" fill=\"currentColor\" fill-opacity=\"0.05\"/><text x=\"50\" y=\"68\" font-size=\"54\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\" transform=\"translate(0 100) scale(1 -1)\">e</text></svg>"
+    ],
+    "choiceLayout": "grid",
+    "answerIndex": 1,
+    "explanation": "A compound microscope produces an **inverted image**: the letter is turned upside down **and** reversed left to right at the same time, which looks like the letter rotated by 180°. An image flipped only one way (top-to-bottom or left-to-right) does not match how the two lenses form the image.",
+    "verified": true
+  },
+  {
+    "id": "G7-MIC-004",
+    "domain": "grade-7",
+    "subtopic": "Science equipment: the compound microscope",
+    "difficulty": "easy",
+    "question": "A student uses a 10× eyepiece and a 40× objective lens. What is the total magnification?",
+    "choices": [
+      "50×",
+      "40×",
+      "400×",
+      "4,000×"
+    ],
+    "answerIndex": 2,
+    "explanation": "Total magnification = eyepiece magnification × objective magnification.\n\n$10 \\times 40 = 400$, so the total magnification is **400×**. Adding the two values (50×) is a common mistake.",
+    "verified": true
+  },
+  {
+    "id": "G7-MIC-005",
+    "domain": "grade-7",
+    "subtopic": "Science equipment: the compound microscope",
+    "difficulty": "easy",
+    "question": "Which part of the compound microscope controls the amount of light that passes through the specimen?",
+    "choices": [
+      "Revolving nosepiece",
+      "Stage clip",
+      "Diaphragm",
+      "Fine adjustment knob"
+    ],
+    "answerIndex": 2,
+    "explanation": "The **diaphragm** (iris or disc diaphragm) under the stage opens or closes to regulate light. The nosepiece rotates the objectives, stage clips hold the slide, and the fine adjustment knob sharpens the focus.",
+    "verified": true
+  },
+  {
+    "id": "G7-MIC-006",
+    "domain": "grade-7",
+    "subtopic": "Science equipment: the compound microscope",
+    "difficulty": "easy",
+    "question": "What is the proper way to carry a compound microscope?",
+    "choices": [
+      "Hold the eyepiece tube with one hand and swing it gently",
+      "Lift it by the stage using both hands",
+      "Hold the arm with one hand and support the base with the other",
+      "Hold the base with one hand only to keep the other hand free"
+    ],
+    "answerIndex": 2,
+    "explanation": "Always carry a microscope **upright with two hands: one on the arm and one under the base**. Holding the tube or stage can loosen or damage parts, and one hand alone risks dropping it.",
+    "verified": true
+  },
+  {
+    "id": "G7-MIC-007",
+    "domain": "grade-7",
+    "subtopic": "Science equipment: the compound microscope",
+    "difficulty": "easy",
+    "question": "Which part of the microscope holds the objective lenses and turns so that a different objective can be used?",
+    "choices": [
+      "Body tube",
+      "Arm",
+      "Diaphragm",
+      "Revolving nosepiece"
+    ],
+    "answerIndex": 3,
+    "explanation": "The **revolving nosepiece** holds the objectives and rotates to change magnification. The body tube connects the eyepiece to the objectives, the arm supports the upper parts, and the diaphragm controls light.",
+    "verified": true
+  },
+  {
+    "id": "G7-MIC-008",
+    "domain": "grade-7",
+    "subtopic": "Science equipment: the compound microscope",
+    "difficulty": "easy",
+    "question": "Before storing a microscope after use, what should a student do?",
+    "choices": [
+      "Turn the lowest-power objective into place and cover the microscope",
+      "Leave the high-power objective in place and keep the slide on the stage",
+      "Remove the eyepiece and store it in a pocket",
+      "Wipe the lenses with a tissue soaked in water"
+    ],
+    "answerIndex": 0,
+    "explanation": "Proper storage: remove the slide, turn the **lowest-power objective** into position, lower the stage or tube, and **cover** the microscope to keep out dust. Lenses should be cleaned only with lens paper, not ordinary tissue.",
+    "verified": true
+  },
+  {
+    "id": "G7-MIC-009",
+    "domain": "grade-7",
+    "subtopic": "Science equipment: the compound microscope",
+    "difficulty": "medium",
+    "question": "While viewing a specimen, a student sees that the cell is near the right edge of the field of view. In which direction should she move the slide to bring the cell to the center?",
+    "choices": [
+      "To the right",
+      "To the left",
+      "Upward",
+      "Downward"
+    ],
+    "answerIndex": 0,
+    "explanation": "Because the image is **inverted**, it moves in the direction opposite to the slide. Moving the slide **to the right** makes the image move left, toward the center. A simple rule: move the slide toward the side where the image is.",
+    "verified": true
+  },
+  {
+    "id": "G7-MIC-010",
+    "domain": "grade-7",
+    "subtopic": "Science equipment: the compound microscope",
+    "difficulty": "medium",
+    "question": "A student switches from the low-power objective to the high-power objective. Which change in the field of view should she expect?",
+    "choices": [
+      "It becomes larger and brighter",
+      "It becomes smaller and brighter",
+      "It becomes smaller and darker",
+      "It stays the same size but becomes darker"
+    ],
+    "answerIndex": 2,
+    "explanation": "At higher magnification you see a **smaller area** of the specimen, and less light enters the narrow high-power lens, so the field becomes **darker**. This is why students often open the diaphragm wider after switching to high power.",
+    "verified": true
+  },
+  {
+    "id": "G7-MIC-011",
+    "domain": "grade-7",
+    "subtopic": "Science equipment: the compound microscope",
+    "difficulty": "medium",
+    "question": "Why should a specimen prepared for the compound microscope be very thin?",
+    "choices": [
+      "So that light can pass through it and form a clear image",
+      "So that it will stick to the stage without clips",
+      "So that it can be seen without using the objectives",
+      "So that the specimen will not need a cover slip"
+    ],
+    "answerIndex": 0,
+    "explanation": "A compound microscope uses **light passing through the specimen**. Thick specimens block light and parts overlap, so the image is dark and unclear. Thin specimens still need clips, objectives, and usually a cover slip.",
+    "verified": true
+  },
+  {
+    "id": "G7-MIC-012",
+    "domain": "grade-7",
+    "subtopic": "Science equipment: the compound microscope",
+    "difficulty": "medium",
+    "question": "When preparing a wet mount, a student keeps seeing round, dark-edged circles that are not part of the specimen. Which technique would best prevent them?",
+    "choices": [
+      "Drop the cover slip flat onto the water from above",
+      "Add several extra drops of water on top of the cover slip",
+      "Lower the cover slip at an angle, starting from one edge",
+      "Use the coarse adjustment knob under high power"
+    ],
+    "answerIndex": 2,
+    "explanation": "The circles are **air bubbles**. Touching one edge of the cover slip to the drop and **lowering it slowly at an angle (about 45°)** pushes air out. Dropping it flat traps air, extra water floods the slide, and refocusing does not remove bubbles.",
+    "verified": true
+  },
+  {
+    "id": "G7-MIC-013",
+    "domain": "grade-7",
+    "subtopic": "Science equipment: the compound microscope",
+    "difficulty": "hard",
+    "question": "Under a total magnification of 100×, the diameter of a microscope's field of view is 2.0 mm. The student switches to 400×. A cell stretches across half of the new field of view. About how long is the cell?",
+    "choices": [
+      "0.25 mm",
+      "0.50 mm",
+      "1.0 mm",
+      "4.0 mm"
+    ],
+    "answerIndex": 0,
+    "explanation": "Field of view diameter shrinks by the same factor that magnification increases.\n\n1. Magnification increases $400 \\div 100 = 4$ times.\n2. New field diameter: $2.0 \\text{ mm} \\div 4 = 0.50 \\text{ mm}$.\n3. The cell covers half: $0.50 \\div 2 = 0.25 \\text{ mm}$.\n\n0.50 mm is the whole field, 1.0 mm is half the low-power field, and 4.0 mm wrongly multiplies instead of dividing.",
+    "verified": true
+  },
+  {
+    "id": "G7-MIC-014",
+    "domain": "grade-7",
+    "subtopic": "Science equipment: the compound microscope",
+    "difficulty": "hard",
+    "question": "A student uses a 10× eyepiece and wants to observe cheek cells clearly at 400×. Which sequence of steps is correct?",
+    "choices": [
+      "Focus and center the cells under low power, turn to the 40× objective, refocus with the fine adjustment knob, then adjust the diaphragm for more light",
+      "Turn to the 40× objective first, focus with the coarse adjustment knob, then close the diaphragm to sharpen the image",
+      "Focus under low power, turn to the 100× objective, then refocus with the coarse adjustment knob",
+      "Turn to the 4× objective, focus with the fine adjustment knob only, then remove the cover slip for more light"
+    ],
+    "answerIndex": 0,
+    "explanation": "To get $10 \\times 40 = 400\\times$, use the **40× objective**. Always **find and center the specimen under low power first**, then switch, use only the **fine adjustment** under high power, and open the diaphragm because the field gets darker. Using the coarse knob under high power risks breaking the slide, and the 100× objective would give 1,000×.",
+    "verified": true
+  },
+  {
+    "id": "G7-CELL-001",
+    "domain": "grade-7",
+    "subtopic": "Plant and animal cells",
+    "difficulty": "easy",
+    "question": "Which labeled structure in the cell captures light energy to make food?",
+    "figure": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 420 220\" width=\"420\" height=\"220\" role=\"img\" aria-label=\"Diagram of a cell with five structures labeled A to E.\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"40\" y=\"20\" width=\"280\" height=\"180\" rx=\"8\" stroke-width=\"4\"/><rect x=\"48\" y=\"28\" width=\"264\" height=\"164\" rx=\"6\"/><rect x=\"130\" y=\"50\" width=\"150\" height=\"120\" rx=\"30\" fill=\"currentColor\" fill-opacity=\"0.1\"/><circle cx=\"90\" cy=\"110\" r=\"22\" fill=\"currentColor\" fill-opacity=\"0.25\"/><circle cx=\"94\" cy=\"106\" r=\"6\" fill=\"currentColor\" fill-opacity=\"0.5\"/><ellipse cx=\"85\" cy=\"55\" rx=\"14\" ry=\"7\" fill=\"currentColor\" fill-opacity=\"0.35\"/><ellipse cx=\"100\" cy=\"170\" rx=\"14\" ry=\"7\" fill=\"currentColor\" fill-opacity=\"0.35\"/><ellipse cx=\"292\" cy=\"175\" rx=\"13\" ry=\"7\" fill=\"currentColor\" fill-opacity=\"0.35\"/><ellipse cx=\"296\" cy=\"45\" rx=\"12\" ry=\"6\" fill=\"currentColor\" fill-opacity=\"0.35\"/><ellipse cx=\"70\" cy=\"150\" rx=\"12\" ry=\"6\" fill=\"currentColor\" fill-opacity=\"0.35\"/><line x1=\"355\" y1=\"35\" x2=\"320\" y2=\"35\" stroke-width=\"1\"/><text x=\"368\" y=\"40\" font-size=\"14\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\" font-weight=\"bold\">A</text><line x1=\"355\" y1=\"72\" x2=\"312\" y2=\"72\" stroke-width=\"1\"/><text x=\"368\" y=\"77\" font-size=\"14\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\" font-weight=\"bold\">B</text><line x1=\"355\" y1=\"110\" x2=\"280\" y2=\"110\" stroke-width=\"1\"/><text x=\"368\" y=\"115\" font-size=\"14\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\" font-weight=\"bold\">C</text><line x1=\"355\" y1=\"175\" x2=\"305\" y2=\"175\" stroke-width=\"1\"/><text x=\"368\" y=\"180\" font-size=\"14\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\" font-weight=\"bold\">D</text><line x1=\"22\" y1=\"110\" x2=\"68\" y2=\"110\" stroke-width=\"1\"/><text x=\"12\" y=\"115\" font-size=\"14\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\" font-weight=\"bold\">E</text></svg>",
+    "choices": [
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "answerIndex": 2,
+    "explanation": "**D** points to a **chloroplast**, which contains chlorophyll and carries out photosynthesis. A is the cell wall, B is the cell membrane, C is the large central vacuole, and E is the nucleus.",
+    "verified": true
+  },
+  {
+    "id": "G7-CELL-002",
+    "domain": "grade-7",
+    "subtopic": "Plant and animal cells",
+    "difficulty": "easy",
+    "question": "Which organelle contains the genetic material and controls the activities of the cell?",
+    "choices": [
+      "Ribosome",
+      "Vacuole",
+      "Nucleus",
+      "Cell membrane"
+    ],
+    "answerIndex": 2,
+    "explanation": "The **nucleus** contains DNA, which carries the instructions for the cell's activities. Ribosomes make proteins, vacuoles store materials, and the cell membrane controls what enters and leaves.",
+    "verified": true
+  },
+  {
+    "id": "G7-CELL-003",
+    "domain": "grade-7",
+    "subtopic": "Plant and animal cells",
+    "difficulty": "easy",
+    "question": "Which organelle releases energy from food through cellular respiration?",
+    "choices": [
+      "Chloroplast",
+      "Ribosome",
+      "Nucleus",
+      "Mitochondrion"
+    ],
+    "answerIndex": 3,
+    "explanation": "The **mitochondrion** breaks down food (glucose) using oxygen to release usable energy, which is why it is called the powerhouse of the cell. Chloroplasts make food; they do not release its energy.",
+    "verified": true
+  },
+  {
+    "id": "G7-CELL-004",
+    "domain": "grade-7",
+    "subtopic": "Plant and animal cells",
+    "difficulty": "easy",
+    "question": "Which cell part is the site where proteins are made?",
+    "choices": [
+      "Mitochondrion",
+      "Ribosome",
+      "Vacuole",
+      "Cell wall"
+    ],
+    "answerIndex": 1,
+    "explanation": "**Ribosomes** assemble proteins. They are tiny and are found in both plant and animal cells, floating in the cytoplasm or attached to membranes.",
+    "verified": true
+  },
+  {
+    "id": "G7-CELL-005",
+    "domain": "grade-7",
+    "subtopic": "Plant and animal cells",
+    "difficulty": "easy",
+    "question": "Which cell part controls which substances enter and leave the cell?",
+    "choices": [
+      "Cell wall",
+      "Nucleus",
+      "Cell membrane",
+      "Cytoplasm"
+    ],
+    "answerIndex": 2,
+    "explanation": "The **cell membrane** is selectively permeable: it lets some substances through and blocks others. The cell wall (in plants) gives support but lets most substances pass freely.",
+    "verified": true
+  },
+  {
+    "id": "G7-CELL-006",
+    "domain": "grade-7",
+    "subtopic": "Plant and animal cells",
+    "difficulty": "easy",
+    "question": "Which of the following is a unicellular organism?",
+    "choices": [
+      "Tilapia",
+      "Paramecium",
+      "Mango tree",
+      "Mushroom"
+    ],
+    "answerIndex": 1,
+    "explanation": "A **Paramecium** is made of only **one cell** that carries out all life processes. Tilapia, mango trees, and mushrooms are all multicellular.",
+    "verified": true
+  },
+  {
+    "id": "G7-CELL-007",
+    "domain": "grade-7",
+    "subtopic": "Plant and animal cells",
+    "difficulty": "medium",
+    "question": "Which statement correctly identifies cells X and Y?",
+    "figure": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 190\" width=\"360\" height=\"190\" role=\"img\" aria-label=\"Two cells labeled X and Y drawn side by side.\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"20\" y=\"20\" width=\"140\" height=\"130\" rx=\"4\" stroke-width=\"3.5\"/><rect x=\"26\" y=\"26\" width=\"128\" height=\"118\" rx=\"3\"/><rect x=\"60\" y=\"40\" width=\"85\" height=\"95\" rx=\"18\" fill=\"currentColor\" fill-opacity=\"0.1\"/><circle cx=\"42\" cy=\"80\" r=\"13\" fill=\"currentColor\" fill-opacity=\"0.25\"/><ellipse cx=\"40\" cy=\"40\" rx=\"9\" ry=\"5\" fill=\"currentColor\" fill-opacity=\"0.35\"/><ellipse cx=\"42\" cy=\"125\" rx=\"9\" ry=\"5\" fill=\"currentColor\" fill-opacity=\"0.35\"/><ellipse cx=\"140\" cy=\"32\" rx=\"8\" ry=\"4\" fill=\"currentColor\" fill-opacity=\"0.35\"/><path d=\"M220 60 Q240 22 290 35 Q335 45 330 90 Q338 140 290 150 Q240 160 222 125 Q200 95 220 60 Z\" fill=\"currentColor\" fill-opacity=\"0.04\"/><circle cx=\"272\" cy=\"92\" r=\"15\" fill=\"currentColor\" fill-opacity=\"0.25\"/><circle cx=\"275\" cy=\"89\" r=\"4\" fill=\"currentColor\" fill-opacity=\"0.5\"/><circle cx=\"240\" cy=\"70\" r=\"5\" fill=\"currentColor\" fill-opacity=\"0.1\"/><circle cx=\"305\" cy=\"125\" r=\"6\" fill=\"currentColor\" fill-opacity=\"0.1\"/><circle cx=\"300\" cy=\"62\" r=\"4\" fill=\"currentColor\" fill-opacity=\"0.1\"/><ellipse cx=\"245\" cy=\"120\" rx=\"9\" ry=\"4\" fill=\"currentColor\" fill-opacity=\"0.3\"/><ellipse cx=\"312\" cy=\"95\" rx=\"8\" ry=\"4\" fill=\"currentColor\" fill-opacity=\"0.3\"/><text x=\"90\" y=\"178\" font-size=\"15\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\" font-weight=\"bold\">X</text><text x=\"275\" y=\"178\" font-size=\"15\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\" font-weight=\"bold\">Y</text></svg>",
+    "choices": [
+      "Y is a plant cell because it has a nucleus and cytoplasm",
+      "X is an animal cell because it has a large vacuole",
+      "X is a plant cell because it has a cell wall and chloroplasts",
+      "Y is a plant cell because it has an irregular shape"
+    ],
+    "answerIndex": 2,
+    "explanation": "Cell X has a **thick outer cell wall**, **chloroplasts**, and a **large central vacuole**, which are features of a plant cell. Both cells have a nucleus, so that does not tell them apart. Y has an irregular shape, no cell wall, and small vacuoles, which are features of an animal cell.",
+    "verified": true
+  },
+  {
+    "id": "G7-CELL-008",
+    "domain": "grade-7",
+    "subtopic": "Plant and animal cells",
+    "difficulty": "medium",
+    "question": "Which diagram best represents an animal cell?",
+    "choices": [
+      "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 100 100\" width=\"100\" height=\"100\" role=\"img\" aria-label=\"Box-shaped cell with a thick double boundary, oval green bodies, a large vacuole, and a nucleus\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"12\" y=\"14\" width=\"76\" height=\"72\" rx=\"3\" stroke-width=\"3\"/><rect x=\"17\" y=\"19\" width=\"66\" height=\"62\" rx=\"2\"/><rect x=\"36\" y=\"28\" width=\"42\" height=\"44\" rx=\"10\" fill=\"currentColor\" fill-opacity=\"0.1\"/><circle cx=\"26\" cy=\"50\" r=\"7\" fill=\"currentColor\" fill-opacity=\"0.25\"/><ellipse cx=\"26\" cy=\"28\" rx=\"6\" ry=\"3\" fill=\"currentColor\" fill-opacity=\"0.35\"/><ellipse cx=\"26\" cy=\"74\" rx=\"6\" ry=\"3\" fill=\"currentColor\" fill-opacity=\"0.35\"/><ellipse cx=\"76\" cy=\"77\" rx=\"5\" ry=\"3\" fill=\"currentColor\" fill-opacity=\"0.35\"/></svg>",
+      "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 100 100\" width=\"100\" height=\"100\" role=\"img\" aria-label=\"Capsule-shaped cell with a double boundary, scattered dots, a tail, and no nucleus\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"14\" y=\"32\" width=\"64\" height=\"36\" rx=\"18\" stroke-width=\"3\"/><rect x=\"19\" y=\"37\" width=\"54\" height=\"26\" rx=\"13\"/><path d=\"M78 50 Q86 40 92 50 Q96 58 99 52\"/><circle cx=\"32\" cy=\"46\" r=\"1.5\" fill=\"currentColor\" fill-opacity=\"1\"/><circle cx=\"44\" cy=\"54\" r=\"1.5\" fill=\"currentColor\" fill-opacity=\"1\"/><circle cx=\"56\" cy=\"45\" r=\"1.5\" fill=\"currentColor\" fill-opacity=\"1\"/><circle cx=\"62\" cy=\"56\" r=\"1.5\" fill=\"currentColor\" fill-opacity=\"1\"/><path d=\"M30 52 Q40 44 50 52 Q58 58 64 50\" stroke-width=\"1\"/></svg>",
+      "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 100 100\" width=\"100\" height=\"100\" role=\"img\" aria-label=\"Box-shaped cell with a thick double boundary, a large vacuole, a nucleus, and no oval green bodies\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"12\" y=\"14\" width=\"76\" height=\"72\" rx=\"3\" stroke-width=\"3\"/><rect x=\"17\" y=\"19\" width=\"66\" height=\"62\" rx=\"2\"/><rect x=\"36\" y=\"26\" width=\"42\" height=\"50\" rx=\"10\" fill=\"currentColor\" fill-opacity=\"0.1\"/><circle cx=\"26\" cy=\"50\" r=\"7\" fill=\"currentColor\" fill-opacity=\"0.25\"/></svg>",
+      "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 100 100\" width=\"100\" height=\"100\" role=\"img\" aria-label=\"Rounded cell with a single thin boundary, a central nucleus, and small vacuoles\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M22 38 Q30 12 58 16 Q86 20 84 48 Q90 78 60 84 Q30 90 20 66 Q12 50 22 38 Z\" fill=\"currentColor\" fill-opacity=\"0.04\"/><circle cx=\"52\" cy=\"50\" r=\"11\" fill=\"currentColor\" fill-opacity=\"0.25\"/><circle cx=\"30\" cy=\"46\" r=\"4\" fill=\"currentColor\" fill-opacity=\"0.1\"/><circle cx=\"70\" cy=\"70\" r=\"4\" fill=\"currentColor\" fill-opacity=\"0.1\"/><ellipse cx=\"68\" cy=\"34\" rx=\"6\" ry=\"3\" fill=\"currentColor\" fill-opacity=\"0.3\"/><ellipse cx=\"36\" cy=\"70\" rx=\"6\" ry=\"3\" fill=\"currentColor\" fill-opacity=\"0.3\"/></svg>"
+    ],
+    "choiceLayout": "grid",
+    "answerIndex": 3,
+    "explanation": "An **animal cell** has a nucleus, a cell membrane but **no cell wall**, no chloroplasts, and only **small vacuoles**, so it is often rounded or irregular. The box-shaped cells with thick walls are plant cells (one from a leaf, one from a root), and the capsule-shaped cell with no nucleus is a bacterium.",
+    "verified": true
+  },
+  {
+    "id": "G7-CELL-009",
+    "domain": "grade-7",
+    "subtopic": "Plant and animal cells",
+    "difficulty": "medium",
+    "question": "A student looks at cells from the white, fleshy layers of an onion bulb and sees no chloroplasts. What is the best explanation?",
+    "choices": [
+      "The bulb grows underground, so its cells do not carry out photosynthesis",
+      "Onion cells are animal cells, so they never have chloroplasts",
+      "The stain used on the slide dissolved all the chloroplasts",
+      "Chloroplasts can only be seen under the oil-immersion objective"
+    ],
+    "answerIndex": 0,
+    "explanation": "Onion bulb cells are **plant cells** (they have cell walls), but the bulb is a storage organ kept away from light, so its cells **lack chloroplasts**. Not every plant cell has chloroplasts; mostly cells in green parts exposed to light do. Chloroplasts are easily visible under ordinary high power.",
+    "verified": true
+  },
+  {
+    "id": "G7-CELL-010",
+    "domain": "grade-7",
+    "subtopic": "Plant and animal cells",
+    "difficulty": "medium",
+    "question": "Which of these cells would most likely have the greatest number of mitochondria?",
+    "choices": [
+      "Skin surface cell",
+      "Fat storage cell",
+      "Mature red blood cell",
+      "Heart muscle cell"
+    ],
+    "answerIndex": 3,
+    "explanation": "Mitochondria release energy, so cells that work constantly need many of them. **Heart muscle cells** contract nonstop throughout life and are packed with mitochondria. Mature human red blood cells have no mitochondria at all.",
+    "verified": true
+  },
+  {
+    "id": "G7-CELL-011",
+    "domain": "grade-7",
+    "subtopic": "Plant and animal cells",
+    "difficulty": "medium",
+    "question": "When placed in pure water, a red blood cell swells and may burst, but a plant cell in pure water does not burst. Which structure protects the plant cell?",
+    "choices": [
+      "Cell membrane",
+      "Cell wall",
+      "Central vacuole",
+      "Chloroplast"
+    ],
+    "answerIndex": 1,
+    "explanation": "Water enters both cells. The plant cell's rigid **cell wall** pushes back and stops it from bursting, making the cell firm instead. Red blood cells have a cell membrane but no wall. The vacuole actually fills with water; it does not prevent bursting.",
+    "verified": true
+  },
+  {
+    "id": "G7-CELL-012",
+    "domain": "grade-7",
+    "subtopic": "Plant and animal cells",
+    "difficulty": "medium",
+    "question": "Which statement is true of a multicellular organism?",
+    "choices": [
+      "A single cell carries out all of its life processes",
+      "It can be seen only with a microscope",
+      "Its cells do not have a nucleus",
+      "Its cells are specialized to perform different functions"
+    ],
+    "answerIndex": 3,
+    "explanation": "In multicellular organisms, cells are **specialized**: muscle cells contract, nerve cells carry signals, and so on. In a unicellular organism, one cell does everything. Many multicellular organisms are large and visible, and most of their cells have nuclei.",
+    "verified": true
+  },
+  {
+    "id": "G7-CELL-013",
+    "domain": "grade-7",
+    "subtopic": "Plant and animal cells",
+    "difficulty": "hard",
+    "question": "A cell sample has a nucleus, mitochondria, ribosomes, a cell membrane, a cell wall, and a large central vacuole, but no chloroplasts. Which cell could it be?",
+    "choices": [
+      "A cell from a plant root",
+      "A cell from a human cheek",
+      "A cell from a green leaf",
+      "A Paramecium"
+    ],
+    "answerIndex": 0,
+    "explanation": "The **cell wall** and **large central vacuole** show it is a **plant cell**, which rules out the cheek cell and Paramecium (no cell wall). The **lack of chloroplasts** rules out a green leaf cell. Root cells are underground, do not photosynthesize, and lack chloroplasts.",
+    "verified": true
+  },
+  {
+    "id": "G7-CELL-014",
+    "domain": "grade-7",
+    "subtopic": "Plant and animal cells",
+    "difficulty": "hard",
+    "question": "Scientists removed the nucleus from an amoeba. The amoeba kept moving for a few days but could not divide, and it eventually died. What does this experiment show?",
+    "choices": [
+      "The nucleus is the part of the cell that releases energy for movement",
+      "The cytoplasm alone can carry out every life process indefinitely",
+      "The cell membrane is the part that controls cell division",
+      "The nucleus controls activities such as reproduction that the cell needs to survive"
+    ],
+    "answerIndex": 3,
+    "explanation": "The amoeba could still move for a while because its cytoplasm and mitochondria still worked using what was already there. Without the **nucleus**, it could no longer direct new activities such as **cell division** and making new materials, so it died. This shows the nucleus is the **control center**. Energy release is done by mitochondria.",
+    "verified": true
+  },
+  {
+    "id": "G7-CREP-001",
+    "domain": "grade-7",
+    "subtopic": "Cellular reproduction",
+    "difficulty": "easy",
+    "question": "What is the result of mitosis?",
+    "choices": [
+      "Two daughter cells that are genetically identical to the parent cell",
+      "Four daughter cells with half the number of chromosomes",
+      "Two daughter cells with half the number of chromosomes",
+      "One large cell formed by joining two cells"
+    ],
+    "answerIndex": 0,
+    "explanation": "**Mitosis** makes **two identical daughter cells**, each with the same number and kind of chromosomes as the parent. Four cells with half the chromosomes describes meiosis, and joining cells describes fertilization.",
+    "verified": true
+  },
+  {
+    "id": "G7-CREP-002",
+    "domain": "grade-7",
+    "subtopic": "Cellular reproduction",
+    "difficulty": "easy",
+    "question": "A child scrapes her knee, and after a week new skin covers the wound. Which process produced the new skin cells?",
+    "choices": [
+      "Meiosis",
+      "Fertilization",
+      "Pollination",
+      "Mitosis"
+    ],
+    "answerIndex": 3,
+    "explanation": "**Mitosis** is used for **growth and repair**. It produces new body cells identical to the old ones. Meiosis produces sex cells, while fertilization and pollination are parts of sexual reproduction.",
+    "verified": true
+  },
+  {
+    "id": "G7-CREP-003",
+    "domain": "grade-7",
+    "subtopic": "Cellular reproduction",
+    "difficulty": "easy",
+    "question": "In humans, where does meiosis take place?",
+    "choices": [
+      "In the skin and bones",
+      "In the testes and ovaries",
+      "In the heart and lungs",
+      "In the stomach and intestines"
+    ],
+    "answerIndex": 1,
+    "explanation": "**Meiosis** makes **gametes** (sperm and egg cells), so it happens only in the **reproductive organs**: testes in males and ovaries in females. Other body organs grow and repair by mitosis.",
+    "verified": true
+  },
+  {
+    "id": "G7-CREP-004",
+    "domain": "grade-7",
+    "subtopic": "Cellular reproduction",
+    "difficulty": "medium",
+    "question": "The diagram shows four stages of mitosis in random order. Which sequence shows the correct order?",
+    "figure": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 410 130\" width=\"410\" height=\"130\" role=\"img\" aria-label=\"Four cells numbered 1 to 4, each at a different stage of mitosis.\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><ellipse cx=\"55\" cy=\"60\" rx=\"42\" ry=\"33\"/><path d=\"M42 39 L33 44 L42 49\" stroke-width=\"2.2\"/><path d=\"M68 39 L77 44 L68 49\" stroke-width=\"2.2\"/><line x1=\"17\" y1=\"60\" x2=\"33\" y2=\"44\" stroke-width=\"0.8\" stroke-dasharray=\"2 2\"/><line x1=\"93\" y1=\"60\" x2=\"77\" y2=\"44\" stroke-width=\"0.8\" stroke-dasharray=\"2 2\"/><path d=\"M42 55 L33 60 L42 65\" stroke-width=\"2.2\"/><path d=\"M68 55 L77 60 L68 65\" stroke-width=\"2.2\"/><line x1=\"17\" y1=\"60\" x2=\"33\" y2=\"60\" stroke-width=\"0.8\" stroke-dasharray=\"2 2\"/><line x1=\"93\" y1=\"60\" x2=\"77\" y2=\"60\" stroke-width=\"0.8\" stroke-dasharray=\"2 2\"/><path d=\"M42 71 L33 76 L42 81\" stroke-width=\"2.2\"/><path d=\"M68 71 L77 76 L68 81\" stroke-width=\"2.2\"/><line x1=\"17\" y1=\"60\" x2=\"33\" y2=\"76\" stroke-width=\"0.8\" stroke-dasharray=\"2 2\"/><line x1=\"93\" y1=\"60\" x2=\"77\" y2=\"76\" stroke-width=\"0.8\" stroke-dasharray=\"2 2\"/><circle cx=\"155\" cy=\"60\" r=\"36\"/><circle cx=\"155\" cy=\"60\" r=\"22\" stroke-width=\"1\" stroke-dasharray=\"3 3\"/><line x1=\"141\" y1=\"46\" x2=\"149\" y2=\"58\" stroke-width=\"2.2\"/><line x1=\"149\" y1=\"46\" x2=\"141\" y2=\"58\" stroke-width=\"2.2\"/><line x1=\"160\" y1=\"57\" x2=\"168\" y2=\"69\" stroke-width=\"2.2\"/><line x1=\"168\" y1=\"57\" x2=\"160\" y2=\"69\" stroke-width=\"2.2\"/><line x1=\"146\" y1=\"65\" x2=\"154\" y2=\"77\" stroke-width=\"2.2\"/><line x1=\"154\" y1=\"65\" x2=\"146\" y2=\"77\" stroke-width=\"2.2\"/><line x1=\"159\" y1=\"42\" x2=\"167\" y2=\"54\" stroke-width=\"2.2\"/><line x1=\"167\" y1=\"42\" x2=\"159\" y2=\"54\" stroke-width=\"2.2\"/><ellipse cx=\"236\" cy=\"60\" rx=\"22\" ry=\"28\"/><ellipse cx=\"274\" cy=\"60\" rx=\"22\" ry=\"28\"/><circle cx=\"233\" cy=\"60\" r=\"10\" stroke-width=\"1\" stroke-dasharray=\"2 2\"/><circle cx=\"277\" cy=\"60\" r=\"10\" stroke-width=\"1\" stroke-dasharray=\"2 2\"/><path d=\"M228 57 Q233 65 238 58\" stroke-width=\"1.5\"/><path d=\"M272 57 Q277 65 282 58\" stroke-width=\"1.5\"/><circle cx=\"355\" cy=\"60\" r=\"36\"/><line x1=\"351\" y1=\"37\" x2=\"359\" y2=\"49\" stroke-width=\"2.2\"/><line x1=\"359\" y1=\"37\" x2=\"351\" y2=\"49\" stroke-width=\"2.2\"/><line x1=\"323\" y1=\"60\" x2=\"349\" y2=\"43\" stroke-width=\"0.8\" stroke-dasharray=\"2 2\"/><line x1=\"387\" y1=\"60\" x2=\"361\" y2=\"43\" stroke-width=\"0.8\" stroke-dasharray=\"2 2\"/><line x1=\"351\" y1=\"54\" x2=\"359\" y2=\"66\" stroke-width=\"2.2\"/><line x1=\"359\" y1=\"54\" x2=\"351\" y2=\"66\" stroke-width=\"2.2\"/><line x1=\"323\" y1=\"60\" x2=\"349\" y2=\"60\" stroke-width=\"0.8\" stroke-dasharray=\"2 2\"/><line x1=\"387\" y1=\"60\" x2=\"361\" y2=\"60\" stroke-width=\"0.8\" stroke-dasharray=\"2 2\"/><line x1=\"351\" y1=\"71\" x2=\"359\" y2=\"83\" stroke-width=\"2.2\"/><line x1=\"359\" y1=\"71\" x2=\"351\" y2=\"83\" stroke-width=\"2.2\"/><line x1=\"323\" y1=\"60\" x2=\"349\" y2=\"77\" stroke-width=\"0.8\" stroke-dasharray=\"2 2\"/><line x1=\"387\" y1=\"60\" x2=\"361\" y2=\"77\" stroke-width=\"0.8\" stroke-dasharray=\"2 2\"/><text x=\"55\" y=\"118\" font-size=\"15\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\" font-weight=\"bold\">1</text><text x=\"155\" y=\"118\" font-size=\"15\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\" font-weight=\"bold\">2</text><text x=\"255\" y=\"118\" font-size=\"15\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\" font-weight=\"bold\">3</text><text x=\"355\" y=\"118\" font-size=\"15\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\" font-weight=\"bold\">4</text></svg>",
+    "choices": [
+      "4 → 2 → 1 → 3",
+      "2 → 1 → 4 → 3",
+      "2 → 4 → 1 → 3",
+      "1 → 2 → 4 → 3"
+    ],
+    "answerIndex": 2,
+    "explanation": "Cell 2 is **prophase** (chromosomes condense; the nuclear envelope breaks down). Cell 4 is **metaphase** (chromosomes line up in the middle). Cell 1 is **anaphase** (chromatids pulled to opposite ends). Cell 3 is **telophase** (two new nuclei form and the cell pinches in two). So the order is **2 → 4 → 1 → 3**.",
+    "verified": true
+  },
+  {
+    "id": "G7-CREP-005",
+    "domain": "grade-7",
+    "subtopic": "Cellular reproduction",
+    "difficulty": "medium",
+    "question": "A human skin cell has 46 chromosomes. How many chromosomes will each daughter cell have after this skin cell undergoes mitosis?",
+    "choices": [
+      "23",
+      "92",
+      "184",
+      "46"
+    ],
+    "answerIndex": 3,
+    "explanation": "Chromosomes are copied before mitosis and then split evenly, so each daughter cell gets the **same number as the parent: 46**. A number of 23 would come from meiosis, and 92 would mean the copies never separated.",
+    "verified": true
+  },
+  {
+    "id": "G7-CREP-006",
+    "domain": "grade-7",
+    "subtopic": "Cellular reproduction",
+    "difficulty": "medium",
+    "question": "Why is it important that meiosis reduces the chromosome number by half?",
+    "choices": [
+      "So that the parent cell can repair damaged tissues faster",
+      "So that body cells can grow larger than gametes",
+      "So that fertilization restores the normal chromosome number in the offspring",
+      "So that offspring will be identical to one parent"
+    ],
+    "answerIndex": 2,
+    "explanation": "Each gamete carries half the chromosomes. When a sperm and an egg join at **fertilization**, the zygote has the **full, normal number**. Without this halving, the chromosome number would double every generation.",
+    "verified": true
+  },
+  {
+    "id": "G7-CREP-007",
+    "domain": "grade-7",
+    "subtopic": "Cellular reproduction",
+    "difficulty": "hard",
+    "question": "A student counted 100 onion root-tip cells: 80 in interphase, 10 in prophase, 4 in metaphase, 3 in anaphase, and 3 in telophase. If more cells are seen in stages that last longer, which conclusion is best?",
+    "choices": [
+      "Metaphase is the longest stage of mitosis because chromosomes line up slowly",
+      "Anaphase and telophase take the most time because the cell must split in two",
+      "All stages of mitosis last equally long because each one is necessary",
+      "Cells spend most of their time in interphase, and prophase is the longest stage of mitosis"
+    ],
+    "answerIndex": 3,
+    "explanation": "The number of cells in each stage reflects how long that stage lasts. **80%** of cells are in **interphase**, so cells spend most of their time there, growing and copying DNA. Among the mitosis stages, **prophase** has the most cells (10), so it lasts the longest. Metaphase, anaphase, and telophase have only 3 to 4 cells each, so they are short.",
+    "verified": true
+  },
+  {
+    "id": "G7-CREP-008",
+    "domain": "grade-7",
+    "subtopic": "Cellular reproduction",
+    "difficulty": "easy",
+    "question": "Which statement describes asexual reproduction?",
+    "choices": [
+      "One parent produces offspring that are identical to it",
+      "Two parents produce offspring that differ from both of them",
+      "A sperm cell and an egg cell join to form a zygote",
+      "Gametes are formed by meiosis in the reproductive organs"
+    ],
+    "answerIndex": 0,
+    "explanation": "**Asexual reproduction** needs only **one parent**, and the offspring are genetic copies of that parent. Joining of sperm and egg, and the making of gametes by meiosis, are part of **sexual** reproduction.",
+    "verified": true
+  },
+  {
+    "id": "G7-CREP-009",
+    "domain": "grade-7",
+    "subtopic": "Cellular reproduction",
+    "difficulty": "easy",
+    "question": "Which of the following is an example of asexual reproduction?",
+    "choices": [
+      "A rooster and a hen producing chicks",
+      "Growing a new kamote plant from a stem cutting",
+      "A gumamela flower forming seeds after pollination",
+      "Frogs releasing eggs and sperm into a pond"
+    ],
+    "answerIndex": 1,
+    "explanation": "Planting a **kamote (sweet potato) stem cutting** is **vegetative propagation**: the new plant grows from part of one parent, so it is asexual. Chicks, seeds formed after pollination, and frog eggs fertilized by sperm all come from sexual reproduction.",
+    "verified": true
+  },
+  {
+    "id": "G7-CREP-010",
+    "domain": "grade-7",
+    "subtopic": "Cellular reproduction",
+    "difficulty": "medium",
+    "question": "The diagram shows a parent cell dividing into four cells. Which process does it show, and why?",
+    "figure": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 380 160\" width=\"380\" height=\"160\" role=\"img\" aria-label=\"One parent cell on the left and an arrow pointing to four smaller cells on the right. The chromosomes in each cell are drawn as short bars.\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"60\" cy=\"75\" r=\"40\" fill=\"currentColor\" fill-opacity=\"0.05\"/><line x1=\"45\" y1=\"61.0\" x2=\"45\" y2=\"89.0\" stroke-width=\"3\"/><line x1=\"55\" y1=\"61.0\" x2=\"55\" y2=\"89.0\" stroke-width=\"3\"/><line x1=\"65\" y1=\"68.0\" x2=\"65\" y2=\"82.0\" stroke-width=\"3\"/><line x1=\"75\" y1=\"68.0\" x2=\"75\" y2=\"82.0\" stroke-width=\"3\"/><text x=\"60\" y=\"140\" font-size=\"12\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\">Parent cell</text><line x1=\"108\" y1=\"75\" x2=\"203.0\" y2=\"75.0\"/><polygon points=\"210,75 203.0,71.5 203.0,78.5\" fill=\"currentColor\" stroke=\"none\"/><circle cx=\"250\" cy=\"38\" r=\"24\" fill=\"currentColor\" fill-opacity=\"0.05\"/><line x1=\"245\" y1=\"27.0\" x2=\"245\" y2=\"49.0\" stroke-width=\"3\"/><line x1=\"255\" y1=\"32.5\" x2=\"255\" y2=\"43.5\" stroke-width=\"3\"/><circle cx=\"320\" cy=\"38\" r=\"24\" fill=\"currentColor\" fill-opacity=\"0.05\"/><line x1=\"315\" y1=\"27.0\" x2=\"315\" y2=\"49.0\" stroke-width=\"3\"/><line x1=\"325\" y1=\"32.5\" x2=\"325\" y2=\"43.5\" stroke-width=\"3\"/><circle cx=\"250\" cy=\"112\" r=\"24\" fill=\"currentColor\" fill-opacity=\"0.05\"/><line x1=\"245\" y1=\"101.0\" x2=\"245\" y2=\"123.0\" stroke-width=\"3\"/><line x1=\"255\" y1=\"106.5\" x2=\"255\" y2=\"117.5\" stroke-width=\"3\"/><circle cx=\"320\" cy=\"112\" r=\"24\" fill=\"currentColor\" fill-opacity=\"0.05\"/><line x1=\"315\" y1=\"101.0\" x2=\"315\" y2=\"123.0\" stroke-width=\"3\"/><line x1=\"325\" y1=\"106.5\" x2=\"325\" y2=\"117.5\" stroke-width=\"3\"/></svg>",
+    "choices": [
+      "Mitosis, because the daughter cells have the same chromosomes as the parent",
+      "Meiosis, because four cells form, each with half the parent's chromosome number",
+      "Mitosis, because the chromosomes were copied before the division",
+      "Fertilization, because new cells were formed from the parent cell"
+    ],
+    "answerIndex": 1,
+    "explanation": "The parent cell has **4 chromosomes** and each of the **four** new cells has **2**, which is half. Producing four cells with half the chromosome number is the mark of **meiosis**. Mitosis produces two cells with the same number as the parent, and fertilization joins two cells rather than dividing one.",
+    "verified": true
+  },
+  {
+    "id": "G7-CREP-011",
+    "domain": "grade-7",
+    "subtopic": "Cellular reproduction",
+    "difficulty": "medium",
+    "question": "Cavendish banana plants in a plantation are grown from suckers of a single parent plant, so they are genetically identical. Why is the plantation at greater risk from a new plant disease?",
+    "choices": [
+      "Plants grown from suckers have fewer cells than plants grown from seeds",
+      "Identical plants compete more strongly for water and sunlight",
+      "Plants grown from suckers cannot produce fruit",
+      "If one plant cannot resist the disease, none of the identical plants can"
+    ],
+    "answerIndex": 3,
+    "explanation": "Asexual reproduction produces **genetically identical** offspring, so they share the same **weaknesses**. A disease that kills one can spread through the whole plantation. Sexual reproduction produces **variation**, so some individuals may survive a new threat.",
+    "verified": true
+  },
+  {
+    "id": "G7-CREP-012",
+    "domain": "grade-7",
+    "subtopic": "Cellular reproduction",
+    "difficulty": "medium",
+    "question": "A puppy looks similar to both of its parents but is not exactly like either one. What best explains this?",
+    "choices": [
+      "It received all of its genetic information from its mother only",
+      "It was produced by mitosis of one of the parent's body cells",
+      "It copied the traits it saw in its parents while growing up",
+      "It received half of its genetic information from each parent through the sperm and egg"
+    ],
+    "answerIndex": 3,
+    "explanation": "In **sexual reproduction**, meiosis gives each gamete **half** of a parent's genetic information. Fertilization combines the two halves, so the offspring has a **new mix** of traits from both parents. Mitosis would make an identical copy, and traits are not learned by copying.",
+    "verified": true
+  },
+  {
+    "id": "G7-CREP-013",
+    "domain": "grade-7",
+    "subtopic": "Cellular reproduction",
+    "difficulty": "medium",
+    "question": "Which statement correctly compares mitosis and meiosis?",
+    "choices": [
+      "Mitosis forms two identical cells, while meiosis forms four genetically different cells",
+      "Mitosis forms four identical cells, while meiosis forms two different cells",
+      "Mitosis forms sex cells, while meiosis forms body cells for growth",
+      "Both processes form cells with half the number of chromosomes"
+    ],
+    "answerIndex": 0,
+    "explanation": "**Mitosis:** 2 daughter cells, same chromosome number, identical to the parent; used for growth and repair. **Meiosis:** 4 daughter cells, **half** the chromosome number, genetically different; used to make gametes.",
+    "verified": true
+  },
+  {
+    "id": "G7-CREP-014",
+    "domain": "grade-7",
+    "subtopic": "Cellular reproduction",
+    "difficulty": "hard",
+    "question": "The body cells of an animal have 8 chromosomes. An egg cell made by meiosis is fertilized, and the zygote then goes through 3 rounds of mitosis, with every cell dividing each time. How many cells result, and how many chromosomes does each have?",
+    "choices": [
+      "8 cells, each with 4 chromosomes",
+      "6 cells, each with 8 chromosomes",
+      "16 cells, each with 16 chromosomes",
+      "8 cells, each with 8 chromosomes"
+    ],
+    "answerIndex": 3,
+    "explanation": "1. Meiosis halves the number: the egg has $8 \\div 2 = 4$ chromosomes.\n2. Fertilization adds the sperm's 4: the zygote has $4 + 4 = 8$.\n3. Each round of mitosis doubles the number of cells: $1 \\to 2 \\to 4 \\to 8$, so $2^3 = 8$ cells.\n4. Mitosis keeps the chromosome number the same, so each cell has **8**.\n\nAnswer: **8 cells with 8 chromosomes each**.",
+    "verified": true
+  },
+  {
+    "id": "G7-LBO-001",
+    "domain": "grade-7",
+    "subtopic": "Levels of biological organization",
+    "difficulty": "easy",
+    "question": "What is the basic unit of structure and function of all living things?",
+    "choices": [
+      "Tissue",
+      "Organ",
+      "Atom",
+      "Cell"
+    ],
+    "answerIndex": 3,
+    "explanation": "The **cell** is the smallest unit that can carry out all life processes. Tissues and organs are made of cells. Atoms are not alive by themselves.",
+    "verified": true
+  },
+  {
+    "id": "G7-LBO-002",
+    "domain": "grade-7",
+    "subtopic": "Levels of biological organization",
+    "difficulty": "easy",
+    "question": "What do you call a group of similar cells that work together to do a specific job?",
+    "choices": [
+      "Organ",
+      "Organ system",
+      "Tissue",
+      "Population"
+    ],
+    "answerIndex": 2,
+    "explanation": "A **tissue** is a group of similar cells with a common function, such as muscle tissue. An organ is made of different tissues, and a population is a group of organisms.",
+    "verified": true
+  },
+  {
+    "id": "G7-LBO-003",
+    "domain": "grade-7",
+    "subtopic": "Levels of biological organization",
+    "difficulty": "easy",
+    "question": "Which sequence shows the levels of organization within an organism from simplest to most complex?",
+    "choices": [
+      "Cell → organ → tissue → organ system → organism",
+      "Tissue → cell → organ → organism → organ system",
+      "Organism → organ system → organ → tissue → cell",
+      "Cell → tissue → organ → organ system → organism"
+    ],
+    "answerIndex": 3,
+    "explanation": "Cells form **tissues**, tissues form **organs**, organs work together in **organ systems**, and organ systems make up an **organism**. The sequence starting with organism lists the right levels, but from complex to simple.",
+    "verified": true
+  },
+  {
+    "id": "G7-LBO-004",
+    "domain": "grade-7",
+    "subtopic": "Levels of biological organization",
+    "difficulty": "easy",
+    "question": "Which of the following is an example of a population?",
+    "choices": [
+      "All the fish, snails, and plants in a fishpond",
+      "All the tilapia living in a fishpond",
+      "A single tilapia in a fishpond",
+      "The water, mud, and fish in a fishpond"
+    ],
+    "answerIndex": 1,
+    "explanation": "A **population** is a group of organisms of the **same species** living in the same area at the same time. Different species together form a community, and adding nonliving things makes an ecosystem.",
+    "verified": true
+  },
+  {
+    "id": "G7-LBO-005",
+    "domain": "grade-7",
+    "subtopic": "Levels of biological organization",
+    "difficulty": "easy",
+    "question": "Which of the following is an organ?",
+    "choices": [
+      "Blood",
+      "Nerve cell",
+      "Stomach",
+      "Digestive system"
+    ],
+    "answerIndex": 2,
+    "explanation": "The **stomach** is an **organ**: it is made of several tissue types working together. Blood is a tissue, a nerve cell is a cell, and the digestive system is an organ system.",
+    "verified": true
+  },
+  {
+    "id": "G7-LBO-006",
+    "domain": "grade-7",
+    "subtopic": "Levels of biological organization",
+    "difficulty": "easy",
+    "question": "Which is the largest and most inclusive level of biological organization?",
+    "choices": [
+      "Biosphere",
+      "Ecosystem",
+      "Community",
+      "Organism"
+    ],
+    "answerIndex": 0,
+    "explanation": "The **biosphere** includes all parts of Earth where life exists, including all ecosystems. Organisms, communities, and ecosystems are all smaller levels within it.",
+    "verified": true
+  },
+  {
+    "id": "G7-LBO-007",
+    "domain": "grade-7",
+    "subtopic": "Levels of biological organization",
+    "difficulty": "medium",
+    "question": "Which sequence arranges the numbered items from the simplest level to the most complex level?",
+    "figure": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 400 150\" width=\"400\" height=\"150\" role=\"img\" aria-label=\"Five boxes numbered 1 to 5, each naming a structure related to the human heart.\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"10\" y=\"12\" width=\"120\" height=\"52\" rx=\"6\" fill=\"currentColor\" fill-opacity=\"0.08\"/><text x=\"70.0\" y=\"42.2\" font-size=\"12\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\">1. Heart</text><rect x=\"140\" y=\"12\" width=\"120\" height=\"52\" rx=\"6\" fill=\"currentColor\" fill-opacity=\"0.08\"/><text x=\"200.0\" y=\"35.2\" font-size=\"12\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\">2. Cardiac</text><text x=\"200.0\" y=\"49.2\" font-size=\"12\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\">muscle cell</text><rect x=\"270\" y=\"12\" width=\"120\" height=\"52\" rx=\"6\" fill=\"currentColor\" fill-opacity=\"0.08\"/><text x=\"330.0\" y=\"42.2\" font-size=\"12\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\">3. Human</text><rect x=\"75\" y=\"86\" width=\"120\" height=\"52\" rx=\"6\" fill=\"currentColor\" fill-opacity=\"0.08\"/><text x=\"135.0\" y=\"109.2\" font-size=\"12\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\">4. Cardiac</text><text x=\"135.0\" y=\"123.2\" font-size=\"12\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\">muscle tissue</text><rect x=\"205\" y=\"86\" width=\"120\" height=\"52\" rx=\"6\" fill=\"currentColor\" fill-opacity=\"0.08\"/><text x=\"265.0\" y=\"109.2\" font-size=\"12\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\">5. Circulatory</text><text x=\"265.0\" y=\"123.2\" font-size=\"12\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\">system</text></svg>",
+    "choices": [
+      "2 → 4 → 1 → 5 → 3",
+      "4 → 2 → 1 → 5 → 3",
+      "2 → 4 → 5 → 1 → 3",
+      "2 → 1 → 4 → 5 → 3"
+    ],
+    "answerIndex": 0,
+    "explanation": "Cardiac muscle **cell** (2) → cardiac muscle **tissue** (4) → heart, an **organ** (1) → circulatory system, an **organ system** (5) → human, an **organism** (3).",
+    "verified": true
+  },
+  {
+    "id": "G7-LBO-008",
+    "domain": "grade-7",
+    "subtopic": "Levels of biological organization",
+    "difficulty": "medium",
+    "question": "The diagram shows levels of biological organization as nested ovals. What level does X represent?",
+    "figure": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 400 200\" width=\"400\" height=\"200\" role=\"img\" aria-label=\"Four nested ovals. From the inside out they are labeled Organism, Population, X, and Ecosystem.\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><ellipse cx=\"200\" cy=\"100\" rx=\"190\" ry=\"90\" fill=\"currentColor\" fill-opacity=\"0.04\"/><ellipse cx=\"200\" cy=\"100\" rx=\"145\" ry=\"68\" fill=\"currentColor\" fill-opacity=\"0.05\"/><ellipse cx=\"200\" cy=\"100\" rx=\"95\" ry=\"46\" fill=\"currentColor\" fill-opacity=\"0.06\"/><ellipse cx=\"200\" cy=\"100\" rx=\"45\" ry=\"22\" fill=\"currentColor\" fill-opacity=\"0.1\"/><text x=\"200\" y=\"27\" font-size=\"12\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\">Ecosystem</text><text x=\"200\" y=\"48\" font-size=\"14\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\" font-weight=\"bold\">X</text><text x=\"200\" y=\"70\" font-size=\"12\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\">Population</text><text x=\"200\" y=\"104\" font-size=\"11\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\">Organism</text></svg>",
+    "choices": [
+      "Community",
+      "Organ system",
+      "Biosphere",
+      "Species"
+    ],
+    "answerIndex": 0,
+    "explanation": "An **organism** belongs to a **population** (same species). Several populations of different species living together form a **community** (X). A community plus its nonliving surroundings is an **ecosystem**.",
+    "verified": true
+  },
+  {
+    "id": "G7-LBO-009",
+    "domain": "grade-7",
+    "subtopic": "Levels of biological organization",
+    "difficulty": "medium",
+    "question": "A coral reef includes corals, fish, algae, and sea turtles, together with the seawater, sunlight, sand, and rocks around them. What level of organization is this?",
+    "choices": [
+      "Community",
+      "Population",
+      "Organ system",
+      "Ecosystem"
+    ],
+    "answerIndex": 3,
+    "explanation": "Because the description includes both **living things** and **nonliving things** (water, sunlight, sand, rocks), it is an **ecosystem**. A community includes only the living organisms.",
+    "verified": true
+  },
+  {
+    "id": "G7-LBO-010",
+    "domain": "grade-7",
+    "subtopic": "Levels of biological organization",
+    "difficulty": "medium",
+    "question": "A student lists all the living things in Laguna de Bay, such as fish, snails, water hyacinth, and birds. What level of organization did the student describe?",
+    "choices": [
+      "Population",
+      "Ecosystem",
+      "Biosphere",
+      "Community"
+    ],
+    "answerIndex": 3,
+    "explanation": "The list contains **many different species** but only **living things**, so it is a **community**. A population would be only one species, and an ecosystem would also include the water, soil, and other nonliving parts.",
+    "verified": true
+  },
+  {
+    "id": "G7-LBO-011",
+    "domain": "grade-7",
+    "subtopic": "Levels of biological organization",
+    "difficulty": "medium",
+    "question": "In a mango tree, a single leaf is an example of which level of organization?",
+    "choices": [
+      "Tissue",
+      "Organ",
+      "Cell",
+      "Organ system"
+    ],
+    "answerIndex": 1,
+    "explanation": "A leaf is an **organ**: it is made of several tissues (outer protective tissue, food-making tissue, and transport tissue) working together to make food. Leaves, stems, and flowers together make up the shoot system, which is an organ system.",
+    "verified": true
+  },
+  {
+    "id": "G7-LBO-012",
+    "domain": "grade-7",
+    "subtopic": "Levels of biological organization",
+    "difficulty": "medium",
+    "question": "What is the main difference between a community and an ecosystem?",
+    "choices": [
+      "A community includes the nonliving parts of the environment, while an ecosystem does not",
+      "An ecosystem includes the nonliving parts of the environment, while a community does not",
+      "A community has only one species, while an ecosystem has many species",
+      "An ecosystem is always smaller than a community"
+    ],
+    "answerIndex": 1,
+    "explanation": "A **community** is all the populations of living things in an area. An **ecosystem** is the community **plus** the abiotic (nonliving) factors such as water, soil, air, and sunlight. So an ecosystem is the larger level.",
+    "verified": true
+  },
+  {
+    "id": "G7-LBO-013",
+    "domain": "grade-7",
+    "subtopic": "Levels of biological organization",
+    "difficulty": "hard",
+    "question": "Which list gives one example each of a tissue, an organ, and an organ system, in that order?",
+    "choices": [
+      "Nerve cell, brain, nervous tissue",
+      "Blood, kidney, excretory system",
+      "Muscle tissue, skeletal system, heart",
+      "Skin cell, skin, outer layer of skin"
+    ],
+    "answerIndex": 1,
+    "explanation": "**Blood** is a (connective) tissue, the **kidney** is an organ, and the **excretory system** is an organ system, which is the correct order. The other lists mix up levels: a nerve cell and a skin cell are cells, nervous tissue is a tissue (not an organ system), and the list starting with muscle tissue puts an organ system before an organ.",
+    "verified": true
+  },
+  {
+    "id": "G7-LBO-014",
+    "domain": "grade-7",
+    "subtopic": "Levels of biological organization",
+    "difficulty": "hard",
+    "question": "Which statement best explains why each level of organization can do things that the level below it cannot?",
+    "choices": [
+      "A heart muscle cell can pump blood by itself, so the heart simply repeats what each cell does",
+      "A heart can pump blood, but a single heart muscle cell cannot, because pumping needs many cells and tissues working together",
+      "Higher levels always contain fewer parts than lower levels, so they are more efficient",
+      "Each level works on its own and does not depend on the levels below it"
+    ],
+    "answerIndex": 1,
+    "explanation": "When parts are organized together, **new abilities** appear that the separate parts do not have. One heart muscle cell can only contract; pumping blood requires many cells arranged into tissues and an organ with chambers and valves. Higher levels also **depend on** lower levels; they contain more parts, not fewer.",
+    "verified": true
+  },
+  {
+    "id": "G7-TRO-001",
+    "domain": "grade-7",
+    "subtopic": "Trophic levels and the transfer of energy",
+    "difficulty": "easy",
+    "question": "Which organism occupies the first trophic level in a rice field?",
+    "choices": [
+      "Grasshopper",
+      "Frog",
+      "Snake",
+      "Rice plant"
+    ],
+    "answerIndex": 3,
+    "explanation": "The **first trophic level** is made of **producers**, organisms that make their own food by photosynthesis. The rice plant is the producer; the grasshopper, frog, and snake are consumers.",
+    "verified": true
+  },
+  {
+    "id": "G7-TRO-002",
+    "domain": "grade-7",
+    "subtopic": "Trophic levels and the transfer of energy",
+    "difficulty": "easy",
+    "question": "What is the original source of energy for almost all food chains on Earth?",
+    "choices": [
+      "Water",
+      "The sun",
+      "Soil",
+      "Decomposers"
+    ],
+    "answerIndex": 1,
+    "explanation": "Producers capture **light energy from the sun** and store it in food. This energy then passes to consumers. Water and soil supply materials, not energy, and decomposers get energy from dead matter that came from the sun's energy.",
+    "verified": true
+  },
+  {
+    "id": "G7-TRO-003",
+    "domain": "grade-7",
+    "subtopic": "Trophic levels and the transfer of energy",
+    "difficulty": "easy",
+    "question": "Why is the producer level the widest part of an energy pyramid?",
+    "choices": [
+      "It has the largest individual organisms",
+      "It holds the greatest amount of energy",
+      "It receives energy from all the consumers",
+      "It loses the least energy as heat"
+    ],
+    "answerIndex": 1,
+    "explanation": "The base is widest because **producers hold the most energy** in the ecosystem. Energy decreases at each higher level because most of it is used or lost as heat. The size of individual organisms does not determine the shape.",
+    "verified": true
+  },
+  {
+    "id": "G7-TRO-004",
+    "domain": "grade-7",
+    "subtopic": "Trophic levels and the transfer of energy",
+    "difficulty": "easy",
+    "question": "A carabao eats only grass. Which term describes the carabao in a food chain?",
+    "choices": [
+      "Primary consumer",
+      "Producer",
+      "Secondary consumer",
+      "Decomposer"
+    ],
+    "answerIndex": 0,
+    "explanation": "An animal that eats **plants (producers)** directly is a **herbivore**, also called a **primary consumer**, at the second trophic level. Secondary consumers eat primary consumers.",
+    "verified": true
+  },
+  {
+    "id": "G7-TRO-005",
+    "domain": "grade-7",
+    "subtopic": "Trophic levels and the transfer of energy",
+    "difficulty": "easy",
+    "question": "What is the role of decomposers such as bacteria and fungi in an ecosystem?",
+    "choices": [
+      "They make food from sunlight for other organisms",
+      "They break down dead organisms and return nutrients to the soil",
+      "They hunt and eat primary consumers",
+      "They add energy back to the producers"
+    ],
+    "answerIndex": 1,
+    "explanation": "**Decomposers** break down dead plants, dead animals, and wastes, **recycling nutrients** back to the soil for producers to use. They do not make food from sunlight, and energy is **not** recycled; it is lost as heat.",
+    "verified": true
+  },
+  {
+    "id": "G7-TRO-006",
+    "domain": "grade-7",
+    "subtopic": "Trophic levels and the transfer of energy",
+    "difficulty": "medium",
+    "question": "The producers in an ecosystem store 10,000 kJ of energy. Using the 10% rule, how much energy reaches the tertiary consumers?",
+    "figure": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 400 200\" width=\"400\" height=\"200\" role=\"img\" aria-label=\"An energy pyramid with four levels. Only the producer level shows an energy value.\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><polygon points=\"10.0,190 250.0,190 220.0,148 40.0,148\" fill=\"currentColor\" fill-opacity=\"0.06\"/><line x1=\"239.0\" y1=\"169.0\" x2=\"245\" y2=\"169.0\" stroke-width=\"0.8\" stroke-dasharray=\"3 3\"/><text x=\"250\" y=\"173.0\" font-size=\"11\" text-anchor=\"start\" fill=\"currentColor\" stroke=\"none\">Producers: 10,000 kJ</text><polygon points=\"40.0,148 220.0,148 190.0,106 70.0,106\" fill=\"currentColor\" fill-opacity=\"0.12\"/><line x1=\"209.0\" y1=\"127.0\" x2=\"245\" y2=\"127.0\" stroke-width=\"0.8\" stroke-dasharray=\"3 3\"/><text x=\"250\" y=\"131.0\" font-size=\"11\" text-anchor=\"start\" fill=\"currentColor\" stroke=\"none\">Primary consumers: ?</text><polygon points=\"70.0,106 190.0,106 160.0,64 100.0,64\" fill=\"currentColor\" fill-opacity=\"0.18\"/><line x1=\"179.0\" y1=\"85.0\" x2=\"245\" y2=\"85.0\" stroke-width=\"0.8\" stroke-dasharray=\"3 3\"/><text x=\"250\" y=\"89.0\" font-size=\"11\" text-anchor=\"start\" fill=\"currentColor\" stroke=\"none\">Secondary consumers: ?</text><polygon points=\"100.0,64 160.0,64 130.0,22 130.0,22\" fill=\"currentColor\" fill-opacity=\"0.24\"/><line x1=\"149.0\" y1=\"43.0\" x2=\"245\" y2=\"43.0\" stroke-width=\"0.8\" stroke-dasharray=\"3 3\"/><text x=\"250\" y=\"47.0\" font-size=\"11\" text-anchor=\"start\" fill=\"currentColor\" stroke=\"none\">Tertiary consumers: ?</text></svg>",
+    "choices": [
+      "1 kJ",
+      "10 kJ",
+      "100 kJ",
+      "1,000 kJ"
+    ],
+    "answerIndex": 1,
+    "explanation": "With the **10% rule**, each level gets about one-tenth of the level below it:\n\n- Producers: $10{,}000$ kJ\n- Primary consumers: $10{,}000 \\times 0.10 = 1{,}000$ kJ\n- Secondary consumers: $1{,}000 \\times 0.10 = 100$ kJ\n- Tertiary consumers: $100 \\times 0.10 = 10$ kJ\n\nSo **10 kJ** reaches the tertiary consumers.",
+    "verified": true
+  },
+  {
+    "id": "G7-TRO-007",
+    "domain": "grade-7",
+    "subtopic": "Trophic levels and the transfer of energy",
+    "difficulty": "medium",
+    "question": "In the food chain shown, at which trophic level is the snake, and what kind of consumer is it?",
+    "figure": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 440 70\" width=\"440\" height=\"70\" role=\"img\" aria-label=\"A food chain: rice plant, then rat, then snake, then eagle, connected by arrows.\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"5\" y=\"15\" width=\"90\" height=\"40\" rx=\"6\" fill=\"currentColor\" fill-opacity=\"0.08\"/><text x=\"50.0\" y=\"39.2\" font-size=\"12\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\">Rice plant</text><line x1=\"97\" y1=\"35\" x2=\"121.0\" y2=\"35.0\"/><polygon points=\"128,35 121.0,31.5 121.0,38.5\" fill=\"currentColor\" stroke=\"none\"/><rect x=\"130\" y=\"15\" width=\"80\" height=\"40\" rx=\"6\" fill=\"currentColor\" fill-opacity=\"0.08\"/><text x=\"170.0\" y=\"39.2\" font-size=\"12\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\">Rat</text><line x1=\"212\" y1=\"35\" x2=\"236.0\" y2=\"35.0\"/><polygon points=\"243,35 236.0,31.5 236.0,38.5\" fill=\"currentColor\" stroke=\"none\"/><rect x=\"245\" y=\"15\" width=\"80\" height=\"40\" rx=\"6\" fill=\"currentColor\" fill-opacity=\"0.08\"/><text x=\"285.0\" y=\"39.2\" font-size=\"12\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\">Snake</text><line x1=\"327\" y1=\"35\" x2=\"351.0\" y2=\"35.0\"/><polygon points=\"358,35 351.0,31.5 351.0,38.5\" fill=\"currentColor\" stroke=\"none\"/><rect x=\"360\" y=\"15\" width=\"75\" height=\"40\" rx=\"6\" fill=\"currentColor\" fill-opacity=\"0.08\"/><text x=\"397.5\" y=\"39.2\" font-size=\"12\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\">Eagle</text></svg>",
+    "choices": [
+      "Second trophic level; primary consumer",
+      "Third trophic level; tertiary consumer",
+      "Third trophic level; secondary consumer",
+      "Fourth trophic level; secondary consumer"
+    ],
+    "answerIndex": 2,
+    "explanation": "Counting from the producer: rice plant (1st, producer) → rat (2nd, primary consumer) → **snake (3rd, secondary consumer)** → eagle (4th, tertiary consumer). The trophic level number is always one more than the consumer order.",
+    "verified": true
+  },
+  {
+    "id": "G7-TRO-008",
+    "domain": "grade-7",
+    "subtopic": "Trophic levels and the transfer of energy",
+    "difficulty": "medium",
+    "question": "Only about 10% of the energy at one trophic level passes to the next level. What happens to most of the remaining 90%?",
+    "choices": [
+      "It is stored permanently in the soil",
+      "It is used for life processes and lost as heat",
+      "It is passed back to the producers",
+      "It is changed into sunlight"
+    ],
+    "answerIndex": 1,
+    "explanation": "Organisms use most of the energy they take in for **life processes** such as movement, growth, and keeping warm, and much is released as **heat** during cellular respiration. Some is also left in undigested wastes. Energy flows one way and is not recycled to producers.",
+    "verified": true
+  },
+  {
+    "id": "G7-TRO-009",
+    "domain": "grade-7",
+    "subtopic": "Trophic levels and the transfer of energy",
+    "difficulty": "medium",
+    "question": "Why do most food chains have only four or five trophic levels?",
+    "choices": [
+      "Predators at the top would run out of water",
+      "Producers can only feed four kinds of animals",
+      "Too little energy is left at the higher levels to support more organisms",
+      "Decomposers remove all the energy after four levels"
+    ],
+    "answerIndex": 2,
+    "explanation": "Since about 90% of energy is lost at each step, the energy left after four or five transfers is **too small to support another level** of consumers. This is why top predators are few in number.",
+    "verified": true
+  },
+  {
+    "id": "G7-TRO-010",
+    "domain": "grade-7",
+    "subtopic": "Trophic levels and the transfer of energy",
+    "difficulty": "medium",
+    "question": "Grasshoppers in a field take in 500 kJ of energy from the grass they eat. About how much of this energy becomes available to frogs that eat the grasshoppers?",
+    "choices": [
+      "50 kJ",
+      "5 kJ",
+      "450 kJ",
+      "5,000 kJ"
+    ],
+    "answerIndex": 0,
+    "explanation": "Using the **10% rule**: $500 \\text{ kJ} \\times 0.10 = 50$ kJ. The answer 450 kJ is the amount **lost**, and 5,000 kJ wrongly multiplies by 10.",
+    "verified": true
+  },
+  {
+    "id": "G7-TRO-011",
+    "domain": "grade-7",
+    "subtopic": "Trophic levels and the transfer of energy",
+    "difficulty": "medium",
+    "question": "Why can a field of rice feed more people if they eat the rice directly than if the rice is first fed to pigs and the people eat the pork?",
+    "choices": [
+      "Eating rice directly skips one energy transfer, so less energy is lost",
+      "Pork contains more energy than the rice used to raise the pig",
+      "Rice plants are consumers, so they store more energy",
+      "Pigs return their energy to the rice field as heat"
+    ],
+    "answerIndex": 0,
+    "explanation": "Each transfer between trophic levels loses about **90%** of energy. Eating rice makes people **primary consumers**. Feeding rice to pigs first adds one more level, so only about 10% of the rice's energy ends up in the pork.",
+    "verified": true
+  },
+  {
+    "id": "G7-TRO-012",
+    "domain": "grade-7",
+    "subtopic": "Trophic levels and the transfer of energy",
+    "difficulty": "medium",
+    "question": "A person eats rice and also eats bangus (milkfish). The bangus feeds on algae. At which trophic levels does the person feed?",
+    "choices": [
+      "First and second",
+      "Second only",
+      "Second and third",
+      "Third and fourth"
+    ],
+    "answerIndex": 2,
+    "explanation": "Rice → person: rice is a producer (1st), so the person is at the **2nd** level. Algae → bangus → person: algae (1st), bangus (2nd), person (**3rd**). An **omnivore** can feed at more than one trophic level.",
+    "verified": true
+  },
+  {
+    "id": "G7-TRO-013",
+    "domain": "grade-7",
+    "subtopic": "Trophic levels and the transfer of energy",
+    "difficulty": "hard",
+    "question": "A tertiary consumer gets 4 kJ of energy from its food. Assuming the 10% rule, how much energy was originally stored in the producers of this food chain?",
+    "choices": [
+      "400 kJ",
+      "40 kJ",
+      "40,000 kJ",
+      "4,000 kJ"
+    ],
+    "answerIndex": 3,
+    "explanation": "Work backward. Each level has **10 times** the energy of the level above it.\n\n- Tertiary consumers: 4 kJ\n- Secondary consumers: $4 \\times 10 = 40$ kJ\n- Primary consumers: $40 \\times 10 = 400$ kJ\n- Producers: $400 \\times 10 = 4{,}000$ kJ\n\nThere are **three transfers** between producers and tertiary consumers, so the factor is $10^3 = 1{,}000$.",
+    "verified": true
+  },
+  {
+    "id": "G7-TRO-014",
+    "domain": "grade-7",
+    "subtopic": "Trophic levels and the transfer of energy",
+    "difficulty": "hard",
+    "question": "In an ecosystem, the producers store 20,000 kJ, the primary consumers 2,000 kJ, and the secondary consumers 150 kJ. What percentage of energy was transferred from the primary to the secondary consumers?",
+    "choices": [
+      "10%",
+      "0.75%",
+      "7.5%",
+      "13.3%"
+    ],
+    "answerIndex": 2,
+    "explanation": "Percent transferred = (energy at higher level ÷ energy at lower level) × 100\n\n$\\dfrac{150}{2{,}000} \\times 100 = 7.5\\%$\n\nThe 10% rule is only an **average**; real transfers vary. 0.75% compares 150 kJ to the producers (20,000 kJ), and 13.3% divides the wrong way ($2{,}000 \\div 150$ gives 13.3, not a percentage of energy passed on).",
+    "verified": true
+  }
+]

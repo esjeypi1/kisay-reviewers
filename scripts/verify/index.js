@@ -11,15 +11,18 @@ import { readFileSync, existsSync } from 'node:fs';
 import { join, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { parseNum, close } from './lib.js';
+import { SUBJECTS } from '../../src/config.js';
 
 const here = dirname(fileURLToPath(import.meta.url));
-const dataDir = join(here, '../../src/data');
-const meta = JSON.parse(readFileSync(join(dataDir, 'subtopics.json'), 'utf8'));
+const dataRoot = join(here, '../../src/data');
 
 let failures = 0;
 let checked = 0;
 let manual = 0;
 
+for (const subject of SUBJECTS) {
+const dataDir = join(dataRoot, subject.id);
+const meta = JSON.parse(readFileSync(join(dataDir, 'subtopics.json'), 'utf8'));
 for (const d of meta.domains) {
   const items = JSON.parse(readFileSync(join(dataDir, d.file), 'utf8'));
   const byId = new Map(items.map((q) => [q.id, q]));
@@ -69,6 +72,7 @@ for (const d of meta.domains) {
   checked += domChecked;
   manual += manualIds.length;
   console.log(`  computed checks: ${domChecked}, checked by hand: ${manualIds.length}`);
+}
 }
 
 console.log(`\nComputed checks: ${checked}. Checked by hand: ${manual}.`);

@@ -8,11 +8,10 @@ import katex from 'katex';
 import { XMLValidator, XMLParser } from 'fast-xml-parser';
 import { splitMath } from '../src/lib/mathsplit.js';
 import { ALLOWED_TAGS, BLOCKED_ATTR, isMarkup } from '../src/lib/markup-rules.js';
-import { MOCK_SPLIT, MOCK_TOTAL } from '../src/config.js';
+import { SUBJECTS } from '../src/config.js';
 
 const root = join(dirname(fileURLToPath(import.meta.url)), '..');
-const dataDir = join(root, 'src/data');
-const meta = JSON.parse(readFileSync(join(dataDir, 'subtopics.json'), 'utf8'));
+const dataRoot = join(root, 'src/data');
 
 const MIN_PER_DOMAIN = 50;
 const DIFFICULTIES = ['easy', 'medium', 'hard'];
@@ -81,10 +80,26 @@ function checkText(where, field, value) {
 }
 
 const ids = new Map();
+const domainIds = new Map();
+let total = 0;
+
+for (const subject of SUBJECTS) {
+const dataDir = join(dataRoot, subject.id);
+let meta;
+try {
+  meta = JSON.parse(readFileSync(join(dataDir, 'subtopics.json'), 'utf8'));
+} catch (e) {
+  err(`${subject.id}/subtopics.json`, `cannot read or parse: ${e.message}`);
+  continue;
+}
 const domainCounts = {};
+console.log(`\n== ${subject.title}`);
 
 for (const d of meta.domains) {
-  const file = join(dataDir, d.file);
+  if (domainIds.has(d.id)) err(`${subject.id}/subtopics.json`, `domain id "${d.id}" is also used in ${domainIds.get(d.id)}`);
+  domainIds.set(d.id, subject.id);
+  d.file = `${subject.id}/${d.file}`;
+  const file = join(dataRoot, d.file);
   let items;
   try {
     items = JSON.parse(readFileSync(file, 'utf8'));
@@ -169,11 +184,20 @@ for (const d of meta.domains) {
 }
 
 // Mock exam split
-const splitSum = Object.values(MOCK_SPLIT).reduce((a, b) => a + b, 0);
-if (splitSum !== MOCK_TOTAL) err('config.js', `MOCK_SPLIT adds up to ${splitSum}, but MOCK_TOTAL is ${MOCK_TOTAL}`);
-for (const [dom, n] of Object.entries(MOCK_SPLIT)) {
-  if (!(dom in domainCounts)) err('config.js', `MOCK_SPLIT has unknown domain "${dom}"`);
-  else if (n > domainCounts[dom]) err('config.js', `MOCK_SPLIT asks for ${n} items from ${dom}, but it only has ${domainCounts[dom]}`);
+if (subject.mock) {
+  const { split, total: mockTotal } = subject.mock;
+  const where = `config.js (${subject.id})`;
+  const splitSum = Object.values(split).reduce((a, b) => a + b, 0);
+  if (splitSum !== mockTotal) err(where, `mock split adds up to ${splitSum}, but mock total is ${mockTotal}`);
+  for (const [dom, n] of Object.entries(split)) {
+    if (!(dom in domainCounts)) err(where, `mock split has unknown domain "${dom}"`);
+    else if (n > domainCounts[dom]) err(where, `mock split asks for ${n} items from ${dom}, but it only has ${domainCounts[dom]}`);
+  }
+}
+
+const subjectTotal = Object.values(domainCounts).reduce((a, b) => a + b, 0);
+total += subjectTotal;
+console.log(`\n${subject.name}: ${subjectTotal} items`);
 }
 
 // No em dashes in UI source files either.
@@ -192,7 +216,6 @@ readFileSync(join(root, 'index.html'), 'utf8').split('\n').forEach((line, n) => 
   if (line.includes('—')) err(`index.html:${n + 1}`, 'contains an em dash');
 });
 
-const total = Object.values(domainCounts).reduce((a, b) => a + b, 0);
 console.log(`\nTotal: ${total} items`);
 
 if (warnings.length) {

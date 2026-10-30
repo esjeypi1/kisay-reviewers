@@ -1,11 +1,19 @@
-# Dagitab 2026 Reviewer
+# Reviewer
 
-A free, public practice website for senior high school students preparing for the **Dagitab 2026 qualifying exam**.
+A free, public practice website with one tab per subject:
+
+| Tab | Link | Items | Modes |
+| --- | --- | --- | --- |
+| Dagitab 2026 | `/` or `/#dagitab` | 470 | Practice, Mock Exam |
+| Biology (Grades 7 to 10) | `/#biology` | 280 | Practice |
+
+The Dagitab tab is for senior high school students preparing for the **Dagitab 2026 qualifying exam**.
 It is an unofficial reviewer and is not affiliated with or endorsed by the UP Engineering Radio Guild.
 
 - **Practice mode:** untimed, filter by domain and subtopic, instant feedback with a worked explanation, score breakdown at the end.
 - **Mock exam mode:** 50 items, 60-minute countdown, auto-submits at 00:00, skip/flag/jump between items, full review at the end.
-- **470 questions** in four domains (Mathematics and Logic, Physics and Circuits, Technical Knowledge, Abstract Reasoning). All are solvable without a calculator.
+- **Dagitab:** 470 questions in four domains (Mathematics and Logic, Physics and Circuits, Technical Knowledge, Abstract Reasoning). All are solvable without a calculator.
+- **Biology:** 280 questions, 70 per grade (Grades 7 to 10), practice by grade and topic.
 - Static site: no backend, no accounts, no cookies, no localStorage. Every visit starts fresh.
 
 Built with [Vite](https://vite.dev) and plain JavaScript (no framework), with [KaTeX](https://katex.org) for math.
@@ -34,7 +42,7 @@ Other commands:
 | `npm run check` | Runs `validate` and then `verify` |
 
 While `npm run dev` is running, open **http://localhost:5173/dev/preview.html** to see every question with its
-answer and explanation. You can filter it: `?d=physics-circuits`, `?s=Geometry`, or `?id=ML-GEO` (id prefix).
+answer and explanation. You can filter it: `?d=physics-circuits`, `?d=grade-7`, `?s=Geometry`, or `?id=ML-GEO` (id prefix).
 This page is for checking questions only and is **not** included in the deployed site.
 
 ---
@@ -61,39 +69,51 @@ vercel --prod   # deploys to your production URL
 
 ---
 
-## Change the mock exam split
+## Subjects and the mock exam split
 
-Open `src/config.js`:
+Every subject (tab) is listed in `SUBJECTS` in `src/config.js`. The first one opens at `/`; the others open at
+`/#<id>`, so you can share a link straight to one subject. A subject gets a Mock Exam only if it has a `mock` entry:
 
 ```js
-export const MOCK_SPLIT = {
-  'math-logic': 13,
-  'physics-circuits': 13,
-  'technical-knowledge': 12,
-  'abstract-reasoning': 12,
-};
-export const MOCK_TOTAL = 50;
-export const MOCK_MINUTES = 60;
-export const PASS_RATE = 0.6;
+mock: {
+  split: {
+    'math-logic': 13,
+    'physics-circuits': 13,
+    'technical-knowledge': 12,
+    'abstract-reasoning': 12,
+  },
+  total: 50,
+  minutes: 60,
+},
 ```
 
-The four numbers must add up to `MOCK_TOTAL`, and no domain can ask for more items than it has.
+The split must add up to `total`, and no domain can ask for more items than it has.
 `npm run validate` checks both. Within each domain, the mock exam spreads its items across the subtopics.
 
 ---
 
+## Add a new subject
+
+1. Make a folder `src/data/<id>/` (for example `src/data/chemistry/`).
+2. Put one JSON file per domain in it (a domain is one group of questions, such as a grade level).
+3. Add `src/data/<id>/subtopics.json` listing each domain: `id` (unique across all subjects), `name`, `short`,
+   `file`, `idPrefix`, and its `subtopics`. Copy `src/data/biology/subtopics.json` as a starting point.
+4. Add an entry to `SUBJECTS` in `src/config.js` with the same `id`.
+5. Run `npm run check`.
+
 ## Add or edit questions
 
-Questions live in `src/data/`, one JSON file per domain:
+Questions live in `src/data/<subject>/`, one JSON file per domain:
 
 | File | Domain | id prefix |
 | --- | --- | --- |
-| `math-logic.json` | Mathematics and Logic | `ML` |
-| `physics-circuits.json` | Physics and Circuits | `PC` |
-| `technical-knowledge.json` | Technical Knowledge | `TK` |
-| `abstract-reasoning.json` | Abstract Reasoning | `AR` |
+| `dagitab/math-logic.json` | Mathematics and Logic | `ML` |
+| `dagitab/physics-circuits.json` | Physics and Circuits | `PC` |
+| `dagitab/technical-knowledge.json` | Technical Knowledge | `TK` |
+| `dagitab/abstract-reasoning.json` | Abstract Reasoning | `AR` |
+| `biology/grade-7.json` ... `grade-10.json` | Grade 7 to Grade 10 | `G7` ... `G10` |
 
-The list of subtopics for each domain is in `src/data/subtopics.json`. A question's `subtopic` must match one of them exactly.
+The list of subtopics for each domain is in the subject's `subtopics.json`. A question's `subtopic` must match one of them exactly.
 
 ### Question format
 
@@ -143,7 +163,7 @@ Because of this:
 - A literal dollar sign is `\\$`. Keep the peso sign `₱` **outside** math (KaTeX cannot draw it).
 - Text formatting outside math: `**bold**` and `` `code` ``.
 - Do not use em dashes (the validator checks).
-- Students may **not** use calculators: keep numbers friendly (exact trig angles, perfect squares, simple fractions).
+- Dagitab students may **not** use calculators: keep numbers friendly (exact trig angles, perfect squares, simple fractions).
 
 ### Figures
 
@@ -191,7 +211,8 @@ Fix every `ERROR`, then open the preview page (`/dev/preview.html`) to look at y
 - every SVG/table is well-formed and uses only allowed tags and attributes;
 - no em dashes appear in questions or in the site's code;
 - explanations never point to a choice by position, and no "of the above" choices exist;
-- the mock exam split adds up and fits the bank.
+- every domain id is unique across subjects;
+- each mock exam split adds up and fits the bank.
 
 It also prints how many items each subtopic and difficulty level has.
 
@@ -209,7 +230,7 @@ in their current order; for a new checker you can skip the wrapper and use posit
 If you change a question's numbers or choices, update or delete its checker. Questions without a checker
 (reading passages, concepts, most abstract figures) are listed as "checked by hand".
 
-Current bank: 470 items, 333 with computed checks.
+Current bank: 750 items (470 Dagitab, 280 Biology), 333 with computed checks.
 
 ---
 
@@ -218,9 +239,9 @@ Current bank: 470 items, 333 with computed checks.
 ```
 index.html              page shell (header, footer, dialog)
 src/
-  config.js             mock exam split, time limit, passing rate
-  main.js               starts the app
-  data/                 question bank (JSON) and subtopic list
+  config.js             subjects (tabs), mock exam split, time limit, passing rate
+  main.js               starts the app and switches subject tabs
+  data/<subject>/       question bank (JSON) and subtopic list for each subject
   lib/                  rendering (KaTeX + figures), shuffling, sessions, timer
   screens/              home, practice, mock exam, and results screens
   styles/main.css       all styles (mobile first, light and dark mode)

@@ -1,0 +1,56 @@
+{
+  "domains": [
+    {
+      "id": "grade-7",
+      "name": "Grade 7",
+      "short": "Grade 7",
+      "file": "grade-7.json",
+      "idPrefix": "G7",
+      "subtopics": [
+        "Science equipment: the compound microscope",
+        "Plant and animal cells",
+        "Cellular reproduction",
+        "Levels of biological organization",
+        "Trophic levels and the transfer of energy"
+      ]
+    },
+    {
+      "id": "grade-8",
+      "name": "Grade 8",
+      "short": "Grade 8",
+      "file": "grade-8.json",
+      "idPrefix": "G8",
+      "subtopics": [
+        "Organ systems working together",
+        "Heredity",
+        "Taxonomic classification",
+        "Photosynthesis, respiration, and cycles in nature"
+      ]
+    },
+    {
+      "id": "grade-9",
+      "name": "Grade 9",
+      "short": "Grade 9",
+      "file": "grade-9.json",
+      "idPrefix": "G9",
+      "subtopics": [
+        "DNA replication and mutations",
+        "Biodiversity and endangered species",
+        "Types of ecosystems in the Philippines"
+      ]
+    },
+    {
+      "id": "grade-10",
+      "name": "Grade 10",
+      "short": "Grade 10",
+      "file": "grade-10.json",
+      "idPrefix": "G10",
+      "subtopics": [
+        "Homeostasis",
+        "Mechanisms of evolution",
+        "Biotechnology",
+        "Ecosystem's carrying capacity and population growth"
+      ]
+    }
+  ]
+}

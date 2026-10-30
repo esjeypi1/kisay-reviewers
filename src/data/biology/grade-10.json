@@ -1,0 +1,1134 @@
+[
+  {
+    "id": "G10-HOM-001",
+    "domain": "grade-10",
+    "subtopic": "Homeostasis",
+    "difficulty": "easy",
+    "question": "What is homeostasis?",
+    "choices": [
+      "The process of producing offspring",
+      "The process of keeping the body's internal conditions stable",
+      "The process of breaking down food into nutrients",
+      "The process of changing a species over many generations"
+    ],
+    "answerIndex": 1,
+    "explanation": "**Homeostasis** is the maintenance of a **stable internal environment** (body temperature, blood glucose, water balance, and so on) even when outside conditions change.",
+    "verified": true
+  },
+  {
+    "id": "G10-HOM-002",
+    "domain": "grade-10",
+    "subtopic": "Homeostasis",
+    "difficulty": "easy",
+    "question": "What is the normal internal body temperature of a healthy human?",
+    "choices": [
+      "About 37 °C",
+      "About 25 °C",
+      "About 42 °C",
+      "About 100 °C"
+    ],
+    "answerIndex": 0,
+    "explanation": "Normal human body temperature is about **37 °C**. Homeostasis keeps it close to this value; 42 °C would be a dangerous fever, and 100 °C is the boiling point of water.",
+    "verified": true
+  },
+  {
+    "id": "G10-HOM-003",
+    "domain": "grade-10",
+    "subtopic": "Homeostasis",
+    "difficulty": "easy",
+    "question": "Which hormone, produced by the pancreas, lowers blood glucose levels?",
+    "choices": [
+      "Glucagon",
+      "Adrenaline",
+      "Oxytocin",
+      "Insulin"
+    ],
+    "answerIndex": 3,
+    "explanation": "**Insulin** signals body cells to take in glucose and the liver to store it, lowering blood glucose. **Glucagon** does the opposite, raising blood glucose.",
+    "verified": true
+  },
+  {
+    "id": "G10-HOM-004",
+    "domain": "grade-10",
+    "subtopic": "Homeostasis",
+    "difficulty": "easy",
+    "question": "Which response helps cool the body when it becomes too hot?",
+    "choices": [
+      "Shivering",
+      "Sweating",
+      "Narrowing of skin blood vessels",
+      "Goosebumps"
+    ],
+    "answerIndex": 1,
+    "explanation": "**Sweating** cools the body because heat is used to evaporate sweat from the skin. Shivering, narrowing of skin blood vessels, and goosebumps are responses to **cold**.",
+    "verified": true
+  },
+  {
+    "id": "G10-HOM-005",
+    "domain": "grade-10",
+    "subtopic": "Homeostasis",
+    "difficulty": "easy",
+    "question": "Which organs play the main role in controlling the amount of water in the body?",
+    "choices": [
+      "Lungs",
+      "Kidneys",
+      "Stomach",
+      "Heart"
+    ],
+    "answerIndex": 1,
+    "explanation": "The **kidneys** adjust how much water is reabsorbed into the blood and how much leaves as urine, keeping the body's water balance stable.",
+    "verified": true
+  },
+  {
+    "id": "G10-HOM-006",
+    "domain": "grade-10",
+    "subtopic": "Homeostasis",
+    "difficulty": "easy",
+    "question": "Which part of the brain acts as the body's thermostat?",
+    "choices": [
+      "Cerebellum",
+      "Medulla oblongata",
+      "Cerebrum",
+      "Hypothalamus"
+    ],
+    "answerIndex": 3,
+    "explanation": "The **hypothalamus** monitors blood temperature and triggers responses such as sweating or shivering. The cerebellum coordinates balance, and the medulla controls breathing and heart rate.",
+    "verified": true
+  },
+  {
+    "id": "G10-HOM-007",
+    "domain": "grade-10",
+    "subtopic": "Homeostasis",
+    "difficulty": "easy",
+    "question": "Why do people shiver when they are very cold?",
+    "choices": [
+      "Rapid muscle contractions produce heat",
+      "Shivering releases sweat to warm the skin",
+      "Shivering lowers the heart rate to save energy",
+      "Shivering opens the blood vessels in the skin"
+    ],
+    "answerIndex": 0,
+    "explanation": "**Shivering** is fast, involuntary muscle contraction. The extra **cellular respiration** in the muscles releases **heat**, raising body temperature.",
+    "verified": true
+  },
+  {
+    "id": "G10-HOM-008",
+    "domain": "grade-10",
+    "subtopic": "Homeostasis",
+    "difficulty": "medium",
+    "question": "The diagram shows how the body responds when its temperature rises. What is the most likely effector response at X?",
+    "figure": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 420 185\" width=\"420\" height=\"185\" role=\"img\" aria-label=\"A feedback loop for body temperature with five boxes connected by arrows. The effector response is labeled X.\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"10\" y=\"10\" width=\"120\" height=\"54\" rx=\"6\" fill=\"currentColor\" fill-opacity=\"0.08\"/><text x=\"70.0\" y=\"34.35\" font-size=\"11\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\">Body temperature</text><text x=\"70.0\" y=\"47.35\" font-size=\"11\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\">rises above 37 °C</text><rect x=\"150\" y=\"10\" width=\"120\" height=\"54\" rx=\"6\" fill=\"currentColor\" fill-opacity=\"0.08\"/><text x=\"210.0\" y=\"34.35\" font-size=\"11\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\">Receptors in</text><text x=\"210.0\" y=\"47.35\" font-size=\"11\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\">skin and brain</text><rect x=\"290\" y=\"10\" width=\"120\" height=\"54\" rx=\"6\" fill=\"currentColor\" fill-opacity=\"0.08\"/><text x=\"350.0\" y=\"34.35\" font-size=\"11\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\">Control center</text><text x=\"350.0\" y=\"47.35\" font-size=\"11\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\">in the brain</text><rect x=\"290\" y=\"120\" width=\"120\" height=\"54\" rx=\"6\" fill=\"currentColor\" fill-opacity=\"0.08\"/><text x=\"350.0\" y=\"144.35\" font-size=\"11\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\">Effectors</text><text x=\"350.0\" y=\"157.35\" font-size=\"11\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\">respond: X</text><rect x=\"10\" y=\"120\" width=\"120\" height=\"54\" rx=\"6\" fill=\"currentColor\" fill-opacity=\"0.08\"/><text x=\"70.0\" y=\"144.35\" font-size=\"11\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\">Body temperature</text><text x=\"70.0\" y=\"157.35\" font-size=\"11\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\">returns to 37 °C</text><line x1=\"131\" y1=\"37\" x2=\"142.0\" y2=\"37.0\"/><polygon points=\"149,37 142.0,33.5 142.0,40.5\" fill=\"currentColor\" stroke=\"none\"/><line x1=\"271\" y1=\"37\" x2=\"282.0\" y2=\"37.0\"/><polygon points=\"289,37 282.0,33.5 282.0,40.5\" fill=\"currentColor\" stroke=\"none\"/><line x1=\"350\" y1=\"65\" x2=\"350.0\" y2=\"112.0\"/><polygon points=\"350,119 353.5,112.0 346.5,112.0\" fill=\"currentColor\" stroke=\"none\"/><line x1=\"289\" y1=\"147\" x2=\"138.0\" y2=\"147.0\"/><polygon points=\"131,147 138.0,150.5 138.0,143.5\" fill=\"currentColor\" stroke=\"none\"/><line x1=\"70\" y1=\"119\" x2=\"70.0\" y2=\"73.0\" stroke-dasharray=\"4 3\"/><polygon points=\"70,66 66.5,73.0 73.5,73.0\" fill=\"currentColor\" stroke=\"none\"/></svg>",
+    "choices": [
+      "Skeletal muscles shiver and blood vessels in the skin narrow",
+      "The pancreas releases insulin into the blood",
+      "The kidneys stop producing urine",
+      "Sweat glands release sweat and blood vessels in the skin widen"
+    ],
+    "answerIndex": 3,
+    "explanation": "When temperature rises, the control center signals **sweat glands** to release sweat and **skin blood vessels to widen (vasodilation)**, which sends more warm blood to the skin to lose heat. Shivering and vessel narrowing are responses to cold. The loop brings temperature back to the set point, which is **negative feedback**.",
+    "verified": true
+  },
+  {
+    "id": "G10-HOM-009",
+    "domain": "grade-10",
+    "subtopic": "Homeostasis",
+    "difficulty": "medium",
+    "question": "The graph shows a person's blood glucose after a meal. Which hormone is mainly responsible for the decrease after point P?",
+    "figure": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 380 205\" width=\"380\" height=\"205\" role=\"img\" aria-label=\"A line graph of blood glucose over four hours after a meal. The highest point is labeled P.\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"55\" y1=\"170\" x2=\"348.0\" y2=\"170.0\"/><polygon points=\"355,170 348.0,166.5 348.0,173.5\" fill=\"currentColor\" stroke=\"none\"/><line x1=\"55\" y1=\"170\" x2=\"55.0\" y2=\"32.0\"/><polygon points=\"55,25 51.5,32.0 58.5,32.0\" fill=\"currentColor\" stroke=\"none\"/><text x=\"205.0\" y=\"199\" font-size=\"11\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\">Time after a meal (hours)</text><text x=\"21\" y=\"97.5\" font-size=\"11\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\" transform=\"rotate(-90 21 97.5)\">Blood glucose (mg/dL)</text><line x1=\"51\" y1=\"126.25\" x2=\"55\" y2=\"126.25\" stroke-width=\"1\"/><text x=\"47\" y=\"130.25\" font-size=\"10\" text-anchor=\"end\" fill=\"currentColor\" stroke=\"none\">50</text><line x1=\"51\" y1=\"82.5\" x2=\"55\" y2=\"82.5\" stroke-width=\"1\"/><text x=\"47\" y=\"86.5\" font-size=\"10\" text-anchor=\"end\" fill=\"currentColor\" stroke=\"none\">100</text><line x1=\"51\" y1=\"38.75\" x2=\"55\" y2=\"38.75\" stroke-width=\"1\"/><text x=\"47\" y=\"42.75\" font-size=\"10\" text-anchor=\"end\" fill=\"currentColor\" stroke=\"none\">150</text><line x1=\"75\" y1=\"170\" x2=\"75\" y2=\"174\" stroke-width=\"1\"/><text x=\"75\" y=\"185\" font-size=\"10\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\">0</text><line x1=\"140\" y1=\"170\" x2=\"140\" y2=\"174\" stroke-width=\"1\"/><text x=\"140\" y=\"185\" font-size=\"10\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\">1</text><line x1=\"205\" y1=\"170\" x2=\"205\" y2=\"174\" stroke-width=\"1\"/><text x=\"205\" y=\"185\" font-size=\"10\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\">2</text><line x1=\"270\" y1=\"170\" x2=\"270\" y2=\"174\" stroke-width=\"1\"/><text x=\"270\" y=\"185\" font-size=\"10\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\">3</text><line x1=\"335\" y1=\"170\" x2=\"335\" y2=\"174\" stroke-width=\"1\"/><text x=\"335\" y=\"185\" font-size=\"10\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\">4</text><polyline points=\"75,91.2 107.5,56.2 140,38.8 172.5,56.2 205,73.8 237.5,84.2 270,89.5 302.5,91.2 335,91.2\" stroke-width=\"2\"/><circle cx=\"140\" cy=\"38.8\" r=\"3.5\" fill=\"currentColor\" fill-opacity=\"1\"/><text x=\"140\" y=\"29.799999999999997\" font-size=\"13\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\" font-weight=\"bold\">P</text></svg>",
+    "choices": [
+      "Glucagon",
+      "Antidiuretic hormone",
+      "Oxytocin",
+      "Insulin"
+    ],
+    "answerIndex": 3,
+    "explanation": "After a meal, glucose from digestion enters the blood and reaches a peak at **P**. The pancreas releases **insulin**, which helps cells take in glucose and the liver store it, so the level returns to normal. Glucagon raises glucose; ADH controls water balance.",
+    "verified": true
+  },
+  {
+    "id": "G10-HOM-010",
+    "domain": "grade-10",
+    "subtopic": "Homeostasis",
+    "difficulty": "medium",
+    "question": "The diagram shows events during childbirth. What type of feedback does it show?",
+    "figure": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 400 175\" width=\"400\" height=\"175\" role=\"img\" aria-label=\"A loop of four boxes connected by arrows describing events during childbirth.\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"20\" y=\"15\" width=\"150\" height=\"50\" rx=\"6\" fill=\"currentColor\" fill-opacity=\"0.08\"/><text x=\"95.0\" y=\"37.35\" font-size=\"11\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\">Baby's head pushes</text><text x=\"95.0\" y=\"50.35\" font-size=\"11\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\">against the cervix</text><rect x=\"230\" y=\"15\" width=\"150\" height=\"50\" rx=\"6\" fill=\"currentColor\" fill-opacity=\"0.08\"/><text x=\"305.0\" y=\"37.35\" font-size=\"11\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\">Nerve signals</text><text x=\"305.0\" y=\"50.35\" font-size=\"11\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\">sent to the brain</text><rect x=\"230\" y=\"115\" width=\"150\" height=\"50\" rx=\"6\" fill=\"currentColor\" fill-opacity=\"0.08\"/><text x=\"305.0\" y=\"137.35\" font-size=\"11\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\">Hormone oxytocin</text><text x=\"305.0\" y=\"150.35\" font-size=\"11\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\">is released</text><rect x=\"20\" y=\"115\" width=\"150\" height=\"50\" rx=\"6\" fill=\"currentColor\" fill-opacity=\"0.08\"/><text x=\"95.0\" y=\"137.35\" font-size=\"11\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\">Uterus contracts</text><text x=\"95.0\" y=\"150.35\" font-size=\"11\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\">more strongly</text><line x1=\"171\" y1=\"40\" x2=\"222.0\" y2=\"40.0\"/><polygon points=\"229,40 222.0,36.5 222.0,43.5\" fill=\"currentColor\" stroke=\"none\"/><line x1=\"305\" y1=\"66\" x2=\"305.0\" y2=\"107.0\"/><polygon points=\"305,114 308.5,107.0 301.5,107.0\" fill=\"currentColor\" stroke=\"none\"/><line x1=\"229\" y1=\"140\" x2=\"178.0\" y2=\"140.0\"/><polygon points=\"171,140 178.0,143.5 178.0,136.5\" fill=\"currentColor\" stroke=\"none\"/><line x1=\"95\" y1=\"114\" x2=\"95.0\" y2=\"73.0\"/><polygon points=\"95,66 91.5,73.0 98.5,73.0\" fill=\"currentColor\" stroke=\"none\"/></svg>",
+    "choices": [
+      "Negative feedback, because the response reverses the original change",
+      "Negative feedback, because the loop keeps the uterus at a set point",
+      "Positive feedback, because the response makes the original change stronger",
+      "No feedback, because the events happen only once"
+    ],
+    "answerIndex": 2,
+    "explanation": "Each stronger contraction pushes the baby harder against the cervix, which causes **more oxytocin** and **even stronger contractions**. The response **amplifies** the stimulus, so this is **positive feedback**. It stops once the baby is born.",
+    "verified": true
+  },
+  {
+    "id": "G10-HOM-011",
+    "domain": "grade-10",
+    "subtopic": "Homeostasis",
+    "difficulty": "medium",
+    "question": "A student skips breakfast and lunch. Her blood glucose begins to fall. How does her body respond?",
+    "choices": [
+      "The pancreas releases glucagon, which signals the liver to release stored glucose",
+      "The pancreas releases more insulin, which lowers glucose further",
+      "The kidneys release glucose that was stored in the urine",
+      "The lungs absorb glucose from the air"
+    ],
+    "answerIndex": 0,
+    "explanation": "Low blood glucose triggers the pancreas to release **glucagon**. It signals the **liver** to break down stored **glycogen** into glucose and release it into the blood, raising the level back to normal.",
+    "verified": true
+  },
+  {
+    "id": "G10-HOM-012",
+    "domain": "grade-10",
+    "subtopic": "Homeostasis",
+    "difficulty": "medium",
+    "question": "After a long hike with little drinking water, a person's body is low on water. How does the body respond to conserve water?",
+    "choices": [
+      "More antidiuretic hormone (ADH) is released, so the kidneys reabsorb more water and produce less urine",
+      "Less ADH is released, so the kidneys produce more dilute urine",
+      "The pancreas releases insulin to bring water into the cells",
+      "The person starts sweating more to save water"
+    ],
+    "answerIndex": 0,
+    "explanation": "When the body is dehydrated, the pituitary gland releases more **ADH**. This makes the kidneys **reabsorb more water** back into the blood, producing a **small amount of concentrated urine**. The person also feels thirsty.",
+    "verified": true
+  },
+  {
+    "id": "G10-HOM-013",
+    "domain": "grade-10",
+    "subtopic": "Homeostasis",
+    "difficulty": "medium",
+    "question": "What is the main purpose of a negative feedback mechanism in the body?",
+    "choices": [
+      "To push a condition further away from its normal level",
+      "To stop all body processes when a change occurs",
+      "To make a change happen faster and faster until it ends",
+      "To bring a condition back toward its normal set point"
+    ],
+    "answerIndex": 3,
+    "explanation": "In **negative feedback**, the response **opposes** the change. If blood glucose or temperature goes up, the response brings it down, and vice versa, keeping conditions **near the set point**. Amplifying a change is positive feedback.",
+    "verified": true
+  },
+  {
+    "id": "G10-HOM-014",
+    "domain": "grade-10",
+    "subtopic": "Homeostasis",
+    "difficulty": "medium",
+    "question": "A person's pancreas produces very little insulin. What would most likely happen to his blood glucose after a meal?",
+    "choices": [
+      "It would drop to dangerously low levels",
+      "It would stay exactly the same as before the meal",
+      "It would rise and then drop quickly to normal",
+      "It would rise and stay high for a long time"
+    ],
+    "answerIndex": 3,
+    "explanation": "Without enough **insulin**, cells cannot take in glucose efficiently and the liver does not store it, so blood glucose **stays high**. This is the main problem in **type 1 diabetes**, which is treated with insulin injections.",
+    "verified": true
+  },
+  {
+    "id": "G10-HOM-015",
+    "domain": "grade-10",
+    "subtopic": "Homeostasis",
+    "difficulty": "medium",
+    "question": "On a very cold morning, the blood vessels near the surface of the skin become narrower. How does this help the body?",
+    "choices": [
+      "More warm blood flows near the skin, so the skin warms the air",
+      "Narrow vessels produce heat as the blood squeezes through",
+      "Less warm blood flows near the skin, so less heat is lost to the air",
+      "Narrow vessels push sweat out of the skin"
+    ],
+    "answerIndex": 2,
+    "explanation": "**Vasoconstriction** reduces blood flow to the skin, keeping warm blood in the body's core and **reducing heat loss**. This is why fingers and lips may look pale in the cold.",
+    "verified": true
+  },
+  {
+    "id": "G10-HOM-016",
+    "domain": "grade-10",
+    "subtopic": "Homeostasis",
+    "difficulty": "hard",
+    "question": "During a long run on a hot day, a runner who has not been drinking water stops sweating, and her body temperature rises dangerously. Why does severe dehydration lead to this?",
+    "choices": [
+      "Dehydration makes the hypothalamus set a lower body temperature",
+      "Water in the body produces heat, so losing water causes overheating",
+      "With too little water, the body cannot make enough sweat, so the main cooling response fails",
+      "Dehydration increases insulin, which raises body temperature"
+    ],
+    "answerIndex": 2,
+    "explanation": "Sweating needs **water**. When water is critically low, the body reduces sweating to protect blood volume, so the **negative feedback** that removes heat breaks down. Temperature keeps rising, which can lead to **heat stroke**. This shows how two homeostatic systems (water balance and temperature control) depend on each other.",
+    "verified": true
+  },
+  {
+    "id": "G10-HOM-017",
+    "domain": "grade-10",
+    "subtopic": "Homeostasis",
+    "difficulty": "hard",
+    "question": "A healthy person with normal blood glucose is given an injection of glucagon. What sequence of events is most likely?",
+    "choices": [
+      "Blood glucose falls, then the pancreas releases more glucagon to raise it",
+      "Blood glucose stays the same because glucagon only works in diabetics",
+      "Blood glucose rises and stays high permanently",
+      "Blood glucose rises, then the pancreas releases insulin, which brings it back down"
+    ],
+    "answerIndex": 3,
+    "explanation": "**Glucagon** makes the liver release glucose, so blood glucose **rises above the set point**. The pancreas detects this and releases **insulin**, which lowers it again. Insulin and glucagon are **antagonistic hormones** that work together in negative feedback.",
+    "verified": true
+  },
+  {
+    "id": "G10-HOM-018",
+    "domain": "grade-10",
+    "subtopic": "Homeostasis",
+    "difficulty": "hard",
+    "question": "Why does the body use negative feedback rather than positive feedback to control body temperature?",
+    "choices": [
+      "Positive feedback only works in the digestive system",
+      "Positive feedback would keep pushing temperature further from normal instead of returning it to the set point",
+      "Negative feedback works faster because it needs no receptors",
+      "Positive feedback cannot involve the brain"
+    ],
+    "answerIndex": 1,
+    "explanation": "In **positive feedback**, a rise in temperature would trigger responses that raise it even more, leading to a dangerous runaway change. Positive feedback is only useful for processes that must be **completed quickly and then stop**, like childbirth or blood clotting. Stable conditions require **negative feedback**.",
+    "verified": true
+  },
+  {
+    "id": "G10-EVO-001",
+    "domain": "grade-10",
+    "subtopic": "Mechanisms of evolution",
+    "difficulty": "easy",
+    "question": "Who proposed the theory of evolution by natural selection?",
+    "choices": [
+      "Gregor Mendel",
+      "Charles Darwin",
+      "Jean-Baptiste Lamarck",
+      "Louis Pasteur"
+    ],
+    "answerIndex": 1,
+    "explanation": "**Charles Darwin** (with Alfred Russel Wallace, who reached similar ideas) developed the theory of **natural selection**, which Darwin published in 1859 in *On the Origin of Species*. Lamarck proposed an earlier idea, the inheritance of acquired characteristics, which is not supported.",
+    "verified": true
+  },
+  {
+    "id": "G10-EVO-002",
+    "domain": "grade-10",
+    "subtopic": "Mechanisms of evolution",
+    "difficulty": "easy",
+    "question": "What are fossils?",
+    "choices": [
+      "Living organisms that have not changed for millions of years",
+      "Rocks that form only from volcanic lava",
+      "Preserved remains or traces of organisms that lived long ago",
+      "Bones of animals that died last year"
+    ],
+    "answerIndex": 2,
+    "explanation": "**Fossils** are preserved **remains** (bones, shells) or **traces** (footprints, imprints) of ancient organisms, usually found in **sedimentary rock**. They show how life has changed over time.",
+    "verified": true
+  },
+  {
+    "id": "G10-EVO-003",
+    "domain": "grade-10",
+    "subtopic": "Mechanisms of evolution",
+    "difficulty": "easy",
+    "question": "The arm of a human, the flipper of a whale, and the wing of a bat have similar bones but different functions. What are these structures called?",
+    "choices": [
+      "Analogous structures",
+      "Vestigial structures",
+      "Homologous structures",
+      "Embryonic structures"
+    ],
+    "answerIndex": 2,
+    "explanation": "**Homologous structures** have the **same basic bone pattern** because the organisms share a **common ancestor**, even though they are used differently. Analogous structures have similar functions but different origins.",
+    "verified": true
+  },
+  {
+    "id": "G10-EVO-004",
+    "domain": "grade-10",
+    "subtopic": "Mechanisms of evolution",
+    "difficulty": "easy",
+    "question": "Which human body part is often given as an example of a vestigial structure?",
+    "choices": [
+      "Heart",
+      "Lungs",
+      "Kidneys",
+      "Tailbone (coccyx)"
+    ],
+    "answerIndex": 3,
+    "explanation": "**Vestigial structures** are reduced parts that had a function in ancestors but have little or no use now. The human **tailbone** is a remnant of a tail. The heart, lungs, and kidneys are fully functional organs.",
+    "verified": true
+  },
+  {
+    "id": "G10-EVO-005",
+    "domain": "grade-10",
+    "subtopic": "Mechanisms of evolution",
+    "difficulty": "easy",
+    "question": "What is the original source of new genetic variation in a population?",
+    "choices": [
+      "Natural selection",
+      "Mutation",
+      "Carrying capacity",
+      "Photosynthesis"
+    ],
+    "answerIndex": 1,
+    "explanation": "**Mutations** create **new alleles**. Sexual reproduction shuffles existing alleles, and **natural selection** acts on the variation already present; it does not create new alleles.",
+    "verified": true
+  },
+  {
+    "id": "G10-EVO-006",
+    "domain": "grade-10",
+    "subtopic": "Mechanisms of evolution",
+    "difficulty": "easy",
+    "question": "What is an adaptation?",
+    "choices": [
+      "A change an organism makes during its life by practicing a skill",
+      "An inherited trait that helps an organism survive and reproduce in its environment",
+      "Any trait that an organism learns from its parents",
+      "A trait that always makes an organism larger"
+    ],
+    "answerIndex": 1,
+    "explanation": "An **adaptation** is an **inherited** characteristic that increases survival and reproduction, such as the thick fur of polar animals. Skills learned or practiced during a lifetime are not passed on genetically.",
+    "verified": true
+  },
+  {
+    "id": "G10-EVO-007",
+    "domain": "grade-10",
+    "subtopic": "Mechanisms of evolution",
+    "difficulty": "easy",
+    "question": "Darwin studied finches with different beak shapes on which group of islands?",
+    "choices": [
+      "Philippine Islands",
+      "Hawaiian Islands",
+      "Galápagos Islands",
+      "Canary Islands"
+    ],
+    "answerIndex": 2,
+    "explanation": "On the **Galápagos Islands**, Darwin noticed that finches on different islands had beaks suited to different foods. This helped him develop the idea that species change to fit their environments.",
+    "verified": true
+  },
+  {
+    "id": "G10-EVO-008",
+    "domain": "grade-10",
+    "subtopic": "Mechanisms of evolution",
+    "difficulty": "medium",
+    "question": "A beetle population lives on brown soil, and birds hunt the beetles by sight. The graph shows the percentages of green and brown beetles over 10 generations. Which explanation is best?",
+    "figure": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 380 205\" width=\"380\" height=\"205\" role=\"img\" aria-label=\"A bar graph showing the percent of green and brown beetles in a population at generations 1, 5, and 10.\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"55\" y1=\"170\" x2=\"348.0\" y2=\"170.0\"/><polygon points=\"355,170 348.0,166.5 348.0,173.5\" fill=\"currentColor\" stroke=\"none\"/><line x1=\"55\" y1=\"170\" x2=\"55.0\" y2=\"37.0\"/><polygon points=\"55,30 51.5,37.0 58.5,37.0\" fill=\"currentColor\" stroke=\"none\"/><text x=\"205.0\" y=\"199\" font-size=\"11\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\">Generation</text><text x=\"21\" y=\"100.0\" font-size=\"11\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\" transform=\"rotate(-90 21 100.0)\">Percent of population</text><line x1=\"51\" y1=\"170.0\" x2=\"55\" y2=\"170.0\" stroke-width=\"1\"/><text x=\"47\" y=\"174.0\" font-size=\"10\" text-anchor=\"end\" fill=\"currentColor\" stroke=\"none\">0</text><line x1=\"51\" y1=\"105.0\" x2=\"55\" y2=\"105.0\" stroke-width=\"1\"/><text x=\"47\" y=\"109.0\" font-size=\"10\" text-anchor=\"end\" fill=\"currentColor\" stroke=\"none\">50</text><line x1=\"51\" y1=\"40.0\" x2=\"55\" y2=\"40.0\" stroke-width=\"1\"/><text x=\"47\" y=\"44.0\" font-size=\"10\" text-anchor=\"end\" fill=\"currentColor\" stroke=\"none\">100</text><rect x=\"85\" y=\"105.0\" width=\"30\" height=\"65.0\" fill=\"currentColor\" fill-opacity=\"0.1\"/><rect x=\"117\" y=\"105.0\" width=\"30\" height=\"65.0\" fill=\"currentColor\" fill-opacity=\"0.5\"/><text x=\"116\" y=\"184\" font-size=\"11\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\">1</text><rect x=\"175\" y=\"131.0\" width=\"30\" height=\"39.0\" fill=\"currentColor\" fill-opacity=\"0.1\"/><rect x=\"207\" y=\"79.0\" width=\"30\" height=\"91.0\" fill=\"currentColor\" fill-opacity=\"0.5\"/><text x=\"206\" y=\"184\" font-size=\"11\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\">5</text><rect x=\"265\" y=\"157.0\" width=\"30\" height=\"13.0\" fill=\"currentColor\" fill-opacity=\"0.1\"/><rect x=\"297\" y=\"53.0\" width=\"30\" height=\"117.0\" fill=\"currentColor\" fill-opacity=\"0.5\"/><text x=\"296\" y=\"184\" font-size=\"11\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\">10</text><rect x=\"255\" y=\"18\" width=\"12\" height=\"12\" fill=\"currentColor\" fill-opacity=\"0.1\"/><text x=\"272\" y=\"28\" font-size=\"10\" text-anchor=\"start\" fill=\"currentColor\" stroke=\"none\">green beetles</text><rect x=\"255\" y=\"36\" width=\"12\" height=\"12\" fill=\"currentColor\" fill-opacity=\"0.5\"/><text x=\"272\" y=\"46\" font-size=\"10\" text-anchor=\"start\" fill=\"currentColor\" stroke=\"none\">brown beetles</text></svg>",
+    "choices": [
+      "Green beetles turned brown because they wanted to hide from birds",
+      "Birds found green beetles more easily, so brown beetles survived and reproduced more",
+      "The soil changed the color of the beetles' shells as they grew",
+      "Brown beetles produced more offspring because they ate more soil"
+    ],
+    "answerIndex": 1,
+    "explanation": "Green beetles **stand out** on brown soil, so birds eat more of them. Brown beetles **survive longer and reproduce more**, passing on the brown-color alleles. Over generations, brown beetles become more common. This is **natural selection**. Individuals cannot change their inherited color by wanting to.",
+    "verified": true
+  },
+  {
+    "id": "G10-EVO-009",
+    "domain": "grade-10",
+    "subtopic": "Mechanisms of evolution",
+    "difficulty": "medium",
+    "question": "Based on the tree diagram, which two species share the most recent common ancestor?",
+    "figure": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 380 200\" width=\"380\" height=\"200\" role=\"img\" aria-label=\"A branching tree diagram showing how four species, A, B, C, and D, are related through common ancestors.\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"60\" y1=\"30\" x2=\"60\" y2=\"160\"/><line x1=\"150\" y1=\"30\" x2=\"150\" y2=\"120\"/><line x1=\"240\" y1=\"30\" x2=\"240\" y2=\"80\"/><line x1=\"330\" y1=\"30\" x2=\"330\" y2=\"80\"/><line x1=\"240\" y1=\"80\" x2=\"330\" y2=\"80\"/><line x1=\"285\" y1=\"80\" x2=\"285\" y2=\"120\"/><line x1=\"150\" y1=\"120\" x2=\"285\" y2=\"120\"/><line x1=\"217\" y1=\"120\" x2=\"217\" y2=\"160\"/><line x1=\"60\" y1=\"160\" x2=\"217\" y2=\"160\"/><line x1=\"138\" y1=\"160\" x2=\"138\" y2=\"190\"/><text x=\"60\" y=\"22\" font-size=\"11\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\" font-weight=\"bold\">Species D</text><text x=\"150\" y=\"22\" font-size=\"11\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\" font-weight=\"bold\">Species A</text><text x=\"240\" y=\"22\" font-size=\"11\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\" font-weight=\"bold\">Species B</text><text x=\"330\" y=\"22\" font-size=\"11\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\" font-weight=\"bold\">Species C</text></svg>",
+    "choices": [
+      "Species A and species B",
+      "Species A and species D",
+      "Species B and species C",
+      "Species C and species D"
+    ],
+    "answerIndex": 2,
+    "explanation": "Species **B and C** branch from the **same point closest to the tips**, so they share the most recent common ancestor. Species A joins them at an older branch point, and species D branched off earliest.",
+    "verified": true
+  },
+  {
+    "id": "G10-EVO-010",
+    "domain": "grade-10",
+    "subtopic": "Mechanisms of evolution",
+    "difficulty": "medium",
+    "question": "The diagram shows undisturbed layers of sedimentary rock, each with a different fossil. Which layer contains the oldest fossils?",
+    "figure": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 280 200\" width=\"280\" height=\"200\" role=\"img\" aria-label=\"Four horizontal rock layers labeled I to IV from top to bottom, each containing a different fossil.\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"40\" y=\"15\" width=\"220\" height=\"45\" fill=\"currentColor\" fill-opacity=\"0.05\"/><text x=\"25\" y=\"43\" font-size=\"13\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\" font-weight=\"bold\">I</text><rect x=\"40\" y=\"60\" width=\"220\" height=\"45\" fill=\"currentColor\" fill-opacity=\"0.12000000000000001\"/><text x=\"25\" y=\"88\" font-size=\"13\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\" font-weight=\"bold\">II</text><rect x=\"40\" y=\"105\" width=\"220\" height=\"45\" fill=\"currentColor\" fill-opacity=\"0.19\"/><text x=\"25\" y=\"133\" font-size=\"13\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\" font-weight=\"bold\">III</text><rect x=\"40\" y=\"150\" width=\"220\" height=\"45\" fill=\"currentColor\" fill-opacity=\"0.26\"/><text x=\"25\" y=\"178\" font-size=\"13\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\" font-weight=\"bold\">IV</text><ellipse cx=\"150\" cy=\"37\" rx=\"22\" ry=\"9\" fill=\"currentColor\" fill-opacity=\"0.2\"/><line x1=\"128\" y1=\"37\" x2=\"172\" y2=\"37\" stroke-width=\"1\"/><ellipse cx=\"145\" cy=\"82\" rx=\"20\" ry=\"9\" fill=\"currentColor\" fill-opacity=\"0.2\"/><polygon points=\"165,82 178,74 178,90\" fill=\"currentColor\" fill-opacity=\"0.2\"/><line x1=\"138\" y1=\"75\" x2=\"138\" y2=\"89\" stroke-width=\"1\"/><line x1=\"145\" y1=\"75\" x2=\"145\" y2=\"89\" stroke-width=\"1\"/><line x1=\"152\" y1=\"75\" x2=\"152\" y2=\"89\" stroke-width=\"1\"/><path d=\"M150 127 m-2 0 a2 2 0 1 1 4 0 a6 6 0 1 1 -12 0 a10 10 0 1 1 20 0 a14 14 0 1 1 -28 0\" stroke-width=\"1.5\"/><ellipse cx=\"150\" cy=\"172\" rx=\"16\" ry=\"13\" fill=\"currentColor\" fill-opacity=\"0.2\"/><line x1=\"136\" y1=\"166\" x2=\"164\" y2=\"166\" stroke-width=\"1\"/><line x1=\"136\" y1=\"172\" x2=\"164\" y2=\"172\" stroke-width=\"1\"/><line x1=\"136\" y1=\"178\" x2=\"164\" y2=\"178\" stroke-width=\"1\"/><line x1=\"150\" y1=\"159\" x2=\"150\" y2=\"185\" stroke-width=\"1\"/></svg>",
+    "choices": [
+      "I",
+      "II",
+      "III",
+      "IV"
+    ],
+    "answerIndex": 3,
+    "explanation": "Sedimentary layers form **one on top of another**, so in undisturbed rock the **bottom layer (IV)** formed first and holds the **oldest** fossils. Layer I, at the top, is the youngest.",
+    "verified": true
+  },
+  {
+    "id": "G10-EVO-011",
+    "domain": "grade-10",
+    "subtopic": "Mechanisms of evolution",
+    "difficulty": "medium",
+    "question": "A patient stops taking antibiotics as soon as she feels better. Later, her infection returns and the antibiotic no longer works. Which explanation is based on natural selection?",
+    "choices": [
+      "The antibiotic killed the most sensitive bacteria, and the surviving resistant bacteria multiplied",
+      "The bacteria learned how to resist the antibiotic after being exposed to it",
+      "The antibiotic turned the bacteria into a different species",
+      "The patient's body became resistant to the antibiotic"
+    ],
+    "answerIndex": 0,
+    "explanation": "A bacterial population already contains **variation**: a few bacteria may carry genes that help them survive. Stopping the medicine early leaves these **resistant survivors**, which reproduce and pass on resistance. The bacteria did not choose or learn to resist.",
+    "verified": true
+  },
+  {
+    "id": "G10-EVO-012",
+    "domain": "grade-10",
+    "subtopic": "Mechanisms of evolution",
+    "difficulty": "medium",
+    "question": "How would Darwin's theory of natural selection explain the long necks of giraffes?",
+    "choices": [
+      "Giraffes with longer necks reached more food, survived, and passed the trait to their offspring",
+      "Giraffes stretched their necks to reach leaves, and their offspring inherited the stretched necks",
+      "Giraffes grew long necks because they needed them",
+      "All early giraffes had equally long necks"
+    ],
+    "answerIndex": 0,
+    "explanation": "In natural selection, **individuals already varied** in neck length. Those with longer necks got more food in times of shortage, **survived and reproduced more**, and passed on the trait. The idea that stretching changes offspring is **Lamarck's** inheritance of acquired characteristics, which is not supported.",
+    "verified": true
+  },
+  {
+    "id": "G10-EVO-013",
+    "domain": "grade-10",
+    "subtopic": "Mechanisms of evolution",
+    "difficulty": "medium",
+    "question": "A strong typhoon hits a small island and randomly kills most of a lizard population, regardless of their traits. The few survivors happen to carry mostly one color allele. Which mechanism of evolution does this describe?",
+    "choices": [
+      "Natural selection",
+      "Gene flow",
+      "Genetic drift",
+      "Artificial selection"
+    ],
+    "answerIndex": 2,
+    "explanation": "**Genetic drift** is a change in allele frequencies due to **chance events**, not because certain traits are better. Its effect is strongest in **small populations**. Natural selection would favor traits that actually help survival.",
+    "verified": true
+  },
+  {
+    "id": "G10-EVO-014",
+    "domain": "grade-10",
+    "subtopic": "Mechanisms of evolution",
+    "difficulty": "medium",
+    "question": "Birds from a mainland forest regularly fly to a nearby island and breed with the island population. Which mechanism of evolution does this describe?",
+    "choices": [
+      "Genetic drift",
+      "Mutation",
+      "Natural selection",
+      "Gene flow"
+    ],
+    "answerIndex": 3,
+    "explanation": "**Gene flow** is the movement of alleles between populations through **migration** and interbreeding. It adds new alleles to the island population and makes the two populations more similar.",
+    "verified": true
+  },
+  {
+    "id": "G10-EVO-015",
+    "domain": "grade-10",
+    "subtopic": "Mechanisms of evolution",
+    "difficulty": "medium",
+    "question": "Human DNA is about 98 to 99 percent identical to chimpanzee DNA and much less similar to mouse DNA. What does this evidence suggest?",
+    "choices": [
+      "Humans evolved directly from modern chimpanzees",
+      "Humans and chimpanzees share a more recent common ancestor than humans and mice do",
+      "Mice are more closely related to humans than chimpanzees are",
+      "DNA similarity tells us nothing about relationships"
+    ],
+    "answerIndex": 1,
+    "explanation": "The **more similar** two species' DNA is, the **more recently** they shared a common ancestor. Humans did not evolve from modern chimpanzees; both evolved from a **shared ancestor**.",
+    "verified": true
+  },
+  {
+    "id": "G10-EVO-016",
+    "domain": "grade-10",
+    "subtopic": "Mechanisms of evolution",
+    "difficulty": "hard",
+    "question": "Which pair of structures is analogous rather than homologous?",
+    "choices": [
+      "A human's arm and a bat's wing",
+      "A whale's flipper and a dog's foreleg",
+      "A bird's wing and a butterfly's wing",
+      "A chimpanzee's hand and a human's hand"
+    ],
+    "answerIndex": 2,
+    "explanation": "**Analogous structures** have the **same function** but **different structures and origins**. A bird's wing has bones; a butterfly's wing is a thin sheet of chitin with no bones. Both evolved for flight independently. The other pairs share the same bone pattern from a common ancestor, so they are **homologous**.",
+    "verified": true
+  },
+  {
+    "id": "G10-EVO-017",
+    "domain": "grade-10",
+    "subtopic": "Mechanisms of evolution",
+    "difficulty": "hard",
+    "question": "A population of 1,000 insects includes 20 that carry a pesticide-resistance allele. A pesticide kills 95% of the non-resistant insects and none of the resistant ones. About what percentage of the survivors are resistant?",
+    "choices": [
+      "About 2%",
+      "About 50%",
+      "About 29%",
+      "About 95%"
+    ],
+    "answerIndex": 2,
+    "explanation": "1. Non-resistant insects: $1{,}000 - 20 = 980$.\n2. Survivors among them: $980 \\times 0.05 = 49$.\n3. All 20 resistant insects survive.\n4. Total survivors: $49 + 20 = 69$.\n5. Percent resistant: $\\dfrac{20}{69} \\times 100 \\approx 29\\%$.\n\nIn just one generation, resistance rose from 2% to about 29%. This is how repeated spraying leads to resistant pest populations.",
+    "verified": true
+  },
+  {
+    "id": "G10-EVO-018",
+    "domain": "grade-10",
+    "subtopic": "Mechanisms of evolution",
+    "difficulty": "hard",
+    "question": "All the plants in a field are genetically identical clones. A new fungal disease appears. Why is natural selection unlikely to produce a resistant population quickly?",
+    "choices": [
+      "There is no genetic variation for natural selection to act on",
+      "Natural selection only works on animals, not plants",
+      "Clones reproduce too quickly for selection to work",
+      "The disease will make the plants develop resistance on their own"
+    ],
+    "answerIndex": 0,
+    "explanation": "Natural selection requires **inherited variation**: some individuals must already differ in a way that affects survival. In a clone population, all individuals respond the same way, so there is nothing to select. Resistance could only appear through a **new mutation**, which is rare.",
+    "verified": true
+  },
+  {
+    "id": "G10-BTEC-001",
+    "domain": "grade-10",
+    "subtopic": "Biotechnology",
+    "difficulty": "easy",
+    "question": "What is biotechnology?",
+    "choices": [
+      "The study of rocks and minerals using machines",
+      "The use of computers to design buildings",
+      "The use of living organisms or their parts to make useful products or solve problems",
+      "The process of classifying organisms into groups"
+    ],
+    "answerIndex": 2,
+    "explanation": "**Biotechnology** uses **living things** (such as bacteria, yeast, plants, or animal cells) or their parts (such as DNA or enzymes) to make products or improve processes in medicine, agriculture, and industry.",
+    "verified": true
+  },
+  {
+    "id": "G10-BTEC-002",
+    "domain": "grade-10",
+    "subtopic": "Biotechnology",
+    "difficulty": "easy",
+    "question": "Which of the following is an example of traditional biotechnology?",
+    "choices": [
+      "Inserting a human gene into bacteria",
+      "Copying DNA using PCR",
+      "Cloning a sheep from a body cell",
+      "Using yeast to make bread dough rise"
+    ],
+    "answerIndex": 3,
+    "explanation": "**Traditional biotechnology** uses whole organisms in natural processes such as **fermentation**. Yeast releases carbon dioxide that makes dough rise. The other choices are **modern** techniques that work directly with DNA or cells.",
+    "verified": true
+  },
+  {
+    "id": "G10-BTEC-003",
+    "domain": "grade-10",
+    "subtopic": "Biotechnology",
+    "difficulty": "easy",
+    "question": "What is a genetically modified organism (GMO)?",
+    "choices": [
+      "An organism that was produced by normal sexual reproduction",
+      "An organism whose DNA has been changed using genetic engineering",
+      "An organism that has been fed with chemical fertilizers",
+      "An organism that has been given vaccines"
+    ],
+    "answerIndex": 1,
+    "explanation": "A **GMO** has had its DNA **directly altered** in a laboratory, often by adding a gene from another organism. Fertilizers and vaccines do not change an organism's DNA.",
+    "verified": true
+  },
+  {
+    "id": "G10-BTEC-004",
+    "domain": "grade-10",
+    "subtopic": "Biotechnology",
+    "difficulty": "easy",
+    "question": "Much of the human insulin used by people with diabetes today is produced by which method?",
+    "choices": [
+      "Extracting insulin from the leaves of plants",
+      "Collecting insulin from seawater",
+      "Genetically engineered bacteria or yeast containing the human insulin gene",
+      "Mixing sugar and water in a laboratory"
+    ],
+    "answerIndex": 2,
+    "explanation": "Scientists insert the **human insulin gene** into bacteria or yeast. These microorganisms multiply and produce **human insulin** in large amounts. This was one of the first major uses of **recombinant DNA** technology.",
+    "verified": true
+  },
+  {
+    "id": "G10-BTEC-005",
+    "domain": "grade-10",
+    "subtopic": "Biotechnology",
+    "difficulty": "easy",
+    "question": "Dolly the sheep, born in 1996, was famous for being the first mammal to be",
+    "choices": [
+      "produced by fertilization in a test tube",
+      "born with a human gene",
+      "cloned from an adult body cell",
+      "raised without a mother"
+    ],
+    "answerIndex": 2,
+    "explanation": "Dolly was **cloned** by transferring the nucleus of an adult sheep's **body cell** into an egg cell whose nucleus had been removed. She was genetically identical to the sheep that gave the body cell.",
+    "verified": true
+  },
+  {
+    "id": "G10-BTEC-006",
+    "domain": "grade-10",
+    "subtopic": "Biotechnology",
+    "difficulty": "easy",
+    "question": "What is the main use of the polymerase chain reaction (PCR)?",
+    "choices": [
+      "To cut DNA into pieces",
+      "To change proteins into DNA",
+      "To count the cells in a sample",
+      "To make many copies of a small piece of DNA"
+    ],
+    "answerIndex": 3,
+    "explanation": "**PCR** rapidly **copies** (amplifies) a DNA segment millions of times, so tiny samples, such as from a crime scene or a virus test, can be studied. Cutting DNA is done by restriction enzymes.",
+    "verified": true
+  },
+  {
+    "id": "G10-BTEC-007",
+    "domain": "grade-10",
+    "subtopic": "Biotechnology",
+    "difficulty": "easy",
+    "question": "Bt corn contains a gene from the bacterium Bacillus thuringiensis. What does this gene allow the corn plant to do?",
+    "choices": [
+      "Grow without sunlight",
+      "Produce its own fertilizer from the air",
+      "Change color when it is ready to harvest",
+      "Produce a protein that is toxic to certain insect pests"
+    ],
+    "answerIndex": 3,
+    "explanation": "The **Bt gene** makes a protein that harms specific **insect pests** like the corn borer when they eat the plant. This can reduce the need for chemical insecticides.",
+    "verified": true
+  },
+  {
+    "id": "G10-BTEC-008",
+    "domain": "grade-10",
+    "subtopic": "Biotechnology",
+    "difficulty": "medium",
+    "question": "The diagram shows how a human gene is placed into bacteria. In Step 1, which tool cuts the plasmid at a specific DNA sequence?",
+    "figure": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 420 140\" width=\"420\" height=\"140\" role=\"img\" aria-label=\"Three steps of genetic engineering: a circular plasmid is opened, a human gene is placed into it, and the plasmid is put into a bacterium.\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"45\" cy=\"75\" r=\"28\" stroke-width=\"2.5\"/><text x=\"45\" y=\"120\" font-size=\"10\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\">plasmid</text><line x1=\"80\" y1=\"75\" x2=\"115.0\" y2=\"75.0\"/><polygon points=\"122,75 115.0,71.5 115.0,78.5\" fill=\"currentColor\" stroke=\"none\"/><text x=\"101\" y=\"64\" font-size=\"10\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\" font-weight=\"bold\">Step 1</text><path d=\"M186.3 65.4 A28 28 0 1 0 186.3 84.6\" stroke-width=\"2.5\"/><line x1=\"198\" y1=\"40\" x2=\"222\" y2=\"40\" stroke-width=\"5\"/><text x=\"210\" y=\"30\" font-size=\"10\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\">human gene</text><line x1=\"222\" y1=\"75\" x2=\"249.0\" y2=\"75.0\"/><polygon points=\"256,75 249.0,71.5 249.0,78.5\" fill=\"currentColor\" stroke=\"none\"/><text x=\"239\" y=\"64\" font-size=\"10\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\" font-weight=\"bold\">Step 2</text><circle cx=\"290\" cy=\"75\" r=\"28\" stroke-width=\"2.5\"/><path d=\"M316.3 65.4 A28 28 0 0 1 316.3 84.6\" stroke-width=\"6\"/><line x1=\"322\" y1=\"75\" x2=\"349.0\" y2=\"75.0\"/><polygon points=\"356,75 349.0,71.5 349.0,78.5\" fill=\"currentColor\" stroke=\"none\"/><text x=\"339\" y=\"64\" font-size=\"10\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\" font-weight=\"bold\">Step 3</text><rect x=\"360\" y=\"45\" width=\"55\" height=\"60\" rx=\"25\" fill=\"currentColor\" fill-opacity=\"0.05\"/><circle cx=\"387\" cy=\"75\" r=\"11\" stroke-width=\"2\"/><text x=\"387\" y=\"120\" font-size=\"10\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\">bacterium</text></svg>",
+    "choices": [
+      "Restriction enzyme",
+      "DNA ligase",
+      "Helicase",
+      "Amylase"
+    ],
+    "answerIndex": 0,
+    "explanation": "**Restriction enzymes** act like molecular scissors that cut DNA at **specific base sequences**. The same enzyme is used to cut out the human gene, so the ends match. **DNA ligase** then joins the gene into the plasmid (Step 2). Helicase unzips DNA, and amylase digests starch.",
+    "verified": true
+  },
+  {
+    "id": "G10-BTEC-009",
+    "domain": "grade-10",
+    "subtopic": "Biotechnology",
+    "difficulty": "medium",
+    "question": "The diagram shows DNA fingerprints from a crime scene and three suspects. Whose DNA matches the crime scene sample?",
+    "figure": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 340 225\" width=\"340\" height=\"225\" role=\"img\" aria-label=\"DNA fingerprints from a crime scene sample and three suspects, shown as bands in four lanes.\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"20\" y=\"15\" width=\"60\" height=\"175\" rx=\"3\" fill=\"currentColor\" fill-opacity=\"0.04\"/><rect x=\"35\" y=\"20\" width=\"30\" height=\"6\" fill=\"currentColor\" fill-opacity=\"0.4\"/><line x1=\"30\" y1=\"60\" x2=\"70\" y2=\"60\" stroke-width=\"5\"/><line x1=\"30\" y1=\"95\" x2=\"70\" y2=\"95\" stroke-width=\"5\"/><line x1=\"30\" y1=\"140\" x2=\"70\" y2=\"140\" stroke-width=\"5\"/><line x1=\"30\" y1=\"170\" x2=\"70\" y2=\"170\" stroke-width=\"5\"/><text x=\"50\" y=\"205\" font-size=\"11\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\">Crime</text><text x=\"50\" y=\"218\" font-size=\"11\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\">scene</text><rect x=\"100\" y=\"15\" width=\"60\" height=\"175\" rx=\"3\" fill=\"currentColor\" fill-opacity=\"0.04\"/><rect x=\"115\" y=\"20\" width=\"30\" height=\"6\" fill=\"currentColor\" fill-opacity=\"0.4\"/><line x1=\"110\" y1=\"50\" x2=\"150\" y2=\"50\" stroke-width=\"5\"/><line x1=\"110\" y1=\"95\" x2=\"150\" y2=\"95\" stroke-width=\"5\"/><line x1=\"110\" y1=\"125\" x2=\"150\" y2=\"125\" stroke-width=\"5\"/><line x1=\"110\" y1=\"180\" x2=\"150\" y2=\"180\" stroke-width=\"5\"/><text x=\"130\" y=\"205\" font-size=\"11\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\">Suspect</text><text x=\"130\" y=\"218\" font-size=\"11\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\">1</text><rect x=\"180\" y=\"15\" width=\"60\" height=\"175\" rx=\"3\" fill=\"currentColor\" fill-opacity=\"0.04\"/><rect x=\"195\" y=\"20\" width=\"30\" height=\"6\" fill=\"currentColor\" fill-opacity=\"0.4\"/><line x1=\"190\" y1=\"60\" x2=\"230\" y2=\"60\" stroke-width=\"5\"/><line x1=\"190\" y1=\"95\" x2=\"230\" y2=\"95\" stroke-width=\"5\"/><line x1=\"190\" y1=\"140\" x2=\"230\" y2=\"140\" stroke-width=\"5\"/><line x1=\"190\" y1=\"170\" x2=\"230\" y2=\"170\" stroke-width=\"5\"/><text x=\"210\" y=\"205\" font-size=\"11\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\">Suspect</text><text x=\"210\" y=\"218\" font-size=\"11\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\">2</text><rect x=\"260\" y=\"15\" width=\"60\" height=\"175\" rx=\"3\" fill=\"currentColor\" fill-opacity=\"0.04\"/><rect x=\"275\" y=\"20\" width=\"30\" height=\"6\" fill=\"currentColor\" fill-opacity=\"0.4\"/><line x1=\"270\" y1=\"60\" x2=\"310\" y2=\"60\" stroke-width=\"5\"/><line x1=\"270\" y1=\"110\" x2=\"310\" y2=\"110\" stroke-width=\"5\"/><line x1=\"270\" y1=\"140\" x2=\"310\" y2=\"140\" stroke-width=\"5\"/><line x1=\"270\" y1=\"160\" x2=\"310\" y2=\"160\" stroke-width=\"5\"/><text x=\"290\" y=\"205\" font-size=\"11\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\">Suspect</text><text x=\"290\" y=\"218\" font-size=\"11\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\">3</text></svg>",
+    "choices": [
+      "Suspect 1",
+      "Suspect 2",
+      "Suspect 3",
+      "Suspects 1 and 3"
+    ],
+    "answerIndex": 1,
+    "explanation": "A match requires **every band** to be in the same position. **Suspect 2's** four bands line up exactly with the crime scene sample. Suspects 1 and 3 share some bands but not all, so they do not match.",
+    "verified": true
+  },
+  {
+    "id": "G10-BTEC-010",
+    "domain": "grade-10",
+    "subtopic": "Biotechnology",
+    "difficulty": "medium",
+    "question": "Golden Rice was developed through genetic engineering to produce beta-carotene in its grains. What health problem is it intended to help reduce?",
+    "choices": [
+      "Iron-deficiency anemia",
+      "High blood pressure",
+      "Vitamin A deficiency",
+      "Tooth decay"
+    ],
+    "answerIndex": 2,
+    "explanation": "The body converts **beta-carotene** into **vitamin A**. Golden Rice was developed to help reduce **vitamin A deficiency**, which can cause night blindness and weaken the immune system, especially in children who rely mainly on rice.",
+    "verified": true
+  },
+  {
+    "id": "G10-BTEC-011",
+    "domain": "grade-10",
+    "subtopic": "Biotechnology",
+    "difficulty": "medium",
+    "question": "Nata de coco is made by letting certain bacteria ferment coconut water into a chewy gel. Why is this considered biotechnology?",
+    "choices": [
+      "It changes the DNA of the coconut tree",
+      "It uses living microorganisms to produce a useful product",
+      "It uses machines without any living things",
+      "It creates a new species of coconut"
+    ],
+    "answerIndex": 1,
+    "explanation": "Making nata de coco uses **bacteria** that produce cellulose from the sugars in coconut water. Using living organisms to make a product is **biotechnology**, specifically traditional fermentation. No DNA is changed.",
+    "verified": true
+  },
+  {
+    "id": "G10-BTEC-012",
+    "domain": "grade-10",
+    "subtopic": "Biotechnology",
+    "difficulty": "medium",
+    "question": "Which of the following is an environmental concern about planting genetically modified crops?",
+    "choices": [
+      "GM crops cannot be grown in soil",
+      "Modified genes might spread to wild relatives through cross-pollination",
+      "GM crops always produce smaller harvests",
+      "GM crops cannot be eaten by any animals"
+    ],
+    "answerIndex": 1,
+    "explanation": "One environmental concern is **gene flow**: pollen from GM crops could transfer modified genes to **wild or non-GM relatives**. Other concerns include effects on non-target organisms. Many GM crops grow normally in soil and are used as food and feed.",
+    "verified": true
+  },
+  {
+    "id": "G10-BTEC-013",
+    "domain": "grade-10",
+    "subtopic": "Biotechnology",
+    "difficulty": "medium",
+    "question": "Which use of biotechnology raises the strongest ethical concern?",
+    "choices": [
+      "Using bacteria to produce insulin for diabetic patients",
+      "Selecting or changing human embryos' genes for traits like eye color or height",
+      "Using yeast to ferment rice into vinegar",
+      "Using PCR to detect a virus in a patient's sample"
+    ],
+    "answerIndex": 1,
+    "explanation": "Changing human embryos for **non-medical traits** raises serious **ethical** questions about safety, fairness, consent, and what is considered 'normal'. Producing medicine, making food, and diagnosing disease are widely accepted uses.",
+    "verified": true
+  },
+  {
+    "id": "G10-BTEC-014",
+    "domain": "grade-10",
+    "subtopic": "Biotechnology",
+    "difficulty": "medium",
+    "question": "Banana growers often buy plantlets produced by tissue culture instead of using suckers from their old plants. What is the main advantage?",
+    "choices": [
+      "Many disease-free, uniform plantlets can be produced quickly from a small piece of tissue",
+      "Tissue-culture plantlets produce seeds instead of fruits",
+      "Tissue-culture plantlets do not need water or sunlight",
+      "Each tissue-culture plantlet is a new species"
+    ],
+    "answerIndex": 0,
+    "explanation": "**Tissue culture** grows many genetically identical plants from **small pieces of tissue** under sterile conditions, producing **disease-free** planting materials in large numbers. The plants are clones, not new species.",
+    "verified": true
+  },
+  {
+    "id": "G10-BTEC-015",
+    "domain": "grade-10",
+    "subtopic": "Biotechnology",
+    "difficulty": "medium",
+    "question": "Why can DNA fingerprinting identify a specific person?",
+    "choices": [
+      "All humans have exactly the same DNA",
+      "DNA changes every day, so it shows a person's recent activities",
+      "Except for identical twins, each person's DNA has a unique pattern",
+      "DNA fingerprinting only looks at a person's blood type"
+    ],
+    "answerIndex": 2,
+    "explanation": "Although humans share most of their DNA, certain regions **vary greatly** between people. The pattern of these regions is **unique to each person** (except identical twins, who have the same DNA). This is why it is used in forensics and paternity tests.",
+    "verified": true
+  },
+  {
+    "id": "G10-BTEC-016",
+    "domain": "grade-10",
+    "subtopic": "Biotechnology",
+    "difficulty": "hard",
+    "question": "Which sequence correctly shows the steps for producing human insulin in bacteria?",
+    "choices": [
+      "Cut out the insulin gene and the plasmid → join the gene into the plasmid → put the plasmid into bacteria → grow the bacteria and collect insulin",
+      "Put the plasmid into bacteria → cut out the insulin gene → grow the bacteria → join the gene into the plasmid",
+      "Grow the bacteria → collect insulin → cut out the insulin gene → join the gene into the plasmid",
+      "Join the gene into the plasmid → cut out the insulin gene → collect insulin → put the plasmid into bacteria"
+    ],
+    "answerIndex": 0,
+    "explanation": "1. **Restriction enzymes** cut the insulin gene from human DNA and open the plasmid.\n2. **DNA ligase** joins the gene into the plasmid, forming **recombinant DNA**.\n3. The plasmid is put into **bacteria**.\n4. The bacteria multiply and produce **insulin**, which is collected and purified.\n\nThe gene must be in the plasmid before the plasmid goes into the bacteria.",
+    "verified": true
+  },
+  {
+    "id": "G10-BTEC-017",
+    "domain": "grade-10",
+    "subtopic": "Biotechnology",
+    "difficulty": "hard",
+    "question": "In a paternity test, every band in a child's DNA fingerprint must come from either the mother or the father. The child has bands 1, 2, 3, and 4. The mother has bands 1 and 3. Man X has bands 2, 4, and 5. Man Y has bands 2, 5, and 6. Who could be the father?",
+    "choices": [
+      "Man Y only",
+      "Man X only",
+      "Both Man X and Man Y",
+      "Neither man"
+    ],
+    "answerIndex": 1,
+    "explanation": "Bands 1 and 3 came from the mother, so the father must provide **bands 2 and 4**. **Man X** has both 2 and 4. Man Y has band 2 but **not band 4**, so he cannot be the father.",
+    "verified": true
+  },
+  {
+    "id": "G10-POP-001",
+    "domain": "grade-10",
+    "subtopic": "Ecosystem's carrying capacity and population growth",
+    "difficulty": "easy",
+    "question": "What is carrying capacity?",
+    "choices": [
+      "The number of offspring an organism can produce at one time",
+      "The total number of species in an ecosystem",
+      "The speed at which a population grows",
+      "The largest population an environment can support over a long time"
+    ],
+    "answerIndex": 3,
+    "explanation": "**Carrying capacity (K)** is the **maximum population size** that the environment's resources (food, water, space, shelter) can **sustain** over time.",
+    "verified": true
+  },
+  {
+    "id": "G10-POP-002",
+    "domain": "grade-10",
+    "subtopic": "Ecosystem's carrying capacity and population growth",
+    "difficulty": "easy",
+    "question": "Which of the following is a limiting factor for a population of rats in a rice field?",
+    "choices": [
+      "The color of the rice plants",
+      "The amount of available food",
+      "The name of the farm",
+      "The number of stars at night"
+    ],
+    "answerIndex": 1,
+    "explanation": "**Limiting factors** are conditions that restrict population growth, such as **food**, water, space, predators, and disease.",
+    "verified": true
+  },
+  {
+    "id": "G10-POP-003",
+    "domain": "grade-10",
+    "subtopic": "Ecosystem's carrying capacity and population growth",
+    "difficulty": "easy",
+    "question": "Which of these is a density-independent limiting factor?",
+    "choices": [
+      "Competition for food",
+      "Spread of disease in a crowded group",
+      "Predation",
+      "A strong typhoon"
+    ],
+    "answerIndex": 3,
+    "explanation": "**Density-independent** factors affect a population **regardless of its size**; examples include **typhoons**, floods, droughts, and fires. Competition, disease, and predation are **density-dependent**: their effects grow stronger as populations get denser.",
+    "verified": true
+  },
+  {
+    "id": "G10-POP-004",
+    "domain": "grade-10",
+    "subtopic": "Ecosystem's carrying capacity and population growth",
+    "difficulty": "easy",
+    "question": "When a population has unlimited resources, what shape does its growth curve usually take?",
+    "choices": [
+      "J-shaped curve",
+      "S-shaped curve",
+      "Straight horizontal line",
+      "Downward-sloping line"
+    ],
+    "answerIndex": 0,
+    "explanation": "With unlimited resources, a population grows **exponentially**, producing a **J-shaped curve** that gets steeper over time. An S-shaped curve occurs when growth slows near carrying capacity.",
+    "verified": true
+  },
+  {
+    "id": "G10-POP-005",
+    "domain": "grade-10",
+    "subtopic": "Ecosystem's carrying capacity and population growth",
+    "difficulty": "easy",
+    "question": "Under which condition will a population increase in size?",
+    "choices": [
+      "Births plus immigration are greater than deaths plus emigration",
+      "Deaths plus emigration are greater than births plus immigration",
+      "Births are equal to deaths and no organisms move",
+      "Only emigration occurs"
+    ],
+    "answerIndex": 0,
+    "explanation": "Population change $= (\\text{births} + \\text{immigration}) - (\\text{deaths} + \\text{emigration})$. The population **grows** when additions are **greater** than losses.",
+    "verified": true
+  },
+  {
+    "id": "G10-POP-006",
+    "domain": "grade-10",
+    "subtopic": "Ecosystem's carrying capacity and population growth",
+    "difficulty": "easy",
+    "question": "What does population density measure?",
+    "choices": [
+      "The total mass of one individual",
+      "The number of species in an area",
+      "The amount of food each individual eats",
+      "The number of individuals per unit area"
+    ],
+    "answerIndex": 3,
+    "explanation": "**Population density** is the number of individuals **per unit area** (or volume), such as 20 snails per square meter.",
+    "verified": true
+  },
+  {
+    "id": "G10-POP-007",
+    "domain": "grade-10",
+    "subtopic": "Ecosystem's carrying capacity and population growth",
+    "difficulty": "easy",
+    "question": "What do we call the movement of individuals out of a population?",
+    "choices": [
+      "Emigration",
+      "Immigration",
+      "Natality",
+      "Mortality"
+    ],
+    "answerIndex": 0,
+    "explanation": "**Emigration** is leaving a population (think *exit*). **Immigration** is entering. Natality is the birth rate, and mortality is the death rate.",
+    "verified": true
+  },
+  {
+    "id": "G10-POP-008",
+    "domain": "grade-10",
+    "subtopic": "Ecosystem's carrying capacity and population growth",
+    "difficulty": "medium",
+    "question": "A population of goats is introduced to an island with limited food and space. Which graph best shows how its size is expected to change over time?",
+    "choices": [
+      "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 100 100\" width=\"100\" height=\"100\" role=\"img\" aria-label=\"Population over time: rises slowly, then quickly, then levels off\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"10\" y1=\"90\" x2=\"95\" y2=\"90\"/><line x1=\"10\" y1=\"90\" x2=\"10\" y2=\"6\"/><path d=\"M12 86 C42 86 46 22 90 20\" stroke-width=\"2.5\"/></svg>",
+      "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 100 100\" width=\"100\" height=\"100\" role=\"img\" aria-label=\"Population over time: rises slowly, then more and more steeply without leveling off\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"10\" y1=\"90\" x2=\"95\" y2=\"90\"/><line x1=\"10\" y1=\"90\" x2=\"10\" y2=\"6\"/><path d=\"M12 86 C55 86 75 70 88 8\" stroke-width=\"2.5\"/></svg>",
+      "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 100 100\" width=\"100\" height=\"100\" role=\"img\" aria-label=\"Population over time: rises in a straight line\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"10\" y1=\"90\" x2=\"95\" y2=\"90\"/><line x1=\"10\" y1=\"90\" x2=\"10\" y2=\"6\"/><path d=\"M12 86 L90 14\" stroke-width=\"2.5\"/></svg>",
+      "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 100 100\" width=\"100\" height=\"100\" role=\"img\" aria-label=\"Population over time: starts high and falls, then levels off\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"10\" y1=\"90\" x2=\"95\" y2=\"90\"/><line x1=\"10\" y1=\"90\" x2=\"10\" y2=\"6\"/><path d=\"M12 20 C45 20 50 84 90 86\" stroke-width=\"2.5\"/></svg>"
+    ],
+    "choiceLayout": "grid",
+    "answerIndex": 0,
+    "explanation": "With **limited resources**, growth is fast at first but **slows and levels off** as the population approaches carrying capacity. This is **logistic growth**, shown by an **S-shaped curve**. The J-shaped curve (exponential growth) happens only when resources are unlimited.",
+    "verified": true
+  },
+  {
+    "id": "G10-POP-009",
+    "domain": "grade-10",
+    "subtopic": "Ecosystem's carrying capacity and population growth",
+    "difficulty": "medium",
+    "question": "The graph shows the growth of a population over time. What does the dashed line labeled X represent?",
+    "figure": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 380 210\" width=\"380\" height=\"210\" role=\"img\" aria-label=\"A population growth curve that rises and levels off near a dashed horizontal line labeled X.\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"50\" y1=\"175\" x2=\"343.0\" y2=\"175.0\"/><polygon points=\"350,175 343.0,171.5 343.0,178.5\" fill=\"currentColor\" stroke=\"none\"/><line x1=\"50\" y1=\"175\" x2=\"50.0\" y2=\"27.0\"/><polygon points=\"50,20 46.5,27.0 53.5,27.0\" fill=\"currentColor\" stroke=\"none\"/><text x=\"200.0\" y=\"204\" font-size=\"11\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\">Time</text><text x=\"16\" y=\"97.5\" font-size=\"11\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\" transform=\"rotate(-90 16 97.5)\">Population size</text><polyline points=\"55.0,174.4 59.7,174.3 64.3,174.1 69.0,173.9 73.7,173.7 78.3,173.4 83.0,173.1 87.7,172.7 92.3,172.2 97.0,171.5 101.7,170.8 106.3,169.9 111.0,168.8 115.7,167.5 120.3,166.0 125.0,164.2 129.7,162.0 134.3,159.5 139.0,156.6 143.7,153.2 148.3,149.3 153.0,144.9 157.7,140.0 162.3,134.7 167.0,128.9 171.7,122.8 176.3,116.5 181.0,110.0 185.7,103.5 190.3,97.2 195.0,91.1 199.7,85.3 204.3,80.0 209.0,75.1 213.7,70.7 218.3,66.8 223.0,63.4 227.7,60.5 232.3,58.0 237.0,55.8 241.7,54.0 246.3,52.5 251.0,51.2 255.7,50.1 260.3,49.2 265.0,48.5 269.7,47.8 274.3,47.3 279.0,46.9 283.7,46.6 288.3,46.3 293.0,46.1 297.7,45.9 302.3,45.7 307.0,45.6 311.7,45.5 316.3,45.4 321.0,45.3 325.7,45.3 330.3,45.2 335.0,45.2\" stroke-width=\"2.5\"/><line x1=\"50\" y1=\"45\" x2=\"350\" y2=\"45\" stroke-dasharray=\"6 4\"/><text x=\"340\" y=\"37\" font-size=\"14\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\" font-weight=\"bold\">X</text></svg>",
+    "choices": [
+      "The birth rate of the population",
+      "The starting size of the population",
+      "The point at which the population goes extinct",
+      "The carrying capacity of the environment"
+    ],
+    "answerIndex": 3,
+    "explanation": "In **logistic growth**, the population levels off at the **carrying capacity (K)**, the largest number the environment can support. Here the curve flattens just below line X.",
+    "verified": true
+  },
+  {
+    "id": "G10-POP-010",
+    "domain": "grade-10",
+    "subtopic": "Ecosystem's carrying capacity and population growth",
+    "difficulty": "medium",
+    "question": "At which labeled point on the curve is the population growing fastest?",
+    "figure": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 380 210\" width=\"380\" height=\"210\" role=\"img\" aria-label=\"A population growth curve with three points, A, B, and C, marked along it.\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"50\" y1=\"175\" x2=\"343.0\" y2=\"175.0\"/><polygon points=\"350,175 343.0,171.5 343.0,178.5\" fill=\"currentColor\" stroke=\"none\"/><line x1=\"50\" y1=\"175\" x2=\"50.0\" y2=\"27.0\"/><polygon points=\"50,20 46.5,27.0 53.5,27.0\" fill=\"currentColor\" stroke=\"none\"/><text x=\"200.0\" y=\"204\" font-size=\"11\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\">Time</text><text x=\"16\" y=\"97.5\" font-size=\"11\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\" transform=\"rotate(-90 16 97.5)\">Population size</text><polyline points=\"55.0,174.4 59.7,174.3 64.3,174.1 69.0,173.9 73.7,173.7 78.3,173.4 83.0,173.1 87.7,172.7 92.3,172.2 97.0,171.5 101.7,170.8 106.3,169.9 111.0,168.8 115.7,167.5 120.3,166.0 125.0,164.2 129.7,162.0 134.3,159.5 139.0,156.6 143.7,153.2 148.3,149.3 153.0,144.9 157.7,140.0 162.3,134.7 167.0,128.9 171.7,122.8 176.3,116.5 181.0,110.0 185.7,103.5 190.3,97.2 195.0,91.1 199.7,85.3 204.3,80.0 209.0,75.1 213.7,70.7 218.3,66.8 223.0,63.4 227.7,60.5 232.3,58.0 237.0,55.8 241.7,54.0 246.3,52.5 251.0,51.2 255.7,50.1 260.3,49.2 265.0,48.5 269.7,47.8 274.3,47.3 279.0,46.9 283.7,46.6 288.3,46.3 293.0,46.1 297.7,45.9 302.3,45.7 307.0,45.6 311.7,45.5 316.3,45.4 321.0,45.3 325.7,45.3 330.3,45.2 335.0,45.2\" stroke-width=\"2.5\"/><circle cx=\"97.0\" cy=\"171.5\" r=\"4\" fill=\"currentColor\" fill-opacity=\"1\"/><text x=\"87.0\" y=\"163.5\" font-size=\"13\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\" font-weight=\"bold\">A</text><circle cx=\"181.0\" cy=\"110.0\" r=\"4\" fill=\"currentColor\" fill-opacity=\"1\"/><text x=\"171.0\" y=\"102.0\" font-size=\"13\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\" font-weight=\"bold\">B</text><circle cx=\"293.0\" cy=\"46.1\" r=\"4\" fill=\"currentColor\" fill-opacity=\"1\"/><text x=\"283.0\" y=\"38.1\" font-size=\"13\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\" font-weight=\"bold\">C</text></svg>",
+    "choices": [
+      "A",
+      "B",
+      "C",
+      "It grows at the same rate at all three points"
+    ],
+    "answerIndex": 1,
+    "explanation": "The growth rate is shown by how **steep** the curve is. At **B**, around the middle (about half of carrying capacity), the curve is steepest. At A, there are few individuals to reproduce; at C, resources are limited, so growth slows.",
+    "verified": true
+  },
+  {
+    "id": "G10-POP-011",
+    "domain": "grade-10",
+    "subtopic": "Ecosystem's carrying capacity and population growth",
+    "difficulty": "medium",
+    "question": "The graph shows populations of rats (prey) and owls (predators) over time. Why do the peaks in the owl population come after the peaks in the rat population?",
+    "figure": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 390 205\" width=\"390\" height=\"205\" role=\"img\" aria-label=\"A graph of two populations over time, prey drawn as a solid line and predators drawn as a dashed line. Both rise and fall in repeating cycles.\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"50\" y1=\"170\" x2=\"363.0\" y2=\"170.0\"/><polygon points=\"370,170 363.0,166.5 363.0,173.5\" fill=\"currentColor\" stroke=\"none\"/><line x1=\"50\" y1=\"170\" x2=\"50.0\" y2=\"32.0\"/><polygon points=\"50,25 46.5,32.0 53.5,32.0\" fill=\"currentColor\" stroke=\"none\"/><text x=\"210.0\" y=\"199\" font-size=\"11\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\">Time</text><text x=\"16\" y=\"97.5\" font-size=\"11\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\" transform=\"rotate(-90 16 97.5)\">Population size</text><polyline points=\"55.0,95.0 57.5,89.8 60.1,84.6 62.6,79.5 65.2,74.7 67.7,70.0 70.2,65.6 72.8,61.5 75.3,57.8 77.9,54.5 80.4,51.7 83.0,49.3 85.5,47.4 88.0,46.1 90.6,45.3 93.1,45.0 95.7,45.3 98.2,46.1 100.8,47.4 103.3,49.3 105.8,51.7 108.4,54.5 110.9,57.8 113.5,61.5 116.0,65.6 118.5,70.0 121.1,74.7 123.6,79.5 126.2,84.6 128.7,89.8 131.2,95.0 133.8,100.2 136.3,105.4 138.9,110.5 141.4,115.3 144.0,120.0 146.5,124.4 149.0,128.5 151.6,132.2 154.1,135.5 156.7,138.3 159.2,140.7 161.8,142.6 164.3,143.9 166.8,144.7 169.4,145.0 171.9,144.7 174.5,143.9 177.0,142.6 179.5,140.7 182.1,138.3 184.6,135.5 187.2,132.2 189.7,128.5 192.2,124.4 194.8,120.0 197.3,115.3 199.9,110.5 202.4,105.4 205.0,100.2 207.5,95.0 210.0,89.8 212.6,84.6 215.1,79.5 217.7,74.7 220.2,70.0 222.8,65.6 225.3,61.5 227.8,57.8 230.4,54.5 232.9,51.7 235.5,49.3 238.0,47.4 240.5,46.1 243.1,45.3 245.6,45.0 248.2,45.3 250.7,46.1 253.2,47.4 255.8,49.3 258.3,51.7 260.9,54.5 263.4,57.8 266.0,61.5 268.5,65.6 271.0,70.0 273.6,74.7 276.1,79.5 278.7,84.6 281.2,89.8 283.8,95.0 286.3,100.2 288.8,105.4 291.4,110.5 293.9,115.3 296.5,120.0 299.0,124.4 301.5,128.5 304.1,132.2 306.6,135.5 309.2,138.3 311.7,140.7 314.2,142.6 316.8,143.9 319.3,144.7 321.9,145.0 324.4,144.7 327.0,143.9 329.5,142.6 332.0,140.7 334.6,138.3 337.1,135.5 339.7,132.2 342.2,128.5 344.8,124.4 347.3,120.0 349.8,115.3 352.4,110.5 354.9,105.4 357.5,100.2 360.0,95.0\" stroke-width=\"2.5\"/><polyline points=\"55.0,149.3 57.5,148.6 60.1,147.7 62.6,146.7 65.2,145.4 67.7,144.0 70.2,142.4 72.8,140.7 75.3,138.9 77.9,137.0 80.4,135.0 83.0,133.0 85.5,130.9 88.0,128.8 90.6,126.7 93.1,124.7 95.7,122.7 98.2,120.8 100.8,119.0 103.3,117.3 105.8,115.7 108.4,114.3 110.9,113.1 113.5,112.1 116.0,111.3 118.5,110.6 121.1,110.2 123.6,110.0 126.2,110.0 128.7,110.3 131.2,110.7 133.8,111.4 136.3,112.3 138.9,113.3 141.4,114.6 144.0,116.0 146.5,117.6 149.0,119.3 151.6,121.1 154.1,123.0 156.7,125.0 159.2,127.0 161.8,129.1 164.3,131.2 166.8,133.3 169.4,135.3 171.9,137.3 174.5,139.2 177.0,141.0 179.5,142.7 182.1,144.3 184.6,145.7 187.2,146.9 189.7,147.9 192.2,148.7 194.8,149.4 197.3,149.8 199.9,150.0 202.4,150.0 205.0,149.7 207.5,149.3 210.0,148.6 212.6,147.7 215.1,146.7 217.7,145.4 220.2,144.0 222.8,142.4 225.3,140.7 227.8,138.9 230.4,137.0 232.9,135.0 235.5,133.0 238.0,130.9 240.5,128.8 243.1,126.7 245.6,124.7 248.2,122.7 250.7,120.8 253.2,119.0 255.8,117.3 258.3,115.7 260.9,114.3 263.4,113.1 266.0,112.1 268.5,111.3 271.0,110.6 273.6,110.2 276.1,110.0 278.7,110.0 281.2,110.3 283.8,110.7 286.3,111.4 288.8,112.3 291.4,113.3 293.9,114.6 296.5,116.0 299.0,117.6 301.5,119.3 304.1,121.1 306.6,123.0 309.2,125.0 311.7,127.0 314.2,129.1 316.8,131.2 319.3,133.3 321.9,135.3 324.4,137.3 327.0,139.2 329.5,141.0 332.0,142.7 334.6,144.3 337.1,145.7 339.7,146.9 342.2,147.9 344.8,148.7 347.3,149.4 349.8,149.8 352.4,150.0 354.9,150.0 357.5,149.7 360.0,149.3\" stroke-width=\"2.5\" stroke-dasharray=\"6 4\"/><line x1=\"250\" y1=\"14\" x2=\"275\" y2=\"14\" stroke-width=\"2.5\"/><text x=\"280\" y=\"18\" font-size=\"10\" text-anchor=\"start\" fill=\"currentColor\" stroke=\"none\">prey (rats)</text><line x1=\"250\" y1=\"30\" x2=\"275\" y2=\"30\" stroke-width=\"2.5\" stroke-dasharray=\"6 4\"/><text x=\"280\" y=\"34\" font-size=\"10\" text-anchor=\"start\" fill=\"currentColor\" stroke=\"none\">predator (owls)</text></svg>",
+    "choices": [
+      "When rats become plentiful, owls have more food and their numbers increase afterward",
+      "Owls reproduce faster than rats, so they always peak first",
+      "Owls and rats do not affect each other's numbers",
+      "Rats increase only after owls have eaten all the food"
+    ],
+    "answerIndex": 0,
+    "explanation": "More prey means **more food** for predators, so owl numbers rise, but only **after a delay** because reproduction takes time. More owls then eat more rats, so rats decline, and later owls decline from lack of food. This produces **repeating, offset cycles**.",
+    "verified": true
+  },
+  {
+    "id": "G10-POP-012",
+    "domain": "grade-10",
+    "subtopic": "Ecosystem's carrying capacity and population growth",
+    "difficulty": "medium",
+    "question": "A student counts 600 snails in a 30-square-meter area of a rice paddy. What is the population density?",
+    "choices": [
+      "30 snails per m²",
+      "570 snails per m²",
+      "20 snails per m²",
+      "18,000 snails per m²"
+    ],
+    "answerIndex": 2,
+    "explanation": "$\\text{Density} = \\dfrac{\\text{number of individuals}}{\\text{area}} = \\dfrac{600}{30\\ \\text{m}^2} = 20$ snails per m². 18,000 comes from multiplying instead of dividing.",
+    "verified": true
+  },
+  {
+    "id": "G10-POP-013",
+    "domain": "grade-10",
+    "subtopic": "Ecosystem's carrying capacity and population growth",
+    "difficulty": "medium",
+    "question": "A population of 500 birds had 80 births, 30 deaths, 10 immigrants, and 20 emigrants in one year. What is the population at the end of the year?",
+    "choices": [
+      "540",
+      "560",
+      "580",
+      "590"
+    ],
+    "answerIndex": 0,
+    "explanation": "$500 + 80 - 30 + 10 - 20 = 540$\n\nBirths and immigrants are **added**; deaths and emigrants are **subtracted**. 560 forgets the emigrants, and 590 adds every number.",
+    "verified": true
+  },
+  {
+    "id": "G10-POP-014",
+    "domain": "grade-10",
+    "subtopic": "Ecosystem's carrying capacity and population growth",
+    "difficulty": "medium",
+    "question": "When a population of chickens becomes very crowded in a small pen, a disease spreads quickly and many chickens die. What kind of limiting factor is this disease?",
+    "choices": [
+      "Density-independent, because disease affects populations of any size equally",
+      "Density-independent, because disease is a nonliving factor",
+      "Density-dependent, because it spreads more easily when individuals are crowded",
+      "It is not a limiting factor because it does not affect food supply"
+    ],
+    "answerIndex": 2,
+    "explanation": "Disease spreads faster when individuals are **close together**, so its effect **increases with density**. This makes it a **density-dependent** limiting factor, like competition and predation.",
+    "verified": true
+  },
+  {
+    "id": "G10-POP-015",
+    "domain": "grade-10",
+    "subtopic": "Ecosystem's carrying capacity and population growth",
+    "difficulty": "medium",
+    "question": "A bacterial population doubles every 20 minutes when resources are unlimited. If there are 100 bacteria at the start, how many will there be after 1 hour?",
+    "choices": [
+      "300",
+      "800",
+      "400",
+      "600"
+    ],
+    "answerIndex": 1,
+    "explanation": "1 hour $= 60 \\div 20 = 3$ doubling periods.\n\n$100 \\to 200 \\to 400 \\to 800$, or $100 \\times 2^3 = 800$.\n\n300 adds 100 each time (linear growth) instead of doubling, and 600 multiplies 100 by $3 \\times 2$ instead of by $2^3$.",
+    "verified": true
+  },
+  {
+    "id": "G10-POP-016",
+    "domain": "grade-10",
+    "subtopic": "Ecosystem's carrying capacity and population growth",
+    "difficulty": "hard",
+    "question": "A deer population on an island grows far above the island's carrying capacity. The deer eat plants faster than the plants can regrow. What is the most likely long-term result?",
+    "choices": [
+      "The population crashes, and the damaged vegetation may lower the carrying capacity",
+      "The population stays above carrying capacity forever",
+      "The carrying capacity increases to match the larger population",
+      "The deer start producing their own food"
+    ],
+    "answerIndex": 0,
+    "explanation": "When a population **overshoots** K, resources are used faster than they are replaced. Food runs out, so many deer starve and the population **crashes**. Overgrazing can also damage plants and soil, so the island may support **fewer** deer than before.",
+    "verified": true
+  },
+  {
+    "id": "G10-POP-017",
+    "domain": "grade-10",
+    "subtopic": "Ecosystem's carrying capacity and population growth",
+    "difficulty": "hard",
+    "question": "A population of 2,000 animals has 300 births and 100 deaths in one year, with no migration. If the same growth rate continues, what will the population be after two years?",
+    "choices": [
+      "2,400",
+      "2,200",
+      "2,600",
+      "2,420"
+    ],
+    "answerIndex": 3,
+    "explanation": "1. Growth rate: $\\dfrac{300 - 100}{2{,}000} = \\dfrac{200}{2{,}000} = 0.10 = 10\\%$ per year.\n2. After year 1: $2{,}000 \\times 1.10 = 2{,}200$.\n3. After year 2: $2{,}200 \\times 1.10 = 2{,}420$.\n\nAdding 200 each year gives 2,400, but the same **rate** applied to a larger population produces more new individuals each year.",
+    "verified": true
+  }
+]

@@ -1,8 +1,7 @@
 import { go } from '../lib/router.js';
 import { tally, pct } from '../lib/session.js';
 import { shuffle } from '../lib/shuffle.js';
-import { DOMAINS, domainById } from '../lib/bank.js';
-import { PASS_RATE } from '../config.js';
+import { domainById, subject } from '../lib/bank.js';
 import { reviewHtml, bindReviewFilters, breakdownPanel } from './parts.js';
 import { practice } from './practice.js';
 import { practiceSetup } from './practice-setup.js';
@@ -12,11 +11,12 @@ export function practiceSummary(root, results, planned) {
   const correct = results.filter((r) => r.pick === r.item.correct).length;
   const total = results.length;
   const p = pct(correct, total);
+  const { domains: all, passRate } = subject();
   const missed = results.filter((r) => r.pick !== r.item.correct).map((r) => r.item.q);
 
   // Breakdown: domain rows, each followed by its subtopics.
   const groups = [];
-  const domains = DOMAINS.filter((d) => results.some((r) => r.item.q.domain === d.id));
+  const domains = all.filter((d) => results.some((r) => r.item.q.domain === d.id));
   for (const d of domains) {
     const rows = results.filter((r) => r.item.q.domain === d.id);
     const isRight = (r) => r.pick === r.item.correct;
@@ -29,7 +29,7 @@ export function practiceSummary(root, results, planned) {
     for (const s of subs) groups.push({ label: s.key, correct: s.correct, total: s.total, sub: domains.length > 1 });
   }
 
-  const msg = p >= 85 ? 'Excellent work.' : p >= PASS_RATE * 100 ? 'Good job. Keep it up.' : 'Read the explanations below, then try again.';
+  const msg = p >= 85 ? 'Excellent work.' : p >= passRate * 100 ? 'Good job. Keep it up.' : 'Read the explanations below, then try again.';
 
   root.innerHTML = `
   <header class="page-head">

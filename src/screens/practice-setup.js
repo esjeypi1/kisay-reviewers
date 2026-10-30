@@ -1,13 +1,13 @@
 import { go } from '../lib/router.js';
-import { loadBank, DOMAINS, domainById } from '../lib/bank.js';
+import { loadBank, domainById, subject } from '../lib/bank.js';
 import { escapeHtml } from '../lib/render.js';
 import { icons } from '../lib/icons.js';
 import { buildPractice } from '../lib/session.js';
 import { PRACTICE_COUNTS } from '../config.js';
 import { practice } from './practice.js';
 
-// Remembers the last choices only while the page is open (not saved anywhere).
-const last = { domain: 'all', subs: null, count: 10 };
+// Remembers the last choices per subject only while the page is open (not saved anywhere).
+const lastBySubject = {};
 
 export function practiceSetup(root) {
   root.innerHTML = '<p class="loading">Loading questions...</p>';
@@ -15,6 +15,8 @@ export function practiceSetup(root) {
 }
 
 function render(root, bank) {
+  const { id, domains, domainLabel } = subject();
+  const last = (lastBySubject[id] ??= { domain: 'all', subs: null, count: 10 });
   const state = { domain: last.domain, subs: new Set(last.subs || []), count: last.count };
   const countOf = (dom) => (dom === 'all' ? bank.length : bank.filter((q) => q.domain === dom).length);
   if (state.domain !== 'all' && !state.subs.size) state.subs = new Set(domainById[state.domain].subtopics);
@@ -29,10 +31,10 @@ function render(root, bank) {
 
   <section class="panel"><div class="panel-body">
     <div class="field" role="radiogroup" aria-labelledby="l-domain">
-      <div class="field-label" id="l-domain">Domain</div>
+      <div class="field-label" id="l-domain">${escapeHtml(domainLabel)}</div>
       <div class="chips">
         <label class="chip"><input type="radio" name="domain" value="all"><span>All <small>${countOf('all')}</small></span></label>
-        ${DOMAINS.map((d) => `<label class="chip"><input type="radio" name="domain" value="${d.id}"><span>${escapeHtml(d.name)} <small>${countOf(d.id)}</small></span></label>`).join('')}
+        ${domains.map((d) => `<label class="chip"><input type="radio" name="domain" value="${d.id}"><span>${escapeHtml(d.name)} <small>${countOf(d.id)}</small></span></label>`).join('')}
       </div>
     </div>
 

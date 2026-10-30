@@ -1,0 +1,1134 @@
+[
+  {
+    "id": "G9-DNA-001",
+    "domain": "grade-9",
+    "subtopic": "DNA replication and mutations",
+    "difficulty": "easy",
+    "question": "What does DNA stand for?",
+    "choices": [
+      "Dinitrogen acid",
+      "Deoxyribonucleic acid",
+      "Deoxyribose nitrate acid",
+      "Double nucleic acid"
+    ],
+    "answerIndex": 1,
+    "explanation": "**DNA** stands for **deoxyribonucleic acid**. The name comes from its sugar (**deoxyribose**) and the fact that it is a **nucleic acid** found mainly in the nucleus.",
+    "verified": true
+  },
+  {
+    "id": "G9-DNA-002",
+    "domain": "grade-9",
+    "subtopic": "DNA replication and mutations",
+    "difficulty": "easy",
+    "question": "In DNA, adenine (A) always pairs with which base?",
+    "choices": [
+      "Thymine (T)",
+      "Guanine (G)",
+      "Cytosine (C)",
+      "Uracil (U)"
+    ],
+    "answerIndex": 0,
+    "explanation": "DNA follows **complementary base pairing**: **A pairs with T**, and **G pairs with C**. Uracil is found in RNA, not DNA.",
+    "verified": true
+  },
+  {
+    "id": "G9-DNA-003",
+    "domain": "grade-9",
+    "subtopic": "DNA replication and mutations",
+    "difficulty": "easy",
+    "question": "Which set lists the four nitrogenous bases found in DNA?",
+    "choices": [
+      "Adenine, uracil, guanine, cytosine",
+      "Adenine, thymine, glucose, cytosine",
+      "Adenine, thymine, guanine, cytosine",
+      "Alanine, thymine, guanine, cytosine"
+    ],
+    "answerIndex": 2,
+    "explanation": "DNA's four bases are **adenine (A), thymine (T), guanine (G), and cytosine (C)**. RNA uses uracil instead of thymine; glucose is a sugar and alanine is an amino acid.",
+    "verified": true
+  },
+  {
+    "id": "G9-DNA-004",
+    "domain": "grade-9",
+    "subtopic": "DNA replication and mutations",
+    "difficulty": "easy",
+    "question": "What is the shape of a DNA molecule?",
+    "choices": [
+      "Double helix",
+      "Single straight strand",
+      "Folded sheet",
+      "Hollow sphere"
+    ],
+    "answerIndex": 0,
+    "explanation": "DNA is a **double helix**, like a twisted ladder: two strands wind around each other, with base pairs as the rungs. This model was proposed by Watson and Crick using X-ray evidence from Rosalind Franklin.",
+    "verified": true
+  },
+  {
+    "id": "G9-DNA-005",
+    "domain": "grade-9",
+    "subtopic": "DNA replication and mutations",
+    "difficulty": "easy",
+    "question": "What is a gene?",
+    "choices": [
+      "A whole chromosome found in the nucleus",
+      "A single base such as adenine",
+      "A segment of DNA that carries the instructions for a trait or protein",
+      "The membrane that surrounds the nucleus"
+    ],
+    "answerIndex": 2,
+    "explanation": "A **gene** is a specific **section of DNA** on a chromosome that codes for a protein, which leads to a trait. A chromosome contains hundreds to thousands of genes.",
+    "verified": true
+  },
+  {
+    "id": "G9-DNA-006",
+    "domain": "grade-9",
+    "subtopic": "DNA replication and mutations",
+    "difficulty": "easy",
+    "question": "In plant and animal cells, where is most of the DNA found?",
+    "choices": [
+      "In the cell membrane",
+      "In the vacuole",
+      "In the chromosomes inside the nucleus",
+      "In the cytoplasm only"
+    ],
+    "answerIndex": 2,
+    "explanation": "In eukaryotic cells, most DNA is packed into **chromosomes** inside the **nucleus**. (Small amounts are also in mitochondria and chloroplasts.)",
+    "verified": true
+  },
+  {
+    "id": "G9-DNA-007",
+    "domain": "grade-9",
+    "subtopic": "DNA replication and mutations",
+    "difficulty": "easy",
+    "question": "What is a mutation?",
+    "choices": [
+      "The copying of DNA before cell division",
+      "A permanent change in the sequence of DNA",
+      "The pairing of A with T and G with C",
+      "The joining of a sperm and an egg"
+    ],
+    "answerIndex": 1,
+    "explanation": "A **mutation** is a **change in the DNA sequence** that can be passed on when the DNA is copied. Copying DNA is replication, and joining gametes is fertilization.",
+    "verified": true
+  },
+  {
+    "id": "G9-DNA-008",
+    "domain": "grade-9",
+    "subtopic": "DNA replication and mutations",
+    "difficulty": "easy",
+    "question": "Which three parts make up one nucleotide of DNA?",
+    "choices": [
+      "A phosphate group, a glucose sugar, and an amino acid",
+      "A protein, a fat, and a nitrogenous base",
+      "A ribose sugar, an amino acid, and a phosphate group",
+      "A phosphate group, a deoxyribose sugar, and a nitrogenous base"
+    ],
+    "answerIndex": 3,
+    "explanation": "Each **nucleotide** has a **phosphate group**, a **deoxyribose sugar**, and one of four **nitrogenous bases**. Sugar and phosphate form the backbone; the bases form the rungs.",
+    "verified": true
+  },
+  {
+    "id": "G9-DNA-009",
+    "domain": "grade-9",
+    "subtopic": "DNA replication and mutations",
+    "difficulty": "easy",
+    "question": "Which of the following is a mutagen, an agent that can cause mutations?",
+    "choices": [
+      "Clean drinking water",
+      "Visible light from a candle",
+      "Table salt in food",
+      "Ultraviolet (UV) radiation"
+    ],
+    "answerIndex": 3,
+    "explanation": "**UV radiation** from the sun can damage DNA in skin cells. Other mutagens include X-rays and certain chemicals, such as some found in cigarette smoke.",
+    "verified": true
+  },
+  {
+    "id": "G9-DNA-010",
+    "domain": "grade-9",
+    "subtopic": "DNA replication and mutations",
+    "difficulty": "easy",
+    "question": "Why must DNA be replicated before a cell divides?",
+    "choices": [
+      "So that each new cell receives a complete copy of the genetic information",
+      "So that the cell can make more cell membrane",
+      "So that the old DNA can be destroyed",
+      "So that each new cell receives half of the DNA"
+    ],
+    "answerIndex": 0,
+    "explanation": "**Replication** makes an exact copy of all the DNA, so that after division **each daughter cell has a full set** of genetic instructions.",
+    "verified": true
+  },
+  {
+    "id": "G9-DNA-011",
+    "domain": "grade-9",
+    "subtopic": "DNA replication and mutations",
+    "difficulty": "medium",
+    "question": "Strand 1 of a DNA segment has the bases A, T, G, C, C, A from top to bottom. What is the base sequence of strand 2, from top to bottom?",
+    "figure": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 320 195\" width=\"320\" height=\"195\" role=\"img\" aria-label=\"A segment of DNA drawn as a ladder. Strand 1 shows six bases. The matching bases on strand 2 are shown as question marks.\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"70\" y1=\"20\" x2=\"70\" y2=\"185\" stroke-width=\"3\"/><line x1=\"250\" y1=\"20\" x2=\"250\" y2=\"185\" stroke-width=\"3\"/><text x=\"70\" y=\"14\" font-size=\"11\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\">Strand 1</text><text x=\"250\" y=\"14\" font-size=\"11\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\">Strand 2</text><line x1=\"70\" y1=\"38\" x2=\"92\" y2=\"38\"/><rect x=\"92\" y=\"28\" width=\"28\" height=\"20\" rx=\"3\" fill=\"currentColor\" fill-opacity=\"0.15\"/><text x=\"106\" y=\"43\" font-size=\"13\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\" font-weight=\"bold\">A</text><line x1=\"120\" y1=\"38\" x2=\"200\" y2=\"38\" stroke-dasharray=\"3 3\"/><rect x=\"200\" y=\"28\" width=\"28\" height=\"20\" rx=\"3\" fill=\"currentColor\" fill-opacity=\"0.03\"/><text x=\"214\" y=\"43\" font-size=\"13\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\">?</text><line x1=\"228\" y1=\"38\" x2=\"250\" y2=\"38\"/><line x1=\"70\" y1=\"65\" x2=\"92\" y2=\"65\"/><rect x=\"92\" y=\"55\" width=\"28\" height=\"20\" rx=\"3\" fill=\"currentColor\" fill-opacity=\"0.15\"/><text x=\"106\" y=\"70\" font-size=\"13\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\" font-weight=\"bold\">T</text><line x1=\"120\" y1=\"65\" x2=\"200\" y2=\"65\" stroke-dasharray=\"3 3\"/><rect x=\"200\" y=\"55\" width=\"28\" height=\"20\" rx=\"3\" fill=\"currentColor\" fill-opacity=\"0.03\"/><text x=\"214\" y=\"70\" font-size=\"13\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\">?</text><line x1=\"228\" y1=\"65\" x2=\"250\" y2=\"65\"/><line x1=\"70\" y1=\"92\" x2=\"92\" y2=\"92\"/><rect x=\"92\" y=\"82\" width=\"28\" height=\"20\" rx=\"3\" fill=\"currentColor\" fill-opacity=\"0.15\"/><text x=\"106\" y=\"97\" font-size=\"13\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\" font-weight=\"bold\">G</text><line x1=\"120\" y1=\"92\" x2=\"200\" y2=\"92\" stroke-dasharray=\"3 3\"/><rect x=\"200\" y=\"82\" width=\"28\" height=\"20\" rx=\"3\" fill=\"currentColor\" fill-opacity=\"0.03\"/><text x=\"214\" y=\"97\" font-size=\"13\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\">?</text><line x1=\"228\" y1=\"92\" x2=\"250\" y2=\"92\"/><line x1=\"70\" y1=\"119\" x2=\"92\" y2=\"119\"/><rect x=\"92\" y=\"109\" width=\"28\" height=\"20\" rx=\"3\" fill=\"currentColor\" fill-opacity=\"0.15\"/><text x=\"106\" y=\"124\" font-size=\"13\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\" font-weight=\"bold\">C</text><line x1=\"120\" y1=\"119\" x2=\"200\" y2=\"119\" stroke-dasharray=\"3 3\"/><rect x=\"200\" y=\"109\" width=\"28\" height=\"20\" rx=\"3\" fill=\"currentColor\" fill-opacity=\"0.03\"/><text x=\"214\" y=\"124\" font-size=\"13\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\">?</text><line x1=\"228\" y1=\"119\" x2=\"250\" y2=\"119\"/><line x1=\"70\" y1=\"146\" x2=\"92\" y2=\"146\"/><rect x=\"92\" y=\"136\" width=\"28\" height=\"20\" rx=\"3\" fill=\"currentColor\" fill-opacity=\"0.15\"/><text x=\"106\" y=\"151\" font-size=\"13\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\" font-weight=\"bold\">C</text><line x1=\"120\" y1=\"146\" x2=\"200\" y2=\"146\" stroke-dasharray=\"3 3\"/><rect x=\"200\" y=\"136\" width=\"28\" height=\"20\" rx=\"3\" fill=\"currentColor\" fill-opacity=\"0.03\"/><text x=\"214\" y=\"151\" font-size=\"13\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\">?</text><line x1=\"228\" y1=\"146\" x2=\"250\" y2=\"146\"/><line x1=\"70\" y1=\"173\" x2=\"92\" y2=\"173\"/><rect x=\"92\" y=\"163\" width=\"28\" height=\"20\" rx=\"3\" fill=\"currentColor\" fill-opacity=\"0.15\"/><text x=\"106\" y=\"178\" font-size=\"13\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\" font-weight=\"bold\">A</text><line x1=\"120\" y1=\"173\" x2=\"200\" y2=\"173\" stroke-dasharray=\"3 3\"/><rect x=\"200\" y=\"163\" width=\"28\" height=\"20\" rx=\"3\" fill=\"currentColor\" fill-opacity=\"0.03\"/><text x=\"214\" y=\"178\" font-size=\"13\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\">?</text><line x1=\"228\" y1=\"173\" x2=\"250\" y2=\"173\"/></svg>",
+    "choices": [
+      "A, T, G, C, C, A",
+      "U, A, C, G, G, U",
+      "T, A, C, G, G, T",
+      "G, C, A, T, T, G"
+    ],
+    "answerIndex": 2,
+    "explanation": "Use base pairing: **A–T** and **G–C**.\n\nA→**T**, T→**A**, G→**C**, C→**G**, C→**G**, A→**T**, giving **TACGGT**. The sequence with U uses RNA pairing, the sequence identical to strand 1 just copies it, and the sequence starting with G pairs A with G, which is incorrect.",
+    "verified": true
+  },
+  {
+    "id": "G9-DNA-012",
+    "domain": "grade-9",
+    "subtopic": "DNA replication and mutations",
+    "difficulty": "medium",
+    "question": "The diagram shows one nucleotide. Which labeled part is the deoxyribose sugar?",
+    "figure": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 140\" width=\"300\" height=\"140\" role=\"img\" aria-label=\"Three connected shapes forming one unit of DNA: a circle labeled X, a pentagon labeled Y, and a rectangle labeled Z.\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"50\" cy=\"65\" r=\"22\" fill=\"currentColor\" fill-opacity=\"0.15\"/><line x1=\"72\" y1=\"65\" x2=\"108\" y2=\"65\"/><polygon points=\"140,38 168,58 158,92 122,92 112,58\" fill=\"currentColor\" fill-opacity=\"0.15\"/><line x1=\"168\" y1=\"65\" x2=\"205\" y2=\"65\"/><rect x=\"205\" y=\"45\" width=\"75\" height=\"40\" rx=\"4\" fill=\"currentColor\" fill-opacity=\"0.15\"/><text x=\"50\" y=\"125\" font-size=\"14\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\" font-weight=\"bold\">X</text><text x=\"140\" y=\"125\" font-size=\"14\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\" font-weight=\"bold\">Y</text><text x=\"242\" y=\"125\" font-size=\"14\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\" font-weight=\"bold\">Z</text></svg>",
+    "choices": [
+      "X",
+      "Y",
+      "Z",
+      "X and Z together"
+    ],
+    "answerIndex": 1,
+    "explanation": "In a nucleotide, the **sugar (Y, pentagon)** is in the middle, attached to both the **phosphate (X, circle)** and the **nitrogenous base (Z, rectangle)**. The sugar is the five-carbon ring, drawn as a pentagon.",
+    "verified": true
+  },
+  {
+    "id": "G9-DNA-013",
+    "domain": "grade-9",
+    "subtopic": "DNA replication and mutations",
+    "difficulty": "medium",
+    "question": "The diagram shows the result of DNA replication. What does it show?",
+    "figure": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 400 175\" width=\"400\" height=\"175\" role=\"img\" aria-label=\"One parent DNA molecule with two solid strands, and arrows to two new DNA molecules. A key shows solid lines as original strands and dashed lines as newly made strands.\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"20\" y1=\"62\" x2=\"120\" y2=\"62\" stroke-width=\"3\"/><line x1=\"20\" y1=\"82\" x2=\"120\" y2=\"82\" stroke-width=\"3\"/><text x=\"70\" y=\"105\" font-size=\"11\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\">Parent DNA</text><line x1=\"128\" y1=\"66\" x2=\"189.5\" y2=\"42.5\"/><polygon points=\"196,40 188.2,39.2 190.7,45.8\" fill=\"currentColor\" stroke=\"none\"/><line x1=\"128\" y1=\"78\" x2=\"189.7\" y2=\"107.0\"/><polygon points=\"196,110 191.2,103.9 188.2,110.2\" fill=\"currentColor\" stroke=\"none\"/><line x1=\"210\" y1=\"30\" x2=\"330\" y2=\"30\" stroke-width=\"3\"/><line x1=\"210\" y1=\"50\" x2=\"330\" y2=\"50\" stroke-width=\"3\" stroke-dasharray=\"7 5\"/><line x1=\"210\" y1=\"100\" x2=\"330\" y2=\"100\" stroke-width=\"3\" stroke-dasharray=\"7 5\"/><line x1=\"210\" y1=\"120\" x2=\"330\" y2=\"120\" stroke-width=\"3\"/><text x=\"370\" y=\"44\" font-size=\"11\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\">DNA 1</text><text x=\"370\" y=\"114\" font-size=\"11\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\">DNA 2</text><line x1=\"40\" y1=\"160\" x2=\"75\" y2=\"160\" stroke-width=\"3\"/><text x=\"82\" y=\"164\" font-size=\"11\" text-anchor=\"start\" fill=\"currentColor\" stroke=\"none\">original strand</text><line x1=\"210\" y1=\"160\" x2=\"245\" y2=\"160\" stroke-width=\"3\" stroke-dasharray=\"7 5\"/><text x=\"252\" y=\"164\" font-size=\"11\" text-anchor=\"start\" fill=\"currentColor\" stroke=\"none\">newly made strand</text></svg>",
+    "choices": [
+      "One new DNA molecule has both original strands, and the other has two new strands",
+      "The original strands are broken into pieces and mixed into both new molecules",
+      "The parent DNA is destroyed and two completely new molecules are formed",
+      "Each new DNA molecule has one original strand and one newly made strand"
+    ],
+    "answerIndex": 3,
+    "explanation": "Each daughter molecule has **one solid (original) strand** and **one dashed (new) strand**. This is called **semiconservative replication**: each old strand serves as a **template** for a new complementary strand.",
+    "verified": true
+  },
+  {
+    "id": "G9-DNA-014",
+    "domain": "grade-9",
+    "subtopic": "DNA replication and mutations",
+    "difficulty": "medium",
+    "question": "Compare the two sequences. What type of mutation occurred?",
+    "figure": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 380 95\" width=\"380\" height=\"95\" role=\"img\" aria-label=\"Two DNA sequences. The original sequence has nine bases and the mutated sequence has ten bases.\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><text x=\"10\" y=\"35\" font-size=\"12\" text-anchor=\"start\" fill=\"currentColor\" stroke=\"none\" font-weight=\"bold\">Original</text><rect x=\"85\" y=\"18\" width=\"26\" height=\"24\" rx=\"3\" fill=\"currentColor\" fill-opacity=\"0.08\"/><text x=\"98\" y=\"35\" font-size=\"13\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\">A</text><rect x=\"113\" y=\"18\" width=\"26\" height=\"24\" rx=\"3\" fill=\"currentColor\" fill-opacity=\"0.08\"/><text x=\"126\" y=\"35\" font-size=\"13\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\">T</text><rect x=\"141\" y=\"18\" width=\"26\" height=\"24\" rx=\"3\" fill=\"currentColor\" fill-opacity=\"0.08\"/><text x=\"154\" y=\"35\" font-size=\"13\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\">G</text><rect x=\"169\" y=\"18\" width=\"26\" height=\"24\" rx=\"3\" fill=\"currentColor\" fill-opacity=\"0.08\"/><text x=\"182\" y=\"35\" font-size=\"13\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\">C</text><rect x=\"197\" y=\"18\" width=\"26\" height=\"24\" rx=\"3\" fill=\"currentColor\" fill-opacity=\"0.08\"/><text x=\"210\" y=\"35\" font-size=\"13\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\">C</text><rect x=\"225\" y=\"18\" width=\"26\" height=\"24\" rx=\"3\" fill=\"currentColor\" fill-opacity=\"0.08\"/><text x=\"238\" y=\"35\" font-size=\"13\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\">A</text><rect x=\"253\" y=\"18\" width=\"26\" height=\"24\" rx=\"3\" fill=\"currentColor\" fill-opacity=\"0.08\"/><text x=\"266\" y=\"35\" font-size=\"13\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\">T</text><rect x=\"281\" y=\"18\" width=\"26\" height=\"24\" rx=\"3\" fill=\"currentColor\" fill-opacity=\"0.08\"/><text x=\"294\" y=\"35\" font-size=\"13\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\">T</text><rect x=\"309\" y=\"18\" width=\"26\" height=\"24\" rx=\"3\" fill=\"currentColor\" fill-opacity=\"0.08\"/><text x=\"322\" y=\"35\" font-size=\"13\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\">G</text><text x=\"10\" y=\"75\" font-size=\"12\" text-anchor=\"start\" fill=\"currentColor\" stroke=\"none\" font-weight=\"bold\">Mutated</text><rect x=\"85\" y=\"58\" width=\"26\" height=\"24\" rx=\"3\" fill=\"currentColor\" fill-opacity=\"0.08\"/><text x=\"98\" y=\"75\" font-size=\"13\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\">A</text><rect x=\"113\" y=\"58\" width=\"26\" height=\"24\" rx=\"3\" fill=\"currentColor\" fill-opacity=\"0.08\"/><text x=\"126\" y=\"75\" font-size=\"13\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\">T</text><rect x=\"141\" y=\"58\" width=\"26\" height=\"24\" rx=\"3\" fill=\"currentColor\" fill-opacity=\"0.08\"/><text x=\"154\" y=\"75\" font-size=\"13\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\">G</text><rect x=\"169\" y=\"58\" width=\"26\" height=\"24\" rx=\"3\" fill=\"currentColor\" fill-opacity=\"0.08\"/><text x=\"182\" y=\"75\" font-size=\"13\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\">C</text><rect x=\"197\" y=\"58\" width=\"26\" height=\"24\" rx=\"3\" fill=\"currentColor\" fill-opacity=\"0.08\"/><text x=\"210\" y=\"75\" font-size=\"13\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\">C</text><rect x=\"225\" y=\"58\" width=\"26\" height=\"24\" rx=\"3\" fill=\"currentColor\" fill-opacity=\"0.08\"/><text x=\"238\" y=\"75\" font-size=\"13\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\">C</text><rect x=\"253\" y=\"58\" width=\"26\" height=\"24\" rx=\"3\" fill=\"currentColor\" fill-opacity=\"0.08\"/><text x=\"266\" y=\"75\" font-size=\"13\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\">A</text><rect x=\"281\" y=\"58\" width=\"26\" height=\"24\" rx=\"3\" fill=\"currentColor\" fill-opacity=\"0.08\"/><text x=\"294\" y=\"75\" font-size=\"13\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\">T</text><rect x=\"309\" y=\"58\" width=\"26\" height=\"24\" rx=\"3\" fill=\"currentColor\" fill-opacity=\"0.08\"/><text x=\"322\" y=\"75\" font-size=\"13\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\">T</text><rect x=\"337\" y=\"58\" width=\"26\" height=\"24\" rx=\"3\" fill=\"currentColor\" fill-opacity=\"0.08\"/><text x=\"350\" y=\"75\" font-size=\"13\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\">G</text></svg>",
+    "choices": [
+      "Deletion",
+      "Substitution",
+      "Inversion",
+      "Insertion"
+    ],
+    "answerIndex": 3,
+    "explanation": "The original has 9 bases (ATGCCATTG) and the mutated one has 10 (ATGCC**C**ATTG): an extra **C** was **inserted**. Because bases are read in groups of three, an insertion **shifts the reading frame** of everything after it (a frameshift mutation). A substitution would keep the length the same.",
+    "verified": true
+  },
+  {
+    "id": "G9-DNA-015",
+    "domain": "grade-9",
+    "subtopic": "DNA replication and mutations",
+    "difficulty": "medium",
+    "question": "In the diagram, P is a section of the DNA molecule that codes for one trait. Which statement about P is correct?",
+    "figure": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 400 160\" width=\"400\" height=\"160\" role=\"img\" aria-label=\"A chromosome on the left and an enlarged view of its DNA double helix on the right. A bracket marks a short section of the DNA, labeled P.\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><polyline points=\"150,80.0 156,73.2 162,67.1 168,62.2 174,59.1 180,58.0 186,59.1 192,62.2 198,67.1 204,73.2 210,80.0 216,86.8 222,92.9 228,97.8 234,100.9 240,102.0 246,100.9 252,97.8 258,92.9 264,86.8 270,80.0 276,73.2 282,67.1 288,62.2 294,59.1 300,58.0 306,59.1 312,62.2 318,67.1 324,73.2 330,80.0 336,86.8 342,92.9 348,97.8 354,100.9 360,102.0 366,100.9 372,97.8 378,92.9 384,86.8 390,80.0\" stroke-width=\"2.5\"/><polyline points=\"150,80.0 156,86.8 162,92.9 168,97.8 174,100.9 180,102.0 186,100.9 192,97.8 198,92.9 204,86.8 210,80.0 216,73.2 222,67.1 228,62.2 234,59.1 240,58.0 246,59.1 252,62.2 258,67.1 264,73.2 270,80.0 276,86.8 282,92.9 288,97.8 294,100.9 300,102.0 306,100.9 312,97.8 318,92.9 324,86.8 330,80.0 336,73.2 342,67.1 348,62.2 354,59.1 360,58.0 366,59.1 372,62.2 378,67.1 384,73.2 390,80.0\" stroke-width=\"2.5\"/><line x1=\"162\" y1=\"92.9\" x2=\"162\" y2=\"67.1\" stroke-width=\"1\"/><line x1=\"174\" y1=\"100.9\" x2=\"174\" y2=\"59.1\" stroke-width=\"1\"/><line x1=\"186\" y1=\"100.9\" x2=\"186\" y2=\"59.1\" stroke-width=\"1\"/><line x1=\"198\" y1=\"92.9\" x2=\"198\" y2=\"67.1\" stroke-width=\"1\"/><line x1=\"210\" y1=\"80.0\" x2=\"210\" y2=\"80.0\" stroke-width=\"1\"/><line x1=\"222\" y1=\"67.1\" x2=\"222\" y2=\"92.9\" stroke-width=\"1\"/><line x1=\"234\" y1=\"59.1\" x2=\"234\" y2=\"100.9\" stroke-width=\"1\"/><line x1=\"246\" y1=\"59.1\" x2=\"246\" y2=\"100.9\" stroke-width=\"1\"/><line x1=\"258\" y1=\"67.1\" x2=\"258\" y2=\"92.9\" stroke-width=\"1\"/><line x1=\"270\" y1=\"80.0\" x2=\"270\" y2=\"80.0\" stroke-width=\"1\"/><line x1=\"282\" y1=\"92.9\" x2=\"282\" y2=\"67.1\" stroke-width=\"1\"/><line x1=\"294\" y1=\"100.9\" x2=\"294\" y2=\"59.1\" stroke-width=\"1\"/><line x1=\"306\" y1=\"100.9\" x2=\"306\" y2=\"59.1\" stroke-width=\"1\"/><line x1=\"318\" y1=\"92.9\" x2=\"318\" y2=\"67.1\" stroke-width=\"1\"/><line x1=\"330\" y1=\"80.0\" x2=\"330\" y2=\"80.0\" stroke-width=\"1\"/><line x1=\"342\" y1=\"67.1\" x2=\"342\" y2=\"92.9\" stroke-width=\"1\"/><line x1=\"354\" y1=\"59.1\" x2=\"354\" y2=\"100.9\" stroke-width=\"1\"/><line x1=\"366\" y1=\"59.1\" x2=\"366\" y2=\"100.9\" stroke-width=\"1\"/><line x1=\"378\" y1=\"67.1\" x2=\"378\" y2=\"92.9\" stroke-width=\"1\"/><path d=\"M240 45 V38 H312 V45\" stroke-width=\"1.5\"/><text x=\"276\" y=\"30\" font-size=\"14\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\" font-weight=\"bold\">P</text><path d=\"M40 30 Q74 80 40 130\" stroke-width=\"12\"/><path d=\"M80 30 Q46 80 80 130\" stroke-width=\"12\"/><line x1=\"60\" y1=\"80\" x2=\"148\" y2=\"60\" stroke-width=\"0.8\" stroke-dasharray=\"3 3\"/><line x1=\"60\" y1=\"80\" x2=\"148\" y2=\"100\" stroke-width=\"0.8\" stroke-dasharray=\"3 3\"/><text x=\"60\" y=\"152\" font-size=\"11\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\">Chromosome</text><text x=\"270\" y=\"132\" font-size=\"11\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\">DNA</text></svg>",
+    "choices": [
+      "P is a chromosome, and a gene contains many chromosomes",
+      "P is a single nucleotide, the smallest unit of the chromosome",
+      "P is a gene found outside the chromosome, in the cytoplasm",
+      "P is a gene, and a chromosome contains many genes along one long DNA molecule"
+    ],
+    "answerIndex": 3,
+    "explanation": "A section of DNA that codes for a trait is a **gene**. Each chromosome is one long, coiled **DNA molecule** carrying **many genes**. A single nucleotide is far too small to code for a trait.",
+    "verified": true
+  },
+  {
+    "id": "G9-DNA-016",
+    "domain": "grade-9",
+    "subtopic": "DNA replication and mutations",
+    "difficulty": "medium",
+    "question": "A DNA sample contains 30% adenine. What percentage of the bases are guanine?",
+    "choices": [
+      "20%",
+      "30%",
+      "40%",
+      "70%"
+    ],
+    "answerIndex": 0,
+    "explanation": "Since A pairs with T, **T = 30%**. Then A + T = 60%, leaving $100\\% - 60\\% = 40\\%$ for G + C. G and C are equal, so **G = 20%**. 40% is G and C combined.",
+    "verified": true
+  },
+  {
+    "id": "G9-DNA-017",
+    "domain": "grade-9",
+    "subtopic": "DNA replication and mutations",
+    "difficulty": "medium",
+    "question": "During DNA replication, which enzyme unzips the double helix by breaking the bonds between base pairs?",
+    "choices": [
+      "DNA polymerase",
+      "Helicase",
+      "Amylase",
+      "Pepsin"
+    ],
+    "answerIndex": 1,
+    "explanation": "**Helicase** unwinds and separates the two strands. **DNA polymerase** then adds complementary nucleotides to build the new strands. Amylase and pepsin are digestive enzymes.",
+    "verified": true
+  },
+  {
+    "id": "G9-DNA-018",
+    "domain": "grade-9",
+    "subtopic": "DNA replication and mutations",
+    "difficulty": "medium",
+    "question": "Sickle cell anemia is caused by a change in a single base in the gene for hemoglobin. What type of mutation is this?",
+    "choices": [
+      "A point mutation (substitution)",
+      "A chromosomal mutation (duplication)",
+      "A change in chromosome number",
+      "A frameshift caused by deleting a whole chromosome"
+    ],
+    "answerIndex": 0,
+    "explanation": "Replacing **one base with another** is a **substitution**, a kind of **point mutation**. In sickle cell anemia it changes one amino acid in hemoglobin, causing red blood cells to become sickle-shaped. Chromosomal mutations affect large segments or whole chromosomes.",
+    "verified": true
+  },
+  {
+    "id": "G9-DNA-019",
+    "domain": "grade-9",
+    "subtopic": "DNA replication and mutations",
+    "difficulty": "medium",
+    "question": "A mutation occurs in a skin cell on a man's arm. Another mutation occurs in one of his sperm cells. Which mutation could be passed on to his children?",
+    "choices": [
+      "Only the mutation in the skin cell",
+      "Only the mutation in the sperm cell",
+      "Both mutations",
+      "Neither mutation"
+    ],
+    "answerIndex": 1,
+    "explanation": "Only mutations in **gametes (sex cells)** can be inherited, because only gametes pass DNA to offspring. A skin-cell mutation affects only that person and the cells descended from it.",
+    "verified": true
+  },
+  {
+    "id": "G9-DNA-020",
+    "domain": "grade-9",
+    "subtopic": "DNA replication and mutations",
+    "difficulty": "medium",
+    "question": "A person with Down syndrome has three copies of chromosome 21 instead of two. What kind of change is this?",
+    "choices": [
+      "A change in chromosome number",
+      "A substitution of one base",
+      "An insertion of one base",
+      "A change in only one gene"
+    ],
+    "answerIndex": 0,
+    "explanation": "Down syndrome (**trisomy 21**) is a **chromosomal mutation** involving an **extra whole chromosome**. It usually results from chromosomes failing to separate properly during meiosis (nondisjunction). It is not a single-base change.",
+    "verified": true
+  },
+  {
+    "id": "G9-DNA-021",
+    "domain": "grade-9",
+    "subtopic": "DNA replication and mutations",
+    "difficulty": "hard",
+    "question": "Which mutation near the beginning of a gene is most likely to change the protein the most?",
+    "choices": [
+      "Deleting one base, because every three-base group after it is read differently",
+      "Substituting one base, because every base after it shifts position",
+      "Deleting three bases in a row, because three is the largest number",
+      "Substituting one base, because all substitutions stop the gene from working"
+    ],
+    "answerIndex": 0,
+    "explanation": "Bases are read in groups of three (**codons**). Deleting **one base** shifts the **reading frame**, so **every codon after it** changes, usually producing a useless protein. A substitution changes at most one codon. Deleting exactly three bases removes one codon but keeps the rest of the frame intact.",
+    "verified": true
+  },
+  {
+    "id": "G9-DNA-022",
+    "domain": "grade-9",
+    "subtopic": "DNA replication and mutations",
+    "difficulty": "hard",
+    "question": "The codons GAA and GAG both code for the amino acid glutamic acid. A mutation changes GAA to GAG in a gene. What is the most likely effect on the protein?",
+    "choices": [
+      "The protein becomes much shorter",
+      "Every amino acid after this point changes",
+      "The protein gains an extra amino acid",
+      "No change, because the same amino acid is still coded"
+    ],
+    "answerIndex": 3,
+    "explanation": "Since both codons code for **the same amino acid**, the protein is unchanged. This is a **silent mutation**. Frameshifts change all later amino acids, and insertions would add bases rather than swap one.",
+    "verified": true
+  },
+  {
+    "id": "G9-DNA-023",
+    "domain": "grade-9",
+    "subtopic": "DNA replication and mutations",
+    "difficulty": "hard",
+    "question": "A double-stranded DNA molecule has 1,000 base pairs. It contains 300 adenine bases. How many guanine bases does it contain?",
+    "choices": [
+      "700",
+      "300",
+      "200",
+      "400"
+    ],
+    "answerIndex": 0,
+    "explanation": "1. 1,000 base pairs means $2 \\times 1{,}000 = 2{,}000$ bases.\n2. A = T, so T = 300; A + T = 600.\n3. G + C $= 2{,}000 - 600 = 1{,}400$.\n4. G = C, so **G = 700**.\n\nA common error is using 1,000 as the total number of bases, which gives 200.",
+    "verified": true
+  },
+  {
+    "id": "G9-DNA-024",
+    "domain": "grade-9",
+    "subtopic": "DNA replication and mutations",
+    "difficulty": "hard",
+    "question": "One DNA molecule replicates, and then both new molecules replicate again, giving 4 DNA molecules. How many of these 4 molecules still contain one of the two original parent strands?",
+    "choices": [
+      "1",
+      "4",
+      "2",
+      "0"
+    ],
+    "answerIndex": 2,
+    "explanation": "Replication is **semiconservative**, and the two original strands are never broken. After round 1, each of the 2 molecules has one original strand. After round 2, those 2 original strands end up in **2** of the 4 molecules; the other 2 molecules are made entirely of new strands.",
+    "verified": true
+  },
+  {
+    "id": "G9-BIO-001",
+    "domain": "grade-9",
+    "subtopic": "Biodiversity and endangered species",
+    "difficulty": "easy",
+    "question": "What does biodiversity mean?",
+    "choices": [
+      "The number of people living in a country",
+      "The total mass of all the plants in a forest",
+      "The study of how animals behave",
+      "The variety of all living things, including genes, species, and ecosystems"
+    ],
+    "answerIndex": 3,
+    "explanation": "**Biodiversity** is the **variety of life** at three levels: **genetic** diversity (within a species), **species** diversity, and **ecosystem** diversity.",
+    "verified": true
+  },
+  {
+    "id": "G9-BIO-002",
+    "domain": "grade-9",
+    "subtopic": "Biodiversity and endangered species",
+    "difficulty": "easy",
+    "question": "Which critically endangered animal is the national bird of the Philippines?",
+    "choices": [
+      "Philippine cockatoo",
+      "Maya bird",
+      "Rufous hornbill",
+      "Philippine eagle"
+    ],
+    "answerIndex": 3,
+    "explanation": "The **Philippine eagle** (*Pithecophaga jefferyi*) was declared the national bird in 1995. It is endemic to the Philippines and listed as **critically endangered**.",
+    "verified": true
+  },
+  {
+    "id": "G9-BIO-003",
+    "domain": "grade-9",
+    "subtopic": "Biodiversity and endangered species",
+    "difficulty": "easy",
+    "question": "The tamaraw, a small wild buffalo, is found naturally on only one island in the world. Which island is it?",
+    "choices": [
+      "Palawan",
+      "Bohol",
+      "Cebu",
+      "Mindoro"
+    ],
+    "answerIndex": 3,
+    "explanation": "The **tamaraw** (*Bubalus mindorensis*) is endemic to **Mindoro**, as its species name suggests. It is critically endangered, and Mts. Iglit–Baco Natural Park is one of its main protected habitats.",
+    "verified": true
+  },
+  {
+    "id": "G9-BIO-004",
+    "domain": "grade-9",
+    "subtopic": "Biodiversity and endangered species",
+    "difficulty": "easy",
+    "question": "What is an endemic species?",
+    "choices": [
+      "A species that has completely died out",
+      "A species brought into a place by humans",
+      "A species found on every continent",
+      "A species found naturally in only one particular place"
+    ],
+    "answerIndex": 3,
+    "explanation": "An **endemic** species occurs naturally **only in one area**, such as a country or island. The Philippines has many endemic species, which makes their conservation a responsibility unique to the country.",
+    "verified": true
+  },
+  {
+    "id": "G9-BIO-005",
+    "domain": "grade-9",
+    "subtopic": "Biodiversity and endangered species",
+    "difficulty": "easy",
+    "question": "What is the biggest threat to most endangered forest animals in the Philippines?",
+    "choices": [
+      "Habitat loss from deforestation",
+      "Too many protected areas",
+      "Too much rainfall in forests",
+      "Competition with houseplants"
+    ],
+    "answerIndex": 0,
+    "explanation": "**Habitat loss**, from logging, kaingin, mining, and land conversion, removes the food, shelter, and nesting sites wildlife need. It is the leading cause of species decline in the Philippines.",
+    "verified": true
+  },
+  {
+    "id": "G9-BIO-006",
+    "domain": "grade-9",
+    "subtopic": "Biodiversity and endangered species",
+    "difficulty": "easy",
+    "question": "Which Philippine law protects wild plants and animals and penalizes their illegal collection and trade?",
+    "choices": [
+      "Republic Act 10612 (Fast-Tracked Science Scholarship Act)",
+      "Republic Act 9003 (Ecological Solid Waste Management Act)",
+      "Republic Act 9147 (Wildlife Resources Conservation and Protection Act)",
+      "Republic Act 8749 (Clean Air Act)"
+    ],
+    "answerIndex": 2,
+    "explanation": "**RA 9147 (2001)** is the **Wildlife Resources Conservation and Protection Act**. It regulates collecting, possessing, and trading wildlife. RA 9003 is about waste, RA 8749 is about air quality, and RA 10612 is a science scholarship law.",
+    "verified": true
+  },
+  {
+    "id": "G9-BIO-007",
+    "domain": "grade-9",
+    "subtopic": "Biodiversity and endangered species",
+    "difficulty": "easy",
+    "question": "A species with no living members left anywhere in the world is described as",
+    "choices": [
+      "endangered",
+      "extinct",
+      "endemic",
+      "threatened"
+    ],
+    "answerIndex": 1,
+    "explanation": "**Extinct** means no individuals remain alive. **Endangered** species are at high risk of extinction but still exist. Endemic describes where a species lives, not its risk.",
+    "verified": true
+  },
+  {
+    "id": "G9-BIO-008",
+    "domain": "grade-9",
+    "subtopic": "Biodiversity and endangered species",
+    "difficulty": "easy",
+    "question": "Which strategy protects endangered species within their natural habitat?",
+    "choices": [
+      "Keeping animals in zoos far from their habitat",
+      "Establishing protected areas such as natural parks",
+      "Storing seeds in a seed bank",
+      "Selling animals as pets to caring owners"
+    ],
+    "answerIndex": 1,
+    "explanation": "Protecting species where they naturally live is **in-situ conservation**, done through **protected areas** such as natural parks and marine sanctuaries. Zoos and seed banks are **ex-situ** methods, and the pet trade is a threat, not a solution.",
+    "verified": true
+  },
+  {
+    "id": "G9-BIO-009",
+    "domain": "grade-9",
+    "subtopic": "Biodiversity and endangered species",
+    "difficulty": "easy",
+    "question": "Which reptile, endemic to the Philippines, is a critically endangered freshwater species?",
+    "choices": [
+      "Philippine crocodile",
+      "Reticulated python",
+      "Water monitor lizard",
+      "Green sea turtle"
+    ],
+    "answerIndex": 0,
+    "explanation": "The **Philippine crocodile** (*Crocodylus mindorensis*) lives only in Philippine freshwater habitats and is **critically endangered**. The reticulated python and water monitor are widespread in Asia, and the green sea turtle lives in the ocean and is not endemic.",
+    "verified": true
+  },
+  {
+    "id": "G9-BIO-010",
+    "domain": "grade-9",
+    "subtopic": "Biodiversity and endangered species",
+    "difficulty": "medium",
+    "question": "The graph shows the number of species recorded at four sites with similar areas and climates. Which site is most likely to remain stable if one species suddenly declines?",
+    "figure": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 205\" width=\"360\" height=\"205\" role=\"img\" aria-label=\"A bar graph of the number of species recorded at four sites, W, X, Y, and Z, with similar areas and climates.\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"50\" y1=\"170\" x2=\"333.0\" y2=\"170.0\"/><polygon points=\"340,170 333.0,166.5 333.0,173.5\" fill=\"currentColor\" stroke=\"none\"/><line x1=\"50\" y1=\"170\" x2=\"50.0\" y2=\"27.0\"/><polygon points=\"50,20 46.5,27.0 53.5,27.0\" fill=\"currentColor\" stroke=\"none\"/><text x=\"195.0\" y=\"199\" font-size=\"11\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\">Site</text><text x=\"16\" y=\"95.0\" font-size=\"11\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\" transform=\"rotate(-90 16 95.0)\">Number of species</text><line x1=\"46\" y1=\"170.0\" x2=\"50\" y2=\"170.0\" stroke-width=\"1\"/><text x=\"42\" y=\"174.0\" font-size=\"10\" text-anchor=\"end\" fill=\"currentColor\" stroke=\"none\">0</text><line x1=\"46\" y1=\"135.0\" x2=\"50\" y2=\"135.0\" stroke-width=\"1\"/><text x=\"42\" y=\"139.0\" font-size=\"10\" text-anchor=\"end\" fill=\"currentColor\" stroke=\"none\">10</text><line x1=\"46\" y1=\"100.0\" x2=\"50\" y2=\"100.0\" stroke-width=\"1\"/><text x=\"42\" y=\"104.0\" font-size=\"10\" text-anchor=\"end\" fill=\"currentColor\" stroke=\"none\">20</text><line x1=\"46\" y1=\"65.0\" x2=\"50\" y2=\"65.0\" stroke-width=\"1\"/><text x=\"42\" y=\"69.0\" font-size=\"10\" text-anchor=\"end\" fill=\"currentColor\" stroke=\"none\">30</text><line x1=\"46\" y1=\"30.0\" x2=\"50\" y2=\"30.0\" stroke-width=\"1\"/><text x=\"42\" y=\"34.0\" font-size=\"10\" text-anchor=\"end\" fill=\"currentColor\" stroke=\"none\">40</text><rect x=\"75\" y=\"128.0\" width=\"40\" height=\"42.0\" fill=\"currentColor\" fill-opacity=\"0.25\"/><text x=\"95\" y=\"184\" font-size=\"11\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\" font-weight=\"bold\">W</text><rect x=\"140\" y=\"47.5\" width=\"40\" height=\"122.5\" fill=\"currentColor\" fill-opacity=\"0.25\"/><text x=\"160\" y=\"184\" font-size=\"11\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\" font-weight=\"bold\">X</text><rect x=\"205\" y=\"142.0\" width=\"40\" height=\"28.0\" fill=\"currentColor\" fill-opacity=\"0.25\"/><text x=\"225\" y=\"184\" font-size=\"11\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\" font-weight=\"bold\">Y</text><rect x=\"270\" y=\"100.0\" width=\"40\" height=\"70.0\" fill=\"currentColor\" fill-opacity=\"0.25\"/><text x=\"290\" y=\"184\" font-size=\"11\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\" font-weight=\"bold\">Z</text></svg>",
+    "choices": [
+      "Z",
+      "W",
+      "X",
+      "Y"
+    ],
+    "answerIndex": 2,
+    "explanation": "Site **X** has the **most species** (35). With more species, there are more **alternative food sources** and organisms that can fill similar roles, so the loss of one species has a smaller effect. Site Y, with the fewest species, would be the least stable.",
+    "verified": true
+  },
+  {
+    "id": "G9-BIO-011",
+    "domain": "grade-9",
+    "subtopic": "Biodiversity and endangered species",
+    "difficulty": "medium",
+    "question": "In the food web shown, a disease kills all the grasshoppers. Which organism will be most directly affected?",
+    "figure": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 370 215\" width=\"370\" height=\"215\" role=\"img\" aria-label=\"A food web with grass, rice, grasshopper, rat, frog, snake, and hawk. Arrows point from food to the organism that eats it.\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"20\" y=\"175\" width=\"90\" height=\"30\" rx=\"6\" fill=\"currentColor\" fill-opacity=\"0.08\"/><text x=\"65.0\" y=\"193.85\" font-size=\"11\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\">Grass</text><rect x=\"230\" y=\"175\" width=\"90\" height=\"30\" rx=\"6\" fill=\"currentColor\" fill-opacity=\"0.08\"/><text x=\"275.0\" y=\"193.85\" font-size=\"11\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\">Rice</text><rect x=\"20\" y=\"115\" width=\"90\" height=\"30\" rx=\"6\" fill=\"currentColor\" fill-opacity=\"0.08\"/><text x=\"65.0\" y=\"133.85\" font-size=\"11\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\">Grasshopper</text><rect x=\"230\" y=\"115\" width=\"90\" height=\"30\" rx=\"6\" fill=\"currentColor\" fill-opacity=\"0.08\"/><text x=\"275.0\" y=\"133.85\" font-size=\"11\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\">Rat</text><rect x=\"20\" y=\"55\" width=\"90\" height=\"30\" rx=\"6\" fill=\"currentColor\" fill-opacity=\"0.08\"/><text x=\"65.0\" y=\"73.85\" font-size=\"11\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\">Frog</text><rect x=\"125\" y=\"20\" width=\"90\" height=\"30\" rx=\"6\" fill=\"currentColor\" fill-opacity=\"0.08\"/><text x=\"170.0\" y=\"38.85\" font-size=\"11\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\">Snake</text><rect x=\"265\" y=\"20\" width=\"90\" height=\"30\" rx=\"6\" fill=\"currentColor\" fill-opacity=\"0.08\"/><text x=\"310.0\" y=\"38.85\" font-size=\"11\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\">Hawk</text><line x1=\"65\" y1=\"175\" x2=\"65.0\" y2=\"153.0\"/><polygon points=\"65,146 61.5,153.0 68.5,153.0\" fill=\"currentColor\" stroke=\"none\"/><line x1=\"110\" y1=\"182\" x2=\"222.4\" y2=\"143.3\"/><polygon points=\"229,141 221.2,140.0 223.5,146.6\" fill=\"currentColor\" stroke=\"none\"/><line x1=\"275\" y1=\"175\" x2=\"275.0\" y2=\"153.0\"/><polygon points=\"275,146 271.5,153.0 278.5,153.0\" fill=\"currentColor\" stroke=\"none\"/><line x1=\"65\" y1=\"115\" x2=\"65.0\" y2=\"93.0\"/><polygon points=\"65,86 61.5,93.0 68.5,93.0\" fill=\"currentColor\" stroke=\"none\"/><line x1=\"110\" y1=\"62\" x2=\"133.4\" y2=\"53.4\"/><polygon points=\"140,51 132.2,50.1 134.6,56.7\" fill=\"currentColor\" stroke=\"none\"/><line x1=\"245\" y1=\"115\" x2=\"194.6\" y2=\"56.3\"/><polygon points=\"190,51 191.9,58.6 197.2,54.0\" fill=\"currentColor\" stroke=\"none\"/><line x1=\"300\" y1=\"115\" x2=\"300.0\" y2=\"58.0\"/><polygon points=\"300,51 296.5,58.0 303.5,58.0\" fill=\"currentColor\" stroke=\"none\"/><line x1=\"215\" y1=\"35\" x2=\"257.0\" y2=\"35.0\"/><polygon points=\"264,35 257.0,31.5 257.0,38.5\" fill=\"currentColor\" stroke=\"none\"/></svg>",
+    "choices": [
+      "Frog",
+      "Rat",
+      "Snake",
+      "Hawk"
+    ],
+    "answerIndex": 0,
+    "explanation": "In this web, the **frog eats only grasshoppers**, so it loses its only food source. The rat eats plants, and the snake and hawk have other prey (rats). Organisms with **fewer food sources** are more vulnerable when one species disappears.",
+    "verified": true
+  },
+  {
+    "id": "G9-BIO-012",
+    "domain": "grade-9",
+    "subtopic": "Biodiversity and endangered species",
+    "difficulty": "medium",
+    "question": "Each quadrat contains 12 organisms belonging to the same four species, and each symbol stands for one species. Which quadrat has higher biodiversity?",
+    "figure": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 380 190\" width=\"380\" height=\"190\" role=\"img\" aria-label=\"Two square sampling plots, Quadrat A and Quadrat B, each containing twelve organisms drawn as four kinds of symbols. Each symbol stands for one species.\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"20\" y=\"10\" width=\"150\" height=\"150\" fill=\"currentColor\" fill-opacity=\"0.03\"/><rect x=\"210\" y=\"10\" width=\"150\" height=\"150\" fill=\"currentColor\" fill-opacity=\"0.03\"/><text x=\"95\" y=\"178\" font-size=\"12\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\" font-weight=\"bold\">Quadrat A</text><text x=\"285\" y=\"178\" font-size=\"12\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\" font-weight=\"bold\">Quadrat B</text><circle cx=\"50\" cy=\"40\" r=\"6\" fill=\"currentColor\" fill-opacity=\"0.3\"/><rect x=\"89\" y=\"29\" width=\"12\" height=\"12\" fill=\"currentColor\" fill-opacity=\"0.3\"/><polygon points=\"140,38 147,51 133,51\" fill=\"currentColor\" fill-opacity=\"0.3\"/><line x1=\"53\" y1=\"85\" x2=\"67\" y2=\"85\" stroke-width=\"2.5\"/><line x1=\"60\" y1=\"78\" x2=\"60\" y2=\"92\" stroke-width=\"2.5\"/><polygon points=\"105,73 112,86 98,86\" fill=\"currentColor\" fill-opacity=\"0.3\"/><circle cx=\"145\" cy=\"90\" r=\"6\" fill=\"currentColor\" fill-opacity=\"0.3\"/><line x1=\"43\" y1=\"130\" x2=\"57\" y2=\"130\" stroke-width=\"2.5\"/><line x1=\"50\" y1=\"123\" x2=\"50\" y2=\"137\" stroke-width=\"2.5\"/><rect x=\"84\" y=\"119\" width=\"12\" height=\"12\" fill=\"currentColor\" fill-opacity=\"0.3\"/><circle cx=\"135\" cy=\"135\" r=\"6\" fill=\"currentColor\" fill-opacity=\"0.3\"/><line x1=\"68\" y1=\"60\" x2=\"82\" y2=\"60\" stroke-width=\"2.5\"/><line x1=\"75\" y1=\"53\" x2=\"75\" y2=\"67\" stroke-width=\"2.5\"/><rect x=\"114\" y=\"104\" width=\"12\" height=\"12\" fill=\"currentColor\" fill-opacity=\"0.3\"/><polygon points=\"70,98 77,111 63,111\" fill=\"currentColor\" fill-opacity=\"0.3\"/><circle cx=\"240\" cy=\"40\" r=\"6\" fill=\"currentColor\" fill-opacity=\"0.3\"/><circle cx=\"285\" cy=\"35\" r=\"6\" fill=\"currentColor\" fill-opacity=\"0.3\"/><circle cx=\"330\" cy=\"45\" r=\"6\" fill=\"currentColor\" fill-opacity=\"0.3\"/><circle cx=\"250\" cy=\"85\" r=\"6\" fill=\"currentColor\" fill-opacity=\"0.3\"/><rect x=\"289\" y=\"74\" width=\"12\" height=\"12\" fill=\"currentColor\" fill-opacity=\"0.3\"/><circle cx=\"335\" cy=\"90\" r=\"6\" fill=\"currentColor\" fill-opacity=\"0.3\"/><circle cx=\"240\" cy=\"130\" r=\"6\" fill=\"currentColor\" fill-opacity=\"0.3\"/><polygon points=\"280,118 287,131 273,131\" fill=\"currentColor\" fill-opacity=\"0.3\"/><circle cx=\"325\" cy=\"135\" r=\"6\" fill=\"currentColor\" fill-opacity=\"0.3\"/><circle cx=\"265\" cy=\"60\" r=\"6\" fill=\"currentColor\" fill-opacity=\"0.3\"/><line x1=\"303\" y1=\"110\" x2=\"317\" y2=\"110\" stroke-width=\"2.5\"/><line x1=\"310\" y1=\"103\" x2=\"310\" y2=\"117\" stroke-width=\"2.5\"/><circle cx=\"260\" cy=\"105\" r=\"6\" fill=\"currentColor\" fill-opacity=\"0.3\"/></svg>",
+    "choices": [
+      "Quadrat B, because one species is very common there",
+      "Quadrat A, because its four species are more evenly represented",
+      "Both are equal, because they have the same number of species",
+      "Both are equal, because they have the same number of individuals"
+    ],
+    "answerIndex": 1,
+    "explanation": "Both quadrats have the same **species richness** (4 species). But in A, each species has **3 individuals**, while in B one species makes up 9 of the 12. Species diversity considers both **richness** and **evenness**, so **Quadrat A** is more diverse.",
+    "verified": true
+  },
+  {
+    "id": "G9-BIO-013",
+    "domain": "grade-9",
+    "subtopic": "Biodiversity and endangered species",
+    "difficulty": "medium",
+    "question": "Why does an ecosystem with high biodiversity usually recover better from disturbances such as typhoons or disease?",
+    "choices": [
+      "Typhoons and diseases cannot reach ecosystems with many species",
+      "Many species can take over the roles of those that are harmed",
+      "Ecosystems with many species have no predators",
+      "High biodiversity means each species has only one food source"
+    ],
+    "answerIndex": 1,
+    "explanation": "In a diverse ecosystem, **several species often perform similar roles** (e.g., many pollinators or many plant species). If one is harmed, others can **fill the gap**, so food webs and nutrient cycles keep working. Diverse ecosystems are still affected by disturbances; they just recover better.",
+    "verified": true
+  },
+  {
+    "id": "G9-BIO-014",
+    "domain": "grade-9",
+    "subtopic": "Biodiversity and endangered species",
+    "difficulty": "medium",
+    "question": "Besides habitat loss, which human activity has directly reduced the population of the critically endangered Philippine cockatoo?",
+    "choices": [
+      "Planting more trees in their nesting areas",
+      "Setting up wildlife sanctuaries on islands",
+      "Capturing the birds for the pet trade",
+      "Banning hunting in their habitat"
+    ],
+    "answerIndex": 2,
+    "explanation": "The Philippine cockatoo (*katala*) has been heavily **trapped for the pet trade**, especially by taking chicks from nests. The other choices are conservation actions that **help** the species.",
+    "verified": true
+  },
+  {
+    "id": "G9-BIO-015",
+    "domain": "grade-9",
+    "subtopic": "Biodiversity and endangered species",
+    "difficulty": "medium",
+    "question": "Philippine eagles are bred at a conservation center in Davao, and some are later released into protected forests. What type of conservation is the breeding program?",
+    "choices": [
+      "In-situ conservation",
+      "Habitat destruction",
+      "Ex-situ conservation",
+      "Deforestation"
+    ],
+    "answerIndex": 2,
+    "explanation": "Breeding animals **outside their natural habitat**, as in a conservation center or zoo, is **ex-situ conservation**. Protecting them in the wild, as in a natural park, is in-situ conservation. The two strategies are often used together.",
+    "verified": true
+  },
+  {
+    "id": "G9-BIO-016",
+    "domain": "grade-9",
+    "subtopic": "Biodiversity and endangered species",
+    "difficulty": "medium",
+    "question": "Only a few hundred tamaraws remain, so their genetic diversity is low. Why is low genetic diversity a problem for this species?",
+    "choices": [
+      "The tamaraws will grow too large for their habitat",
+      "Low genetic diversity makes the animals reproduce much faster",
+      "Most individuals may share the same weaknesses, so a single disease could affect many of them",
+      "Low genetic diversity allows the species to live anywhere"
+    ],
+    "answerIndex": 2,
+    "explanation": "**Genetic diversity** gives a population the variation it needs to survive change. When individuals are genetically similar, a **new disease or environmental change** may harm most of them, and inbreeding can increase harmful traits.",
+    "verified": true
+  },
+  {
+    "id": "G9-BIO-017",
+    "domain": "grade-9",
+    "subtopic": "Biodiversity and endangered species",
+    "difficulty": "medium",
+    "question": "A farmer plants only one rice variety over a large area, while a neighbor grows rice together with vegetables, fruit trees, and fishponds. Which farm is more likely to suffer a severe pest outbreak?",
+    "choices": [
+      "The diverse farm, because pests prefer places with many kinds of plants",
+      "Both farms equally, because pests attack all crops the same way",
+      "Neither farm, because rice plants are never attacked by pests",
+      "The single-variety rice farm, because pests have an abundant food supply and fewer natural enemies"
+    ],
+    "answerIndex": 3,
+    "explanation": "A **monoculture** gives pests a huge, uniform food supply and supports **fewer predators** (spiders, frogs, birds) that control them. Diverse farms provide habitat for natural enemies and make pest outbreaks less likely.",
+    "verified": true
+  },
+  {
+    "id": "G9-BIO-018",
+    "domain": "grade-9",
+    "subtopic": "Biodiversity and endangered species",
+    "difficulty": "medium",
+    "question": "The golden apple snail was brought to the Philippines as a food source but escaped into rice fields and waterways. How does an invasive species like this affect biodiversity?",
+    "choices": [
+      "It can outcompete native species and damage crops, reducing native populations",
+      "It always increases biodiversity because it adds one more species",
+      "It has no effect because it becomes part of the food web immediately",
+      "It helps native snails by giving them more food"
+    ],
+    "answerIndex": 0,
+    "explanation": "**Invasive species** often have **no natural predators** in their new home, so they multiply quickly. The golden apple snail eats young rice plants and competes with native snails. Adding a species can actually **lower** biodiversity overall.",
+    "verified": true
+  },
+  {
+    "id": "G9-BIO-019",
+    "domain": "grade-9",
+    "subtopic": "Biodiversity and endangered species",
+    "difficulty": "medium",
+    "question": "Many fruit trees depend on bees to carry pollen from flower to flower. If bee populations in an area decline sharply, what is the most likely effect?",
+    "choices": [
+      "The fruit trees will grow larger because bees no longer feed on them",
+      "Fewer fruits and seeds form, so these plants and the animals that eat them decline",
+      "Other animals will immediately take over pollination without any loss",
+      "Nothing changes because fruit trees do not need pollination"
+    ],
+    "answerIndex": 1,
+    "explanation": "Bees are important **pollinators**. Without pollination, flowers do not form fruits and seeds, so plant reproduction drops. Animals that eat those fruits are affected too. This shows how losing one species affects many others.",
+    "verified": true
+  },
+  {
+    "id": "G9-BIO-020",
+    "domain": "grade-9",
+    "subtopic": "Biodiversity and endangered species",
+    "difficulty": "medium",
+    "question": "Which action can a student take that most directly helps protect endangered Philippine wildlife?",
+    "choices": [
+      "Keep a wild bird as a pet so it is safe from hunters",
+      "Release pet fish from other countries into local rivers",
+      "Refuse to buy wild-caught animals or products made from them and report illegal wildlife trade",
+      "Collect rare orchids from the forest to grow at home"
+    ],
+    "answerIndex": 2,
+    "explanation": "Buying wildlife creates **demand** for poaching. Refusing such products and **reporting illegal trade** to the DENR reduces this demand. Keeping wild animals, releasing non-native pets, and collecting wild plants all harm biodiversity.",
+    "verified": true
+  },
+  {
+    "id": "G9-BIO-021",
+    "domain": "grade-9",
+    "subtopic": "Biodiversity and endangered species",
+    "difficulty": "hard",
+    "question": "Fruit bats carry and drop the seeds of many forest trees. If hunting removes most of the fruit bats in a forest, which long-term chain of effects is most likely?",
+    "choices": [
+      "More seeds are spread because there are fewer bats eating fruit",
+      "Trees grow faster, so the number of animal species increases",
+      "Fewer seeds are spread, fewer new trees grow, and animals that need those trees decline",
+      "Only the bats are affected, so the rest of the forest stays the same"
+    ],
+    "answerIndex": 2,
+    "explanation": "Fruit bats are important **seed dispersers**. Without them, seeds fall under the parent tree, where few survive. Over time, **fewer young trees** replace old ones, so the forest changes and species that depend on those trees decline. One species loss can cascade through an ecosystem.",
+    "verified": true
+  },
+  {
+    "id": "G9-BIO-022",
+    "domain": "grade-9",
+    "subtopic": "Biodiversity and endangered species",
+    "difficulty": "hard",
+    "question": "Divers counted fish species on a reef before and 5 years after part of it became a marine protected area (MPA). Inside the MPA, species rose from 40 to 65. In the unprotected part of the same reef, species went from 40 to 38. What is the best conclusion?",
+    "choices": [
+      "Fish species increased everywhere because of better weather",
+      "The MPA reduced biodiversity by keeping fishers out",
+      "Protection allowed biodiversity to recover, since the unprotected part did not improve",
+      "The data cannot show anything because both areas started with 40 species"
+    ],
+    "answerIndex": 2,
+    "explanation": "Both areas started equal, and the **unprotected area acts as a comparison (control)**. Only the protected area improved, so the increase is best explained by **protection from fishing and damage**, not by weather that would affect both. Starting equal makes the comparison **more** useful.",
+    "verified": true
+  },
+  {
+    "id": "G9-BIO-023",
+    "domain": "grade-9",
+    "subtopic": "Biodiversity and endangered species",
+    "difficulty": "hard",
+    "question": "A Philippine eagle pair usually raises only one chick every two years, and each pair needs a large area of forest. Why do these traits make it hard for the species to recover?",
+    "choices": [
+      "Raising one chick at a time means each chick is weaker",
+      "Large territories mean the eagles have too much food",
+      "These traits make no difference as long as hunting stops",
+      "Slow breeding means losses are replaced slowly, and needing large forests makes habitat loss very harmful"
+    ],
+    "answerIndex": 3,
+    "explanation": "Species with **slow reproduction** cannot quickly replace individuals lost to hunting or accidents. Species needing **large territories** lose many pairs when forests are cut. Together, these traits make large predators like the Philippine eagle especially vulnerable.",
+    "verified": true
+  },
+  {
+    "id": "G9-ECO-001",
+    "domain": "grade-9",
+    "subtopic": "Types of ecosystems in the Philippines",
+    "difficulty": "easy",
+    "question": "Where do mangrove forests grow?",
+    "choices": [
+      "On the tops of high mountains",
+      "Along coasts, where fresh water and seawater mix",
+      "In deep water far from the shore",
+      "In dry grasslands far from water"
+    ],
+    "answerIndex": 1,
+    "explanation": "**Mangroves** grow in **intertidal coastal areas** and river mouths with **brackish water**. Special roots such as prop roots and breathing roots help them survive in salty, muddy, low-oxygen soil.",
+    "verified": true
+  },
+  {
+    "id": "G9-ECO-002",
+    "domain": "grade-9",
+    "subtopic": "Types of ecosystems in the Philippines",
+    "difficulty": "easy",
+    "question": "Coral reefs are mainly built by which organisms?",
+    "choices": [
+      "Seaweeds that grow on rocks",
+      "Tiny animals called coral polyps",
+      "Fish that pile up stones",
+      "Sea turtles that lay their eggs on the reef"
+    ],
+    "answerIndex": 1,
+    "explanation": "Coral reefs are built by **coral polyps**, small animals that produce hard **calcium carbonate** skeletons. Algae living inside their tissues supply them with food through photosynthesis.",
+    "verified": true
+  },
+  {
+    "id": "G9-ECO-003",
+    "domain": "grade-9",
+    "subtopic": "Types of ecosystems in the Philippines",
+    "difficulty": "easy",
+    "question": "The Philippines is part of the Coral Triangle. What is this region known for?",
+    "choices": [
+      "It has the highest diversity of marine life in the world",
+      "It has no coral reefs at all",
+      "It is the coldest ocean region on Earth",
+      "It has only one kind of coral"
+    ],
+    "answerIndex": 0,
+    "explanation": "The **Coral Triangle**, which includes the Philippines, Indonesia, Malaysia, Papua New Guinea, Timor-Leste, and the Solomon Islands, is the **global center of marine biodiversity**, with the most coral and reef fish species.",
+    "verified": true
+  },
+  {
+    "id": "G9-ECO-004",
+    "domain": "grade-9",
+    "subtopic": "Types of ecosystems in the Philippines",
+    "difficulty": "easy",
+    "question": "Which animals feed directly on seagrass?",
+    "choices": [
+      "Sharks and barracudas",
+      "Eagles and hawks",
+      "Carabaos and goats",
+      "Dugongs and green sea turtles"
+    ],
+    "answerIndex": 3,
+    "explanation": "**Dugongs** and **green sea turtles** graze on seagrass. Seagrass beds also serve as nursery grounds for many young fish. Sharks and barracudas are predators, not grazers.",
+    "verified": true
+  },
+  {
+    "id": "G9-ECO-005",
+    "domain": "grade-9",
+    "subtopic": "Types of ecosystems in the Philippines",
+    "difficulty": "easy",
+    "question": "Which Philippine marine park in the Sulu Sea is a UNESCO World Heritage Site known for its coral reefs?",
+    "choices": [
+      "Mount Apo Natural Park",
+      "Banaue Rice Terraces",
+      "Chocolate Hills",
+      "Tubbataha Reefs Natural Park"
+    ],
+    "answerIndex": 3,
+    "explanation": "**Tubbataha Reefs Natural Park**, in the Sulu Sea and part of Palawan province, is a marine protected area and **UNESCO World Heritage Site**. Mount Apo is a mountain, the rice terraces are an agricultural landscape, and the Chocolate Hills are a land formation.",
+    "verified": true
+  },
+  {
+    "id": "G9-ECO-006",
+    "domain": "grade-9",
+    "subtopic": "Types of ecosystems in the Philippines",
+    "difficulty": "easy",
+    "question": "What is the largest lake in the Philippines?",
+    "choices": [
+      "Laguna de Bay",
+      "Taal Lake",
+      "Lake Lanao",
+      "Lake Sebu"
+    ],
+    "answerIndex": 0,
+    "explanation": "**Laguna de Bay** is the largest lake in the country. It supports fisheries and supplies water to nearby communities. Lake Lanao is the second largest.",
+    "verified": true
+  },
+  {
+    "id": "G9-ECO-007",
+    "domain": "grade-9",
+    "subtopic": "Types of ecosystems in the Philippines",
+    "difficulty": "easy",
+    "question": "What is kaingin?",
+    "choices": [
+      "Planting mangroves along the shore",
+      "Catching fish using hook and line",
+      "Raising fish in floating cages",
+      "Clearing forest by cutting and burning plants to plant crops"
+    ],
+    "answerIndex": 3,
+    "explanation": "**Kaingin** is **slash-and-burn farming**. Done on a large scale, it destroys forest habitats, causes soil erosion, and reduces biodiversity.",
+    "verified": true
+  },
+  {
+    "id": "G9-ECO-008",
+    "domain": "grade-9",
+    "subtopic": "Types of ecosystems in the Philippines",
+    "difficulty": "easy",
+    "question": "Which of the following is an agricultural ecosystem?",
+    "choices": [
+      "Coral reef",
+      "Rice terraces",
+      "Mossy forest",
+      "Seagrass bed"
+    ],
+    "answerIndex": 1,
+    "explanation": "An **agricultural ecosystem** is created and managed by people for growing crops or raising animals, such as the **rice terraces** of the Cordillera. The other choices are natural ecosystems.",
+    "verified": true
+  },
+  {
+    "id": "G9-ECO-009",
+    "domain": "grade-9",
+    "subtopic": "Types of ecosystems in the Philippines",
+    "difficulty": "easy",
+    "question": "Which describes a tropical rainforest?",
+    "choices": [
+      "Cold all year, with little rainfall and few plants",
+      "Covered with grasses and almost no trees",
+      "Warm all year, with heavy rainfall and very high biodiversity",
+      "Found only in deep ocean water"
+    ],
+    "answerIndex": 2,
+    "explanation": "**Tropical rainforests** are **warm and wet year-round** and contain more species than any other land ecosystem. Philippine rainforests have many endemic species.",
+    "verified": true
+  },
+  {
+    "id": "G9-ECO-010",
+    "domain": "grade-9",
+    "subtopic": "Types of ecosystems in the Philippines",
+    "difficulty": "medium",
+    "question": "The diagram shows a cross-section of a coastline. Which zone is a seagrass bed?",
+    "figure": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 420 180\" width=\"420\" height=\"180\" role=\"img\" aria-label=\"A cross-section of a coastline from land out to sea, with three zones numbered 1, 2, and 3.\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M0 90 L130 110 L260 130 L420 150 L420 180 L0 180 Z\" fill=\"currentColor\" fill-opacity=\"0.15\"/><path d=\"M60 95 L420 95 L420 150 L260 130 L130 110 L60 99 Z\" fill=\"currentColor\" fill-opacity=\"0.05\" stroke-width=\"0.1\"/><line x1=\"60\" y1=\"95\" x2=\"420\" y2=\"95\" stroke-dasharray=\"6 4\"/><text x=\"25\" y=\"80\" font-size=\"11\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\">Land</text><ellipse cx=\"80\" cy=\"52\" rx=\"20\" ry=\"13\" fill=\"currentColor\" fill-opacity=\"0.2\"/><line x1=\"80\" y1=\"65\" x2=\"80\" y2=\"94.3076923076923\" stroke-width=\"2\"/><path d=\"M80 90.3076923076923 Q70 90.3076923076923 66 102.3076923076923\"/><path d=\"M80 90.3076923076923 Q90 90.3076923076923 94 102.3076923076923\"/><ellipse cx=\"115\" cy=\"52\" rx=\"20\" ry=\"13\" fill=\"currentColor\" fill-opacity=\"0.2\"/><line x1=\"115\" y1=\"65\" x2=\"115\" y2=\"99.6923076923077\" stroke-width=\"2\"/><path d=\"M115 95.6923076923077 Q105 95.6923076923077 101 107.6923076923077\"/><path d=\"M115 95.6923076923077 Q125 95.6923076923077 129 107.6923076923077\"/><line x1=\"165\" y1=\"115.38461538461539\" x2=\"163\" y2=\"102.38461538461539\" stroke-width=\"1.2\"/><line x1=\"168\" y1=\"115.38461538461539\" x2=\"170\" y2=\"105.38461538461539\" stroke-width=\"1.2\"/><line x1=\"174\" y1=\"116.76923076923077\" x2=\"172\" y2=\"103.76923076923077\" stroke-width=\"1.2\"/><line x1=\"177\" y1=\"116.76923076923077\" x2=\"179\" y2=\"106.76923076923077\" stroke-width=\"1.2\"/><line x1=\"183\" y1=\"118.15384615384616\" x2=\"181\" y2=\"105.15384615384616\" stroke-width=\"1.2\"/><line x1=\"186\" y1=\"118.15384615384616\" x2=\"188\" y2=\"108.15384615384616\" stroke-width=\"1.2\"/><line x1=\"192\" y1=\"119.53846153846153\" x2=\"190\" y2=\"106.53846153846153\" stroke-width=\"1.2\"/><line x1=\"195\" y1=\"119.53846153846153\" x2=\"197\" y2=\"109.53846153846153\" stroke-width=\"1.2\"/><line x1=\"201\" y1=\"120.92307692307692\" x2=\"199\" y2=\"107.92307692307692\" stroke-width=\"1.2\"/><line x1=\"204\" y1=\"120.92307692307692\" x2=\"206\" y2=\"110.92307692307692\" stroke-width=\"1.2\"/><line x1=\"210\" y1=\"122.3076923076923\" x2=\"208\" y2=\"109.3076923076923\" stroke-width=\"1.2\"/><line x1=\"213\" y1=\"122.3076923076923\" x2=\"215\" y2=\"112.3076923076923\" stroke-width=\"1.2\"/><line x1=\"219\" y1=\"123.6923076923077\" x2=\"217\" y2=\"110.6923076923077\" stroke-width=\"1.2\"/><line x1=\"222\" y1=\"123.6923076923077\" x2=\"224\" y2=\"113.6923076923077\" stroke-width=\"1.2\"/><line x1=\"228\" y1=\"125.07692307692308\" x2=\"226\" y2=\"112.07692307692308\" stroke-width=\"1.2\"/><line x1=\"231\" y1=\"125.07692307692308\" x2=\"233\" y2=\"115.07692307692308\" stroke-width=\"1.2\"/><line x1=\"237\" y1=\"126.46153846153845\" x2=\"235\" y2=\"113.46153846153845\" stroke-width=\"1.2\"/><line x1=\"240\" y1=\"126.46153846153845\" x2=\"242\" y2=\"116.46153846153845\" stroke-width=\"1.2\"/><line x1=\"246\" y1=\"127.84615384615384\" x2=\"244\" y2=\"114.84615384615384\" stroke-width=\"1.2\"/><line x1=\"249\" y1=\"127.84615384615384\" x2=\"251\" y2=\"117.84615384615384\" stroke-width=\"1.2\"/><circle cx=\"295\" cy=\"128.375\" r=\"8\" fill=\"currentColor\" fill-opacity=\"0.25\"/><path d=\"M301 124.375 L305 112.375 M305 118.375 L311 110.375\" stroke-width=\"1.5\"/><circle cx=\"325\" cy=\"132.125\" r=\"8\" fill=\"currentColor\" fill-opacity=\"0.25\"/><path d=\"M331 128.125 L335 116.125 M335 122.125 L341 114.125\" stroke-width=\"1.5\"/><circle cx=\"355\" cy=\"135.875\" r=\"8\" fill=\"currentColor\" fill-opacity=\"0.25\"/><path d=\"M361 131.875 L365 119.875 M365 125.875 L371 117.875\" stroke-width=\"1.5\"/><circle cx=\"385\" cy=\"139.625\" r=\"8\" fill=\"currentColor\" fill-opacity=\"0.25\"/><path d=\"M391 135.625 L395 123.625 M395 129.625 L401 121.625\" stroke-width=\"1.5\"/><text x=\"97\" y=\"20\" font-size=\"14\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\" font-weight=\"bold\">1</text><line x1=\"97\" y1=\"25\" x2=\"97.0\" y2=\"31.0\"/><polygon points=\"97,36 99.5,31.0 94.5,31.0\" fill=\"currentColor\" stroke=\"none\"/><text x=\"208\" y=\"20\" font-size=\"14\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\" font-weight=\"bold\">2</text><line x1=\"208\" y1=\"25\" x2=\"208.0\" y2=\"99.0\"/><polygon points=\"208,104 210.5,99.0 205.5,99.0\" fill=\"currentColor\" stroke=\"none\"/><text x=\"340\" y=\"20\" font-size=\"14\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\" font-weight=\"bold\">3</text><line x1=\"340\" y1=\"25\" x2=\"340.0\" y2=\"115.0\"/><polygon points=\"340,120 342.5,115.0 337.5,115.0\" fill=\"currentColor\" stroke=\"none\"/></svg>",
+    "choices": [
+      "Zone 1",
+      "Zone 2",
+      "Zone 3",
+      "Zones 1 and 3"
+    ],
+    "answerIndex": 1,
+    "explanation": "**Zone 2** shows grass-like plants rooted in the shallow sandy sea floor: a **seagrass bed**. Zone 1 has trees with prop roots at the water's edge (**mangroves**), and zone 3 has rounded and branching forms farther out (**coral reef**). This order is typical of Philippine coasts.",
+    "verified": true
+  },
+  {
+    "id": "G9-ECO-011",
+    "domain": "grade-9",
+    "subtopic": "Types of ecosystems in the Philippines",
+    "difficulty": "medium",
+    "question": "The diagram shows the layers of a tropical rainforest. Which layer receives the least sunlight?",
+    "figure": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 420 210\" width=\"420\" height=\"210\" role=\"img\" aria-label=\"A side view of a tropical rainforest with four layers labeled A at the top to D at the bottom.\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"10\" y1=\"200\" x2=\"350\" y2=\"200\" stroke-width=\"2\"/><line x1=\"60\" y1=\"200\" x2=\"60\" y2=\"48\" stroke-width=\"4\"/><ellipse cx=\"60\" cy=\"35\" rx=\"32\" ry=\"16\" fill=\"currentColor\" fill-opacity=\"0.2\"/><line x1=\"120\" y1=\"200\" x2=\"120\" y2=\"95\" stroke-width=\"3\"/><line x1=\"175\" y1=\"200\" x2=\"175\" y2=\"95\" stroke-width=\"3\"/><line x1=\"230\" y1=\"200\" x2=\"230\" y2=\"95\" stroke-width=\"3\"/><line x1=\"285\" y1=\"200\" x2=\"285\" y2=\"95\" stroke-width=\"3\"/><line x1=\"330\" y1=\"200\" x2=\"330\" y2=\"95\" stroke-width=\"3\"/><ellipse cx=\"120\" cy=\"82\" rx=\"32\" ry=\"18\" fill=\"currentColor\" fill-opacity=\"0.25\"/><ellipse cx=\"175\" cy=\"82\" rx=\"32\" ry=\"18\" fill=\"currentColor\" fill-opacity=\"0.25\"/><ellipse cx=\"230\" cy=\"82\" rx=\"32\" ry=\"18\" fill=\"currentColor\" fill-opacity=\"0.25\"/><ellipse cx=\"285\" cy=\"82\" rx=\"32\" ry=\"18\" fill=\"currentColor\" fill-opacity=\"0.25\"/><ellipse cx=\"330\" cy=\"82\" rx=\"32\" ry=\"18\" fill=\"currentColor\" fill-opacity=\"0.25\"/><line x1=\"150\" y1=\"200\" x2=\"150\" y2=\"148\" stroke-width=\"2\"/><ellipse cx=\"150\" cy=\"140\" rx=\"18\" ry=\"10\" fill=\"currentColor\" fill-opacity=\"0.15\"/><line x1=\"258\" y1=\"200\" x2=\"258\" y2=\"148\" stroke-width=\"2\"/><ellipse cx=\"258\" cy=\"140\" rx=\"18\" ry=\"10\" fill=\"currentColor\" fill-opacity=\"0.15\"/><path d=\"M20 200 Q24 190 28 200\" stroke-width=\"1\"/><path d=\"M42 200 Q46 190 50 200\" stroke-width=\"1\"/><path d=\"M64 200 Q68 190 72 200\" stroke-width=\"1\"/><path d=\"M86 200 Q90 190 94 200\" stroke-width=\"1\"/><path d=\"M108 200 Q112 190 116 200\" stroke-width=\"1\"/><path d=\"M130 200 Q134 190 138 200\" stroke-width=\"1\"/><path d=\"M152 200 Q156 190 160 200\" stroke-width=\"1\"/><path d=\"M174 200 Q178 190 182 200\" stroke-width=\"1\"/><path d=\"M196 200 Q200 190 204 200\" stroke-width=\"1\"/><path d=\"M218 200 Q222 190 226 200\" stroke-width=\"1\"/><path d=\"M240 200 Q244 190 248 200\" stroke-width=\"1\"/><path d=\"M262 200 Q266 190 270 200\" stroke-width=\"1\"/><path d=\"M284 200 Q288 190 292 200\" stroke-width=\"1\"/><path d=\"M306 200 Q310 190 314 200\" stroke-width=\"1\"/><path d=\"M328 200 Q332 190 336 200\" stroke-width=\"1\"/><line x1=\"365\" y1=\"35\" x2=\"385\" y2=\"35\" stroke-width=\"0.8\" stroke-dasharray=\"3 3\"/><text x=\"398\" y=\"40\" font-size=\"14\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\" font-weight=\"bold\">A</text><line x1=\"365\" y1=\"82\" x2=\"385\" y2=\"82\" stroke-width=\"0.8\" stroke-dasharray=\"3 3\"/><text x=\"398\" y=\"87\" font-size=\"14\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\" font-weight=\"bold\">B</text><line x1=\"365\" y1=\"140\" x2=\"385\" y2=\"140\" stroke-width=\"0.8\" stroke-dasharray=\"3 3\"/><text x=\"398\" y=\"145\" font-size=\"14\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\" font-weight=\"bold\">C</text><line x1=\"365\" y1=\"195\" x2=\"385\" y2=\"195\" stroke-width=\"0.8\" stroke-dasharray=\"3 3\"/><text x=\"398\" y=\"200\" font-size=\"14\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\" font-weight=\"bold\">D</text></svg>",
+    "choices": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answerIndex": 3,
+    "explanation": "The **forest floor (D)** is shaded by all the layers above it, so very little sunlight reaches it. A is the emergent layer of the tallest trees, B is the dense **canopy** that absorbs most light, and C is the understory.",
+    "verified": true
+  },
+  {
+    "id": "G9-ECO-012",
+    "domain": "grade-9",
+    "subtopic": "Types of ecosystems in the Philippines",
+    "difficulty": "medium",
+    "question": "In which zone of the lake would you most likely find rooted plants such as water lilies?",
+    "figure": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 380 170\" width=\"380\" height=\"170\" role=\"img\" aria-label=\"A cross-section of a lake with three zones numbered 1, 2, and 3. Zone 1 is the shallow water near the shore, zone 2 is the open surface water away from shore, and zone 3 is the deep water near the bottom.\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M20 40 Q60 45 90 70 Q140 150 190 155 Q240 150 290 70 Q320 45 360 40 Z\" fill=\"currentColor\" fill-opacity=\"0.08\"/><line x1=\"10\" y1=\"40\" x2=\"370\" y2=\"40\" stroke-width=\"2\"/><line x1=\"90\" y1=\"40\" x2=\"90\" y2=\"70\" stroke-width=\"0.8\" stroke-dasharray=\"3 3\"/><line x1=\"290\" y1=\"40\" x2=\"290\" y2=\"70\" stroke-width=\"0.8\" stroke-dasharray=\"3 3\"/><line x1=\"105\" y1=\"90\" x2=\"275\" y2=\"90\" stroke-width=\"0.8\" stroke-dasharray=\"3 3\"/><text x=\"55\" y=\"58\" font-size=\"14\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\" font-weight=\"bold\">1</text><text x=\"325\" y=\"58\" font-size=\"14\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\" font-weight=\"bold\">1</text><text x=\"190\" y=\"72\" font-size=\"14\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\" font-weight=\"bold\">2</text><text x=\"190\" y=\"128\" font-size=\"14\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\" font-weight=\"bold\">3</text></svg>",
+    "choices": [
+      "1",
+      "2",
+      "3",
+      "2 and 3"
+    ],
+    "answerIndex": 0,
+    "explanation": "Rooted plants need **sunlight to reach the bottom** where they grow. This happens only in the **shallow water near the shore (zone 1)**. Zone 2 is open water too deep for rooting, and in zone 3 (deep water) there is too little light for plants.",
+    "verified": true
+  },
+  {
+    "id": "G9-ECO-013",
+    "domain": "grade-9",
+    "subtopic": "Types of ecosystems in the Philippines",
+    "difficulty": "medium",
+    "question": "The graph shows live coral cover on a reef over eight years. Which best explains the sharp drop in year 5?",
+    "figure": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 380 200\" width=\"380\" height=\"200\" role=\"img\" aria-label=\"A line graph of live coral cover in percent over eight years at one reef. A shaded band marks year 5, a period of unusually warm sea water.\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"208\" y=\"30\" width=\"34\" height=\"135\" fill=\"currentColor\" fill-opacity=\"0.08\" stroke-width=\"0.5\" stroke-dasharray=\"2 2\"/><text x=\"225\" y=\"24\" font-size=\"10\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\">warm water</text><line x1=\"50\" y1=\"165\" x2=\"343.0\" y2=\"165.0\"/><polygon points=\"350,165 343.0,161.5 343.0,168.5\" fill=\"currentColor\" stroke=\"none\"/><line x1=\"50\" y1=\"165\" x2=\"50.0\" y2=\"27.0\"/><polygon points=\"50,20 46.5,27.0 53.5,27.0\" fill=\"currentColor\" stroke=\"none\"/><text x=\"200.0\" y=\"194\" font-size=\"11\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\">Year</text><text x=\"16\" y=\"92.5\" font-size=\"11\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\" transform=\"rotate(-90 16 92.5)\">Live coral cover (%)</text><polyline points=\"85,43.5 120,40.8 155,46.2 190,38.1 225,111.0 260,116.4 295,105.6 330,94.8\" stroke-width=\"2\"/><line x1=\"46\" y1=\"165.0\" x2=\"50\" y2=\"165.0\" stroke-width=\"1\"/><text x=\"42\" y=\"169.0\" font-size=\"10\" text-anchor=\"end\" fill=\"currentColor\" stroke=\"none\">0</text><line x1=\"46\" y1=\"97.5\" x2=\"50\" y2=\"97.5\" stroke-width=\"1\"/><text x=\"42\" y=\"101.5\" font-size=\"10\" text-anchor=\"end\" fill=\"currentColor\" stroke=\"none\">25</text><line x1=\"46\" y1=\"30.0\" x2=\"50\" y2=\"30.0\" stroke-width=\"1\"/><text x=\"42\" y=\"34.0\" font-size=\"10\" text-anchor=\"end\" fill=\"currentColor\" stroke=\"none\">50</text><circle cx=\"85\" cy=\"43.5\" r=\"3\" fill=\"currentColor\" fill-opacity=\"1\"/><text x=\"85\" y=\"178\" font-size=\"10\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\">1</text><circle cx=\"120\" cy=\"40.8\" r=\"3\" fill=\"currentColor\" fill-opacity=\"1\"/><text x=\"120\" y=\"178\" font-size=\"10\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\">2</text><circle cx=\"155\" cy=\"46.2\" r=\"3\" fill=\"currentColor\" fill-opacity=\"1\"/><text x=\"155\" y=\"178\" font-size=\"10\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\">3</text><circle cx=\"190\" cy=\"38.1\" r=\"3\" fill=\"currentColor\" fill-opacity=\"1\"/><text x=\"190\" y=\"178\" font-size=\"10\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\">4</text><circle cx=\"225\" cy=\"111.0\" r=\"3\" fill=\"currentColor\" fill-opacity=\"1\"/><text x=\"225\" y=\"178\" font-size=\"10\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\">5</text><circle cx=\"260\" cy=\"116.4\" r=\"3\" fill=\"currentColor\" fill-opacity=\"1\"/><text x=\"260\" y=\"178\" font-size=\"10\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\">6</text><circle cx=\"295\" cy=\"105.6\" r=\"3\" fill=\"currentColor\" fill-opacity=\"1\"/><text x=\"295\" y=\"178\" font-size=\"10\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\">7</text><circle cx=\"330\" cy=\"94.8\" r=\"3\" fill=\"currentColor\" fill-opacity=\"1\"/><text x=\"330\" y=\"178\" font-size=\"10\" text-anchor=\"middle\" fill=\"currentColor\" stroke=\"none\">8</text></svg>",
+    "choices": [
+      "The warm water caused corals to expel the algae living in them, and many corals died",
+      "The warm water made the corals grow too fast and break apart",
+      "The corals moved to deeper water to escape the heat",
+      "The warm water added more food, so fish ate the corals"
+    ],
+    "answerIndex": 0,
+    "explanation": "Unusually **warm water** stresses corals, making them expel the photosynthetic algae (zooxanthellae) in their tissues. This **coral bleaching** leaves them white and starving; if the heat lasts, many die, as seen in the drop from about 47% to 20%. The slow rise afterward shows partial recovery. Corals cannot move.",
+    "verified": true
+  },
+  {
+    "id": "G9-ECO-014",
+    "domain": "grade-9",
+    "subtopic": "Types of ecosystems in the Philippines",
+    "difficulty": "medium",
+    "question": "After strong typhoons such as Yolanda, many coastal towns planted mangroves. How do mangroves help protect coastal communities?",
+    "choices": [
+      "They raise the temperature of seawater to stop typhoons",
+      "They absorb all of the rainwater during a storm",
+      "Their dense roots and trunks slow down waves and reduce coastal erosion",
+      "They push typhoons away from the shore"
+    ],
+    "answerIndex": 2,
+    "explanation": "Mangrove roots and trunks **reduce the force of waves** and storm surges and **hold soil in place**, reducing erosion. They cannot change storms, but they lessen the damage.",
+    "verified": true
+  },
+  {
+    "id": "G9-ECO-015",
+    "domain": "grade-9",
+    "subtopic": "Types of ecosystems in the Philippines",
+    "difficulty": "medium",
+    "question": "How does dynamite fishing harm a coral reef ecosystem?",
+    "choices": [
+      "The blasts break apart the coral structure, destroying the habitat of many species",
+      "The blasts warm the water and help corals grow",
+      "The blasts kill only the targeted fish species",
+      "The blasts add nutrients that increase biodiversity"
+    ],
+    "answerIndex": 0,
+    "explanation": "Explosives **shatter coral skeletons** that took decades to grow and kill fish and other organisms indiscriminately, including young fish. Without the reef structure, many species lose their **shelter and food**.",
+    "verified": true
+  },
+  {
+    "id": "G9-ECO-016",
+    "domain": "grade-9",
+    "subtopic": "Types of ecosystems in the Philippines",
+    "difficulty": "medium",
+    "question": "Heavy rain washes soil from deforested mountains into rivers and then into the sea. How does this affect nearby coral reefs?",
+    "choices": [
+      "The sediment provides food that makes corals grow faster",
+      "The sediment blocks sunlight and covers corals, so they cannot get enough energy",
+      "The sediment cools the water and prevents bleaching",
+      "The sediment has no effect because corals live underwater"
+    ],
+    "answerIndex": 1,
+    "explanation": "**Sedimentation** clouds the water and settles on corals. Their photosynthetic algae need **light**, so muddy water reduces the corals' energy supply, and smothered corals can die. This links forest protection to reef health.",
+    "verified": true
+  },
+  {
+    "id": "G9-ECO-017",
+    "domain": "grade-9",
+    "subtopic": "Types of ecosystems in the Philippines",
+    "difficulty": "medium",
+    "question": "In some coastal areas, mangrove forests were cleared to build fishponds. Over time, fishers noticed fewer fish in the nearby sea. What is the most likely reason?",
+    "choices": [
+      "Fishponds release extra fish into the sea, so wild fish are crowded out",
+      "Fish do not like the color of fishponds",
+      "Mangroves serve as nursery grounds where many young fish and shrimp grow",
+      "Mangroves were eating the fish in the area"
+    ],
+    "answerIndex": 2,
+    "explanation": "Mangrove roots provide **shelter and food** for **young fish, shrimp, and crabs**. Removing mangroves destroys these **nursery grounds**, so fewer young survive to replace adult fish in the open sea.",
+    "verified": true
+  },
+  {
+    "id": "G9-ECO-018",
+    "domain": "grade-9",
+    "subtopic": "Types of ecosystems in the Philippines",
+    "difficulty": "medium",
+    "question": "Fertilizer from farms is washed into a lake. Soon, a thick layer of algae covers the water, and later many fish die. What causes the fish kill?",
+    "choices": [
+      "The fertilizer directly poisons the fish's gills",
+      "The algae eat the fish",
+      "The algae make the water too cold for the fish",
+      "Bacteria decomposing the dead algae use up the oxygen in the water"
+    ],
+    "answerIndex": 3,
+    "explanation": "Excess nutrients cause an **algal bloom** (**eutrophication**). When the algae die, **decomposers use up dissolved oxygen** as they break them down, and fish suffocate. This has caused fish kills in Philippine lakes.",
+    "verified": true
+  },
+  {
+    "id": "G9-ECO-019",
+    "domain": "grade-9",
+    "subtopic": "Types of ecosystems in the Philippines",
+    "difficulty": "medium",
+    "question": "Rice farmers who use integrated pest management (IPM) spray pesticides only when pests reach high levels. How does this help the rice field ecosystem?",
+    "choices": [
+      "It kills all insects in the field, including helpful ones",
+      "It makes the rice plants produce their own pesticide",
+      "It protects natural enemies such as spiders and frogs that eat pests",
+      "It increases the number of pests so that birds have more food"
+    ],
+    "answerIndex": 2,
+    "explanation": "Frequent spraying kills **natural predators** along with pests. **IPM** reduces spraying, so **spiders, frogs, dragonflies, and birds** survive to keep pest numbers down naturally, and less chemical runs into waterways.",
+    "verified": true
+  },
+  {
+    "id": "G9-ECO-020",
+    "domain": "grade-9",
+    "subtopic": "Types of ecosystems in the Philippines",
+    "difficulty": "medium",
+    "question": "Which of the following is a function of seagrass beds?",
+    "choices": [
+      "They build hard skeletons that form reefs",
+      "They grow on mountains to prevent landslides",
+      "They release salt that keeps the ocean salty",
+      "They hold sediment in place and keep coastal water clear"
+    ],
+    "answerIndex": 3,
+    "explanation": "Seagrass roots **trap and stabilize sediment**, keeping water clear for nearby corals. Seagrass beds also feed dugongs and turtles and shelter young fish. Reef skeletons are made by coral polyps, not seagrass.",
+    "verified": true
+  },
+  {
+    "id": "G9-ECO-021",
+    "domain": "grade-9",
+    "subtopic": "Types of ecosystems in the Philippines",
+    "difficulty": "hard",
+    "question": "Many reef fish spend their early lives among mangrove roots and seagrass before moving to the reef as adults. A town cuts down its mangroves but leaves the reef untouched. Why might reef fish populations still decline?",
+    "choices": [
+      "Cutting mangroves raises the water temperature on the reef immediately",
+      "Fewer young fish survive to adulthood, so fewer adults arrive to replace those on the reef",
+      "Adult reef fish need to eat mangrove leaves every day",
+      "The reef becomes too crowded with fish from the mangroves"
+    ],
+    "answerIndex": 1,
+    "explanation": "Mangroves, seagrass beds, and coral reefs are **connected ecosystems**. Mangroves are **nurseries**; losing them means **fewer young fish survive**, so fewer adults later recruit to the reef. Protecting one ecosystem alone is not enough.",
+    "verified": true
+  },
+  {
+    "id": "G9-ECO-022",
+    "domain": "grade-9",
+    "subtopic": "Types of ecosystems in the Philippines",
+    "difficulty": "hard",
+    "question": "Tropical rainforests have huge amounts of plant life, yet when the forest is cleared for farming, the soil often becomes poor after only a few years. Why?",
+    "choices": [
+      "Rainforest soils are naturally the richest in the world, but farming crops use up all the water",
+      "Most nutrients are stored in living plants, and once they are removed, heavy rains wash the remaining nutrients away",
+      "Rainforest trees release poisons into the soil when they are cut",
+      "The soil becomes too cold once the trees are removed"
+    ],
+    "answerIndex": 1,
+    "explanation": "In rainforests, nutrients are quickly taken up by plants and **stored in living biomass**, while the soil itself is **thin and nutrient-poor**. After clearing, **heavy rainfall leaches** the few remaining nutrients and erodes the topsoil, so crops soon fail.",
+    "verified": true
+  },
+  {
+    "id": "G9-ECO-023",
+    "domain": "grade-9",
+    "subtopic": "Types of ecosystems in the Philippines",
+    "difficulty": "hard",
+    "question": "A coastal town wants to protect its coral reef. Which plan deals with the largest number of causes of reef damage?",
+    "choices": [
+      "Set up a marine protected area only",
+      "Reforest upland areas, protect mangroves, set up a marine protected area, and ban destructive fishing",
+      "Ban dynamite fishing but allow cutting of mangroves for fishponds",
+      "Plant more trees in the town plaza"
+    ],
+    "answerIndex": 1,
+    "explanation": "Reefs are harmed by **sediment** from deforested uplands, **loss of mangrove nurseries**, **overfishing**, and **destructive fishing**. A **ridge-to-reef** plan that addresses land, coast, and sea together covers the most causes. A single measure leaves other threats in place.",
+    "verified": true
+  }
+]

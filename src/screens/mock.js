@@ -1,7 +1,7 @@
 import { go, setGuard, setTopbar } from '../lib/router.js';
 import { startCountdown, formatTime } from '../lib/timer.js';
 import { ask, toast } from '../lib/ui.js';
-import { MOCK_MINUTES } from '../config.js';
+import { subject } from '../lib/bank.js';
 import { questionHtml } from './parts.js';
 import { mockResults } from './mock-results.js';
 
@@ -13,7 +13,8 @@ export function mock(root, items) {
   let idx = 0;
   let finished = false;
   const started = Date.now();
-  const deadline = started + MOCK_MINUTES * 60 * 1000;
+  const { minutes } = subject().mock;
+  const deadline = started + minutes * 60 * 1000;
   const warned = new Set();
   setGuard(true);
 
@@ -120,7 +121,7 @@ export function mock(root, items) {
       el.classList.toggle('danger', left <= 5 * 60000);
     }
     for (const m of [10, 5, 1]) {
-      if (left <= m * 60000 && left > (m * 60000 - 5000) && !warned.has(m) && MOCK_MINUTES > m) {
+      if (left <= m * 60000 && left > (m * 60000 - 5000) && !warned.has(m) && minutes > m) {
         warned.add(m);
         toast(`${m} minute${m === 1 ? '' : 's'} left`);
       }

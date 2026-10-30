@@ -1,20 +1,20 @@
 import { go } from '../lib/router.js';
-import { loadBank, domainById } from '../lib/bank.js';
+import { loadBank, domainById, subject } from '../lib/bank.js';
 import { buildMock } from '../lib/session.js';
 import { escapeHtml } from '../lib/render.js';
-import { MOCK_SPLIT, MOCK_TOTAL, MOCK_MINUTES, PASS_RATE } from '../config.js';
 import { mock } from './mock.js';
 import { home } from './home.js';
 
 export function mockIntro(root) {
-  const need = Math.ceil(MOCK_TOTAL * PASS_RATE);
+  const { mock: { split, total, minutes }, passRate } = subject();
+  const need = Math.ceil(total * passRate);
   root.innerHTML = `
   <header class="page-head">
     <h1>Mock Exam</h1>
-    <p><span class="num">${MOCK_TOTAL}</span> items<span class="dot-sep">&middot;</span><span class="num">${MOCK_MINUTES}</span> minutes<span class="dot-sep">&middot;</span>pass with <span class="num">${need}</span> correct</p>
+    <p><span class="num">${total}</span> items<span class="dot-sep">&middot;</span><span class="num">${minutes}</span> minutes<span class="dot-sep">&middot;</span>pass with <span class="num">${need}</span> correct</p>
   </header>
   <section class="panel">
-    ${Object.entries(MOCK_SPLIT).map(([d, n], i) => `<div class="row row-enter" style="--i:${i}"><span class="grow">${escapeHtml(domainById[d]?.name || d)}</span><span class="num">${n}</span></div>`).join('')}
+    ${Object.entries(split).map(([d, n], i) => `<div class="row row-enter" style="--i:${i}"><span class="grow">${escapeHtml(domainById[d]?.name || d)}</span><span class="num">${n}</span></div>`).join('')}
   </section>
   <ul class="rules">
     <li>The timer starts when you tap Start. At <span class="num">00:00</span> your exam is submitted.</li>
@@ -28,6 +28,6 @@ export function mockIntro(root) {
   root.querySelector('#back').addEventListener('click', () => go(home));
   root.querySelector('#start').addEventListener('click', async () => {
     const bank = await loadBank();
-    go(mock, buildMock(bank, MOCK_SPLIT));
+    go(mock, buildMock(bank, split));
   });
 }
