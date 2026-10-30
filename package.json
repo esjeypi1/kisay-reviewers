@@ -3,7 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "description": "Free practice reviewers by subject: Dagitab 2026 (unofficial) and Biology.",
+  "description": "Free practice reviewers by subject: Dagitab 2026 (unofficial) and Brainiac 2026.",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

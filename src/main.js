@@ -8,7 +8,7 @@ import { escapeHtml } from './lib/render.js';
 import { confirmLeave } from './lib/ui.js';
 import { home } from './screens/home.js';
 
-// The link names the subject tab (#dagitab, #biology), so a teacher can share a link to one subject.
+// The link names the subject tab (#dagitab, #brainiac), so a teacher can share a link to one subject.
 function openSubject() {
   const s = setSubject(location.hash.slice(1));
   document.title = s.title;
