@@ -8,7 +8,7 @@ export const SUBJECTS = LIST.map((s) => ({ ...s, domains: metas[`../data/${s.id}
 export const subjectById = Object.fromEntries(SUBJECTS.map((s) => [s.id, s]));
 export const domainById = Object.fromEntries(SUBJECTS.flatMap((s) => s.domains).map((d) => [d.id, d]));
 
-// The subject (tab) the student is in.
+// The reviewer (subject) the student is in.
 let current = SUBJECTS[0];
 export const subject = () => current;
 export function setSubject(id) {

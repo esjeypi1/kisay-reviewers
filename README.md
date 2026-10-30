@@ -1,13 +1,13 @@
 # Reviewer
 
-A free, public practice website with one tab per subject:
+A free, public practice website, **KISAY Reviewers**. The home page (`/`) lists every reviewer, and each reviewer has its own link:
 
-| Tab | Link | Items | Modes |
+| Reviewer | Link | Items | Modes |
 | --- | --- | --- | --- |
-| Dagitab 2026 | `/` or `/#dagitab` | 470 | Practice, Mock Exam |
+| Dagitab 2026 | `/#dagitab` | 470 | Practice, Mock Exam |
 | Brainiac 2026 (Biology, Grades 7 to 10) | `/#brainiac` | 400 | Practice |
 
-The Dagitab tab is for senior high school students preparing for the **Dagitab 2026 qualifying exam**.
+The Dagitab reviewer is for senior high school students preparing for the **Dagitab 2026 qualifying exam**.
 It is an unofficial reviewer and is not affiliated with or endorsed by the UP Engineering Radio Guild.
 
 - **Practice mode:** untimed, filter by domain and subtopic, instant feedback with a worked explanation, score breakdown at the end.
@@ -71,8 +71,8 @@ vercel --prod   # deploys to your production URL
 
 ## Subjects and the mock exam split
 
-Every subject (tab) is listed in `SUBJECTS` in `src/config.js`. The first one opens at `/`; the others open at
-`/#<id>`, so you can share a link straight to one subject. A subject gets a Mock Exam only if it has a `mock` entry:
+Every reviewer is listed in `SUBJECTS` in `src/config.js`, in the order shown on the home page. Each opens at
+`/#<id>`, so you can share a link straight to one reviewer; `/` and unknown links open the home page. A subject gets a Mock Exam only if it has a `mock` entry:
 
 ```js
 mock: {
@@ -98,7 +98,7 @@ The split must add up to `total`, and no domain can ask for more items than it h
 2. Put one JSON file per domain in it (a domain is one group of questions, such as a grade level).
 3. Add `src/data/<id>/subtopics.json` listing each domain: `id` (unique across all subjects), `name`, `short`,
    `file`, `idPrefix`, and its `subtopics`. Copy `src/data/brainiac/subtopics.json` as a starting point.
-4. Add an entry to `SUBJECTS` in `src/config.js` with the same `id`.
+4. Add an entry to `SUBJECTS` in `src/config.js` with the same `id`, plus a `description` and `icon` for its row on the home page.
 5. Run `npm run check`.
 
 ## Add or edit questions
@@ -239,8 +239,8 @@ Current bank: 870 items (470 Dagitab, 400 Brainiac), 340 with computed checks.
 ```
 index.html              page shell (header, footer, dialog)
 src/
-  config.js             subjects (tabs), mock exam split, time limit, passing rate
-  main.js               starts the app and switches subject tabs
+  config.js             site name, reviewers, mock exam split, time limit, passing rate
+  main.js               starts the app and opens the home page or a reviewer from the link
   data/<subject>/       question bank (JSON) and subtopic list for each subject
   lib/                  rendering (KaTeX + figures), shuffling, sessions, timer
   screens/              home, practice, mock exam, and results screens

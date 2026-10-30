@@ -1,6 +1,6 @@
 import { go } from '../lib/router.js';
 import { icons } from '../lib/icons.js';
-import { SUBJECTS, subject } from '../lib/bank.js';
+import { subject } from '../lib/bank.js';
 import { escapeHtml } from '../lib/render.js';
 import { practiceSetup } from './practice-setup.js';
 import { mockIntro } from './mock-intro.js';
@@ -13,9 +13,7 @@ export function home(root) {
     : escapeHtml(s.tagline || '');
 
   root.innerHTML = `
-  ${SUBJECTS.length > 1 ? `<nav class="tabs" aria-label="Subjects">
-    ${SUBJECTS.map((t) => `<a class="tab" href="#${t.id}"${t === s ? ' aria-current="page"' : ''}>${escapeHtml(t.name)}</a>`).join('')}
-  </nav>` : ''}
+  <a class="back-link" href="#">${icons.back(18)}All reviewers</a>
 
   <header class="page-head home">
     <h1>${escapeHtml(s.title)}</h1>

@@ -1,9 +1,14 @@
 // Main settings for the reviewer. Edit these values to change the subjects and how the mock exam works.
 
-// Each subject is a tab on the site. Its questions live in src/data/<id>/ (subtopics.json plus one file per domain).
-// The first subject opens when the site is visited without a tab in the link.
-//   name         tab label
+// Name of the home page, which lists every reviewer.
+export const SITE_NAME = 'KISAY Reviewers';
+
+// Each subject is one reviewer, listed on the home page in this order and opened at #<id> (for example #dagitab).
+// Its questions live in src/data/<id>/ (subtopics.json plus one file per domain).
+//   name         short name in the top bar
 //   title        page heading and browser tab title
+//   description  line under the title on the home page
+//   icon         icon on the home page (a name from src/lib/icons.js)
 //   tagline      line under the heading (subjects with a mock exam show the exam format instead)
 //   domainLabel  what one question file is called on the Practice screen
 //   footer       note at the bottom of every page (optional)
@@ -15,6 +20,8 @@ export const SUBJECTS = [
     id: 'dagitab',
     name: 'Dagitab 2026',
     title: 'Dagitab 2026 Reviewer',
+    description: 'Unofficial. Math, physics, technical knowledge, and abstract reasoning, with a timed mock exam.',
+    icon: 'bolt',
     domainLabel: 'Domain',
     footer: 'Unofficial reviewer. Not affiliated with or endorsed by the UP Engineering Radio Guild. Questions are not actual exam items.',
     noCalculator: true,
@@ -34,6 +41,8 @@ export const SUBJECTS = [
     id: 'brainiac',
     name: 'Brainiac 2026',
     title: 'Brainiac 2026 Reviewer',
+    description: 'Biology, Grades 7 to 10. Practice by grade and topic.',
+    icon: 'leaf',
     tagline: 'Biology, Grades 7 to 10',
     domainLabel: 'Grade',
     passRate: 0.6,
