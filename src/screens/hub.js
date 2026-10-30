@@ -20,7 +20,5 @@ export function hub(root) {
       </span>
       <span class="chev">${icons.chevron()}</span>
     </a>`).join('')}
-  </nav>
-
-  <p class="note">Free to use. Nothing is saved, so every visit starts fresh.</p>`;
+  </nav>`;
 }
