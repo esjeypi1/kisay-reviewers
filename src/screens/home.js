@@ -1,12 +1,14 @@
 import { go } from '../lib/router.js';
 import { icons } from '../lib/icons.js';
-import { subject } from '../lib/bank.js';
+import { subject, loadBank } from '../lib/bank.js';
 import { escapeHtml } from '../lib/render.js';
 import { practiceSetup } from './practice-setup.js';
 import { mockIntro } from './mock-intro.js';
 
 export function home(root) {
   const s = subject();
+  // Start downloading this reviewer's questions now, so they are ready when Practice or Mock Exam is tapped.
+  loadBank(s).catch(() => {});
   const { mock } = s;
   const sub = mock
     ? `<span class="num">${mock.total}</span> items<span class="dot-sep">&middot;</span><span class="num">${mock.minutes}</span> minutes<span class="dot-sep">&middot;</span><span class="num">${Math.round(s.passRate * 100)}%</span> to pass`

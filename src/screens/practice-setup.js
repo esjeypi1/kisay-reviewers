@@ -11,7 +11,11 @@ const lastBySubject = {};
 
 export function practiceSetup(root) {
   root.innerHTML = '<p class="loading">Loading questions...</p>';
-  loadBank().then((bank) => render(root, bank));
+  loadBank().then((bank) => render(root, bank), () => {
+    root.innerHTML = `<p class="loading">Could not load the questions. Check your connection.</p>
+      <div class="actions"><button type="button" class="btn btn-primary" id="retry">Try again</button></div>`;
+    root.querySelector('#retry').addEventListener('click', () => practiceSetup(root));
+  });
 }
 
 function render(root, bank) {

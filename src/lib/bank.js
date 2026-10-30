@@ -19,7 +19,13 @@ export function setSubject(id) {
 const cache = {};
 
 // Loads a subject's question files (each is its own small download).
+// A failed download is forgotten, so the next call tries again instead of failing forever.
 export function loadBank(s = current) {
-  cache[s.id] ??= Promise.all(s.domains.map((d) => files[`../data/${s.id}/${d.file}`]())).then((parts) => parts.flat());
+  cache[s.id] ??= Promise.all(s.domains.map((d) => files[`../data/${s.id}/${d.file}`]()))
+    .then((parts) => parts.flat())
+    .catch((e) => {
+      delete cache[s.id];
+      throw e;
+    });
   return cache[s.id];
 }
