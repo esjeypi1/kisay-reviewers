@@ -1,0 +1,302 @@
+[
+  {
+    "id": "R1-TYP-001",
+    "domain": "r1-week-3",
+    "subtopic": "Capacitor types and units",
+    "difficulty": "easy",
+    "question": "Which two capacitor types are polarized (have + and − leads)?",
+    "choices": [
+      "Electrolytic and tantalum",
+      "Ceramic and variable",
+      "Ceramic and tantalum",
+      "Variable and electrolytic"
+    ],
+    "answerIndex": 0,
+    "explanation": "**Electrolytic** and **tantalum** capacitors are **polarized**: they have a + lead and a − lead. **Ceramic** and **variable** capacitors are non-polarized."
+  },
+  {
+    "id": "R1-TYP-002",
+    "domain": "r1-week-3",
+    "subtopic": "Capacitor types and units",
+    "difficulty": "easy",
+    "question": "$1\\ \\mu$F is equal to how many nanofarads?",
+    "choices": [
+      "$10$ nF",
+      "$100$ nF",
+      "$1{,}000$ nF",
+      "$1{,}000{,}000$ nF"
+    ],
+    "answerIndex": 2,
+    "explanation": "$1\\ \\mu\\text{F} = 1{,}000\\ \\text{nF} = 1{,}000{,}000\\ \\text{pF}$. The value $1{,}000{,}000$ is the number of **picofarads**, not nanofarads."
+  },
+  {
+    "id": "R1-TYP-003",
+    "domain": "r1-week-3",
+    "subtopic": "Capacitor types and units",
+    "difficulty": "easy",
+    "question": "Which capacitor type is used to tune a radio?",
+    "choices": [
+      "Electrolytic",
+      "Variable",
+      "Ceramic",
+      "Tantalum"
+    ],
+    "answerIndex": 1,
+    "explanation": "A **variable** capacitor's capacitance can be **adjusted**, which changes the station a radio is tuned to."
+  },
+  {
+    "id": "R1-TYP-004",
+    "domain": "r1-week-3",
+    "subtopic": "Capacitor types and units",
+    "difficulty": "medium",
+    "question": "Which capacitor type is non-polarized, ranges from picofarads to about $1\\ \\mu$F, and is often used to filter noise?",
+    "choices": [
+      "Electrolytic",
+      "Tantalum",
+      "Variable",
+      "Ceramic"
+    ],
+    "answerIndex": 3,
+    "explanation": "**Ceramic** capacitors are small, **non-polarized**, range from **pF to about 1 µF**, and are used for **filtering noise**. Electrolytic and tantalum are polarized, and variable capacitors are for tuning."
+  },
+  {
+    "id": "R1-TYP-005",
+    "domain": "r1-week-3",
+    "subtopic": "Capacitor types and units",
+    "difficulty": "medium",
+    "question": "A power supply needs a $2{,}200\\ \\mu$F capacitor for smoothing. Which type is most likely used?",
+    "choices": [
+      "Electrolytic",
+      "Ceramic",
+      "Variable",
+      "Tantalum"
+    ],
+    "answerIndex": 0,
+    "explanation": "**Electrolytic** capacitors range from **1 µF to thousands of µF**, so they are used for large values such as $2{,}200\\ \\mu$F in **smoothing**. Ceramic and variable capacitors are far too small, and tantalum usually reaches only hundreds of µF."
+  },
+  {
+    "id": "R1-TYP-006",
+    "domain": "r1-week-3",
+    "subtopic": "Capacitor types and units",
+    "difficulty": "medium",
+    "question": "Tantalum capacitors are often found in phones and laptops. Why are they chosen?",
+    "choices": [
+      "They can be adjusted to tune stations",
+      "They are the only non-polarized type",
+      "They hold a fairly large capacitance in a very small size",
+      "They have the largest values of any capacitor"
+    ],
+    "answerIndex": 2,
+    "explanation": "**Tantalum** capacitors pack a fairly large capacitance (**0.1 µF to hundreds of µF**) into a **small package**, which suits compact devices. Variable capacitors are the adjustable type, and electrolytic capacitors reach larger values."
+  },
+  {
+    "id": "R1-TYP-007",
+    "domain": "r1-week-3",
+    "subtopic": "Capacitor types and units",
+    "difficulty": "medium",
+    "question": "What is $0.000047$ F written in microfarads?",
+    "choices": [
+      "$4.7\\ \\mu$F",
+      "$47\\ \\mu$F",
+      "$470\\ \\mu$F",
+      "$0.047\\ \\mu$F"
+    ],
+    "answerIndex": 1,
+    "explanation": "To change farads to microfarads, **multiply by 1,000,000**: $0.000047 \\times 1{,}000{,}000 = 47\\ \\mu$F."
+  },
+  {
+    "id": "R1-TYP-008",
+    "domain": "r1-week-3",
+    "subtopic": "Capacitor types and units",
+    "difficulty": "hard",
+    "question": "Which pair is equal to $220$ nF?",
+    "choices": [
+      "$2.2\\ \\mu$F and $22{,}000$ pF",
+      "$0.22\\ \\mu$F and $22{,}000$ pF",
+      "$220\\ \\mu$F and $220$ pF",
+      "$0.22\\ \\mu$F and $220{,}000$ pF"
+    ],
+    "answerIndex": 3,
+    "explanation": "nF to µF: **divide by 1,000**, so $220 \\div 1{,}000 = 0.22\\ \\mu$F. nF to pF: **multiply by 1,000**, so $220 \\times 1{,}000 = 220{,}000$ pF."
+  },
+  {
+    "id": "R1-USE-001",
+    "domain": "r1-week-3",
+    "subtopic": "Capacitor uses",
+    "difficulty": "easy",
+    "question": "A camera flash charges a capacitor and then releases its charge all at once. Which capacitor function is this?",
+    "choices": [
+      "Energy storage",
+      "Smoothing",
+      "Timing",
+      "Coupling"
+    ],
+    "answerIndex": 0,
+    "explanation": "The capacitor **stores energy** while charging, then releases it quickly to make a bright flash."
+  },
+  {
+    "id": "R1-USE-002",
+    "domain": "r1-week-3",
+    "subtopic": "Capacitor uses",
+    "difficulty": "easy",
+    "question": "A phone charger uses a capacitor to even out ripples in its output voltage. Which capacitor function is this?",
+    "choices": [
+      "Energy storage",
+      "Timing",
+      "Smoothing",
+      "Tuning"
+    ],
+    "answerIndex": 2,
+    "explanation": "**Smoothing** fills in the dips of a bumpy voltage so the output is steady. This is done in chargers and power supplies."
+  },
+  {
+    "id": "R1-USE-003",
+    "domain": "r1-week-3",
+    "subtopic": "Capacitor uses",
+    "difficulty": "medium",
+    "question": "The rate at which a light blinks is set by how long a capacitor takes to charge and discharge. Which capacitor function is this?",
+    "choices": [
+      "Smoothing",
+      "Timing",
+      "Coupling",
+      "Energy storage"
+    ],
+    "answerIndex": 1,
+    "explanation": "Charging and discharging take a predictable time ($\\tau = RC$), so capacitors are used for **timing**, as in blinking lights."
+  },
+  {
+    "id": "R1-USE-004",
+    "domain": "r1-week-3",
+    "subtopic": "Capacitor uses",
+    "difficulty": "medium",
+    "question": "In speakers and amplifiers, a capacitor passes the changing sound signal from one stage to the next while blocking steady DC. Which function is this?",
+    "choices": [
+      "Smoothing",
+      "Timing",
+      "Energy storage",
+      "Coupling"
+    ],
+    "answerIndex": 3,
+    "explanation": "**Coupling** lets the **changing (AC) signal** pass from one part of a circuit to the next while **blocking steady DC**. This is used in speakers and amplifiers."
+  },
+  {
+    "id": "R1-TAU-001",
+    "domain": "r1-week-3",
+    "subtopic": "Charging, discharging, and time constant",
+    "difficulty": "easy",
+    "question": "In $\\tau = RC$, which units must $R$ and $C$ be in so that $\\tau$ comes out in seconds?",
+    "choices": [
+      "Ohms and farads",
+      "Kilohms and microfarads",
+      "Ohms and microfarads",
+      "Volts and amperes"
+    ],
+    "answerIndex": 0,
+    "explanation": "Use **ohms (Ω)** for $R$ and **farads (F)** for $C$. Before computing, convert kΩ to Ω (× 1,000) and µF to F (÷ 1,000,000)."
+  },
+  {
+    "id": "R1-TAU-002",
+    "domain": "r1-week-3",
+    "subtopic": "Charging, discharging, and time constant",
+    "difficulty": "easy",
+    "question": "About how long does it take a capacitor to become fully charged?",
+    "choices": [
+      "$1\\tau$",
+      "$2\\tau$",
+      "$5\\tau$",
+      "$10\\tau$"
+    ],
+    "answerIndex": 2,
+    "explanation": "After about **$5\\tau$**, a capacitor is **99.3%** charged, which is treated as fully charged. After $1\\tau$ it is only 63.2% charged."
+  },
+  {
+    "id": "R1-TAU-003",
+    "domain": "r1-week-3",
+    "subtopic": "Charging, discharging, and time constant",
+    "difficulty": "easy",
+    "question": "What percentage of the full voltage does a charging capacitor reach after $1\\tau$?",
+    "choices": [
+      "$36.8\\%$",
+      "$63.2\\%$",
+      "$50\\%$",
+      "$99.3\\%$"
+    ],
+    "answerIndex": 1,
+    "explanation": "After **one time constant**, a charging capacitor reaches **63.2%** of the full voltage. The value 36.8% is what remains on a **discharging** capacitor after $1\\tau$, and 99.3% is reached after $5\\tau$."
+  },
+  {
+    "id": "R1-TAU-004",
+    "domain": "r1-week-3",
+    "subtopic": "Charging, discharging, and time constant",
+    "difficulty": "medium",
+    "question": "While a capacitor is charging, how do the current and the capacitor voltage change?",
+    "choices": [
+      "The current and voltage both stay constant",
+      "The current starts at zero and rises while the voltage falls",
+      "The voltage jumps to full instantly while the current stays high",
+      "The current starts high and drops to zero while the voltage rises"
+    ],
+    "answerIndex": 3,
+    "explanation": "At first the empty capacitor lets current flow easily, so **current starts high**. As charge builds up, the **voltage rises** and pushes back, so the **current drops to zero** when the capacitor is full."
+  },
+  {
+    "id": "R1-TAU-005",
+    "domain": "r1-week-3",
+    "subtopic": "Charging, discharging, and time constant",
+    "difficulty": "medium",
+    "question": "If $C$ is doubled and $R$ stays the same, what happens to $\\tau$?",
+    "choices": [
+      "It doubles",
+      "It is halved",
+      "It stays the same",
+      "It becomes four times bigger"
+    ],
+    "answerIndex": 0,
+    "explanation": "Since $\\tau = R \\times C$, $\\tau$ grows in **direct proportion** to $C$: double $C$ gives double $\\tau$. A bigger $R$ or $C$ makes charging **slower**, but the final voltage is the same."
+  },
+  {
+    "id": "R1-TAU-006",
+    "domain": "r1-week-3",
+    "subtopic": "Charging, discharging, and time constant",
+    "difficulty": "medium",
+    "question": "A circuit has $R = 10$ kΩ and $C = 100\\ \\mu$F. What is the time constant $\\tau$?",
+    "choices": [
+      "$1{,}000$ s",
+      "$0.1$ s",
+      "$1$ s",
+      "$10$ s"
+    ],
+    "answerIndex": 2,
+    "explanation": "Convert first: $10\\text{ k}\\Omega = 10{,}000\\ \\Omega$ and $100\\ \\mu\\text{F} = 0.0001$ F. Then $\\tau = 10{,}000 \\times 0.0001 = 1$ s. Multiplying $10 \\times 100$ without converting gives the wrong value $1{,}000$."
+  },
+  {
+    "id": "R1-TAU-007",
+    "domain": "r1-week-3",
+    "subtopic": "Charging, discharging, and time constant",
+    "difficulty": "hard",
+    "question": "A capacitor charges through a resistor from a $20$ V battery. What is its voltage after $2\\tau$? (It reaches $86.5\\%$ after $2\\tau$.)",
+    "choices": [
+      "$12.64$ V",
+      "$17.3$ V",
+      "$2.7$ V",
+      "$19.86$ V"
+    ],
+    "answerIndex": 1,
+    "explanation": "After $2\\tau$ a charging capacitor is at **86.5%**: $0.865 \\times 20 = 17.3$ V. The value $12.64$ V is the $1\\tau$ value (63.2%), and $2.7$ V is what would remain on a **discharging** capacitor (13.5%)."
+  },
+  {
+    "id": "R1-TAU-008",
+    "domain": "r1-week-3",
+    "subtopic": "Charging, discharging, and time constant",
+    "difficulty": "hard",
+    "question": "A capacitor charged to $10$ V discharges through a resistor. What is its voltage after $1\\tau$?",
+    "choices": [
+      "About $6.3$ V",
+      "$0$ V",
+      "$5$ V",
+      "About $3.7$ V"
+    ],
+    "answerIndex": 3,
+    "explanation": "After $1\\tau$ of **discharging**, **36.8%** of the voltage is left: $0.368 \\times 10 \\approx 3.7$ V. The value $6.3$ V is how much was **lost**, and it takes about $5\\tau$ to reach nearly $0$ V."
+  }
+]

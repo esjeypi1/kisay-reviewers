@@ -6,6 +6,7 @@ A free, public practice website, **KISAY Reviewers**. The home page (`/`) lists 
 | --- | --- | --- | --- |
 | Dagitab 2026 | `/#dagitab` | 470 | Practice, Mock Exam |
 | Brainiac 2026 (Biology, Grades 7 to 10) | `/#brainiac` | 400 | Practice |
+| Robotics I (Grade 9, Weeks 1 to 3) | `/#robotics-1` | 60 | Practice |
 
 The Dagitab reviewer is for senior high school students preparing for the **Dagitab 2026 qualifying exam**.
 It is an unofficial reviewer and is not affiliated with or endorsed by the UP Engineering Radio Guild.
@@ -13,6 +14,7 @@ It is an unofficial reviewer and is not affiliated with or endorsed by the UP En
 - **Practice mode:** untimed, filter by domain and subtopic, instant feedback with a worked explanation, score breakdown at the end.
 - **Mock exam mode:** 50 items, 60-minute countdown, auto-submits at 00:00, skip/flag/jump between items, full review at the end.
 - **Dagitab:** 470 questions in four domains (Mathematics and Logic, Physics and Circuits, Technical Knowledge, Abstract Reasoning). All are solvable without a calculator.
+- **Robotics I:** 60 questions, 20 per week: types of circuits, basic electronic components, and capacitors.
 - **Brainiac 2026:** 400 Biology questions, 100 per grade (Grades 7 to 10), practice by grade and topic.
 - Static site: no backend, no accounts, no cookies, no localStorage. Every visit starts fresh.
 
@@ -112,6 +114,7 @@ Questions live in `src/data/<subject>/`, one JSON file per domain:
 | `dagitab/technical-knowledge.json` | Technical Knowledge | `TK` |
 | `dagitab/abstract-reasoning.json` | Abstract Reasoning | `AR` |
 | `brainiac/grade-7.json` ... `grade-10.json` | Grade 7 to Grade 10 | `G7` ... `G10` |
+| `robotics-1/week-1.json` ... `week-3.json` | Week 1 to Week 3 | `R1` |
 
 The list of subtopics for each domain is in the subject's `subtopics.json`. A question's `subtopic` must match one of them exactly.
 
@@ -175,7 +178,7 @@ Figures are inline SVG strings. Rules the validator enforces:
 - No scripts, event handlers, links, or `style` attributes.
 - Use `stroke="currentColor"` and `fill="currentColor"` (not fixed colors) so figures work in light and dark mode.
 
-Helper functions in `scripts/figures/` draw consistent circuit parts (ANSI resistors, batteries, lamps, meters),
+Helper functions in `scripts/figures/` draw consistent circuit parts (ANSI resistors, batteries, lamps, meters, capacitors, diodes, LEDs, transistors),
 logic gates, flowchart symbols, and abstract-reasoning shapes. Example that prints a figure string ready to paste:
 
 ```bash
@@ -206,7 +209,7 @@ Fix every `ERROR`, then open the preview page (`/dev/preview.html`) to look at y
 - every item has the right fields and types, and no unknown fields;
 - ids are unique and use the right prefix;
 - each item has exactly 4 different choices and `answerIndex` is 0 to 3;
-- every domain has at least 50 items and every subtopic has at least one item;
+- every domain has at least 50 items (10 for subjects without a mock exam) and every subtopic has at least one item;
 - all math parses in KaTeX (strict mode) and no `$` is left unclosed;
 - every SVG/table is well-formed and uses only allowed tags and attributes;
 - no em dashes appear in questions or in the site's code;
@@ -230,7 +233,7 @@ in their current order; for a new checker you can skip the wrapper and use posit
 If you change a question's numbers or choices, update or delete its checker. Questions without a checker
 (reading passages, concepts, most abstract figures) are listed as "checked by hand".
 
-Current bank: 870 items (470 Dagitab, 400 Brainiac), 340 with computed checks.
+Current bank: 930 items (470 Dagitab, 400 Brainiac, 60 Robotics I), 355 with computed checks.
 
 ---
 

@@ -13,7 +13,7 @@ web
 
 ## Product Purpose
 
-The site is the teacher's central reviewer for every subject they handle, named KISAY Reviewers. Its home page lists every reviewer (Dagitab 2026; Brainiac 2026, which covers Biology Grades 7 to 10), and each has its own link (#dagitab, #brainiac). Reviewers are listed in `SUBJECTS` in `src/config.js`. The rest of this section describes the Dagitab reviewer.
+The site is the teacher's central reviewer for every subject they handle, named KISAY Reviewers. Its home page lists every reviewer (Dagitab 2026; Brainiac 2026, which covers Biology Grades 7 to 10; Robotics I, Grade 9 Weeks 1 to 3), and each has its own link (#dagitab, #brainiac, #robotics-1). Reviewers are listed in `SUBJECTS` in `src/config.js`. The rest of this section describes the Dagitab reviewer.
 
 A free, public reviewer that mirrors the real exam: 50 multiple-choice items, 60 minutes, 60% to pass, four domains (Mathematics and Logic, Physics and Circuits, Technical Knowledge, Abstract Reasoning). Practice mode is untimed with instant feedback and worked explanations; Mock Exam mode is timed with results and a full review at the end. Success: a student can start practicing in one tap and learns from every explanation.
 

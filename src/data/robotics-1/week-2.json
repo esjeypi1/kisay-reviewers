@@ -1,0 +1,309 @@
+[
+  {
+    "id": "R1-SYM-001",
+    "domain": "r1-week-2",
+    "subtopic": "Component symbols",
+    "difficulty": "easy",
+    "question": "What component does this symbol stand for?",
+    "figure": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"-10 -10 180 80\" width=\"180\" height=\"80\" role=\"img\" aria-label=\"Circuit symbol: a zigzag line\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"10\" y1=\"30\" x2=\"60\" y2=\"30\"/><line x1=\"100\" y1=\"30\" x2=\"150\" y2=\"30\"/><polyline points=\"60,30 63.33,37 70,23 76.67,37 83.33,23 90,37 96.67,23 100,30\"/></svg>",
+    "choices": [
+      "Resistor",
+      "Switch",
+      "Capacitor",
+      "Battery"
+    ],
+    "answerIndex": 0,
+    "explanation": "A **zigzag line** is the symbol for a **resistor**, which limits current."
+  },
+  {
+    "id": "R1-SYM-002",
+    "domain": "r1-week-2",
+    "subtopic": "Component symbols",
+    "difficulty": "easy",
+    "question": "What component does this symbol stand for?",
+    "figure": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"-10 -10 180 80\" width=\"180\" height=\"80\" role=\"img\" aria-label=\"Circuit symbol: a line with a gap and a raised blade\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"10\" y1=\"30\" x2=\"65\" y2=\"30\"/><line x1=\"95\" y1=\"30\" x2=\"150\" y2=\"30\"/><circle cx=\"65\" cy=\"30\" r=\"2.5\" fill=\"currentColor\"/><circle cx=\"95\" cy=\"30\" r=\"2.5\" fill=\"currentColor\"/><line x1=\"65\" y1=\"30\" x2=\"93\" y2=\"18\"/></svg>",
+    "choices": [
+      "Resistor",
+      "Diode",
+      "Switch",
+      "Capacitor"
+    ],
+    "answerIndex": 2,
+    "explanation": "A **break in the line** with a raised blade is an **open switch**. Closing it completes the path."
+  },
+  {
+    "id": "R1-SYM-003",
+    "domain": "r1-week-2",
+    "subtopic": "Component symbols",
+    "difficulty": "easy",
+    "question": "What component does this symbol stand for?",
+    "figure": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"-10 -10 180 80\" width=\"180\" height=\"80\" role=\"img\" aria-label=\"Circuit symbol: one long thin plate and one short thick plate\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"10\" y1=\"30\" x2=\"74\" y2=\"30\"/><line x1=\"86\" y1=\"30\" x2=\"150\" y2=\"30\"/><line x1=\"74\" y1=\"44\" x2=\"74\" y2=\"16\" stroke-width=\"2\"/><line x1=\"86\" y1=\"37\" x2=\"86\" y2=\"23\" stroke-width=\"4\"/></svg>",
+    "choices": [
+      "Capacitor",
+      "Battery",
+      "Switch",
+      "Transistor"
+    ],
+    "answerIndex": 1,
+    "explanation": "A **long thin plate** and a **short thick plate** make the **battery** (cell) symbol. The long plate is the positive terminal."
+  },
+  {
+    "id": "R1-SYM-004",
+    "domain": "r1-week-2",
+    "subtopic": "Component symbols",
+    "difficulty": "easy",
+    "question": "What component does this symbol stand for?",
+    "figure": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"-10 -10 180 80\" width=\"180\" height=\"80\" role=\"img\" aria-label=\"Circuit symbol: two equal parallel plates\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"10\" y1=\"30\" x2=\"75\" y2=\"30\"/><line x1=\"85\" y1=\"30\" x2=\"150\" y2=\"30\"/><line x1=\"75\" y1=\"43\" x2=\"75\" y2=\"17\"/><line x1=\"85\" y1=\"43\" x2=\"85\" y2=\"17\"/></svg>",
+    "choices": [
+      "Battery",
+      "Resistor",
+      "Diode",
+      "Capacitor"
+    ],
+    "answerIndex": 3,
+    "explanation": "Two **equal parallel plates** with a gap between them form the **capacitor** symbol. A battery's plates are unequal."
+  },
+  {
+    "id": "R1-SYM-005",
+    "domain": "r1-week-2",
+    "subtopic": "Component symbols",
+    "difficulty": "medium",
+    "question": "What component does this symbol stand for?",
+    "figure": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"-10 -10 180 120\" width=\"180\" height=\"120\" role=\"img\" aria-label=\"Circuit symbol: a circle with a line from the left and two lines to the right, one with an arrow\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"80\" cy=\"50\" r=\"22\"/><line x1=\"34\" y1=\"50\" x2=\"73\" y2=\"50\"/><line x1=\"73\" y1=\"38\" x2=\"73\" y2=\"62\" stroke-width=\"3\"/><line x1=\"73\" y1=\"45\" x2=\"89\" y2=\"35\"/><line x1=\"89\" y1=\"35\" x2=\"89\" y2=\"10\"/><line x1=\"73\" y1=\"55\" x2=\"89\" y2=\"65\"/><polygon points=\"89,65 81.05,64.13 84.74,58.23\" fill=\"currentColor\" stroke-width=\"1\"/><line x1=\"89\" y1=\"65\" x2=\"89\" y2=\"90\"/></svg>",
+    "choices": [
+      "Transistor",
+      "Diode",
+      "LED",
+      "Capacitor"
+    ],
+    "answerIndex": 0,
+    "explanation": "A **circle** with a base line and two leads, one with an **arrow**, is a **transistor**. The arrow marks the emitter."
+  },
+  {
+    "id": "R1-SYM-006",
+    "domain": "r1-week-2",
+    "subtopic": "Component symbols",
+    "difficulty": "medium",
+    "question": "What component does this symbol stand for?",
+    "figure": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"-10 -10 180 80\" width=\"180\" height=\"80\" role=\"img\" aria-label=\"Circuit symbol: a triangle pointing to a bar\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"10\" y1=\"30\" x2=\"68\" y2=\"30\"/><line x1=\"92\" y1=\"30\" x2=\"150\" y2=\"30\"/><polygon points=\"68,40 68,20 88,30\"/><line x1=\"88\" y1=\"40\" x2=\"88\" y2=\"20\"/><line x1=\"68\" y1=\"30\" x2=\"88\" y2=\"30\"/></svg>",
+    "choices": [
+      "LED",
+      "Transistor",
+      "Diode",
+      "Resistor"
+    ],
+    "answerIndex": 2,
+    "explanation": "A **triangle pointing to a bar** is a **diode**. It has **no arrows** coming out, so it is not an LED."
+  },
+  {
+    "id": "R1-SYM-007",
+    "domain": "r1-week-2",
+    "subtopic": "Component symbols",
+    "difficulty": "medium",
+    "question": "Which symbol is an LED?",
+    "choices": [
+      "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"-10 -10 180 80\" width=\"180\" height=\"80\" role=\"img\" aria-label=\"Circuit symbol: a triangle pointing to a bar\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"10\" y1=\"30\" x2=\"68\" y2=\"30\"/><line x1=\"92\" y1=\"30\" x2=\"150\" y2=\"30\"/><polygon points=\"68,40 68,20 88,30\"/><line x1=\"88\" y1=\"40\" x2=\"88\" y2=\"20\"/><line x1=\"68\" y1=\"30\" x2=\"88\" y2=\"30\"/></svg>",
+      "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"-10 -10 180 80\" width=\"180\" height=\"80\" role=\"img\" aria-label=\"Circuit symbol: a triangle pointing to a bar, with two small arrows pointing away\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"10\" y1=\"30\" x2=\"68\" y2=\"30\"/><line x1=\"92\" y1=\"30\" x2=\"150\" y2=\"30\"/><polygon points=\"68,40 68,20 88,30\"/><line x1=\"88\" y1=\"40\" x2=\"88\" y2=\"20\"/><line x1=\"68\" y1=\"30\" x2=\"88\" y2=\"30\"/><line x1=\"76\" y1=\"16\" x2=\"82\" y2=\"6\" stroke-width=\"1.5\"/><polygon points=\"83,4 82.53,9.98 78.02,7.35\" fill=\"currentColor\" stroke-width=\"1\"/><line x1=\"86\" y1=\"16\" x2=\"92\" y2=\"6\" stroke-width=\"1.5\"/><polygon points=\"93,4 92.53,9.98 88.02,7.35\" fill=\"currentColor\" stroke-width=\"1\"/></svg>",
+      "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"-10 -10 180 80\" width=\"180\" height=\"80\" role=\"img\" aria-label=\"Circuit symbol: two equal parallel plates\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"10\" y1=\"30\" x2=\"75\" y2=\"30\"/><line x1=\"85\" y1=\"30\" x2=\"150\" y2=\"30\"/><line x1=\"75\" y1=\"43\" x2=\"75\" y2=\"17\"/><line x1=\"85\" y1=\"43\" x2=\"85\" y2=\"17\"/></svg>",
+      "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"-10 -10 180 80\" width=\"180\" height=\"80\" role=\"img\" aria-label=\"Circuit symbol: one long thin plate and one short thick plate\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"10\" y1=\"30\" x2=\"74\" y2=\"30\"/><line x1=\"86\" y1=\"30\" x2=\"150\" y2=\"30\"/><line x1=\"74\" y1=\"44\" x2=\"74\" y2=\"16\" stroke-width=\"2\"/><line x1=\"86\" y1=\"37\" x2=\"86\" y2=\"23\" stroke-width=\"4\"/></svg>"
+    ],
+    "choiceLayout": "grid",
+    "answerIndex": 1,
+    "explanation": "An **LED** is drawn like a diode, a triangle pointing to a bar, **plus two small arrows pointing away** to show light being given off. The plain triangle is a diode."
+  },
+  {
+    "id": "R1-SYM-008",
+    "domain": "r1-week-2",
+    "subtopic": "Component symbols",
+    "difficulty": "medium",
+    "question": "How can you tell an LED symbol from a plain diode symbol?",
+    "choices": [
+      "The LED has a zigzag line",
+      "The LED is drawn inside a circle",
+      "The LED has two equal plates",
+      "The LED has two small arrows pointing away from it"
+    ],
+    "answerIndex": 3,
+    "explanation": "Both symbols show a triangle pointing to a bar, but the **LED** adds **two arrows pointing outward** for the light it gives off. A zigzag is a resistor, a circle is a transistor, and two plates are a capacitor."
+  },
+  {
+    "id": "R1-SYM-009",
+    "domain": "r1-week-2",
+    "subtopic": "Component symbols",
+    "difficulty": "medium",
+    "question": "How can you tell the battery symbol from the capacitor symbol?",
+    "choices": [
+      "The battery's plates are unequal; the capacitor's plates are equal",
+      "The battery has a zigzag line; the capacitor does not",
+      "The capacitor has arrows; the battery does not",
+      "There is no difference; they mean the same thing"
+    ],
+    "answerIndex": 0,
+    "explanation": "Both symbols use two parallel plates. In the **battery**, one plate is **long and thin** and the other is **short and thick**. In the **capacitor**, the two plates are **the same**."
+  },
+  {
+    "id": "R1-FUN-001",
+    "domain": "r1-week-2",
+    "subtopic": "Component functions",
+    "difficulty": "easy",
+    "question": "Which component limits the current in a circuit?",
+    "choices": [
+      "Battery",
+      "Switch",
+      "Resistor",
+      "Capacitor"
+    ],
+    "answerIndex": 2,
+    "explanation": "A **resistor** limits (reduces) current. The battery pushes the current, the switch opens or closes the path, and the capacitor stores charge."
+  },
+  {
+    "id": "R1-FUN-002",
+    "domain": "r1-week-2",
+    "subtopic": "Component functions",
+    "difficulty": "easy",
+    "question": "Which component stores electric charge and can release it quickly?",
+    "choices": [
+      "Resistor",
+      "Capacitor",
+      "Diode",
+      "Switch"
+    ],
+    "answerIndex": 1,
+    "explanation": "A **capacitor** stores charge on its plates and can **release it quickly**, as in a camera flash."
+  },
+  {
+    "id": "R1-FUN-003",
+    "domain": "r1-week-2",
+    "subtopic": "Component functions",
+    "difficulty": "easy",
+    "question": "What does a switch do in a circuit?",
+    "choices": [
+      "It stores charge",
+      "It produces light",
+      "It increases the voltage",
+      "It opens or closes the path for current"
+    ],
+    "answerIndex": 3,
+    "explanation": "A **switch** **opens** the circuit (no current) or **closes** it (current flows). It does not store charge, make light, or raise voltage."
+  },
+  {
+    "id": "R1-FUN-004",
+    "domain": "r1-week-2",
+    "subtopic": "Component functions",
+    "difficulty": "easy",
+    "question": "What is the job of the battery in a circuit?",
+    "choices": [
+      "It is the power source that pushes the current",
+      "It limits the current",
+      "It lets current flow one way only",
+      "It controls a big current with a small one"
+    ],
+    "answerIndex": 0,
+    "explanation": "The **battery** is the **power source**: its voltage pushes current around the circuit. A resistor limits current, a diode allows one direction, and a transistor lets a small current control a bigger one."
+  },
+  {
+    "id": "R1-FUN-005",
+    "domain": "r1-week-2",
+    "subtopic": "Component functions",
+    "difficulty": "medium",
+    "question": "Which component lets current flow in one direction only?",
+    "choices": [
+      "Resistor",
+      "Capacitor",
+      "Diode",
+      "Switch"
+    ],
+    "answerIndex": 2,
+    "explanation": "A **diode** is a **one-way street** for current: it conducts in one direction and blocks the other."
+  },
+  {
+    "id": "R1-FUN-006",
+    "domain": "r1-week-2",
+    "subtopic": "Component functions",
+    "difficulty": "medium",
+    "question": "An LED is connected backwards in a circuit. What happens?",
+    "choices": [
+      "It glows brighter",
+      "It does not light",
+      "It blinks",
+      "It stores charge"
+    ],
+    "answerIndex": 1,
+    "explanation": "An LED is a **diode**, so it only lets current flow one way. Reversed, **no current flows** and it does not light."
+  },
+  {
+    "id": "R1-FUN-007",
+    "domain": "r1-week-2",
+    "subtopic": "Component functions",
+    "difficulty": "medium",
+    "question": "Which component protects an LED from too much current?",
+    "choices": [
+      "A transistor",
+      "A switch",
+      "A capacitor",
+      "A resistor"
+    ],
+    "answerIndex": 3,
+    "explanation": "A **resistor** in series with the LED **limits the current** so the LED does not burn out."
+  },
+  {
+    "id": "R1-FUN-008",
+    "domain": "r1-week-2",
+    "subtopic": "Component functions",
+    "difficulty": "medium",
+    "question": "Which component lets a small current control a much bigger current?",
+    "choices": [
+      "Transistor",
+      "Diode",
+      "Battery",
+      "LED"
+    ],
+    "answerIndex": 0,
+    "explanation": "A **transistor** works like a faucet: a **small base current** controls a **bigger current** through the collector and emitter. This is how it acts as a switch or an amplifier."
+  },
+  {
+    "id": "R1-FUN-009",
+    "domain": "r1-week-2",
+    "subtopic": "Component functions",
+    "difficulty": "hard",
+    "question": "An LED needs $2$ V and $0.02$ A ($20$ mA) to glow safely. It is powered by a $6$ V battery with a resistor in series. What resistor value is needed?",
+    "choices": [
+      "$300\\ \\Omega$",
+      "$100\\ \\Omega$",
+      "$200\\ \\Omega$",
+      "$400\\ \\Omega$"
+    ],
+    "answerIndex": 2,
+    "explanation": "The resistor must take the extra voltage: $6 - 2 = 4$ V. In series the current is the same, $0.02$ A, so $R = V \\div I = 4 \\div 0.02 = 200\\ \\Omega$. The value $300\\ \\Omega$ uses the full $6$ V ($6 \\div 0.02$), and $100\\ \\Omega$ uses only the LED's $2$ V."
+  },
+  {
+    "id": "R1-FUN-010",
+    "domain": "r1-week-2",
+    "subtopic": "Component functions",
+    "difficulty": "hard",
+    "question": "In a working circuit, a student replaces an LED with a plain diode facing the same direction. What happens?",
+    "choices": [
+      "No current flows at all",
+      "Current still flows, but no light is given off",
+      "The diode glows brighter than the LED",
+      "The battery starts charging"
+    ],
+    "answerIndex": 1,
+    "explanation": "A plain diode still lets current flow **in the same direction**, so the circuit stays complete. But only an **LED** turns that current into **light**, so nothing glows."
+  },
+  {
+    "id": "R1-FUN-011",
+    "domain": "r1-week-2",
+    "subtopic": "Component functions",
+    "difficulty": "hard",
+    "question": "Which component can protect a circuit if someone puts the battery in backwards?",
+    "choices": [
+      "A resistor in parallel with the battery",
+      "A switch that is always closed",
+      "A second battery facing the same way",
+      "A diode in series with the battery"
+    ],
+    "answerIndex": 3,
+    "explanation": "A **diode** only allows current **one way**. If the battery is reversed, the diode **blocks** the current, so the rest of the circuit is protected. A resistor or closed switch would still let the reversed current through."
+  }
+]

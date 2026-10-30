@@ -13,7 +13,8 @@ import { SUBJECTS } from '../src/config.js';
 const root = join(dirname(fileURLToPath(import.meta.url)), '..');
 const dataRoot = join(root, 'src/data');
 
-const MIN_PER_DOMAIN = 50;
+// Domains of a subject with a mock exam need a large bank; other subjects only need enough for a practice set.
+const MIN_PER_DOMAIN = { mock: 50, practice: 10 };
 const DIFFICULTIES = ['easy', 'medium', 'hard'];
 const REQUIRED = ['id', 'domain', 'subtopic', 'difficulty', 'question', 'choices', 'answerIndex', 'explanation'];
 const OPTIONAL = ['passage', 'code', 'figure', 'choiceLayout', 'explanationFigure', 'verified'];
@@ -175,7 +176,8 @@ for (const d of meta.domains) {
   });
 
   domainCounts[d.id] = items.length;
-  if (items.length < MIN_PER_DOMAIN) err(d.file, `has ${items.length} items, needs at least ${MIN_PER_DOMAIN}`);
+  const min = subject.mock ? MIN_PER_DOMAIN.mock : MIN_PER_DOMAIN.practice;
+  if (items.length < min) err(d.file, `has ${items.length} items, needs at least ${min}`);
   for (const [s, n] of Object.entries(perSub)) if (n === 0) err(d.file, `subtopic "${s}" has no items`);
 
   console.log(`\n${d.name} (${items.length} items)`);

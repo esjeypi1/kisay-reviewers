@@ -145,4 +145,45 @@ export function led(x1, y1, x2, y2, label, side = 1) {
     + sideLabel(x1, y1, x2, y2, label, side, 22);
 }
 
+// Capacitor: two equal parallel plates. polarized: adds + by the first plate and draws the second plate thick.
+export function capacitor(x1, y1, x2, y2, label, side = 1, { polarized = false } = {}) {
+  const body = 10;
+  const { ux, uy } = unit(x1, y1, x2, y2);
+  const L = leads(x1, y1, x2, y2, body);
+  const nx = -uy;
+  const ny = ux;
+  const plate = ([x, y], w) => line(x + nx * 13, y + ny * 13, x - nx * 13, y - ny * 13, w ? `stroke-width="${w}"` : '');
+  let out = L.svg + plate(L.s) + plate(L.e, polarized ? 5 : 0);
+  if (polarized) out += text(L.s[0] - ux * 9 - nx * 13, L.s[1] - uy * 9 - ny * 13, '+', { size: 13 });
+  return out + sideLabel(x1, y1, x2, y2, label, side, 22);
+}
+
+// Diode: the LED shape without the light arrows. Current flows from (x1,y1) toward the bar.
+export function diode(x1, y1, x2, y2, label, side = 1) {
+  const body = 24;
+  const { ux, uy } = unit(x1, y1, x2, y2);
+  const L = leads(x1, y1, x2, y2, body);
+  const nx = -uy;
+  const ny = ux;
+  const tri = [
+    [L.s[0] + nx * 10, L.s[1] + ny * 10],
+    [L.s[0] - nx * 10, L.s[1] - ny * 10],
+    [L.e[0] - ux * 4, L.e[1] - uy * 4],
+  ];
+  const bar = line(L.e[0] - ux * 4 + nx * 10, L.e[1] - uy * 4 + ny * 10, L.e[0] - ux * 4 - nx * 10, L.e[1] - uy * 4 - ny * 10);
+  return L.svg + poly(tri, { closed: true }) + bar + line(L.s[0], L.s[1], L.e[0] - ux * 4, L.e[1] - uy * 4)
+    + sideLabel(x1, y1, x2, y2, label, side, 22);
+}
+
+// NPN transistor centered at (cx, cy): base lead from the left, collector up, emitter down with the arrow pointing out.
+export function transistor(cx, cy, { r = 22, lead = 24 } = {}) {
+  const bx = cx - 7;
+  const c = [cx + 9, cy - 15];
+  const e = [cx + 9, cy + 15];
+  return circle(cx, cy, r)
+    + line(cx - r - lead, cy, bx, cy) + line(bx, cy - 12, bx, cy + 12, 'stroke-width="3"')
+    + line(bx, cy - 5, c[0], c[1]) + line(c[0], c[1], c[0], cy - r - lead + 6)
+    + line(bx, cy + 5, e[0], e[1]) + arrowHead(bx, cy + 5, e[0], e[1], 8) + line(e[0], e[1], e[0], cy + r + lead - 6);
+}
+
 export { path };

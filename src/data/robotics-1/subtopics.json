@@ -1,0 +1,39 @@
+{
+  "domains": [
+    {
+      "id": "r1-week-1",
+      "name": "Week 1: Types of Circuits",
+      "short": "Week 1",
+      "file": "week-1.json",
+      "idPrefix": "R1",
+      "subtopics": [
+        "Series circuits",
+        "Parallel circuits",
+        "Series-parallel circuits"
+      ]
+    },
+    {
+      "id": "r1-week-2",
+      "name": "Week 2: Electronic Components",
+      "short": "Week 2",
+      "file": "week-2.json",
+      "idPrefix": "R1",
+      "subtopics": [
+        "Component symbols",
+        "Component functions"
+      ]
+    },
+    {
+      "id": "r1-week-3",
+      "name": "Week 3: Capacitors",
+      "short": "Week 3",
+      "file": "week-3.json",
+      "idPrefix": "R1",
+      "subtopics": [
+        "Capacitor types and units",
+        "Capacitor uses",
+        "Charging, discharging, and time constant"
+      ]
+    }
+  ]
+}

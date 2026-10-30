@@ -1394,7 +1394,7 @@
       "590"
     ],
     "answerIndex": 0,
-    "explanation": "$500 + 80 - 30 + 10 - 20 = 540$\n\nBirths and immigrants are **added**; deaths and emigrants are **subtracted**. 560 forgets the emigrants, and 590 adds every number.",
+    "explanation": "$500 + 80 - 30 + 10 - 20 = 540$\n\nBirths and immigrants are **added**; deaths and emigrants are **subtracted**. 560 forgets the emigrants, 580 adds the emigrants instead of subtracting them, and 590 leaves out both the deaths and the emigrants.",
     "verified": true
   },
   {

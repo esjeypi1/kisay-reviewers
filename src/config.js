@@ -47,6 +47,16 @@ export const SUBJECTS = [
     domainLabel: 'Grade',
     passRate: 0.6,
   },
+  {
+    id: 'robotics-1',
+    name: 'Robotics I',
+    title: 'Robotics I Reviewer',
+    description: 'Grade 9, Weeks 1 to 3.',
+    icon: 'chip',
+    tagline: 'Grade 9, Weeks 1 to 3',
+    domainLabel: 'Week',
+    passRate: 0.6,
+  },
 ];
 
 // Choices for "How many questions?" in Practice mode. "all" means every matching item.

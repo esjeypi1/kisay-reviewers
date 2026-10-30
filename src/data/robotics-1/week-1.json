@@ -1,0 +1,310 @@
+[
+  {
+    "id": "R1-SER-001",
+    "domain": "r1-week-1",
+    "subtopic": "Series circuits",
+    "difficulty": "easy",
+    "question": "What type of circuit is shown?",
+    "figure": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"-10 -10 260 160\" width=\"260\" height=\"160\" role=\"img\" aria-label=\"A battery and three bulbs connected one after another in a single loop\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"20\" y1=\"100\" x2=\"20\" y2=\"76\"/><line x1=\"20\" y1=\"64\" x2=\"20\" y2=\"40\"/><line x1=\"34\" y1=\"64\" x2=\"6\" y2=\"64\" stroke-width=\"2\"/><line x1=\"27\" y1=\"76\" x2=\"13\" y2=\"76\" stroke-width=\"4\"/><polyline points=\"20,40 20,20 50,20\"/><line x1=\"50\" y1=\"20\" x2=\"68\" y2=\"20\"/><line x1=\"92\" y1=\"20\" x2=\"110\" y2=\"20\"/><circle cx=\"80\" cy=\"20\" r=\"12\"/><line x1=\"71.6\" y1=\"11.6\" x2=\"88.4\" y2=\"28.4\"/><line x1=\"71.6\" y1=\"28.4\" x2=\"88.4\" y2=\"11.6\"/><polyline points=\"110,20 130,20\"/><line x1=\"130\" y1=\"20\" x2=\"148\" y2=\"20\"/><line x1=\"172\" y1=\"20\" x2=\"190\" y2=\"20\"/><circle cx=\"160\" cy=\"20\" r=\"12\"/><line x1=\"151.6\" y1=\"11.6\" x2=\"168.4\" y2=\"28.4\"/><line x1=\"151.6\" y1=\"28.4\" x2=\"168.4\" y2=\"11.6\"/><polyline points=\"190,20 220,20 220,40\"/><line x1=\"220\" y1=\"40\" x2=\"220\" y2=\"58\"/><line x1=\"220\" y1=\"82\" x2=\"220\" y2=\"100\"/><circle cx=\"220\" cy=\"70\" r=\"12\"/><line x1=\"211.6\" y1=\"61.6\" x2=\"228.4\" y2=\"78.4\"/><line x1=\"211.6\" y1=\"78.4\" x2=\"228.4\" y2=\"61.6\"/><polyline points=\"220,100 220,120 20,120 20,100\"/></svg>",
+    "choices": [
+      "Series",
+      "Parallel",
+      "Series-parallel",
+      "Open circuit"
+    ],
+    "answerIndex": 0,
+    "explanation": "All three bulbs are on **one loop**, so the current has **exactly one path**: a **series** circuit. In a parallel circuit each bulb would have its own branch across the battery."
+  },
+  {
+    "id": "R1-SER-002",
+    "domain": "r1-week-1",
+    "subtopic": "Series circuits",
+    "difficulty": "easy",
+    "question": "In a series circuit, how many paths can the current take?",
+    "choices": [
+      "Two",
+      "One for each bulb",
+      "Exactly one",
+      "As many as there are wires"
+    ],
+    "answerIndex": 2,
+    "explanation": "A series circuit has **exactly one path**. The same current passes through every part, one after another."
+  },
+  {
+    "id": "R1-SER-003",
+    "domain": "r1-week-1",
+    "subtopic": "Series circuits",
+    "difficulty": "easy",
+    "question": "One bulb in a series circuit of three bulbs burns out. What happens to the other two bulbs?",
+    "choices": [
+      "They stay lit",
+      "They also go out",
+      "They get brighter",
+      "They get dimmer"
+    ],
+    "answerIndex": 1,
+    "explanation": "A burnt-out bulb **breaks the only path**, so no current flows anywhere in a series circuit and **everything goes dark**."
+  },
+  {
+    "id": "R1-SER-004",
+    "domain": "r1-week-1",
+    "subtopic": "Series circuits",
+    "difficulty": "medium",
+    "question": "Resistors of $2\\ \\Omega$, $3\\ \\Omega$, and $5\\ \\Omega$ are connected in series. What is the total resistance?",
+    "choices": [
+      "$30\\ \\Omega$",
+      "$1\\ \\Omega$",
+      "$5\\ \\Omega$",
+      "$10\\ \\Omega$"
+    ],
+    "answerIndex": 3,
+    "explanation": "In series, **add** the resistances: $R = 2 + 3 + 5 = 10\\ \\Omega$. The value $30\\ \\Omega$ multiplies them instead of adding."
+  },
+  {
+    "id": "R1-SER-005",
+    "domain": "r1-week-1",
+    "subtopic": "Series circuits",
+    "difficulty": "medium",
+    "question": "Three identical $4\\ \\Omega$ bulbs are connected in series to a $12$ V battery. What is the current in the circuit?",
+    "choices": [
+      "$1$ A",
+      "$3$ A",
+      "$4$ A",
+      "$9$ A"
+    ],
+    "answerIndex": 0,
+    "explanation": "Total resistance: $R = 4 + 4 + 4 = 12\\ \\Omega$. Current: $I = V \\div R = 12 \\div 12 = 1$ A, the same everywhere in the loop. The value $3$ A uses only one bulb ($12 \\div 4$)."
+  },
+  {
+    "id": "R1-SER-006",
+    "domain": "r1-week-1",
+    "subtopic": "Series circuits",
+    "difficulty": "medium",
+    "question": "What is the voltage across the $6\\ \\Omega$ resistor?",
+    "figure": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"-10 -10 260 160\" width=\"260\" height=\"160\" role=\"img\" aria-label=\"An 18 volt battery in series with a 6 ohm resistor and a 3 ohm resistor\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"20\" y1=\"100\" x2=\"20\" y2=\"76\"/><line x1=\"20\" y1=\"64\" x2=\"20\" y2=\"40\"/><line x1=\"34\" y1=\"64\" x2=\"6\" y2=\"64\" stroke-width=\"2\"/><line x1=\"27\" y1=\"76\" x2=\"13\" y2=\"76\" stroke-width=\"4\"/><text x=\"4\" y=\"59\" font-size=\"13\" text-anchor=\"middle\" dominant-baseline=\"central\" fill=\"currentColor\" stroke=\"none\">+</text><text x=\"4\" y=\"81\" font-size=\"13\" text-anchor=\"middle\" dominant-baseline=\"central\" fill=\"currentColor\" stroke=\"none\">−</text><text x=\"36\" y=\"70\" font-size=\"13\" text-anchor=\"start\" dominant-baseline=\"central\" fill=\"currentColor\" stroke=\"none\">18 V</text><polyline points=\"20,40 20,20 70,20\"/><line x1=\"70\" y1=\"20\" x2=\"100\" y2=\"20\"/><line x1=\"140\" y1=\"20\" x2=\"170\" y2=\"20\"/><polyline points=\"100,20 103.33,27 110,13 116.67,27 123.33,13 130,27 136.67,13 140,20\"/><text x=\"120\" y=\"0\" font-size=\"13\" text-anchor=\"middle\" dominant-baseline=\"central\" fill=\"currentColor\" stroke=\"none\">6 Ω</text><polyline points=\"170,20 220,20 220,40\"/><line x1=\"220\" y1=\"40\" x2=\"220\" y2=\"50\"/><line x1=\"220\" y1=\"90\" x2=\"220\" y2=\"100\"/><polyline points=\"220,50 213,53.33 227,60 213,66.67 227,73.33 213,80 227,86.67 220,90\"/><text x=\"208\" y=\"70\" font-size=\"13\" text-anchor=\"end\" dominant-baseline=\"central\" fill=\"currentColor\" stroke=\"none\">3 Ω</text><polyline points=\"220,100 220,120 20,120 20,100\"/></svg>",
+    "choices": [
+      "$6$ V",
+      "$9$ V",
+      "$12$ V",
+      "$18$ V"
+    ],
+    "answerIndex": 2,
+    "explanation": "Total resistance: $6 + 3 = 9\\ \\Omega$. Current: $I = 18 \\div 9 = 2$ A. Voltage across the $6\\ \\Omega$ resistor: $V = I \\times R = 2 \\times 6 = 12$ V. The $3\\ \\Omega$ resistor gets $6$ V, and $12 + 6 = 18$ V, the battery voltage."
+  },
+  {
+    "id": "R1-SER-007",
+    "domain": "r1-week-1",
+    "subtopic": "Series circuits",
+    "difficulty": "hard",
+    "question": "Two identical bulbs in series on a $6$ V battery draw $1.5$ A. A third identical bulb is added in series. What is the new current?",
+    "choices": [
+      "$1.5$ A",
+      "$1$ A",
+      "$2.25$ A",
+      "$0.5$ A"
+    ],
+    "answerIndex": 1,
+    "explanation": "Two bulbs: $R = 6 \\div 1.5 = 4\\ \\Omega$, so each bulb is $2\\ \\Omega$. Three bulbs: $R = 2 + 2 + 2 = 6\\ \\Omega$, so $I = 6 \\div 6 = 1$ A. Adding a bulb in series **raises the resistance**, so the current drops and **every bulb gets dimmer**."
+  },
+  {
+    "id": "R1-PAR-001",
+    "domain": "r1-week-1",
+    "subtopic": "Parallel circuits",
+    "difficulty": "easy",
+    "question": "What type of circuit is shown?",
+    "figure": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"-10 -10 260 160\" width=\"260\" height=\"160\" role=\"img\" aria-label=\"A battery with three bulbs, each on its own branch connected across the battery\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"20\" y1=\"100\" x2=\"20\" y2=\"76\"/><line x1=\"20\" y1=\"64\" x2=\"20\" y2=\"40\"/><line x1=\"34\" y1=\"64\" x2=\"6\" y2=\"64\" stroke-width=\"2\"/><line x1=\"27\" y1=\"76\" x2=\"13\" y2=\"76\" stroke-width=\"4\"/><polyline points=\"20,40 20,20 220,20\"/><polyline points=\"20,100 20,120 220,120\"/><polyline points=\"100,20 100,45\"/><line x1=\"100\" y1=\"45\" x2=\"100\" y2=\"58\"/><line x1=\"100\" y1=\"82\" x2=\"100\" y2=\"95\"/><circle cx=\"100\" cy=\"70\" r=\"12\"/><line x1=\"91.6\" y1=\"61.6\" x2=\"108.4\" y2=\"78.4\"/><line x1=\"91.6\" y1=\"78.4\" x2=\"108.4\" y2=\"61.6\"/><polyline points=\"100,95 100,120\"/><polyline points=\"160,20 160,45\"/><line x1=\"160\" y1=\"45\" x2=\"160\" y2=\"58\"/><line x1=\"160\" y1=\"82\" x2=\"160\" y2=\"95\"/><circle cx=\"160\" cy=\"70\" r=\"12\"/><line x1=\"151.6\" y1=\"61.6\" x2=\"168.4\" y2=\"78.4\"/><line x1=\"151.6\" y1=\"78.4\" x2=\"168.4\" y2=\"61.6\"/><polyline points=\"160,95 160,120\"/><polyline points=\"220,20 220,45\"/><line x1=\"220\" y1=\"45\" x2=\"220\" y2=\"58\"/><line x1=\"220\" y1=\"82\" x2=\"220\" y2=\"95\"/><circle cx=\"220\" cy=\"70\" r=\"12\"/><line x1=\"211.6\" y1=\"61.6\" x2=\"228.4\" y2=\"78.4\"/><line x1=\"211.6\" y1=\"78.4\" x2=\"228.4\" y2=\"61.6\"/><polyline points=\"220,95 220,120\"/><circle cx=\"100\" cy=\"20\" r=\"3.5\" fill=\"currentColor\"/><circle cx=\"160\" cy=\"20\" r=\"3.5\" fill=\"currentColor\"/><circle cx=\"100\" cy=\"120\" r=\"3.5\" fill=\"currentColor\"/><circle cx=\"160\" cy=\"120\" r=\"3.5\" fill=\"currentColor\"/></svg>",
+    "choices": [
+      "Series",
+      "Series-parallel",
+      "Open circuit",
+      "Parallel"
+    ],
+    "answerIndex": 3,
+    "explanation": "Each bulb is on **its own branch** connected directly across the battery, so this is a **parallel** circuit. There is more than one path for the current."
+  },
+  {
+    "id": "R1-PAR-002",
+    "domain": "r1-week-1",
+    "subtopic": "Parallel circuits",
+    "difficulty": "easy",
+    "question": "In a parallel circuit, what is the voltage across each branch?",
+    "choices": [
+      "The full battery voltage",
+      "The battery voltage divided by the number of branches",
+      "Zero",
+      "Twice the battery voltage"
+    ],
+    "answerIndex": 0,
+    "explanation": "Every branch is connected **directly across the source**, so each one gets the **full battery voltage**. Dividing the voltage among parts happens in a **series** circuit."
+  },
+  {
+    "id": "R1-PAR-003",
+    "domain": "r1-week-1",
+    "subtopic": "Parallel circuits",
+    "difficulty": "easy",
+    "question": "One bulb in a parallel circuit burns out. What happens to the other bulbs?",
+    "choices": [
+      "They all go out",
+      "They get dimmer",
+      "They stay lit",
+      "They get brighter"
+    ],
+    "answerIndex": 2,
+    "explanation": "Each branch is **its own path** back to the source, so the other branches keep working at the same brightness."
+  },
+  {
+    "id": "R1-PAR-004",
+    "domain": "r1-week-1",
+    "subtopic": "Parallel circuits",
+    "difficulty": "medium",
+    "question": "Why are the lights and outlets in a house wired in parallel?",
+    "choices": [
+      "It uses less wire than any other way",
+      "Each one gets the full voltage and can be switched on or off without affecting the others",
+      "It makes every appliance turn off together to save energy",
+      "It makes the same current flow through every appliance"
+    ],
+    "answerIndex": 1,
+    "explanation": "In parallel, every appliance gets the **full voltage** and has **its own path**, so turning one off or having one fail does not affect the others. The same current through every part is a property of **series** circuits."
+  },
+  {
+    "id": "R1-PAR-005",
+    "domain": "r1-week-1",
+    "subtopic": "Parallel circuits",
+    "difficulty": "medium",
+    "question": "Three identical $6\\ \\Omega$ bulbs are connected in parallel to a $12$ V battery. What is the current in each branch?",
+    "choices": [
+      "$6$ A",
+      "$0.67$ A",
+      "$4$ A",
+      "$2$ A"
+    ],
+    "answerIndex": 3,
+    "explanation": "Each branch gets the full $12$ V, so $I = 12 \\div 6 = 2$ A in each branch. The total current is $2 + 2 + 2 = 6$ A, and $0.67$ A wrongly treats the bulbs as being in series ($12 \\div 18$)."
+  },
+  {
+    "id": "R1-PAR-006",
+    "domain": "r1-week-1",
+    "subtopic": "Parallel circuits",
+    "difficulty": "medium",
+    "question": "A $12$ V battery is connected to three parallel branches of $3\\ \\Omega$, $6\\ \\Omega$, and $12\\ \\Omega$. What is the total current from the battery?",
+    "choices": [
+      "$7$ A",
+      "$0.57$ A",
+      "$21$ A",
+      "$4$ A"
+    ],
+    "answerIndex": 0,
+    "explanation": "Work branch by branch with the full $12$ V: $12 \\div 3 = 4$ A, $12 \\div 6 = 2$ A, and $12 \\div 12 = 1$ A. Total: $4 + 2 + 1 = 7$ A. The value $0.57$ A wrongly adds the resistances as if in series, and $4$ A is only the first branch."
+  },
+  {
+    "id": "R1-PAR-007",
+    "domain": "r1-week-1",
+    "subtopic": "Parallel circuits",
+    "difficulty": "hard",
+    "question": "Two branches are in parallel across a $6$ V battery. Branch 1 has a $2\\ \\Omega$ resistor, and the battery supplies $5$ A in total. What is the resistance in branch 2?",
+    "choices": [
+      "$1.2\\ \\Omega$",
+      "$2\\ \\Omega$",
+      "$3\\ \\Omega$",
+      "$1\\ \\Omega$"
+    ],
+    "answerIndex": 2,
+    "explanation": "Branch 1 current: $6 \\div 2 = 3$ A. Branch 2 gets the rest: $5 - 3 = 2$ A. Each branch has the full $6$ V, so $R = 6 \\div 2 = 3\\ \\Omega$. The value $1.2\\ \\Omega$ is the total resistance of the whole circuit ($6 \\div 5$)."
+  },
+  {
+    "id": "R1-SPC-001",
+    "domain": "r1-week-1",
+    "subtopic": "Series-parallel circuits",
+    "difficulty": "easy",
+    "question": "What type of circuit is shown?",
+    "figure": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"-10 -10 260 160\" width=\"260\" height=\"160\" role=\"img\" aria-label=\"Bulb X is on the wire from the battery; bulbs Y and Z are on two parallel branches\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"20\" y1=\"100\" x2=\"20\" y2=\"76\"/><line x1=\"20\" y1=\"64\" x2=\"20\" y2=\"40\"/><line x1=\"34\" y1=\"64\" x2=\"6\" y2=\"64\" stroke-width=\"2\"/><line x1=\"27\" y1=\"76\" x2=\"13\" y2=\"76\" stroke-width=\"4\"/><polyline points=\"20,40 20,20 220,20\"/><polyline points=\"20,100 20,120 60,120\"/><line x1=\"60\" y1=\"120\" x2=\"73\" y2=\"120\"/><line x1=\"97\" y1=\"120\" x2=\"110\" y2=\"120\"/><circle cx=\"85\" cy=\"120\" r=\"12\"/><line x1=\"76.6\" y1=\"111.6\" x2=\"93.4\" y2=\"128.4\"/><line x1=\"76.6\" y1=\"128.4\" x2=\"93.4\" y2=\"111.6\"/><text x=\"85\" y=\"142\" font-size=\"13\" text-anchor=\"middle\" dominant-baseline=\"central\" fill=\"currentColor\" stroke=\"none\">X</text><polyline points=\"110,120 220,120\"/><polyline points=\"150,20 150,45\"/><line x1=\"150\" y1=\"45\" x2=\"150\" y2=\"58\"/><line x1=\"150\" y1=\"82\" x2=\"150\" y2=\"95\"/><circle cx=\"150\" cy=\"70\" r=\"12\"/><line x1=\"141.6\" y1=\"61.6\" x2=\"158.4\" y2=\"78.4\"/><line x1=\"141.6\" y1=\"78.4\" x2=\"158.4\" y2=\"61.6\"/><text x=\"136\" y=\"70\" font-size=\"13\" text-anchor=\"end\" dominant-baseline=\"central\" fill=\"currentColor\" stroke=\"none\">Y</text><polyline points=\"150,95 150,120\"/><polyline points=\"220,20 220,45\"/><line x1=\"220\" y1=\"45\" x2=\"220\" y2=\"58\"/><line x1=\"220\" y1=\"82\" x2=\"220\" y2=\"95\"/><circle cx=\"220\" cy=\"70\" r=\"12\"/><line x1=\"211.6\" y1=\"61.6\" x2=\"228.4\" y2=\"78.4\"/><line x1=\"211.6\" y1=\"78.4\" x2=\"228.4\" y2=\"61.6\"/><text x=\"234\" y=\"70\" font-size=\"13\" text-anchor=\"start\" dominant-baseline=\"central\" fill=\"currentColor\" stroke=\"none\">Z</text><polyline points=\"220,95 220,120\"/><circle cx=\"150\" cy=\"20\" r=\"3.5\" fill=\"currentColor\"/><circle cx=\"150\" cy=\"120\" r=\"3.5\" fill=\"currentColor\"/></svg>",
+    "choices": [
+      "Series",
+      "Series-parallel",
+      "Parallel",
+      "Open circuit"
+    ],
+    "answerIndex": 1,
+    "explanation": "Bulb X is on the main path, so **all the current** goes through it (series part). Bulbs Y and Z are on **separate branches** (parallel part). A circuit with both is **series-parallel**."
+  },
+  {
+    "id": "R1-SPC-002",
+    "domain": "r1-week-1",
+    "subtopic": "Series-parallel circuits",
+    "difficulty": "easy",
+    "question": "When solving a series-parallel circuit, what should you simplify first?",
+    "choices": [
+      "The battery",
+      "The longest wire",
+      "Nothing; just add all the resistances",
+      "The parallel group"
+    ],
+    "answerIndex": 3,
+    "explanation": "Replace the **parallel group** with its combined resistance first. Then the whole circuit is a simple **series** circuit you can solve with $I = V \\div R$. Adding all resistances only works for series parts."
+  },
+  {
+    "id": "R1-SPC-003",
+    "domain": "r1-week-1",
+    "subtopic": "Series-parallel circuits",
+    "difficulty": "medium",
+    "question": "In the circuit shown, which bulb carries all of the current from the battery?",
+    "figure": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"-10 -10 260 160\" width=\"260\" height=\"160\" role=\"img\" aria-label=\"Bulb X is on the wire from the battery; bulbs Y and Z are on two parallel branches\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"20\" y1=\"100\" x2=\"20\" y2=\"76\"/><line x1=\"20\" y1=\"64\" x2=\"20\" y2=\"40\"/><line x1=\"34\" y1=\"64\" x2=\"6\" y2=\"64\" stroke-width=\"2\"/><line x1=\"27\" y1=\"76\" x2=\"13\" y2=\"76\" stroke-width=\"4\"/><polyline points=\"20,40 20,20 220,20\"/><polyline points=\"20,100 20,120 60,120\"/><line x1=\"60\" y1=\"120\" x2=\"73\" y2=\"120\"/><line x1=\"97\" y1=\"120\" x2=\"110\" y2=\"120\"/><circle cx=\"85\" cy=\"120\" r=\"12\"/><line x1=\"76.6\" y1=\"111.6\" x2=\"93.4\" y2=\"128.4\"/><line x1=\"76.6\" y1=\"128.4\" x2=\"93.4\" y2=\"111.6\"/><text x=\"85\" y=\"142\" font-size=\"13\" text-anchor=\"middle\" dominant-baseline=\"central\" fill=\"currentColor\" stroke=\"none\">X</text><polyline points=\"110,120 220,120\"/><polyline points=\"150,20 150,45\"/><line x1=\"150\" y1=\"45\" x2=\"150\" y2=\"58\"/><line x1=\"150\" y1=\"82\" x2=\"150\" y2=\"95\"/><circle cx=\"150\" cy=\"70\" r=\"12\"/><line x1=\"141.6\" y1=\"61.6\" x2=\"158.4\" y2=\"78.4\"/><line x1=\"141.6\" y1=\"78.4\" x2=\"158.4\" y2=\"61.6\"/><text x=\"136\" y=\"70\" font-size=\"13\" text-anchor=\"end\" dominant-baseline=\"central\" fill=\"currentColor\" stroke=\"none\">Y</text><polyline points=\"150,95 150,120\"/><polyline points=\"220,20 220,45\"/><line x1=\"220\" y1=\"45\" x2=\"220\" y2=\"58\"/><line x1=\"220\" y1=\"82\" x2=\"220\" y2=\"95\"/><circle cx=\"220\" cy=\"70\" r=\"12\"/><line x1=\"211.6\" y1=\"61.6\" x2=\"228.4\" y2=\"78.4\"/><line x1=\"211.6\" y1=\"78.4\" x2=\"228.4\" y2=\"61.6\"/><text x=\"234\" y=\"70\" font-size=\"13\" text-anchor=\"start\" dominant-baseline=\"central\" fill=\"currentColor\" stroke=\"none\">Z</text><polyline points=\"220,95 220,120\"/><circle cx=\"150\" cy=\"20\" r=\"3.5\" fill=\"currentColor\"/><circle cx=\"150\" cy=\"120\" r=\"3.5\" fill=\"currentColor\"/></svg>",
+    "choices": [
+      "Bulb X",
+      "Bulb Y",
+      "Bulb Z",
+      "Bulbs Y and Z equally, with none through X"
+    ],
+    "answerIndex": 0,
+    "explanation": "Bulb X is on the **main wire** that all the current must pass through on its way around the loop. Y and Z are on **separate branches**, so the current **splits** between them and each carries only part of it."
+  },
+  {
+    "id": "R1-SPC-004",
+    "domain": "r1-week-1",
+    "subtopic": "Series-parallel circuits",
+    "difficulty": "medium",
+    "question": "What is the total current from the battery?",
+    "figure": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"-10 -10 270 160\" width=\"270\" height=\"160\" role=\"img\" aria-label=\"An 8 volt battery in series with a 2 ohm resistor, followed by two 4 ohm resistors in parallel\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"20\" y1=\"100\" x2=\"20\" y2=\"76\"/><line x1=\"20\" y1=\"64\" x2=\"20\" y2=\"40\"/><line x1=\"34\" y1=\"64\" x2=\"6\" y2=\"64\" stroke-width=\"2\"/><line x1=\"27\" y1=\"76\" x2=\"13\" y2=\"76\" stroke-width=\"4\"/><text x=\"4\" y=\"59\" font-size=\"13\" text-anchor=\"middle\" dominant-baseline=\"central\" fill=\"currentColor\" stroke=\"none\">+</text><text x=\"4\" y=\"81\" font-size=\"13\" text-anchor=\"middle\" dominant-baseline=\"central\" fill=\"currentColor\" stroke=\"none\">−</text><text x=\"36\" y=\"70\" font-size=\"13\" text-anchor=\"start\" dominant-baseline=\"central\" fill=\"currentColor\" stroke=\"none\">8 V</text><polyline points=\"20,40 20,20 220,20\"/><polyline points=\"20,100 20,120 50,120\"/><line x1=\"50\" y1=\"120\" x2=\"65\" y2=\"120\"/><line x1=\"105\" y1=\"120\" x2=\"120\" y2=\"120\"/><polyline points=\"65,120 68.33,127 75,113 81.67,127 88.33,113 95,127 101.67,113 105,120\"/><text x=\"85\" y=\"140\" font-size=\"13\" text-anchor=\"middle\" dominant-baseline=\"central\" fill=\"currentColor\" stroke=\"none\">2 Ω</text><polyline points=\"120,120 220,120\"/><polyline points=\"150,20 150,40\"/><line x1=\"150\" y1=\"40\" x2=\"150\" y2=\"50\"/><line x1=\"150\" y1=\"90\" x2=\"150\" y2=\"100\"/><polyline points=\"150,50 143,53.33 157,60 143,66.67 157,73.33 143,80 157,86.67 150,90\"/><text x=\"138\" y=\"70\" font-size=\"13\" text-anchor=\"end\" dominant-baseline=\"central\" fill=\"currentColor\" stroke=\"none\">4 Ω</text><polyline points=\"150,100 150,120\"/><polyline points=\"220,20 220,40\"/><line x1=\"220\" y1=\"40\" x2=\"220\" y2=\"50\"/><line x1=\"220\" y1=\"90\" x2=\"220\" y2=\"100\"/><polyline points=\"220,50 213,53.33 227,60 213,66.67 227,73.33 213,80 227,86.67 220,90\"/><text x=\"232\" y=\"70\" font-size=\"13\" text-anchor=\"start\" dominant-baseline=\"central\" fill=\"currentColor\" stroke=\"none\">4 Ω</text><polyline points=\"220,100 220,120\"/><circle cx=\"150\" cy=\"20\" r=\"3.5\" fill=\"currentColor\"/><circle cx=\"150\" cy=\"120\" r=\"3.5\" fill=\"currentColor\"/></svg>",
+    "choices": [
+      "$1$ A",
+      "$0.8$ A",
+      "$2$ A",
+      "$4$ A"
+    ],
+    "answerIndex": 2,
+    "explanation": "Two equal $4\\ \\Omega$ resistors in parallel act like $2\\ \\Omega$ (half of one). Add the series $2\\ \\Omega$: total $= 2 + 2 = 4\\ \\Omega$. Then $I = 8 \\div 4 = 2$ A. The value $0.8$ A wrongly adds all three resistors in series ($8 \\div 10$)."
+  },
+  {
+    "id": "R1-SPC-005",
+    "domain": "r1-week-1",
+    "subtopic": "Series-parallel circuits",
+    "difficulty": "medium",
+    "question": "In this circuit, the battery supplies $2$ A. How much current flows through each $4\\ \\Omega$ resistor?",
+    "figure": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"-10 -10 270 160\" width=\"270\" height=\"160\" role=\"img\" aria-label=\"An 8 volt battery in series with a 2 ohm resistor, followed by two 4 ohm resistors in parallel\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"20\" y1=\"100\" x2=\"20\" y2=\"76\"/><line x1=\"20\" y1=\"64\" x2=\"20\" y2=\"40\"/><line x1=\"34\" y1=\"64\" x2=\"6\" y2=\"64\" stroke-width=\"2\"/><line x1=\"27\" y1=\"76\" x2=\"13\" y2=\"76\" stroke-width=\"4\"/><text x=\"4\" y=\"59\" font-size=\"13\" text-anchor=\"middle\" dominant-baseline=\"central\" fill=\"currentColor\" stroke=\"none\">+</text><text x=\"4\" y=\"81\" font-size=\"13\" text-anchor=\"middle\" dominant-baseline=\"central\" fill=\"currentColor\" stroke=\"none\">−</text><text x=\"36\" y=\"70\" font-size=\"13\" text-anchor=\"start\" dominant-baseline=\"central\" fill=\"currentColor\" stroke=\"none\">8 V</text><polyline points=\"20,40 20,20 220,20\"/><polyline points=\"20,100 20,120 50,120\"/><line x1=\"50\" y1=\"120\" x2=\"65\" y2=\"120\"/><line x1=\"105\" y1=\"120\" x2=\"120\" y2=\"120\"/><polyline points=\"65,120 68.33,127 75,113 81.67,127 88.33,113 95,127 101.67,113 105,120\"/><text x=\"85\" y=\"140\" font-size=\"13\" text-anchor=\"middle\" dominant-baseline=\"central\" fill=\"currentColor\" stroke=\"none\">2 Ω</text><polyline points=\"120,120 220,120\"/><polyline points=\"150,20 150,40\"/><line x1=\"150\" y1=\"40\" x2=\"150\" y2=\"50\"/><line x1=\"150\" y1=\"90\" x2=\"150\" y2=\"100\"/><polyline points=\"150,50 143,53.33 157,60 143,66.67 157,73.33 143,80 157,86.67 150,90\"/><text x=\"138\" y=\"70\" font-size=\"13\" text-anchor=\"end\" dominant-baseline=\"central\" fill=\"currentColor\" stroke=\"none\">4 Ω</text><polyline points=\"150,100 150,120\"/><polyline points=\"220,20 220,40\"/><line x1=\"220\" y1=\"40\" x2=\"220\" y2=\"50\"/><line x1=\"220\" y1=\"90\" x2=\"220\" y2=\"100\"/><polyline points=\"220,50 213,53.33 227,60 213,66.67 227,73.33 213,80 227,86.67 220,90\"/><text x=\"232\" y=\"70\" font-size=\"13\" text-anchor=\"start\" dominant-baseline=\"central\" fill=\"currentColor\" stroke=\"none\">4 Ω</text><polyline points=\"220,100 220,120\"/><circle cx=\"150\" cy=\"20\" r=\"3.5\" fill=\"currentColor\"/><circle cx=\"150\" cy=\"120\" r=\"3.5\" fill=\"currentColor\"/></svg>",
+    "choices": [
+      "$2$ A",
+      "$1$ A",
+      "$0.5$ A",
+      "$4$ A"
+    ],
+    "answerIndex": 1,
+    "explanation": "The full $2$ A **splits** into the two parallel branches. The branches are equal, so each gets $2 \\div 2 = 1$ A. You can check: each branch has $1 \\times 4 = 4$ V across it, and the $2\\ \\Omega$ resistor has $2 \\times 2 = 4$ V, which add up to $8$ V."
+  },
+  {
+    "id": "R1-SPC-006",
+    "domain": "r1-week-1",
+    "subtopic": "Series-parallel circuits",
+    "difficulty": "hard",
+    "question": "In this circuit, bulb Z burns out. What happens to bulbs X and Y?",
+    "figure": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"-10 -10 260 160\" width=\"260\" height=\"160\" role=\"img\" aria-label=\"Bulb X is on the wire from the battery; bulbs Y and Z are on two parallel branches\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"20\" y1=\"100\" x2=\"20\" y2=\"76\"/><line x1=\"20\" y1=\"64\" x2=\"20\" y2=\"40\"/><line x1=\"34\" y1=\"64\" x2=\"6\" y2=\"64\" stroke-width=\"2\"/><line x1=\"27\" y1=\"76\" x2=\"13\" y2=\"76\" stroke-width=\"4\"/><polyline points=\"20,40 20,20 220,20\"/><polyline points=\"20,100 20,120 60,120\"/><line x1=\"60\" y1=\"120\" x2=\"73\" y2=\"120\"/><line x1=\"97\" y1=\"120\" x2=\"110\" y2=\"120\"/><circle cx=\"85\" cy=\"120\" r=\"12\"/><line x1=\"76.6\" y1=\"111.6\" x2=\"93.4\" y2=\"128.4\"/><line x1=\"76.6\" y1=\"128.4\" x2=\"93.4\" y2=\"111.6\"/><text x=\"85\" y=\"142\" font-size=\"13\" text-anchor=\"middle\" dominant-baseline=\"central\" fill=\"currentColor\" stroke=\"none\">X</text><polyline points=\"110,120 220,120\"/><polyline points=\"150,20 150,45\"/><line x1=\"150\" y1=\"45\" x2=\"150\" y2=\"58\"/><line x1=\"150\" y1=\"82\" x2=\"150\" y2=\"95\"/><circle cx=\"150\" cy=\"70\" r=\"12\"/><line x1=\"141.6\" y1=\"61.6\" x2=\"158.4\" y2=\"78.4\"/><line x1=\"141.6\" y1=\"78.4\" x2=\"158.4\" y2=\"61.6\"/><text x=\"136\" y=\"70\" font-size=\"13\" text-anchor=\"end\" dominant-baseline=\"central\" fill=\"currentColor\" stroke=\"none\">Y</text><polyline points=\"150,95 150,120\"/><polyline points=\"220,20 220,45\"/><line x1=\"220\" y1=\"45\" x2=\"220\" y2=\"58\"/><line x1=\"220\" y1=\"82\" x2=\"220\" y2=\"95\"/><circle cx=\"220\" cy=\"70\" r=\"12\"/><line x1=\"211.6\" y1=\"61.6\" x2=\"228.4\" y2=\"78.4\"/><line x1=\"211.6\" y1=\"78.4\" x2=\"228.4\" y2=\"61.6\"/><text x=\"234\" y=\"70\" font-size=\"13\" text-anchor=\"start\" dominant-baseline=\"central\" fill=\"currentColor\" stroke=\"none\">Z</text><polyline points=\"220,95 220,120\"/><circle cx=\"150\" cy=\"20\" r=\"3.5\" fill=\"currentColor\"/><circle cx=\"150\" cy=\"120\" r=\"3.5\" fill=\"currentColor\"/></svg>",
+    "choices": [
+      "Both X and Y go out",
+      "Both X and Y stay exactly the same",
+      "X gets brighter and Y goes out",
+      "X gets dimmer and Y gets brighter"
+    ],
+    "answerIndex": 3,
+    "explanation": "With Z gone, only one bulb is left in the parallel part, so the total resistance **rises** and the current through X **drops**: X gets **dimmer**. X now uses less of the battery voltage, so **more voltage** is left across Y, and Y gets **brighter**. X and Y are still on a complete path, so they stay lit."
+  }
+]
