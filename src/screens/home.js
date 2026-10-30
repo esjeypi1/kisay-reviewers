@@ -41,7 +41,7 @@ export function home(root) {
     </button>` : ''}
   </nav>
 
-  <p class="note">${s.noCalculator ? 'No calculators. ' : ''}Nothing is saved, so every visit starts fresh.</p>`;
+  ${s.noCalculator ? '<p class="note">No calculators.</p>' : ''}`;
 
   root.querySelector('#go-practice').addEventListener('click', () => go(practiceSetup));
   root.querySelector('#go-mock')?.addEventListener('click', () => go(mockIntro));
