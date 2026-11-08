@@ -1,0 +1,41 @@
+{
+  "domains": [
+    {
+      "id": "r2-lenz",
+      "name": "Lenz's Law",
+      "short": "Lenz's Law",
+      "file": "lenz.json",
+      "idPrefix": "R2",
+      "subtopics": [
+        "Lenz's Law and energy",
+        "Magnets and coils",
+        "Changing fields and currents"
+      ]
+    },
+    {
+      "id": "r2-charge",
+      "name": "Magnetic Force on a Moving Charge",
+      "short": "Moving charge",
+      "file": "moving-charge.json",
+      "idPrefix": "R2",
+      "subtopics": [
+        "Force on a moving charge",
+        "Direction of the force",
+        "Computing the force",
+        "Circular path"
+      ]
+    },
+    {
+      "id": "r2-wire",
+      "name": "Magnetic Force on a Current-Carrying Wire",
+      "short": "Current-carrying wire",
+      "file": "current-carrying-wire.json",
+      "idPrefix": "R2",
+      "subtopics": [
+        "Force on a current-carrying wire",
+        "Direction of the force",
+        "Computing the force"
+      ]
+    }
+  ]
+}

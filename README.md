@@ -7,6 +7,7 @@ A free, public practice website, **KISAY Reviewers**. The home page (`/`) lists 
 | Dagitab 2026 | `/#dagitab` | 470 | Practice, Mock Exam |
 | Brainiac 2026 (Biology, Grades 7 to 10) | `/#brainiac` | 400 | Practice |
 | Robotics I (Grade 9, Weeks 1 to 3) | `/#robotics-1` | 60 | Practice |
+| Robotics II (Grade 10, Lenz's Law and magnetic force) | `/#robotics-2` | 60 | Practice |
 
 The Dagitab reviewer is for senior high school students preparing for the **Dagitab 2026 qualifying exam**.
 It is an unofficial reviewer and is not affiliated with or endorsed by the UP Engineering Radio Guild.
@@ -15,6 +16,7 @@ It is an unofficial reviewer and is not affiliated with or endorsed by the UP En
 - **Mock exam mode:** 50 items, 60-minute countdown, auto-submits at 00:00, skip/flag/jump between items, full review at the end.
 - **Dagitab:** 470 questions in four domains (Mathematics and Logic, Physics and Circuits, Technical Knowledge, Abstract Reasoning). All are solvable without a calculator.
 - **Robotics I:** 60 questions, 20 per week: types of circuits, basic electronic components, and capacitors.
+- **Robotics II:** 60 questions, 20 per topic: Lenz's Law, magnetic force on a moving charge, and magnetic force on a current-carrying wire.
 - **Brainiac 2026:** 400 Biology questions, 100 per grade (Grades 7 to 10), practice by grade and topic.
 - Static site: no backend, no accounts, no cookies, no localStorage. Every visit starts fresh.
 
@@ -115,6 +117,7 @@ Questions live in `src/data/<subject>/`, one JSON file per domain:
 | `dagitab/abstract-reasoning.json` | Abstract Reasoning | `AR` |
 | `brainiac/grade-7.json` ... `grade-10.json` | Grade 7 to Grade 10 | `G7` ... `G10` |
 | `robotics-1/week-1.json` ... `week-3.json` | Week 1 to Week 3 | `R1` |
+| `robotics-2/lenz.json`, `moving-charge.json`, `current-carrying-wire.json` | Lenz's Law, Moving charge, Current-carrying wire | `R2` |
 
 The list of subtopics for each domain is in the subject's `subtopics.json`. A question's `subtopic` must match one of them exactly.
 
@@ -233,7 +236,7 @@ in their current order; for a new checker you can skip the wrapper and use posit
 If you change a question's numbers or choices, update or delete its checker. Questions without a checker
 (reading passages, concepts, most abstract figures) are listed as "checked by hand".
 
-Current bank: 930 items (470 Dagitab, 400 Brainiac, 60 Robotics I), 355 with computed checks.
+Current bank: 990 items (470 Dagitab, 400 Brainiac, 60 Robotics I, 60 Robotics II), 394 with computed checks.
 
 ---
 

@@ -57,6 +57,16 @@ export const SUBJECTS = [
     domainLabel: 'Week',
     passRate: 0.6,
   },
+  {
+    id: 'robotics-2',
+    name: 'Robotics II',
+    title: 'Robotics II Reviewer',
+    description: "Grade 10, Lenz's Law and magnetic force.",
+    icon: 'magnet',
+    tagline: "Grade 10, Lenz's Law and magnetic force",
+    domainLabel: 'Topic',
+    passRate: 0.6,
+  },
 ];
 
 // Choices for "How many questions?" in Practice mode. "all" means every matching item.

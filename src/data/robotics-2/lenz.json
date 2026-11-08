@@ -1,0 +1,312 @@
+[
+  {
+    "id": "R2-LZC-001",
+    "domain": "r2-lenz",
+    "subtopic": "Lenz's Law and energy",
+    "difficulty": "easy",
+    "question": "Which statement is Lenz's Law?",
+    "choices": [
+      "The direction of an induced current is such that it opposes the change in magnetic flux that produced it.",
+      "The direction of an induced current is always the same as the direction of the magnetic field.",
+      "An induced current always flows clockwise when seen from the magnet.",
+      "An induced current only flows when the magnetic flux stays constant."
+    ],
+    "answerIndex": 0,
+    "explanation": "Lenz's Law: the induced current flows in the direction that **opposes the change in magnetic flux** that produced it."
+  },
+  {
+    "id": "R2-LZC-002",
+    "domain": "r2-lenz",
+    "subtopic": "Lenz's Law and energy",
+    "difficulty": "easy",
+    "question": "Lenz's Law is named after the physicist who formulated it. Who was he, and in what year did he state it?",
+    "choices": [
+      "Michael Faraday, 1831",
+      "Heinrich Lenz, 1834",
+      "Hans Christian Ørsted, 1820",
+      "James Clerk Maxwell, 1865"
+    ],
+    "answerIndex": 1,
+    "explanation": "The law is named after **Heinrich Friedrich Emil Lenz**, who formulated it in **1834**. Faraday discovered electromagnetic induction in 1831; Lenz described the direction of the induced current."
+  },
+  {
+    "id": "R2-LZC-003",
+    "domain": "r2-lenz",
+    "subtopic": "Lenz's Law and energy",
+    "difficulty": "easy",
+    "question": "The opposition described by Lenz's Law is a result of which fundamental principle?",
+    "choices": [
+      "Conservation of mass",
+      "Conservation of charge",
+      "Conservation of momentum",
+      "Conservation of energy"
+    ],
+    "answerIndex": 3,
+    "explanation": "The opposition is a manifestation of the **conservation of energy**. You must do work against the opposing force, and that work becomes electrical energy."
+  },
+  {
+    "id": "R2-LZC-004",
+    "domain": "r2-lenz",
+    "subtopic": "Lenz's Law and energy",
+    "difficulty": "medium",
+    "question": "In Faraday's Law, $\\varepsilon = -N\\dfrac{\\Delta \\Phi}{\\Delta t}$, what does the negative sign show?",
+    "choices": [
+      "The induced EMF opposes the change in magnetic flux.",
+      "The induced EMF is always a negative number.",
+      "The number of turns decreases with time.",
+      "The magnetic flux always decreases."
+    ],
+    "answerIndex": 0,
+    "explanation": "The negative sign is how **Lenz's Law** enters Faraday's Law: the induced EMF acts to **oppose the change** in flux. It does not mean the EMF is always negative."
+  },
+  {
+    "id": "R2-LZC-005",
+    "domain": "r2-lenz",
+    "subtopic": "Lenz's Law and energy",
+    "difficulty": "easy",
+    "question": "Which situation induces NO current in a closed loop of wire?",
+    "choices": [
+      "A magnet is pushed into the loop.",
+      "The magnetic field through the loop gets stronger.",
+      "The loop is rotated inside a magnetic field.",
+      "A magnet rests beside the loop and neither of them moves."
+    ],
+    "answerIndex": 3,
+    "explanation": "An EMF is induced only when the **magnetic flux changes**: by motion, by a changing field strength, or by a changing orientation. A magnet at rest beside the loop gives **constant flux**, so there is no current."
+  },
+  {
+    "id": "R2-LZC-006",
+    "domain": "r2-lenz",
+    "subtopic": "Lenz's Law and energy",
+    "difficulty": "medium",
+    "question": "The magnetic flux through a loop is decreasing. Which way does the induced magnetic field point inside the loop?",
+    "choices": [
+      "Opposite to the original field",
+      "The same direction as the original field",
+      "Parallel to the plane of the loop",
+      "There is no induced field"
+    ],
+    "answerIndex": 1,
+    "explanation": "The induced field opposes the **change**. When the flux decreases, the induced field points the **same way** as the original field to try to keep the flux from dropping."
+  },
+  {
+    "id": "R2-LZC-007",
+    "domain": "r2-lenz",
+    "subtopic": "Lenz's Law and energy",
+    "difficulty": "easy",
+    "question": "In the right-hand rule for a coil or solenoid, the fingers curl along the current. What does the thumb point to?",
+    "choices": [
+      "The south pole of the coil",
+      "The direction of the current in one wire",
+      "The force on the coil",
+      "The magnetic field inside the coil, which is its north pole"
+    ],
+    "answerIndex": 3,
+    "explanation": "For a coil: **fingers curl along the current**, and the **thumb** points along the **field inside the coil**, which is the coil's **north pole**."
+  },
+  {
+    "id": "R2-LZM-001",
+    "domain": "r2-lenz",
+    "subtopic": "Magnets and coils",
+    "difficulty": "easy",
+    "question": "The north pole of a bar magnet is moved **toward** a loop of wire. What pole does the induced current create on the side of the loop facing the magnet?",
+    "choices": [
+      "A south pole",
+      "No pole at all",
+      "A north pole",
+      "Both poles on the same side"
+    ],
+    "answerIndex": 2,
+    "explanation": "The flux from the N pole **increases**, so the loop opposes it by making a **north pole** on the side facing the magnet. Like poles **repel**, which opposes the approach."
+  },
+  {
+    "id": "R2-LZM-002",
+    "domain": "r2-lenz",
+    "subtopic": "Magnets and coils",
+    "difficulty": "medium",
+    "question": "The north pole of a bar magnet is pulled away from a loop of wire. Which statement correctly describes the loop's induced magnetic field?",
+    "choices": [
+      "A north pole faces the magnet and repels it.",
+      "A south pole faces the magnet and repels it.",
+      "No field forms, because the magnet is moving.",
+      "A south pole faces the magnet and attracts it."
+    ],
+    "answerIndex": 3,
+    "explanation": "The induced field opposes the change. A receding magnet is **attracted** back, so the face toward it is the opposite pole: a **south pole** that **attracts** the magnet. Like poles repel and unlike poles attract, so a south pole could never repel a north pole."
+  },
+  {
+    "id": "R2-LZM-003",
+    "domain": "r2-lenz",
+    "subtopic": "Magnets and coils",
+    "difficulty": "medium",
+    "question": "The south pole of a bar magnet is pushed toward a loop of wire. Which statement correctly describes the loop's induced magnetic field?",
+    "choices": [
+      "A south pole faces the magnet and repels it.",
+      "A north pole faces the magnet and attracts it.",
+      "A south pole faces the magnet and attracts it.",
+      "No field forms, because the magnet is moving."
+    ],
+    "answerIndex": 0,
+    "explanation": "The induced field opposes the change. An approaching magnet is **repelled**, so the face toward it is the same pole as the magnet: a **south pole** that **repels** the magnet. Like poles repel and unlike poles attract, so a south pole could never attract a south pole."
+  },
+  {
+    "id": "R2-LZM-004",
+    "domain": "r2-lenz",
+    "subtopic": "Magnets and coils",
+    "difficulty": "hard",
+    "question": "The magnet moves as shown. Which way does the induced current flow on the front of the coil (the side facing you)?",
+    "figure": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"-6 -6 302 157\" width=\"302\" height=\"157\" role=\"img\" aria-label=\"A bar magnet on the right of a coil, with its N pole facing the coil, moving toward the coil\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><ellipse cx=\"40\" cy=\"80\" rx=\"9\" ry=\"42\"/><ellipse cx=\"56\" cy=\"80\" rx=\"9\" ry=\"42\"/><ellipse cx=\"72\" cy=\"80\" rx=\"9\" ry=\"42\"/><ellipse cx=\"88\" cy=\"80\" rx=\"9\" ry=\"42\"/><ellipse cx=\"104\" cy=\"80\" rx=\"9\" ry=\"42\"/><line x1=\"40\" y1=\"122\" x2=\"40\" y2=\"140\"/><line x1=\"104\" y1=\"122\" x2=\"104\" y2=\"140\"/><text x=\"72\" y=\"14\" font-size=\"12\" text-anchor=\"middle\" dominant-baseline=\"central\" fill=\"currentColor\" stroke=\"none\" font-style=\"italic\">coil</text><rect x=\"160\" y=\"62\" width=\"110\" height=\"36\"/><line x1=\"215\" y1=\"62\" x2=\"215\" y2=\"98\"/><text x=\"187.5\" y=\"80\" font-size=\"16\" text-anchor=\"middle\" dominant-baseline=\"central\" fill=\"currentColor\" stroke=\"none\" font-weight=\"bold\">N</text><text x=\"242.5\" y=\"80\" font-size=\"16\" text-anchor=\"middle\" dominant-baseline=\"central\" fill=\"currentColor\" stroke=\"none\" font-weight=\"bold\">S</text><polyline points=\"239,46 191,46\"/><polygon points=\"191,46 199.1,42.09 199.1,49.91\" fill=\"currentColor\" stroke-width=\"1\"/><text x=\"215\" y=\"30\" font-size=\"14\" text-anchor=\"middle\" dominant-baseline=\"central\" fill=\"currentColor\" stroke=\"none\" font-style=\"italic\">v</text></svg>",
+    "choices": [
+      "Upward (↑)",
+      "No current",
+      "Downward (↓)",
+      "Into the page"
+    ],
+    "answerIndex": 2,
+    "explanation": "Field lines **leave** the N pole, so at the coil $B$ points to the **left**. The magnet moves toward the coil, so this flux **increases**. The induced field must oppose it: it points to the **right**, so the coil's face toward the magnet is a **north pole** (it repels the approaching magnet). Right-hand rule for a coil: thumb to the right, and the current on the front of the coil flows **down**."
+  },
+  {
+    "id": "R2-LZM-005",
+    "domain": "r2-lenz",
+    "subtopic": "Magnets and coils",
+    "difficulty": "hard",
+    "question": "The magnet moves as shown. Which way does the induced current flow on the front of the coil (the side facing you)?",
+    "figure": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"-6 -6 302 157\" width=\"302\" height=\"157\" role=\"img\" aria-label=\"A bar magnet on the right of a coil, with its S pole facing the coil, moving toward the coil\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><ellipse cx=\"40\" cy=\"80\" rx=\"9\" ry=\"42\"/><ellipse cx=\"56\" cy=\"80\" rx=\"9\" ry=\"42\"/><ellipse cx=\"72\" cy=\"80\" rx=\"9\" ry=\"42\"/><ellipse cx=\"88\" cy=\"80\" rx=\"9\" ry=\"42\"/><ellipse cx=\"104\" cy=\"80\" rx=\"9\" ry=\"42\"/><line x1=\"40\" y1=\"122\" x2=\"40\" y2=\"140\"/><line x1=\"104\" y1=\"122\" x2=\"104\" y2=\"140\"/><text x=\"72\" y=\"14\" font-size=\"12\" text-anchor=\"middle\" dominant-baseline=\"central\" fill=\"currentColor\" stroke=\"none\" font-style=\"italic\">coil</text><rect x=\"160\" y=\"62\" width=\"110\" height=\"36\"/><line x1=\"215\" y1=\"62\" x2=\"215\" y2=\"98\"/><text x=\"187.5\" y=\"80\" font-size=\"16\" text-anchor=\"middle\" dominant-baseline=\"central\" fill=\"currentColor\" stroke=\"none\" font-weight=\"bold\">S</text><text x=\"242.5\" y=\"80\" font-size=\"16\" text-anchor=\"middle\" dominant-baseline=\"central\" fill=\"currentColor\" stroke=\"none\" font-weight=\"bold\">N</text><polyline points=\"239,46 191,46\"/><polygon points=\"191,46 199.1,42.09 199.1,49.91\" fill=\"currentColor\" stroke-width=\"1\"/><text x=\"215\" y=\"30\" font-size=\"14\" text-anchor=\"middle\" dominant-baseline=\"central\" fill=\"currentColor\" stroke=\"none\" font-style=\"italic\">v</text></svg>",
+    "choices": [
+      "Downward (↓)",
+      "No current",
+      "Into the page",
+      "Upward (↑)"
+    ],
+    "answerIndex": 3,
+    "explanation": "Field lines **enter** the S pole, so at the coil $B$ points to the **right**. The magnet moves toward the coil, so this flux **increases**. The induced field must oppose it: it points to the **left**, so the coil's face toward the magnet is a **south pole** (it repels the approaching magnet). Right-hand rule for a coil: thumb to the left, and the current on the front of the coil flows **up**."
+  },
+  {
+    "id": "R2-LZM-006",
+    "domain": "r2-lenz",
+    "subtopic": "Magnets and coils",
+    "difficulty": "hard",
+    "question": "The magnet moves as shown. Which way does the induced current flow on the front of the coil (the side facing you)?",
+    "figure": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"-6 -6 302 157\" width=\"302\" height=\"157\" role=\"img\" aria-label=\"A bar magnet on the left of a coil, with its S pole facing the coil, moving away from the coil\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><ellipse cx=\"190\" cy=\"80\" rx=\"9\" ry=\"42\"/><ellipse cx=\"206\" cy=\"80\" rx=\"9\" ry=\"42\"/><ellipse cx=\"222\" cy=\"80\" rx=\"9\" ry=\"42\"/><ellipse cx=\"238\" cy=\"80\" rx=\"9\" ry=\"42\"/><ellipse cx=\"254\" cy=\"80\" rx=\"9\" ry=\"42\"/><line x1=\"190\" y1=\"122\" x2=\"190\" y2=\"140\"/><line x1=\"254\" y1=\"122\" x2=\"254\" y2=\"140\"/><text x=\"222\" y=\"14\" font-size=\"12\" text-anchor=\"middle\" dominant-baseline=\"central\" fill=\"currentColor\" stroke=\"none\" font-style=\"italic\">coil</text><rect x=\"10\" y=\"62\" width=\"110\" height=\"36\"/><line x1=\"65\" y1=\"62\" x2=\"65\" y2=\"98\"/><text x=\"37.5\" y=\"80\" font-size=\"16\" text-anchor=\"middle\" dominant-baseline=\"central\" fill=\"currentColor\" stroke=\"none\" font-weight=\"bold\">N</text><text x=\"92.5\" y=\"80\" font-size=\"16\" text-anchor=\"middle\" dominant-baseline=\"central\" fill=\"currentColor\" stroke=\"none\" font-weight=\"bold\">S</text><polyline points=\"89,46 41,46\"/><polygon points=\"41,46 49.1,42.09 49.1,49.91\" fill=\"currentColor\" stroke-width=\"1\"/><text x=\"65\" y=\"30\" font-size=\"14\" text-anchor=\"middle\" dominant-baseline=\"central\" fill=\"currentColor\" stroke=\"none\" font-style=\"italic\">v</text></svg>",
+    "choices": [
+      "Downward (↓)",
+      "No current",
+      "Upward (↑)",
+      "Into the page"
+    ],
+    "answerIndex": 2,
+    "explanation": "Field lines **enter** the S pole, so at the coil $B$ points to the **left**. The magnet moves away from the coil, so this flux **decreases**. The induced field must keep it: it points to the **left**, so the coil's face toward the magnet is a **north pole** (it attracts the receding magnet). Right-hand rule for a coil: thumb to the left, and the current on the front of the coil flows **up**."
+  },
+  {
+    "id": "R2-LZF-001",
+    "domain": "r2-lenz",
+    "subtopic": "Changing fields and currents",
+    "difficulty": "medium",
+    "question": "A square loop lies in a uniform magnetic field directed into the page. The field strength is **decreasing**. What is the direction of the induced current in the loop?",
+    "figure": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"-6 -6 302 162\" width=\"302\" height=\"162\" role=\"img\" aria-label=\"A square loop in a uniform magnetic field directed into the page; the field is decreasing\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"29\" x2=\"25\" y2=\"39\" stroke-width=\"1\"/><line x1=\"15\" y1=\"39\" x2=\"25\" y2=\"29\" stroke-width=\"1\"/><line x1=\"37\" y1=\"29\" x2=\"47\" y2=\"39\" stroke-width=\"1\"/><line x1=\"37\" y1=\"39\" x2=\"47\" y2=\"29\" stroke-width=\"1\"/><line x1=\"59\" y1=\"29\" x2=\"69\" y2=\"39\" stroke-width=\"1\"/><line x1=\"59\" y1=\"39\" x2=\"69\" y2=\"29\" stroke-width=\"1\"/><line x1=\"81\" y1=\"29\" x2=\"91\" y2=\"39\" stroke-width=\"1\"/><line x1=\"81\" y1=\"39\" x2=\"91\" y2=\"29\" stroke-width=\"1\"/><line x1=\"103\" y1=\"29\" x2=\"113\" y2=\"39\" stroke-width=\"1\"/><line x1=\"103\" y1=\"39\" x2=\"113\" y2=\"29\" stroke-width=\"1\"/><line x1=\"125\" y1=\"29\" x2=\"135\" y2=\"39\" stroke-width=\"1\"/><line x1=\"125\" y1=\"39\" x2=\"135\" y2=\"29\" stroke-width=\"1\"/><line x1=\"147\" y1=\"29\" x2=\"157\" y2=\"39\" stroke-width=\"1\"/><line x1=\"147\" y1=\"39\" x2=\"157\" y2=\"29\" stroke-width=\"1\"/><line x1=\"169\" y1=\"29\" x2=\"179\" y2=\"39\" stroke-width=\"1\"/><line x1=\"169\" y1=\"39\" x2=\"179\" y2=\"29\" stroke-width=\"1\"/><line x1=\"15\" y1=\"51\" x2=\"25\" y2=\"61\" stroke-width=\"1\"/><line x1=\"15\" y1=\"61\" x2=\"25\" y2=\"51\" stroke-width=\"1\"/><line x1=\"37\" y1=\"51\" x2=\"47\" y2=\"61\" stroke-width=\"1\"/><line x1=\"37\" y1=\"61\" x2=\"47\" y2=\"51\" stroke-width=\"1\"/><line x1=\"59\" y1=\"51\" x2=\"69\" y2=\"61\" stroke-width=\"1\"/><line x1=\"59\" y1=\"61\" x2=\"69\" y2=\"51\" stroke-width=\"1\"/><line x1=\"81\" y1=\"51\" x2=\"91\" y2=\"61\" stroke-width=\"1\"/><line x1=\"81\" y1=\"61\" x2=\"91\" y2=\"51\" stroke-width=\"1\"/><line x1=\"103\" y1=\"51\" x2=\"113\" y2=\"61\" stroke-width=\"1\"/><line x1=\"103\" y1=\"61\" x2=\"113\" y2=\"51\" stroke-width=\"1\"/><line x1=\"125\" y1=\"51\" x2=\"135\" y2=\"61\" stroke-width=\"1\"/><line x1=\"125\" y1=\"61\" x2=\"135\" y2=\"51\" stroke-width=\"1\"/><line x1=\"147\" y1=\"51\" x2=\"157\" y2=\"61\" stroke-width=\"1\"/><line x1=\"147\" y1=\"61\" x2=\"157\" y2=\"51\" stroke-width=\"1\"/><line x1=\"169\" y1=\"51\" x2=\"179\" y2=\"61\" stroke-width=\"1\"/><line x1=\"169\" y1=\"61\" x2=\"179\" y2=\"51\" stroke-width=\"1\"/><line x1=\"15\" y1=\"73\" x2=\"25\" y2=\"83\" stroke-width=\"1\"/><line x1=\"15\" y1=\"83\" x2=\"25\" y2=\"73\" stroke-width=\"1\"/><line x1=\"37\" y1=\"73\" x2=\"47\" y2=\"83\" stroke-width=\"1\"/><line x1=\"37\" y1=\"83\" x2=\"47\" y2=\"73\" stroke-width=\"1\"/><line x1=\"59\" y1=\"73\" x2=\"69\" y2=\"83\" stroke-width=\"1\"/><line x1=\"59\" y1=\"83\" x2=\"69\" y2=\"73\" stroke-width=\"1\"/><line x1=\"81\" y1=\"73\" x2=\"91\" y2=\"83\" stroke-width=\"1\"/><line x1=\"81\" y1=\"83\" x2=\"91\" y2=\"73\" stroke-width=\"1\"/><line x1=\"103\" y1=\"73\" x2=\"113\" y2=\"83\" stroke-width=\"1\"/><line x1=\"103\" y1=\"83\" x2=\"113\" y2=\"73\" stroke-width=\"1\"/><line x1=\"125\" y1=\"73\" x2=\"135\" y2=\"83\" stroke-width=\"1\"/><line x1=\"125\" y1=\"83\" x2=\"135\" y2=\"73\" stroke-width=\"1\"/><line x1=\"147\" y1=\"73\" x2=\"157\" y2=\"83\" stroke-width=\"1\"/><line x1=\"147\" y1=\"83\" x2=\"157\" y2=\"73\" stroke-width=\"1\"/><line x1=\"169\" y1=\"73\" x2=\"179\" y2=\"83\" stroke-width=\"1\"/><line x1=\"169\" y1=\"83\" x2=\"179\" y2=\"73\" stroke-width=\"1\"/><line x1=\"15\" y1=\"95\" x2=\"25\" y2=\"105\" stroke-width=\"1\"/><line x1=\"15\" y1=\"105\" x2=\"25\" y2=\"95\" stroke-width=\"1\"/><line x1=\"37\" y1=\"95\" x2=\"47\" y2=\"105\" stroke-width=\"1\"/><line x1=\"37\" y1=\"105\" x2=\"47\" y2=\"95\" stroke-width=\"1\"/><line x1=\"59\" y1=\"95\" x2=\"69\" y2=\"105\" stroke-width=\"1\"/><line x1=\"59\" y1=\"105\" x2=\"69\" y2=\"95\" stroke-width=\"1\"/><line x1=\"81\" y1=\"95\" x2=\"91\" y2=\"105\" stroke-width=\"1\"/><line x1=\"81\" y1=\"105\" x2=\"91\" y2=\"95\" stroke-width=\"1\"/><line x1=\"103\" y1=\"95\" x2=\"113\" y2=\"105\" stroke-width=\"1\"/><line x1=\"103\" y1=\"105\" x2=\"113\" y2=\"95\" stroke-width=\"1\"/><line x1=\"125\" y1=\"95\" x2=\"135\" y2=\"105\" stroke-width=\"1\"/><line x1=\"125\" y1=\"105\" x2=\"135\" y2=\"95\" stroke-width=\"1\"/><line x1=\"147\" y1=\"95\" x2=\"157\" y2=\"105\" stroke-width=\"1\"/><line x1=\"147\" y1=\"105\" x2=\"157\" y2=\"95\" stroke-width=\"1\"/><line x1=\"169\" y1=\"95\" x2=\"179\" y2=\"105\" stroke-width=\"1\"/><line x1=\"169\" y1=\"105\" x2=\"179\" y2=\"95\" stroke-width=\"1\"/><line x1=\"15\" y1=\"117\" x2=\"25\" y2=\"127\" stroke-width=\"1\"/><line x1=\"15\" y1=\"127\" x2=\"25\" y2=\"117\" stroke-width=\"1\"/><line x1=\"37\" y1=\"117\" x2=\"47\" y2=\"127\" stroke-width=\"1\"/><line x1=\"37\" y1=\"127\" x2=\"47\" y2=\"117\" stroke-width=\"1\"/><line x1=\"59\" y1=\"117\" x2=\"69\" y2=\"127\" stroke-width=\"1\"/><line x1=\"59\" y1=\"127\" x2=\"69\" y2=\"117\" stroke-width=\"1\"/><line x1=\"81\" y1=\"117\" x2=\"91\" y2=\"127\" stroke-width=\"1\"/><line x1=\"81\" y1=\"127\" x2=\"91\" y2=\"117\" stroke-width=\"1\"/><line x1=\"103\" y1=\"117\" x2=\"113\" y2=\"127\" stroke-width=\"1\"/><line x1=\"103\" y1=\"127\" x2=\"113\" y2=\"117\" stroke-width=\"1\"/><line x1=\"125\" y1=\"117\" x2=\"135\" y2=\"127\" stroke-width=\"1\"/><line x1=\"125\" y1=\"127\" x2=\"135\" y2=\"117\" stroke-width=\"1\"/><line x1=\"147\" y1=\"117\" x2=\"157\" y2=\"127\" stroke-width=\"1\"/><line x1=\"147\" y1=\"127\" x2=\"157\" y2=\"117\" stroke-width=\"1\"/><line x1=\"169\" y1=\"117\" x2=\"179\" y2=\"127\" stroke-width=\"1\"/><line x1=\"169\" y1=\"127\" x2=\"179\" y2=\"117\" stroke-width=\"1\"/><line x1=\"15\" y1=\"139\" x2=\"25\" y2=\"149\" stroke-width=\"1\"/><line x1=\"15\" y1=\"149\" x2=\"25\" y2=\"139\" stroke-width=\"1\"/><line x1=\"37\" y1=\"139\" x2=\"47\" y2=\"149\" stroke-width=\"1\"/><line x1=\"37\" y1=\"149\" x2=\"47\" y2=\"139\" stroke-width=\"1\"/><line x1=\"59\" y1=\"139\" x2=\"69\" y2=\"149\" stroke-width=\"1\"/><line x1=\"59\" y1=\"149\" x2=\"69\" y2=\"139\" stroke-width=\"1\"/><line x1=\"81\" y1=\"139\" x2=\"91\" y2=\"149\" stroke-width=\"1\"/><line x1=\"81\" y1=\"149\" x2=\"91\" y2=\"139\" stroke-width=\"1\"/><line x1=\"103\" y1=\"139\" x2=\"113\" y2=\"149\" stroke-width=\"1\"/><line x1=\"103\" y1=\"149\" x2=\"113\" y2=\"139\" stroke-width=\"1\"/><line x1=\"125\" y1=\"139\" x2=\"135\" y2=\"149\" stroke-width=\"1\"/><line x1=\"125\" y1=\"149\" x2=\"135\" y2=\"139\" stroke-width=\"1\"/><line x1=\"147\" y1=\"139\" x2=\"157\" y2=\"149\" stroke-width=\"1\"/><line x1=\"147\" y1=\"149\" x2=\"157\" y2=\"139\" stroke-width=\"1\"/><line x1=\"169\" y1=\"139\" x2=\"179\" y2=\"149\" stroke-width=\"1\"/><line x1=\"169\" y1=\"149\" x2=\"179\" y2=\"139\" stroke-width=\"1\"/><rect x=\"53\" y=\"56\" width=\"88\" height=\"66\" stroke-width=\"2.5\"/><text x=\"97\" y=\"10\" font-size=\"13\" text-anchor=\"middle\" dominant-baseline=\"central\" fill=\"currentColor\" stroke=\"none\" font-weight=\"bold\">B (into the page)</text><text x=\"215\" y=\"81.2\" font-size=\"13\" text-anchor=\"start\" dominant-baseline=\"central\" fill=\"currentColor\" stroke=\"none\" font-style=\"italic\"><tspan x=\"215\" y=\"81.2\">B is</tspan><tspan x=\"215\" y=\"96.8\">decreasing</tspan></text></svg>",
+    "choices": [
+      "Clockwise (CW)",
+      "Anticlockwise (ACW)",
+      "No current",
+      "It alternates between CW and ACW"
+    ],
+    "answerIndex": 0,
+    "explanation": "Original flux: **into the page**, decreasing. The induced field must make up for the decrease, so it points **into the page**. Right-hand rule for a coil: thumb into the page, fingers curl **clockwise**."
+  },
+  {
+    "id": "R2-LZF-002",
+    "domain": "r2-lenz",
+    "subtopic": "Changing fields and currents",
+    "difficulty": "medium",
+    "question": "A circular loop lies in a uniform magnetic field directed into the page. The field strength is **increasing**. What is the direction of the induced current in the loop?",
+    "figure": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"-6 -6 302 162\" width=\"302\" height=\"162\" role=\"img\" aria-label=\"A circle loop in a uniform magnetic field directed into the page; the field is increasing\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"15\" y1=\"29\" x2=\"25\" y2=\"39\" stroke-width=\"1\"/><line x1=\"15\" y1=\"39\" x2=\"25\" y2=\"29\" stroke-width=\"1\"/><line x1=\"37\" y1=\"29\" x2=\"47\" y2=\"39\" stroke-width=\"1\"/><line x1=\"37\" y1=\"39\" x2=\"47\" y2=\"29\" stroke-width=\"1\"/><line x1=\"59\" y1=\"29\" x2=\"69\" y2=\"39\" stroke-width=\"1\"/><line x1=\"59\" y1=\"39\" x2=\"69\" y2=\"29\" stroke-width=\"1\"/><line x1=\"81\" y1=\"29\" x2=\"91\" y2=\"39\" stroke-width=\"1\"/><line x1=\"81\" y1=\"39\" x2=\"91\" y2=\"29\" stroke-width=\"1\"/><line x1=\"103\" y1=\"29\" x2=\"113\" y2=\"39\" stroke-width=\"1\"/><line x1=\"103\" y1=\"39\" x2=\"113\" y2=\"29\" stroke-width=\"1\"/><line x1=\"125\" y1=\"29\" x2=\"135\" y2=\"39\" stroke-width=\"1\"/><line x1=\"125\" y1=\"39\" x2=\"135\" y2=\"29\" stroke-width=\"1\"/><line x1=\"147\" y1=\"29\" x2=\"157\" y2=\"39\" stroke-width=\"1\"/><line x1=\"147\" y1=\"39\" x2=\"157\" y2=\"29\" stroke-width=\"1\"/><line x1=\"169\" y1=\"29\" x2=\"179\" y2=\"39\" stroke-width=\"1\"/><line x1=\"169\" y1=\"39\" x2=\"179\" y2=\"29\" stroke-width=\"1\"/><line x1=\"15\" y1=\"51\" x2=\"25\" y2=\"61\" stroke-width=\"1\"/><line x1=\"15\" y1=\"61\" x2=\"25\" y2=\"51\" stroke-width=\"1\"/><line x1=\"37\" y1=\"51\" x2=\"47\" y2=\"61\" stroke-width=\"1\"/><line x1=\"37\" y1=\"61\" x2=\"47\" y2=\"51\" stroke-width=\"1\"/><line x1=\"59\" y1=\"51\" x2=\"69\" y2=\"61\" stroke-width=\"1\"/><line x1=\"59\" y1=\"61\" x2=\"69\" y2=\"51\" stroke-width=\"1\"/><line x1=\"81\" y1=\"51\" x2=\"91\" y2=\"61\" stroke-width=\"1\"/><line x1=\"81\" y1=\"61\" x2=\"91\" y2=\"51\" stroke-width=\"1\"/><line x1=\"103\" y1=\"51\" x2=\"113\" y2=\"61\" stroke-width=\"1\"/><line x1=\"103\" y1=\"61\" x2=\"113\" y2=\"51\" stroke-width=\"1\"/><line x1=\"125\" y1=\"51\" x2=\"135\" y2=\"61\" stroke-width=\"1\"/><line x1=\"125\" y1=\"61\" x2=\"135\" y2=\"51\" stroke-width=\"1\"/><line x1=\"147\" y1=\"51\" x2=\"157\" y2=\"61\" stroke-width=\"1\"/><line x1=\"147\" y1=\"61\" x2=\"157\" y2=\"51\" stroke-width=\"1\"/><line x1=\"169\" y1=\"51\" x2=\"179\" y2=\"61\" stroke-width=\"1\"/><line x1=\"169\" y1=\"61\" x2=\"179\" y2=\"51\" stroke-width=\"1\"/><line x1=\"15\" y1=\"73\" x2=\"25\" y2=\"83\" stroke-width=\"1\"/><line x1=\"15\" y1=\"83\" x2=\"25\" y2=\"73\" stroke-width=\"1\"/><line x1=\"37\" y1=\"73\" x2=\"47\" y2=\"83\" stroke-width=\"1\"/><line x1=\"37\" y1=\"83\" x2=\"47\" y2=\"73\" stroke-width=\"1\"/><line x1=\"59\" y1=\"73\" x2=\"69\" y2=\"83\" stroke-width=\"1\"/><line x1=\"59\" y1=\"83\" x2=\"69\" y2=\"73\" stroke-width=\"1\"/><line x1=\"81\" y1=\"73\" x2=\"91\" y2=\"83\" stroke-width=\"1\"/><line x1=\"81\" y1=\"83\" x2=\"91\" y2=\"73\" stroke-width=\"1\"/><line x1=\"103\" y1=\"73\" x2=\"113\" y2=\"83\" stroke-width=\"1\"/><line x1=\"103\" y1=\"83\" x2=\"113\" y2=\"73\" stroke-width=\"1\"/><line x1=\"125\" y1=\"73\" x2=\"135\" y2=\"83\" stroke-width=\"1\"/><line x1=\"125\" y1=\"83\" x2=\"135\" y2=\"73\" stroke-width=\"1\"/><line x1=\"147\" y1=\"73\" x2=\"157\" y2=\"83\" stroke-width=\"1\"/><line x1=\"147\" y1=\"83\" x2=\"157\" y2=\"73\" stroke-width=\"1\"/><line x1=\"169\" y1=\"73\" x2=\"179\" y2=\"83\" stroke-width=\"1\"/><line x1=\"169\" y1=\"83\" x2=\"179\" y2=\"73\" stroke-width=\"1\"/><line x1=\"15\" y1=\"95\" x2=\"25\" y2=\"105\" stroke-width=\"1\"/><line x1=\"15\" y1=\"105\" x2=\"25\" y2=\"95\" stroke-width=\"1\"/><line x1=\"37\" y1=\"95\" x2=\"47\" y2=\"105\" stroke-width=\"1\"/><line x1=\"37\" y1=\"105\" x2=\"47\" y2=\"95\" stroke-width=\"1\"/><line x1=\"59\" y1=\"95\" x2=\"69\" y2=\"105\" stroke-width=\"1\"/><line x1=\"59\" y1=\"105\" x2=\"69\" y2=\"95\" stroke-width=\"1\"/><line x1=\"81\" y1=\"95\" x2=\"91\" y2=\"105\" stroke-width=\"1\"/><line x1=\"81\" y1=\"105\" x2=\"91\" y2=\"95\" stroke-width=\"1\"/><line x1=\"103\" y1=\"95\" x2=\"113\" y2=\"105\" stroke-width=\"1\"/><line x1=\"103\" y1=\"105\" x2=\"113\" y2=\"95\" stroke-width=\"1\"/><line x1=\"125\" y1=\"95\" x2=\"135\" y2=\"105\" stroke-width=\"1\"/><line x1=\"125\" y1=\"105\" x2=\"135\" y2=\"95\" stroke-width=\"1\"/><line x1=\"147\" y1=\"95\" x2=\"157\" y2=\"105\" stroke-width=\"1\"/><line x1=\"147\" y1=\"105\" x2=\"157\" y2=\"95\" stroke-width=\"1\"/><line x1=\"169\" y1=\"95\" x2=\"179\" y2=\"105\" stroke-width=\"1\"/><line x1=\"169\" y1=\"105\" x2=\"179\" y2=\"95\" stroke-width=\"1\"/><line x1=\"15\" y1=\"117\" x2=\"25\" y2=\"127\" stroke-width=\"1\"/><line x1=\"15\" y1=\"127\" x2=\"25\" y2=\"117\" stroke-width=\"1\"/><line x1=\"37\" y1=\"117\" x2=\"47\" y2=\"127\" stroke-width=\"1\"/><line x1=\"37\" y1=\"127\" x2=\"47\" y2=\"117\" stroke-width=\"1\"/><line x1=\"59\" y1=\"117\" x2=\"69\" y2=\"127\" stroke-width=\"1\"/><line x1=\"59\" y1=\"127\" x2=\"69\" y2=\"117\" stroke-width=\"1\"/><line x1=\"81\" y1=\"117\" x2=\"91\" y2=\"127\" stroke-width=\"1\"/><line x1=\"81\" y1=\"127\" x2=\"91\" y2=\"117\" stroke-width=\"1\"/><line x1=\"103\" y1=\"117\" x2=\"113\" y2=\"127\" stroke-width=\"1\"/><line x1=\"103\" y1=\"127\" x2=\"113\" y2=\"117\" stroke-width=\"1\"/><line x1=\"125\" y1=\"117\" x2=\"135\" y2=\"127\" stroke-width=\"1\"/><line x1=\"125\" y1=\"127\" x2=\"135\" y2=\"117\" stroke-width=\"1\"/><line x1=\"147\" y1=\"117\" x2=\"157\" y2=\"127\" stroke-width=\"1\"/><line x1=\"147\" y1=\"127\" x2=\"157\" y2=\"117\" stroke-width=\"1\"/><line x1=\"169\" y1=\"117\" x2=\"179\" y2=\"127\" stroke-width=\"1\"/><line x1=\"169\" y1=\"127\" x2=\"179\" y2=\"117\" stroke-width=\"1\"/><line x1=\"15\" y1=\"139\" x2=\"25\" y2=\"149\" stroke-width=\"1\"/><line x1=\"15\" y1=\"149\" x2=\"25\" y2=\"139\" stroke-width=\"1\"/><line x1=\"37\" y1=\"139\" x2=\"47\" y2=\"149\" stroke-width=\"1\"/><line x1=\"37\" y1=\"149\" x2=\"47\" y2=\"139\" stroke-width=\"1\"/><line x1=\"59\" y1=\"139\" x2=\"69\" y2=\"149\" stroke-width=\"1\"/><line x1=\"59\" y1=\"149\" x2=\"69\" y2=\"139\" stroke-width=\"1\"/><line x1=\"81\" y1=\"139\" x2=\"91\" y2=\"149\" stroke-width=\"1\"/><line x1=\"81\" y1=\"149\" x2=\"91\" y2=\"139\" stroke-width=\"1\"/><line x1=\"103\" y1=\"139\" x2=\"113\" y2=\"149\" stroke-width=\"1\"/><line x1=\"103\" y1=\"149\" x2=\"113\" y2=\"139\" stroke-width=\"1\"/><line x1=\"125\" y1=\"139\" x2=\"135\" y2=\"149\" stroke-width=\"1\"/><line x1=\"125\" y1=\"149\" x2=\"135\" y2=\"139\" stroke-width=\"1\"/><line x1=\"147\" y1=\"139\" x2=\"157\" y2=\"149\" stroke-width=\"1\"/><line x1=\"147\" y1=\"149\" x2=\"157\" y2=\"139\" stroke-width=\"1\"/><line x1=\"169\" y1=\"139\" x2=\"179\" y2=\"149\" stroke-width=\"1\"/><line x1=\"169\" y1=\"149\" x2=\"179\" y2=\"139\" stroke-width=\"1\"/><circle cx=\"97\" cy=\"89\" r=\"40\" stroke-width=\"2.5\"/><text x=\"97\" y=\"10\" font-size=\"13\" text-anchor=\"middle\" dominant-baseline=\"central\" fill=\"currentColor\" stroke=\"none\" font-weight=\"bold\">B (into the page)</text><text x=\"215\" y=\"81.2\" font-size=\"13\" text-anchor=\"start\" dominant-baseline=\"central\" fill=\"currentColor\" stroke=\"none\" font-style=\"italic\"><tspan x=\"215\" y=\"81.2\">B is</tspan><tspan x=\"215\" y=\"96.8\">increasing</tspan></text></svg>",
+    "choices": [
+      "Clockwise (CW)",
+      "Anticlockwise (ACW)",
+      "No current",
+      "It alternates between CW and ACW"
+    ],
+    "answerIndex": 1,
+    "explanation": "Original flux: **into the page**, increasing. The induced field must oppose the increase, so it points **out of the page**. Right-hand rule for a coil: thumb out of the page, fingers curl **anticlockwise**."
+  },
+  {
+    "id": "R2-LZF-003",
+    "domain": "r2-lenz",
+    "subtopic": "Changing fields and currents",
+    "difficulty": "medium",
+    "question": "A square loop lies in a uniform magnetic field directed out of the page. The field strength is **increasing**. What is the direction of the induced current in the loop?",
+    "figure": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"-6 -6 302 162\" width=\"302\" height=\"162\" role=\"img\" aria-label=\"A square loop in a uniform magnetic field directed out of the page; the field is increasing\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"20\" cy=\"34\" r=\"2.6\" fill=\"currentColor\" stroke=\"none\"/><circle cx=\"42\" cy=\"34\" r=\"2.6\" fill=\"currentColor\" stroke=\"none\"/><circle cx=\"64\" cy=\"34\" r=\"2.6\" fill=\"currentColor\" stroke=\"none\"/><circle cx=\"86\" cy=\"34\" r=\"2.6\" fill=\"currentColor\" stroke=\"none\"/><circle cx=\"108\" cy=\"34\" r=\"2.6\" fill=\"currentColor\" stroke=\"none\"/><circle cx=\"130\" cy=\"34\" r=\"2.6\" fill=\"currentColor\" stroke=\"none\"/><circle cx=\"152\" cy=\"34\" r=\"2.6\" fill=\"currentColor\" stroke=\"none\"/><circle cx=\"174\" cy=\"34\" r=\"2.6\" fill=\"currentColor\" stroke=\"none\"/><circle cx=\"20\" cy=\"56\" r=\"2.6\" fill=\"currentColor\" stroke=\"none\"/><circle cx=\"42\" cy=\"56\" r=\"2.6\" fill=\"currentColor\" stroke=\"none\"/><circle cx=\"64\" cy=\"56\" r=\"2.6\" fill=\"currentColor\" stroke=\"none\"/><circle cx=\"86\" cy=\"56\" r=\"2.6\" fill=\"currentColor\" stroke=\"none\"/><circle cx=\"108\" cy=\"56\" r=\"2.6\" fill=\"currentColor\" stroke=\"none\"/><circle cx=\"130\" cy=\"56\" r=\"2.6\" fill=\"currentColor\" stroke=\"none\"/><circle cx=\"152\" cy=\"56\" r=\"2.6\" fill=\"currentColor\" stroke=\"none\"/><circle cx=\"174\" cy=\"56\" r=\"2.6\" fill=\"currentColor\" stroke=\"none\"/><circle cx=\"20\" cy=\"78\" r=\"2.6\" fill=\"currentColor\" stroke=\"none\"/><circle cx=\"42\" cy=\"78\" r=\"2.6\" fill=\"currentColor\" stroke=\"none\"/><circle cx=\"64\" cy=\"78\" r=\"2.6\" fill=\"currentColor\" stroke=\"none\"/><circle cx=\"86\" cy=\"78\" r=\"2.6\" fill=\"currentColor\" stroke=\"none\"/><circle cx=\"108\" cy=\"78\" r=\"2.6\" fill=\"currentColor\" stroke=\"none\"/><circle cx=\"130\" cy=\"78\" r=\"2.6\" fill=\"currentColor\" stroke=\"none\"/><circle cx=\"152\" cy=\"78\" r=\"2.6\" fill=\"currentColor\" stroke=\"none\"/><circle cx=\"174\" cy=\"78\" r=\"2.6\" fill=\"currentColor\" stroke=\"none\"/><circle cx=\"20\" cy=\"100\" r=\"2.6\" fill=\"currentColor\" stroke=\"none\"/><circle cx=\"42\" cy=\"100\" r=\"2.6\" fill=\"currentColor\" stroke=\"none\"/><circle cx=\"64\" cy=\"100\" r=\"2.6\" fill=\"currentColor\" stroke=\"none\"/><circle cx=\"86\" cy=\"100\" r=\"2.6\" fill=\"currentColor\" stroke=\"none\"/><circle cx=\"108\" cy=\"100\" r=\"2.6\" fill=\"currentColor\" stroke=\"none\"/><circle cx=\"130\" cy=\"100\" r=\"2.6\" fill=\"currentColor\" stroke=\"none\"/><circle cx=\"152\" cy=\"100\" r=\"2.6\" fill=\"currentColor\" stroke=\"none\"/><circle cx=\"174\" cy=\"100\" r=\"2.6\" fill=\"currentColor\" stroke=\"none\"/><circle cx=\"20\" cy=\"122\" r=\"2.6\" fill=\"currentColor\" stroke=\"none\"/><circle cx=\"42\" cy=\"122\" r=\"2.6\" fill=\"currentColor\" stroke=\"none\"/><circle cx=\"64\" cy=\"122\" r=\"2.6\" fill=\"currentColor\" stroke=\"none\"/><circle cx=\"86\" cy=\"122\" r=\"2.6\" fill=\"currentColor\" stroke=\"none\"/><circle cx=\"108\" cy=\"122\" r=\"2.6\" fill=\"currentColor\" stroke=\"none\"/><circle cx=\"130\" cy=\"122\" r=\"2.6\" fill=\"currentColor\" stroke=\"none\"/><circle cx=\"152\" cy=\"122\" r=\"2.6\" fill=\"currentColor\" stroke=\"none\"/><circle cx=\"174\" cy=\"122\" r=\"2.6\" fill=\"currentColor\" stroke=\"none\"/><circle cx=\"20\" cy=\"144\" r=\"2.6\" fill=\"currentColor\" stroke=\"none\"/><circle cx=\"42\" cy=\"144\" r=\"2.6\" fill=\"currentColor\" stroke=\"none\"/><circle cx=\"64\" cy=\"144\" r=\"2.6\" fill=\"currentColor\" stroke=\"none\"/><circle cx=\"86\" cy=\"144\" r=\"2.6\" fill=\"currentColor\" stroke=\"none\"/><circle cx=\"108\" cy=\"144\" r=\"2.6\" fill=\"currentColor\" stroke=\"none\"/><circle cx=\"130\" cy=\"144\" r=\"2.6\" fill=\"currentColor\" stroke=\"none\"/><circle cx=\"152\" cy=\"144\" r=\"2.6\" fill=\"currentColor\" stroke=\"none\"/><circle cx=\"174\" cy=\"144\" r=\"2.6\" fill=\"currentColor\" stroke=\"none\"/><rect x=\"53\" y=\"56\" width=\"88\" height=\"66\" stroke-width=\"2.5\"/><text x=\"97\" y=\"10\" font-size=\"13\" text-anchor=\"middle\" dominant-baseline=\"central\" fill=\"currentColor\" stroke=\"none\" font-weight=\"bold\">B (out of the page)</text><text x=\"215\" y=\"81.2\" font-size=\"13\" text-anchor=\"start\" dominant-baseline=\"central\" fill=\"currentColor\" stroke=\"none\" font-style=\"italic\"><tspan x=\"215\" y=\"81.2\">B is</tspan><tspan x=\"215\" y=\"96.8\">increasing</tspan></text></svg>",
+    "choices": [
+      "Anticlockwise (ACW)",
+      "No current",
+      "It alternates between CW and ACW",
+      "Clockwise (CW)"
+    ],
+    "answerIndex": 3,
+    "explanation": "Original flux: **out of the page**, increasing. The induced field must oppose the increase, so it points **into the page**. Right-hand rule for a coil: thumb into the page, fingers curl **clockwise**."
+  },
+  {
+    "id": "R2-LZF-004",
+    "domain": "r2-lenz",
+    "subtopic": "Changing fields and currents",
+    "difficulty": "hard",
+    "question": "A long straight wire carries an upward current that is **decreasing**. A circular loop lies to the right of the wire. What is the direction of the induced current in the loop?",
+    "figure": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"-6 -6 262 152\" width=\"262\" height=\"152\" role=\"img\" aria-label=\"A long straight wire with an upward current that is decreasing, and a circular loop to the right of the wire\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><polyline points=\"40,130 40,10\"/><polygon points=\"40,10 44.35,19 35.65,19\" fill=\"currentColor\" stroke-width=\"1\"/><text x=\"26\" y=\"70\" font-size=\"14\" text-anchor=\"middle\" dominant-baseline=\"central\" fill=\"currentColor\" stroke=\"none\" font-style=\"italic\">I</text><circle cx=\"130\" cy=\"70\" r=\"38\"/><text x=\"182\" y=\"108.2\" font-size=\"13\" text-anchor=\"start\" dominant-baseline=\"central\" fill=\"currentColor\" stroke=\"none\" font-style=\"italic\"><tspan x=\"182\" y=\"108.2\">I is</tspan><tspan x=\"182\" y=\"123.8\">decreasing</tspan></text></svg>",
+    "choices": [
+      "Anticlockwise (ACW)",
+      "No current",
+      "Clockwise (CW)",
+      "Upward, like the wire"
+    ],
+    "answerIndex": 2,
+    "explanation": "Right-hand rule for a straight wire: thumb up, fingers curl so that on the **right** side the field points **into the page**. The current is decreasing, so this flux is **decreasing**. The induced field points **into the page**, so the induced current is **clockwise**."
+  },
+  {
+    "id": "R2-LZF-005",
+    "domain": "r2-lenz",
+    "subtopic": "Changing fields and currents",
+    "difficulty": "hard",
+    "question": "A long straight wire carries a downward current that is **decreasing**. A circular loop lies to the left of the wire. What is the direction of the induced current in the loop?",
+    "figure": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"-6 -6 302 152\" width=\"302\" height=\"152\" role=\"img\" aria-label=\"A long straight wire with a downward current that is decreasing, and a circular loop to the left of the wire\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><polyline points=\"200,10 200,130\"/><polygon points=\"200,130 195.65,121 204.35,121\" fill=\"currentColor\" stroke-width=\"1\"/><text x=\"214\" y=\"70\" font-size=\"14\" text-anchor=\"middle\" dominant-baseline=\"central\" fill=\"currentColor\" stroke=\"none\" font-style=\"italic\">I</text><circle cx=\"110\" cy=\"70\" r=\"38\"/><text x=\"4\" y=\"108.2\" font-size=\"13\" text-anchor=\"start\" dominant-baseline=\"central\" fill=\"currentColor\" stroke=\"none\" font-style=\"italic\"><tspan x=\"4\" y=\"108.2\">I is</tspan><tspan x=\"4\" y=\"123.8\">decreasing</tspan></text></svg>",
+    "choices": [
+      "Anticlockwise (ACW)",
+      "Clockwise (CW)",
+      "No current",
+      "Downward, like the wire"
+    ],
+    "answerIndex": 1,
+    "explanation": "Right-hand rule for a straight wire: thumb down, fingers curl so that on the **left** side the field points **into the page**. The current is decreasing, so this flux is **decreasing**. The induced field points **into the page**, so the induced current is **clockwise**."
+  },
+  {
+    "id": "R2-LZF-006",
+    "domain": "r2-lenz",
+    "subtopic": "Changing fields and currents",
+    "difficulty": "hard",
+    "question": "The outer loop carries an anticlockwise current that is **increasing**. Which statement correctly describes the induced current in the inner loop?",
+    "figure": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"-6 -6 252 172\" width=\"252\" height=\"172\" role=\"img\" aria-label=\"Two concentric loops. The outer loop carries a anticlockwise current that is increasing\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"80\" cy=\"80\" r=\"62\"/><circle cx=\"80\" cy=\"80\" r=\"28\"/><path d=\"M119.85 32.51 A62 62 0 0 0 32.51 40.15\"/><polygon points=\"32.51,40.15 35.02,31.51 40.84,36.74\" fill=\"currentColor\" stroke-width=\"1\"/><text x=\"162\" y=\"44.4\" font-size=\"13\" text-anchor=\"start\" dominant-baseline=\"central\" fill=\"currentColor\" stroke=\"none\" font-style=\"italic\"><tspan x=\"162\" y=\"44.4\">outer:</tspan><tspan x=\"162\" y=\"60\">ACW,</tspan><tspan x=\"162\" y=\"75.6\">increasing</tspan></text><text x=\"162\" y=\"128\" font-size=\"13\" text-anchor=\"start\" dominant-baseline=\"central\" fill=\"currentColor\" stroke=\"none\" font-style=\"italic\">inner: ?</text></svg>",
+    "choices": [
+      "ACW, since flux out of the page increases",
+      "CW, since flux out of the page increases",
+      "CW, since flux into the page increases",
+      "ACW, since the inner loop always copies the outer loop"
+    ],
+    "answerIndex": 1,
+    "explanation": "Right-hand rule: an anticlockwise current makes a field **out of the page**. Inside the outer loop the field points **out of the page**, so the inner loop has flux out of the page. The current is increasing, so this flux increases. The induced field points **into the page**, so the inner loop's current is **clockwise (CW)**."
+  },
+  {
+    "id": "R2-LZF-007",
+    "domain": "r2-lenz",
+    "subtopic": "Changing fields and currents",
+    "difficulty": "hard",
+    "question": "The inner loop carries a clockwise current that is **increasing**. What is the direction of the induced current in the outer loop?",
+    "figure": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"-6 -6 252 172\" width=\"252\" height=\"172\" role=\"img\" aria-label=\"Two concentric loops. The inner loop carries a clockwise current that is increasing\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"80\" cy=\"80\" r=\"62\"/><circle cx=\"80\" cy=\"80\" r=\"28\"/><path d=\"M55.75 66.00 A28 28 0 0 1 101.45 62.00\"/><polygon points=\"101.45,62 93.12,58.6 98.94,53.36\" fill=\"currentColor\" stroke-width=\"1\"/><text x=\"162\" y=\"44.4\" font-size=\"13\" text-anchor=\"start\" dominant-baseline=\"central\" fill=\"currentColor\" stroke=\"none\" font-style=\"italic\"><tspan x=\"162\" y=\"44.4\">inner:</tspan><tspan x=\"162\" y=\"60\">CW,</tspan><tspan x=\"162\" y=\"75.6\">increasing</tspan></text><text x=\"162\" y=\"128\" font-size=\"13\" text-anchor=\"start\" dominant-baseline=\"central\" fill=\"currentColor\" stroke=\"none\" font-style=\"italic\">outer: ?</text></svg>",
+    "choices": [
+      "Clockwise (CW)",
+      "No current",
+      "Anticlockwise (ACW)",
+      "The same as the inner loop, always"
+    ],
+    "answerIndex": 2,
+    "explanation": "Right-hand rule: a clockwise current makes a field **into the page**. The inner loop's field points **into the page** inside it. Most of the field through the outer loop is this strong field near the center, so the net flux through the outer loop is also **into the page**. The current is increasing, so this flux increases. The induced field points **out of the page**, so the outer loop's current is **anticlockwise (ACW)**."
+  }
+]

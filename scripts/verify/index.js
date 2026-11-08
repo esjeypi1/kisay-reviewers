@@ -4,7 +4,8 @@
 //   { 'ML-ALG-001': () => ({ value: 12 }) }          numeric answer; keyed choice must match, no other choice may match
 //   { 'ML-BOOL-003': () => ({ index: 2 }) }          index in the JSON "choices" array (before shuffling)
 //   { 'TK-PSE-004': () => ({ choice: 'Output: 7' }) } exact text of the correct choice
-// Optional: tol (relative tolerance, default 0.005) for value checks.
+// Optional: tol (relative tolerance, default 0.005) and abs (absolute tolerance, default 1e-9) for value checks.
+// Use abs: 0 for very small answers such as 1.6 x 10^-13 N.
 // Items without a checker are listed as "checked by hand" (reading, concepts, figures).
 
 import { readFileSync, existsSync } from 'node:fs';
@@ -48,13 +49,14 @@ for (const d of meta.domains) {
     }
     if ('value' in res) {
       const tol = res.tol ?? 0.005;
+      const abs = res.abs ?? 1e-9;
       const nums = q.choices.map(parseNum);
       if (Number.isNaN(nums[q.answerIndex])) { fail(q.id, `cannot read a number from the keyed choice "${q.choices[q.answerIndex]}"`); continue; }
-      if (!close(nums[q.answerIndex], res.value, tol)) {
+      if (!close(nums[q.answerIndex], res.value, tol, abs)) {
         fail(q.id, `computed ${res.value}, but keyed choice is "${q.choices[q.answerIndex]}" (${nums[q.answerIndex]})`);
       }
       nums.forEach((n, k) => {
-        if (k !== q.answerIndex && !Number.isNaN(n) && close(n, res.value, tol)) {
+        if (k !== q.answerIndex && !Number.isNaN(n) && close(n, res.value, tol, abs)) {
           fail(q.id, `distractor "${q.choices[k]}" also matches the computed answer ${res.value}`);
         }
       });
